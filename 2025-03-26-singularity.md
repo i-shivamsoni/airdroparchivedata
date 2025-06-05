@@ -1,0 +1,97 @@
+---
+layout: "post"
+title: "Singularity Finance"
+date: "2025-03-26"
+timeframe: ["2025"]
+ecosystem: ["not-known"]
+rewardedActivity: ["testnet", "staking", "holder"]
+category: ["ai", "defi"]
+function: ["ai", "defi", "rwa"]
+status: ["alive"]
+pagetype: "project"
+website: "https://singularityfinance.ai"
+ticker: "SFI"
+description: "Singularity Finance is a decentralized AI solutions platform that tokenizes AI compute power, bringing the Real World Asset (RWA) AI economy onchain while making AI solutions accessible to everyone."
+---
+
+## Airdrop Details
+
+| Information              | Details                                                     |
+| ------------------------ | ----------------------------------------------------------- |
+| Rewarded Activity        | Testnet participation, SDAO/SFI holding and staking         |
+| Total Airdrop Amount     | Not specified                                               |
+| Number of Eligible Users | Not specified                                               |
+| Number of Claimants      | Not specified                                               |
+| Average Allocation       | Not specified                                               |
+
+## Timeline
+
+| Event               | Date                                           |
+| ------------------- | ---------------------------------------------- |
+| Token Launch        | February 6, 2025 12:00 PM UTC                  |
+| Testnet End         | March 31, 2025                                 |
+| Mainnet Launch      | Not specified                                  |
+| Snapshot Date       | Not specified                                  |
+
+## Token Distribution
+
+| Tier/Category      | Amount                                   | Source                    |
+| ------------------ | ---------------------------------------- | ------------------------- |
+| Testnet Points     | Base points from testnet activities      | Testnet participation     |
+| SDAO Holders       | Multiplied points                        | Token holding             |
+| SFI Holders        | Multiplied points                        | Token holding             |
+| SDAO Stakers       | Multiplied points                        | Token staking             |
+| SFI Stakers        | Multiplied points                        | Token staking             |
+
+## [Eligibility Criteria](https://singularity.finance/rewards)
+
+### Primary Requirements
+
+- Testnet Participation:
+  - Complete testnet tasks
+  - Accumulate points through testing
+  - Points remain eligible for mainnet airdrop
+
+### Additional Airdrop Opportunities
+
+#### Point Multipliers
+- Hold SDAO tokens
+- Hold SFI tokens
+- Stake SDAO tokens
+- Stake SFI tokens
+
+### Special Conditions
+
+- Testnet access continues until end of March 2025
+- New tasks will be added for additional point accumulation
+- Points multiplier applies for long-term supporters
+- Early contributions are recognized and rewarded
+
+## Important Links
+
+### Official Links
+
+- Official Website: [Singularity Finance](https://singularityfinance.ai)
+- Testnet Rewards: [Rewards Portal](https://singularity.finance/rewards)
+- Testnet Claim: [Claim Portal](https://singularityfinance.ai/testnet/claim)
+- Twitter: [@Singularity_Fi](https://x.com/Singularity_Fi)
+
+### Price Tracking
+
+- CoinMarketCap: [SFI Price](https://coinmarketcap.com/currencies/singularity-finance/)
+- CoinGecko: [SFI Price](https://www.coingecko.com/en/coins/singularity-finance)
+
+### Source References
+
+- Token Launch: [Singularity Finance Tweet](https://x.com/Singularity_Fi/status/1887441548494692780)
+- Testnet Rewards: [Singularity Finance Tweet](https://x.com/Singularity_Fi/status/1877747479032340815)
+- Project Update: [Singularity Finance Tweet](https://x.com/Singularity_Fi/status/1880929949122744653)
+
+## Additional Information
+
+- Project focuses on tokenizing AI compute power
+- Brings Real World Asset (RWA) AI economy onchain
+- Emphasizes accessibility of AI solutions
+- Rewards long-term community support
+- Continuous addition of new tasks for point accumulation
+- Integration of testnet participation with mainnet rewards
