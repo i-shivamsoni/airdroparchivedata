@@ -17,14 +17,8 @@ This repository is automatically pulled during the build process of the Airdrop 
 
 ## 🤝 Contributing
 
-We welcome contributions to improve the airdrop data. To contribute:
+For detailed contribution guidelines, please see our [contribution guide](contribute.md).
 
-1. Fork the repository
-2. Create a new branch for your changes
-3. Add or update airdrop information
-4. Submit a pull request
-
-Please ensure all information is accurate and properly formatted.
 
 ## 📜 License
 
