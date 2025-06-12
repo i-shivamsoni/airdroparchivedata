@@ -82,7 +82,7 @@ Eligibility for the ZigZag Exchange airdrop was based on the following requireme
 
 - **Airdrop Documentation (Web Archive)**: [Eligibility Lists & Details](https://web.archive.org/web/20230304041149/https://docs.zigzag.exchange/zigzag-exchange/airdrops#eligibility-lists)
 - **Price Tracking**: [CoinMarketCap](https://coinmarketcap.com/currencies/zigzag/)
-- **Price Tracking**: [CoinGecko](https://www.coingecko.com/en/coins/zigzag)
+- **Price Tracking**: [CoinGecko](https://web.archive.org/web/20241015083901/https://www.coingecko.com/en/coins/zigzag)
 
 ## Additional Information
 

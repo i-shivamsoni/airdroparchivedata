@@ -55,7 +55,7 @@ Users must earn Bitoro Points to qualify for the $BTX airdrop. Points are awarde
 
 ## Important Links
 
-- **Price Tracking:** [CoinMarketCap](https://coinmarketcap.com/currencies/bitoro-network)
+- **Price Tracking:** [CoinMarketCap](https://web.archive.org/web/20250114042902/https://coinmarketcap.com/currencies/bitoro-network/)
 - **Price Tracking:** [CoinGecko](https://www.coingecko.com/en/coins/bitoro-network)
 - **Official Announcement:** [Bitoro Blog](https://docs.bitoro.network/resources/usdbtoro-tokenomics)
 - **Eligibility Criteria:** [Bitoro Network Twitter](https://x.com/bitoro_network/status/1839311486713487683)

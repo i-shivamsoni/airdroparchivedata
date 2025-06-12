@@ -52,7 +52,7 @@ Eligibility for the RHEA Finance airdrop was based on the following requirements
 - **Official Announcement**: [Twitter Announcement](https://x.com/rhea_finance/status/1897682652582596670)
 - **Project Website**: [RHEA Finance](https://rhea.finance)
 - **Price Tracking**: [CoinMarketCap](https://coinmarketcap.com/currencies/rhea)
-- **Price Tracking**: [CoinGecko](https://www.coingecko.com/en/coins/rhea)
+- **Price Tracking**: [CoinGecko](https://www.coingecko.com/en/coins/ref-finance)
 
 ## Additional Information
 

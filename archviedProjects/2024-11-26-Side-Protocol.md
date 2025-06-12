@@ -102,8 +102,7 @@ description: "A fully Bitcoin-compatible Layer 1 blockchain built on CometBFT an
 
 ## Important Links
 
-- **Price Tracking:** [CoinMarketCap](https://coinmarketcap.com/currencies/side-protocol) |
-  [CoinGecko](https://www.coingecko.com/en/coins/side-protocol)
+- **Price Tracking:** [CoinMarketCap](https://coinmarketcap.com/currencies/side-protocol) 
 - **Eligibility Criteria:** [Airdrop Blog Post](https://medium.com/%40SideProtocol/side-genesis-drop-3e0989d74628)
 - **Official Announcement:** [Medium Post](https://medium.com/%40SideProtocol/side-genesis-drop-3e0989d74628)
 - **Registration & Checker:** [Genesis Drop Portal](https://genesis.side.one)

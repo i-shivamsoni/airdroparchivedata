@@ -49,8 +49,7 @@ description: "A decentralized community focused on helping developers embrace we
 
 - [Official Announcement](https://developerdao.notion.site/The-CODE-Governance-Token-3c1e14dbc6bd461fa07978bf37d04fd9)
 - [Official Twitter](https://twitter.com/developer_dao)
-- Price Tracking: [CoinMarketCap](https://coinmarketcap.com/currencies/code) _(Once listed)_
-- Price Tracking: [CoinGecko](https://www.coingecko.com/en/coins/code) _(Once listed)_
+- Price Tracking: [CoinMarketCap](https://web.archive.org/web/20230408044655/https://coinmarketcap.com/currencies/developer-dao-code/)
 
 ## Additional Information
 

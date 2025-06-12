@@ -109,7 +109,7 @@ Eligibility for the Lotto Finance (LOTTO) airdrop was based on the following req
 
 - **Claim Portal**: [Lotto Finance Claim](https://lotto.finance/claim)
 - **Official Announcement**: [Medium Post](https://medium.com/lottofinance/lotto-the-first-ever-lottery-token-goes-live-this-week-via-airdrop-to-defi-users-c6ac14dee9bf)
-- **Price Tracking**: [CoinMarketCap](https://coinmarketcap.com/currencies/lotto) | [CoinGecko](https://www.coingecko.com/en/coins/lotto)
+- **Price Tracking**: [CoinMarketCap](https://coinmarketcap.com/currencies/lotto) | [CoinGecko](https://web.archive.org/web/20221003115623/https://www.coingecko.com/en/coins/lotto)
 - **Social Media**:
   - [Twitter](https://twitter.com/LottoFinance)
   - [Telegram](https://t.me/LottoFinance)

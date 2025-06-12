@@ -68,6 +68,7 @@ Eligibility for the ForeFront airdrop was based on the following requirements:
 - **Official Website**: [ForeFront](https://forefront.gitbook.io/forefront/token-distribution/community-airdrop)
 - **Price Tracking**: [CoinMarketCap](https://web.archive.org/web/20211101154334/https://coinmarketcap.com/currencies/forefront/)
 - **Claim Data**: [GitHub Breakdown](https://github.com/ffdao/ffclaim/blob/main/FFClaim.csv)
+- **Price Tracking**: [Coingecko](https://web.archive.org/web/20230928200124/https://www.coingecko.com/en/coins/forefront)
 
 ## Additional Information
 

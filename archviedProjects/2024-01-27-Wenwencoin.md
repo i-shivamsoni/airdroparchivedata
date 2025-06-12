@@ -9,7 +9,7 @@ category: ["meme"]
 function: ["charity", "social"]
 status: ["alive"]
 pagetype: "project"
-website: "Not Known"
+website: "https://wenwencoin.com/"
 ticker: "WEN"
 description: "A community coin debuting on Solana alongside a new NFT standard, WNS 0.0."
 ---

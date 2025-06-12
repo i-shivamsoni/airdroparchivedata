@@ -65,7 +65,7 @@ To qualify for the airdrop, users must meet one of the following criteria:
 ## Important Links
 
 - [Price Tracking: CoinMarketCap](https://coinmarketcap.com/currencies/diffusion)
-- [Price Tracking: CoinGecko](https://www.coingecko.com/en/coins/diffusion)
+- [Price Tracking: CoinGecko](https://web.archive.org/web/20240625014252/https://www.coingecko.com/en/coins/diffusion)
 - [Eligibility Criteria: Twitter Announcement](https://twitter.com/diffusion_fi/status/1494042384384114688)
 - [Official Announcement: Medium](https://web.archive.org/web/20220501164236/https://medium.com/@diffusion_fi/diffusion-is-live-31d12e62f500)
 - [Tokenomics Overview](https://web.archive.org/web/20220816165016/https://medium.com/@diffusion_fi/diffusion-tokenomics-ae7ee46e36c7)
