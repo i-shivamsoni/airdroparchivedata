@@ -12,7 +12,25 @@ pagetype: "project"
 website: "https://gameswift.io"
 ticker: "GSWIFT"
 description: "GameSwift is a comprehensive ecosystem designed to facilitate and promote Web3 gaming, offering a modular blockchain optimized for gaming applications and a platform for game developers and players."
+mis-data-source: "coingecko"
+last_updated: "2025-06-14T14:26:23.255204Z"
+# miscellaneous data source section
+coingecko_id: "gameswift"
+current_price: 0.00867843
+market_cap: 3302702
+market_cap_rank: 2437
+fully_diluted_valuation: 6692283
+circulating_supply: 380544717.9626602
+total_supply: 771099771.6110013
+max_supply: 1396500000.0
+ath: 0.809962
+ath_change_percentage: -98.92843
+ath_date: "2024-03-04T10:01:32.006Z"
+atl: 0.00842609
+atl_change_percentage: 3.00552
+atl_date: "2025-06-13T08:03:38.557Z"
 ---
+
 ## Airdrop Details
 
 | Information                  | Details                       |
@@ -54,7 +72,7 @@ description: "GameSwift is a comprehensive ecosystem designed to facilitate and 
 ## Additional Information
 
 - **Claiming Process**: Eligible participants can claim 50% of their allocated GSWIFT tokens starting from the Token Generation Event (TGE) on July 21, 2023. The remaining 50% will be vested linearly over five months.
-- **Lockdrop Campaign**: Early GSWIFT holders have the opportunity to participate in a lockdrop campaign on SpartaDex and receive additional rewards for locking their tokens. citeturn0search0
+- **Lockdrop Campaign**: Early GSWIFT holders have the opportunity to participate in a lockdrop campaign on SpartaDex and receive additional rewards for locking their tokens. 
 
 For more information about GameSwift and the GSWIFT token, please visit their official channels:
 

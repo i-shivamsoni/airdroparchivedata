@@ -12,7 +12,25 @@ pagetype: "project"
 website: "https://nois.network"
 ticker: "NOIS"
 description: "A decentralized protocol providing reliable randomness for blockchain applications."
+mis-data-source: "coingecko"
+last_updated: "2025-06-14T14:26:23.261856Z"
+# miscellaneous data source section
+coingecko_id: "nois"
+current_price: null
+market_cap: null
+market_cap_rank: null
+fully_diluted_valuation: null
+circulating_supply: null
+total_supply: 211000.0
+max_supply: null
+ath: null
+ath_change_percentage: 0.0
+ath_date: null
+atl: null
+atl_change_percentage: 0.0
+atl_date: null
 ---
+
 ## Airdrop Details
 
 | Information              | Details                                                 |

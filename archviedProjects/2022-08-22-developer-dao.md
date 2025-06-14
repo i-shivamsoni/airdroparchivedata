@@ -12,7 +12,25 @@ pagetype: "project"
 website: "https://developerdao.notion.site/The-CODE-Governance-Token-3c1e14dbc6bd461fa07978bf37d04fd9"
 ticker: "CODE"
 description: "A decentralized community focused on helping developers embrace web3 and blockchain technology."
+mis-data-source: "manual"
+last_updated: "2025-06-14T14:26:23.306991Z"
+# miscellaneous data source section
+manual_id: "developer-dao"
+current_price: 0
+market_cap: 0
+market_cap_rank: 0
+fully_diluted_valuation: 0
+circulating_supply: 0
+total_supply: 0
+max_supply: 0
+ath: 0
+ath_change_percentage: 0
+ath_date: "null"
+atl: 0
+atl_change_percentage: 0
+atl_date: "null"
 ---
+
 ## Airdrop Details
 
 | Information              | Details                |

@@ -12,7 +12,25 @@ pagetype: "project"
 website: "https://side.one"
 ticker: "SIDE"
 description: "A fully Bitcoin-compatible Layer 1 blockchain built on CometBFT and the Cosmos SDK."
+mis-data-source: "manual"
+last_updated: "2025-06-14T14:26:23.307945Z"
+# miscellaneous data source section
+manual_id: "side-protocol"
+current_price: 0
+market_cap: 0
+market_cap_rank: 0
+fully_diluted_valuation: 0
+circulating_supply: 0
+total_supply: 0
+max_supply: 0
+ath: 0
+ath_change_percentage: 0
+ath_date: "null"
+atl: 0
+atl_change_percentage: 0
+atl_date: "null"
 ---
+
 ## Airdrop Details
 
 | Information              | Details                                                                                |
@@ -102,7 +120,7 @@ description: "A fully Bitcoin-compatible Layer 1 blockchain built on CometBFT an
 
 ## Important Links
 
-- **Price Tracking:** [CoinMarketCap](https://coinmarketcap.com/currencies/side-protocol) 
+- **Price Tracking:** [CoinMarketCap](https://coinmarketcap.com/currencies/side-protocol)
 - **Eligibility Criteria:** [Airdrop Blog Post](https://medium.com/%40SideProtocol/side-genesis-drop-3e0989d74628)
 - **Official Announcement:** [Medium Post](https://medium.com/%40SideProtocol/side-genesis-drop-3e0989d74628)
 - **Registration & Checker:** [Genesis Drop Portal](https://genesis.side.one)

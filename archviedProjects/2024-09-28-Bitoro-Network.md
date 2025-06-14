@@ -12,7 +12,25 @@ pagetype: "project"
 website: "https://bitoro.network"
 ticker: "$BTORO"
 description: "A decentralized trading and DeFi ecosystem with a focus on community-driven incentives, trading rewards, and governance."
+mis-data-source: "manual"
+last_updated: "2025-06-14T14:26:23.307783Z"
+# miscellaneous data source section
+manual_id: "bitoro-network"
+current_price: 0
+market_cap: 0
+market_cap_rank: 0
+fully_diluted_valuation: 0
+circulating_supply: 0
+total_supply: 0
+max_supply: 0
+ath: 0
+ath_change_percentage: 0
+ath_date: "null"
+atl: 0
+atl_change_percentage: 0
+atl_date: "null"
 ---
+
 ## Airdrop Details
 
 | Information              | Details                                       |

@@ -12,7 +12,25 @@ pagetype: "project"
 website: "https://pooltogether.com"
 ticker: "POOL"
 description: "A decentralized and permissionless no-loss prize savings protocol where users can deposit funds and have a chance to win prizes."
+mis-data-source: "coingecko"
+last_updated: "2025-06-14T14:26:23.240621Z"
+# miscellaneous data source section
+coingecko_id: "pooltogether"
+current_price: 0.245083
+market_cap: 1757842
+market_cap_rank: 3074
+fully_diluted_valuation: 2450830
+circulating_supply: 7172433.994768333
+total_supply: 10000000.0
+max_supply: 10000000.0
+ath: 53.98
+ath_change_percentage: -99.546
+ath_date: "2021-02-20T04:38:40.257Z"
+atl: 0.172745
+atl_change_percentage: 41.8758
+atl_date: "2023-12-29T23:16:36.097Z"
 ---
+
 ## Airdrop Details
 
 | Information              | Details                                                                                                                                              |
@@ -43,13 +61,16 @@ description: "A decentralized and permissionless no-loss prize savings protocol 
 Eligibility for the PoolTogether (POOL) airdrop was based on the following requirements:
 
 ### Retroactive Distribution
+
 - Users who deposited into PoolTogether V1, V2, or V3 before January 14, 2021, at midnight UTC were eligible for 14% of total POOL supply.
 - The distribution was weighted based on the amount and length of deposits.
 
 ### Governance Voters
+
 - An additional 1% of the supply was allocated to addresses that voted in the first two governance votes and held a PoolTogether deposit at the time.
 
 ### Ongoing Distribution
+
 - Ongoing 5% distribution over 14 weeks for all depositors in one of the four prize pools, weighted towards stablecoin prize pools.
 
 ## Important Links
