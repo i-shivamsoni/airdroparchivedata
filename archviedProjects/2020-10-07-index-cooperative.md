@@ -18,19 +18,21 @@ last_updated: "2025-06-14T14:26:23.239434Z"
 last_updated: "2025-06-15T10:41:02.751Z"
 last_updated: "2025-06-15T11:42:42.539Z"
 last_updated: "2025-06-15T13:29:48.016Z"
+last_updated: "2025-06-15T14:17:21.984Z"
+# miscellaneous data source section
 coingecko_id: "index-cooperative"
-current_price: 1.15
-market_cap: 7737019
+current_price: 1.14
+market_cap: 7678765
 market_cap_rank: 1770
-fully_diluted_valuation: 11501682
+fully_diluted_valuation: 11415082
 circulating_supply: 6726859.191973535
 total_supply: 10000000.0
 max_supply: 10000000.0
 ath: 67.08
-ath_change_percentage: -98.28561
+ath_change_percentage: -98.29844
 ath_date: "2021-05-09T03:51:28.144Z"
 atl: 0.804871
-atl_change_percentage: 42.8746
+atl_change_percentage: 41.80531
 atl_date: "2023-10-12T17:35:31.367Z"
 ---
 

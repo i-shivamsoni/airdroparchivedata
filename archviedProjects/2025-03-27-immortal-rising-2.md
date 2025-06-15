@@ -17,19 +17,21 @@ last_updated: "2025-06-14T14:26:23.300029Z"
 last_updated: "2025-06-15T10:39:16.011Z"
 last_updated: "2025-06-15T11:42:13.679Z"
 last_updated: "2025-06-15T13:29:06.794Z"
+last_updated: "2025-06-15T14:16:36.203Z"
+# miscellaneous data source section
 coingecko_id: "immortal-token"
-current_price: 0.00612811
-market_cap: 1123545
-market_cap_rank: 3568
-fully_diluted_valuation: 6129542
+current_price: 0.00643474
+market_cap: 1150157
+market_cap_rank: 3544
+fully_diluted_valuation: 6274723
 circulating_supply: 183300000.0
 total_supply: 1000000000.0
 max_supply: 1000000000.0
 ath: 0.02273463
-ath_change_percentage: -73.03875
+ath_change_percentage: -73.06055
 ath_date: "2025-03-28T12:26:36.314Z"
 atl: 0.00233253
-atl_change_percentage: 162.78496
+atl_change_percentage: 162.57247
 atl_date: "2025-04-21T15:49:38.025Z"
 ---
 

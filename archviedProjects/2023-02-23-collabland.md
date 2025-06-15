@@ -17,19 +17,21 @@ last_updated: "2025-06-14T14:26:23.250403Z"
 last_updated: "2025-06-15T10:35:31.196Z"
 last_updated: "2025-06-15T11:41:12.107Z"
 last_updated: "2025-06-15T13:27:46.919Z"
+last_updated: "2025-06-15T14:16:08.183Z"
+# miscellaneous data source section
 coingecko_id: "collab-land"
-current_price: 0.00016813
-market_cap: 42052
-market_cap_rank: 7828
-fully_diluted_valuation: 168209
+current_price: 0.00016884
+market_cap: 42209
+market_cap_rank: 7821
+fully_diluted_valuation: 168837
 circulating_supply: 250000000.0
 total_supply: 1000000000.0
 max_supply: 1000000000.0
 ath: 0.468882
-ath_change_percentage: -99.96413
+ath_change_percentage: -99.96405
 ath_date: "2023-02-24T03:36:04.069Z"
 atl: 0.00012023
-atl_change_percentage: 39.90532
+atl_change_percentage: 40.20775
 atl_date: "2025-06-10T09:55:09.134Z"
 ---
 

@@ -18,19 +18,21 @@ last_updated: "2025-06-14T14:26:23.247335Z"
 last_updated: "2025-06-15T10:39:25.321Z"
 last_updated: "2025-06-15T11:42:14.381Z"
 last_updated: "2025-06-15T13:26:56.492Z"
+last_updated: "2025-06-15T14:15:26.840Z"
+# miscellaneous data source section
 coingecko_id: "furucombo"
-current_price: 0.01017862
-market_cap: 490936
-market_cap_rank: 4625
-fully_diluted_valuation: 1017862
+current_price: 0.0101423
+market_cap: 489184
+market_cap_rank: 4629
+fully_diluted_valuation: 1014230
 circulating_supply: 48232079.150352955
 total_supply: 100000000.0
 max_supply: 100000000.0
 ath: 6.97
-ath_change_percentage: -99.85438
+ath_change_percentage: -99.85442
 ath_date: "2021-02-25T15:39:22.030Z"
 atl: 0.00076714
-atl_change_percentage: 1223.30217
+atl_change_percentage: 1222.90631
 atl_date: "2025-05-29T09:30:50.417Z"
 ---
 

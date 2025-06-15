@@ -18,19 +18,21 @@ last_updated: "2025-06-14T14:26:23.283912Z"
 last_updated: "2025-06-15T10:39:51.762Z"
 last_updated: "2025-06-15T11:41:31.470Z"
 last_updated: "2025-06-15T13:29:46.821Z"
+last_updated: "2025-06-15T14:16:10.846Z"
+# miscellaneous data source section
 coingecko_id: "swan-chain"
-current_price: 0.01399093
-market_cap: 1996263
-market_cap_rank: 2942
-fully_diluted_valuation: 13981272
+current_price: 0.01397122
+market_cap: 1994198
+market_cap_rank: 2949
+fully_diluted_valuation: 13966804
 circulating_supply: 142781249.9035493
 total_supply: 1000000000.0
 max_supply: 1000000000.0
 ath: 0.226052
-ath_change_percentage: -93.81059
+ath_change_percentage: -93.82343
 ath_date: "2024-12-16T23:50:31.514Z"
 atl: 0.01241939
-atl_change_percentage: 12.65656
+atl_change_percentage: 12.42287
 atl_date: "2025-05-05T00:24:05.721Z"
 ---
 

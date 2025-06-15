@@ -19,19 +19,21 @@ last_updated: "2025-06-14T14:26:23.289843Z"
 last_updated: "2025-06-15T10:41:01.730Z"
 last_updated: "2025-06-15T11:42:41.536Z"
 last_updated: "2025-06-15T13:29:35.865Z"
+last_updated: "2025-06-15T14:17:24.917Z"
+# miscellaneous data source section
 coingecko_id: "berachain-bera"
-current_price: 2.0
-market_cap: 239924764
-market_cap_rank: 259
-fully_diluted_valuation: 1004744416
-circulating_supply: 119997017.7239248
-total_supply: 502517253.9893663
+current_price: 1.98
+market_cap: 237303889
+market_cap_rank: 261
+fully_diluted_valuation: 993763335
+circulating_supply: 119997818.9483278
+total_supply: 502517818.9483278
 max_supply: null
 ath: 14.83
-ath_change_percentage: -86.51421
+ath_change_percentage: -86.59074
 ath_date: "2025-02-06T14:16:01.862Z"
 atl: 1.94
-atl_change_percentage: 3.15239
+atl_change_percentage: 2.56702
 atl_date: "2025-06-13T01:41:41.152Z"
 ---
 

@@ -17,19 +17,21 @@ last_updated: "2025-06-14T14:26:23.251575Z"
 last_updated: "2025-06-15T10:41:04.438Z"
 last_updated: "2025-06-15T11:42:44.296Z"
 last_updated: "2025-06-15T13:29:39.943Z"
+last_updated: "2025-06-15T14:17:25.379Z"
+# miscellaneous data source section
 coingecko_id: "convex-finance"
-current_price: 2.62
-market_cap: 214450959
-market_cap_rank: 276
-fully_diluted_valuation: 261298051
+current_price: 2.63
+market_cap: 215024751
+market_cap_rank: 275
+fully_diluted_valuation: 261997194
 circulating_supply: 81990703.72425415
-total_supply: 99901680.07442309
+total_supply: 99901682.00886233
 max_supply: 100000000.0
 ath: 60.09
-ath_change_percentage: -95.64455
+ath_change_percentage: -95.61903
 ath_date: "2022-01-01T18:04:03.030Z"
 atl: 1.44
-atl_change_percentage: 81.80991
+atl_change_percentage: 82.87545
 atl_date: "2024-11-04T21:57:46.524Z"
 ---
 

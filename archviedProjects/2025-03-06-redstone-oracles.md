@@ -17,19 +17,21 @@ last_updated: "2025-06-14T14:26:23.292599Z"
 last_updated: "2025-06-15T10:40:58.702Z"
 last_updated: "2025-06-15T11:42:37.988Z"
 last_updated: "2025-06-15T13:29:33.539Z"
+last_updated: "2025-06-15T14:17:27.346Z"
+# miscellaneous data source section
 coingecko_id: "redstone-oracles"
-current_price: 0.29762
-market_cap: 83247099
-market_cap_rank: 522
-fully_diluted_valuation: 297311068
+current_price: 0.294246
+market_cap: 82350989
+market_cap_rank: 524
+fully_diluted_valuation: 294110677
 circulating_supply: 280000000.0
 total_supply: 1000000000.0
 max_supply: 1000000000.0
 ath: 0.932461
-ath_change_percentage: -68.07261
+ath_change_percentage: -68.38911
 ath_date: "2025-03-06T12:36:56.662Z"
 atl: 0.285341
-atl_change_percentage: 4.33488
+atl_change_percentage: 3.30058
 atl_date: "2025-06-14T20:21:13.449Z"
 ---
 

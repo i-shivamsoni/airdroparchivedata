@@ -17,11 +17,13 @@ last_updated: "2025-06-14T14:26:23.241190Z"
 last_updated: "2025-06-15T10:38:09.872Z"
 last_updated: "2025-06-15T11:40:50.578Z"
 last_updated: "2025-06-15T13:28:24.807Z"
+last_updated: "2025-06-15T14:16:59.146Z"
+# miscellaneous data source section
 coingecko_id: "ice-token"
-current_price: 0.00481245
-market_cap: 32477
-market_cap_rank: 8137
-fully_diluted_valuation: 116258
+current_price: 0.00481243
+market_cap: 32480
+market_cap_rank: 8139
+fully_diluted_valuation: 116266
 circulating_supply: 6748633.903020493
 total_supply: 24157859.0
 max_supply: null
@@ -29,7 +31,7 @@ ath: 66.04
 ath_change_percentage: -99.99271
 ath_date: "2021-11-06T18:39:46.590Z"
 atl: 0.00180241
-atl_change_percentage: 167.01246
+atl_change_percentage: 167.01452
 atl_date: "2025-03-26T14:20:48.039Z"
 ---
 

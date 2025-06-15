@@ -17,19 +17,21 @@ last_updated: "2025-06-14T14:26:23.276327Z"
 last_updated: "2025-06-15T10:40:57.906Z"
 last_updated: "2025-06-15T11:42:37.297Z"
 last_updated: "2025-06-15T13:29:42.572Z"
+last_updated: "2025-06-15T14:17:20.175Z"
+# miscellaneous data source section
 coingecko_id: "gammaswap"
-current_price: 0.073145
-market_cap: 15993863
-market_cap_rank: 1285
-fully_diluted_valuation: 116927928
-circulating_supply: 218854303.5194167
+current_price: 0.073339
+market_cap: 16050683
+market_cap_rank: 1277
+fully_diluted_valuation: 117343145
+circulating_supply: 218854642.5426479
 total_supply: 1600000000.0
 max_supply: 1600000000.0
 ath: 0.365599
-ath_change_percentage: -80.01091
+ath_change_percentage: -79.96196
 ath_date: "2024-12-05T05:05:23.913Z"
 atl: 0.00975745
-atl_change_percentage: 648.96559
+atl_change_percentage: 650.79957
 atl_date: "2024-10-08T06:19:11.392Z"
 ---
 

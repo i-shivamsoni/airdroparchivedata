@@ -17,19 +17,21 @@ last_updated: "2025-06-14T14:26:23.244627Z"
 last_updated: "2025-06-15T10:40:59.643Z"
 last_updated: "2025-06-15T11:42:39.159Z"
 last_updated: "2025-06-15T13:29:34.305Z"
+last_updated: "2025-06-15T14:17:21.017Z"
+# miscellaneous data source section
 coingecko_id: "looksrare"
-current_price: 0.01212225
-market_cap: 12043417
-market_cap_rank: 1473
-fully_diluted_valuation: 12043417
+current_price: 0.01202924
+market_cap: 11943400
+market_cap_rank: 1475
+fully_diluted_valuation: 11943400
 circulating_supply: 993364093.0502541
 total_supply: 993364093.0502541
 max_supply: 1000000000.0
 ath: 7.1
-ath_change_percentage: -99.82949
+ath_change_percentage: -99.82943
 ath_date: "2022-01-20T19:30:02.255Z"
 atl: 0.00821059
-atl_change_percentage: 47.49084
+atl_change_percentage: 47.54438
 atl_date: "2025-04-08T09:27:36.079Z"
 ---
 

@@ -17,20 +17,22 @@ last_updated: "2025-06-14T14:26:23.302472Z"
 last_updated: "2025-06-15T10:40:53.931Z"
 last_updated: "2025-06-15T11:42:42.865Z"
 last_updated: "2025-06-15T13:29:38.132Z"
+last_updated: "2025-06-15T14:17:23.009Z"
+# miscellaneous data source section
 coingecko_id: "tokyo-games-token"
-current_price: 0.03395046
-market_cap: 5011160
-market_cap_rank: 2062
-fully_diluted_valuation: 33973965
+current_price: 0.03329064
+market_cap: 4915705
+market_cap_rank: 2069
+fully_diluted_valuation: 33326814
 circulating_supply: 147500000.0
 total_supply: 1000000000.0
 max_supply: 1000000000.0
 ath: 0.15017
-ath_change_percentage: -77.37668
+ath_change_percentage: -77.75517
 ath_date: "2025-05-22T12:15:42.754Z"
-atl: 0.03362437
-atl_change_percentage: 1.03809
-atl_date: "2025-06-15T11:20:41.089Z"
+atl: 0.03359618
+atl_change_percentage: -0.56894
+atl_date: "2025-06-15T13:50:23.291Z"
 ---
 
 ## Airdrop Details

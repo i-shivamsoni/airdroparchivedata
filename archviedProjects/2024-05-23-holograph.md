@@ -17,20 +17,22 @@ last_updated: "2025-06-14T14:26:23.271715Z"
 last_updated: "2025-06-15T10:39:18.893Z"
 last_updated: "2025-06-15T11:42:20.646Z"
 last_updated: "2025-06-15T13:29:03.487Z"
+last_updated: "2025-06-15T14:15:30.518Z"
+# miscellaneous data source section
 coingecko_id: "holograph"
-current_price: 0.00024058
-market_cap: 367010
-market_cap_rank: 4990
-fully_diluted_valuation: 2402073
+current_price: 0.00023154
+market_cap: 353819
+market_cap_rank: 5031
+fully_diluted_valuation: 2315734
 circulating_supply: 1525000000.0
 total_supply: 9981084201.97536
 max_supply: null
 ath: 0.02789807
-ath_change_percentage: -99.13656
+ath_change_percentage: -99.16287
 ath_date: "2024-05-25T05:51:11.278Z"
-atl: 0.00024076
-atl_change_percentage: 0.05028
-atl_date: "2025-06-15T13:08:19.126Z"
+atl: 0.0002373
+atl_change_percentage: -1.58254
+atl_date: "2025-06-15T13:45:26.415Z"
 ---
 
 ## Airdrop Details

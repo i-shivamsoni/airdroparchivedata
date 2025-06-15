@@ -17,11 +17,13 @@ last_updated: "2025-06-14T14:26:23.253226Z"
 last_updated: "2025-06-15T10:38:26.745Z"
 last_updated: "2025-06-15T11:41:10.574Z"
 last_updated: "2025-06-15T13:26:28.022Z"
+last_updated: "2025-06-15T13:26:28.022Z"
+# miscellaneous data source section
 coingecko_id: "hat"
 current_price: 0.00328237
-market_cap: 47229
-market_cap_rank: 7669
-fully_diluted_valuation: 202895
+market_cap: 47338
+market_cap_rank: 7664
+fully_diluted_valuation: 203362
 circulating_supply: 14421814.194033777
 total_supply: 61955726.73853378
 max_supply: 100000000.0

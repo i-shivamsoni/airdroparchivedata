@@ -18,19 +18,21 @@ last_updated: "2025-06-14T14:26:23.276691Z"
 last_updated: "2025-06-15T10:40:59.562Z"
 last_updated: "2025-06-15T11:42:48.669Z"
 last_updated: "2025-06-15T13:29:44.375Z"
+last_updated: "2025-06-15T14:17:15.484Z"
+# miscellaneous data source section
 coingecko_id: "eigenlayer"
-current_price: 1.25
-market_cap: 384814362
-market_cap_rank: 190
-fully_diluted_valuation: 2161530283
+current_price: 1.24
+market_cap: 382654831
+market_cap_rank: 191
+fully_diluted_valuation: 2149400038
 circulating_supply: 308041792.3588965
 total_supply: 1730293170.903525
 max_supply: null
 ath: 5.65
-ath_change_percentage: -77.86414
+ath_change_percentage: -77.92456
 ath_date: "2024-12-17T03:45:30.422Z"
 atl: 0.668501
-atl_change_percentage: 86.94554
+atl_change_percentage: 86.43525
 atl_date: "2025-04-09T01:30:50.669Z"
 ---
 

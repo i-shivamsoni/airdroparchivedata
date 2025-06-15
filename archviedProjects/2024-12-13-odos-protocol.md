@@ -17,19 +17,21 @@ last_updated: "2025-06-14T14:26:23.283514Z"
 last_updated: "2025-06-15T10:40:58.893Z"
 last_updated: "2025-06-15T11:42:38.202Z"
 last_updated: "2025-06-15T13:29:43.332Z"
+last_updated: "2025-06-15T14:17:21.701Z"
+# miscellaneous data source section
 coingecko_id: "odos"
-current_price: 0.00546301
-market_cap: 8742838
-market_cap_rank: 1691
-fully_diluted_valuation: 54642739
+current_price: 0.00548206
+market_cap: 8757155
+market_cap_rank: 1687
+fully_diluted_valuation: 54732221
 circulating_supply: 1600000001.378885
 total_supply: 10000000000.0
 max_supply: 10000000000.0
 ath: 0.04904018
-ath_change_percentage: -88.87218
+ath_change_percentage: -88.86589
 ath_date: "2024-12-21T12:30:25.523Z"
 atl: 0.00481306
-atl_change_percentage: 13.38125
+atl_change_percentage: 13.44539
 atl_date: "2025-04-07T07:05:38.892Z"
 ---
 

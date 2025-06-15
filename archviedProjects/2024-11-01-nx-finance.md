@@ -17,19 +17,21 @@ last_updated: "2025-06-14T14:26:23.280393Z"
 last_updated: "2025-06-15T10:38:50.327Z"
 last_updated: "2025-06-15T11:42:42.408Z"
 last_updated: "2025-06-15T13:28:31.448Z"
+last_updated: "2025-06-15T14:16:41.072Z"
+# miscellaneous data source section
 coingecko_id: "nx-token"
-current_price: 0.02901355
-market_cap: 1112021
-market_cap_rank: 3580
-fully_diluted_valuation: 2901629
+current_price: 0.02930404
+market_cap: 1120319
+market_cap_rank: 3573
+fully_diluted_valuation: 2923281
 circulating_supply: 38324029.69104546
 total_supply: 100000000.0
 max_supply: 100000000.0
 ath: 0.100419
-ath_change_percentage: -71.12205
+ath_change_percentage: -70.94278
 ath_date: "2025-01-19T05:05:52.408Z"
 atl: 0.02612643
-atl_change_percentage: 10.99507
+atl_change_percentage: 11.68411
 atl_date: "2025-06-13T02:45:01.722Z"
 ---
 

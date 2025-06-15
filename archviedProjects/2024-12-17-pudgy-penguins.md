@@ -17,19 +17,21 @@ last_updated: "2025-06-14T14:26:23.284332Z"
 last_updated: "2025-06-15T10:41:00.212Z"
 last_updated: "2025-06-15T11:42:40.214Z"
 last_updated: "2025-06-15T13:29:45.624Z"
+last_updated: "2025-06-15T14:17:27.084Z"
+# miscellaneous data source section
 coingecko_id: "pudgy-penguins"
-current_price: 0.00961721
-market_cap: 604531163
-market_cap_rank: 139
-fully_diluted_valuation: 737860173
+current_price: 0.00957826
+market_cap: 602655870
+market_cap_rank: 140
+fully_diluted_valuation: 735571284
 circulating_supply: 62860396090.0
 total_supply: 76724221264.27525
 max_supply: 88888888888.0
 ath: 0.068447
-ath_change_percentage: -85.94553
+ath_change_percentage: -85.98477
 ath_date: "2024-12-17T13:05:22.873Z"
 atl: 0.00371517
-atl_change_percentage: 158.93358
+atl_change_percentage: 158.21077
 atl_date: "2025-04-09T01:31:57.832Z"
 ---
 

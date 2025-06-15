@@ -17,19 +17,21 @@ last_updated: "2025-06-14T14:26:23.273464Z"
 last_updated: "2025-06-15T10:39:18.953Z"
 last_updated: "2025-06-15T11:42:20.887Z"
 last_updated: "2025-06-15T13:29:16.504Z"
+last_updated: "2025-06-15T14:17:17.216Z"
+# miscellaneous data source section
 coingecko_id: "xzk"
-current_price: 0.01095346
-market_cap: 4510609
-market_cap_rank: 2121
-fully_diluted_valuation: 10981110
+current_price: 0.01006164
+market_cap: 4137963
+market_cap_rank: 2205
+fully_diluted_valuation: 10073901
 circulating_supply: 410760735.85996383
 total_supply: 1000000000.0
 max_supply: 1000000000.0
 ath: 0.187647
-ath_change_percentage: -94.1087
+ath_change_percentage: -94.55293
 ath_date: "2024-06-18T10:31:06.362Z"
 atl: 0.00519707
-atl_change_percentage: 112.7133
+atl_change_percentage: 96.67385
 atl_date: "2025-06-08T22:27:09.208Z"
 ---
 

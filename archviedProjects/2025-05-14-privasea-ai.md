@@ -18,19 +18,21 @@ last_updated: "2025-06-14T14:26:23.301879Z"
 last_updated: "2025-06-15T10:40:59.629Z"
 last_updated: "2025-06-15T11:42:45.668Z"
 last_updated: "2025-06-15T13:29:41.823Z"
+last_updated: "2025-06-15T14:17:23.092Z"
+# miscellaneous data source section
 coingecko_id: "privasea-ai"
-current_price: 0.02519175
-market_cap: 5185372
-market_cap_rank: 2043
-fully_diluted_valuation: 25167369
+current_price: 0.02524712
+market_cap: 5195136
+market_cap_rank: 2037
+fully_diluted_valuation: 25214762
 circulating_supply: 206035500.0
 total_supply: 1000000000.0
 max_supply: 1000000000.0
 ath: 0.096207
-ath_change_percentage: -73.8399
+ath_change_percentage: -73.7278
 ath_date: "2025-05-14T15:26:47.379Z"
 atl: 0.02442927
-atl_change_percentage: 3.02349
+atl_change_percentage: 3.46497
 atl_date: "2025-06-12T16:05:33.911Z"
 ---
 

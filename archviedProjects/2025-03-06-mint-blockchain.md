@@ -18,19 +18,21 @@ last_updated: "2025-06-14T14:26:23.292413Z"
 last_updated: "2025-06-15T10:39:15.757Z"
 last_updated: "2025-06-15T11:42:02.947Z"
 last_updated: "2025-06-15T13:28:08.234Z"
+last_updated: "2025-06-15T14:17:21.373Z"
+# miscellaneous data source section
 coingecko_id: "mint-blockchain"
-current_price: 0.00866351
-market_cap: 1500955
-market_cap_rank: 3242
-fully_diluted_valuation: 8663509
+current_price: 0.00862109
+market_cap: 1496595
+market_cap_rank: 3243
+fully_diluted_valuation: 8638343
 circulating_supply: 173250279.9999994
 total_supply: 999999999.9999994
 max_supply: 1000000000.0
 ath: 0.079854
-ath_change_percentage: -89.15088
+ath_change_percentage: -89.10026
 ath_date: "2025-03-07T14:50:31.579Z"
 atl: 0.00785835
-atl_change_percentage: 10.24585
+atl_change_percentage: 10.76028
 atl_date: "2025-04-20T12:28:49.062Z"
 ---
 

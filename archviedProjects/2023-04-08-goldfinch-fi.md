@@ -18,19 +18,21 @@ last_updated: "2025-06-14T14:26:23.251883Z"
 last_updated: "2025-06-15T10:40:58.990Z"
 last_updated: "2025-06-15T11:42:38.330Z"
 last_updated: "2025-06-15T13:29:33.626Z"
+last_updated: "2025-06-15T14:17:17.046Z"
+# miscellaneous data source section
 coingecko_id: "goldfinch"
-current_price: 0.71638
-market_cap: 66534056
-market_cap_rank: 600
-fully_diluted_valuation: 81852886
+current_price: 0.71965
+market_cap: 66767084
+market_cap_rank: 597
+fully_diluted_valuation: 82139565
 circulating_supply: 92897056.10346569
 total_supply: 114285714.0
 max_supply: 114285714.0
 ath: 32.94
-ath_change_percentage: -97.82494
+ath_change_percentage: -97.8231
 ath_date: "2022-01-11T21:23:15.079Z"
 atl: 0.290236
-atl_change_percentage: 146.82395
+atl_change_percentage: 147.03331
 atl_date: "2023-06-19T16:10:16.753Z"
 ---
 

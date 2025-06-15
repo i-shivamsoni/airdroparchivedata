@@ -17,19 +17,21 @@ last_updated: "2025-06-14T14:26:23.290509Z"
 last_updated: "2025-06-15T10:39:55.717Z"
 last_updated: "2025-06-15T11:39:50.260Z"
 last_updated: "2025-06-15T13:27:34.370Z"
+last_updated: "2025-06-15T14:14:59.330Z"
+# miscellaneous data source section
 coingecko_id: "supcoin"
-current_price: 1.08e-06
+current_price: 1.05e-06
 market_cap: 0.0
 market_cap_rank: null
-fully_diluted_valuation: 107753
+fully_diluted_valuation: 107726
 circulating_supply: 0.0
 total_supply: 100000000000.0
 max_supply: 100000000000.0
 ath: 1.274e-05
-ath_change_percentage: -91.53974
+ath_change_percentage: -91.54361
 ath_date: "2025-04-30T16:44:37.377Z"
 atl: 8.96417e-07
-atl_change_percentage: 20.21481
+atl_change_percentage: 20.15984
 atl_date: "2025-06-06T02:28:49.987Z"
 ---
 

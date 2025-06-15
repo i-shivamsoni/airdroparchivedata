@@ -18,19 +18,21 @@ last_updated: "2025-06-14T14:26:23.270826Z"
 last_updated: "2025-06-15T10:41:01.738Z"
 last_updated: "2025-06-15T11:42:41.688Z"
 last_updated: "2025-06-15T13:29:35.320Z"
+last_updated: "2025-06-15T14:17:18.529Z"
+# miscellaneous data source section
 coingecko_id: "bouncebit"
-current_price: 0.099347
-market_cap: 40673506
+current_price: 0.098498
+market_cap: 40344164
 market_cap_rank: 782
-fully_diluted_valuation: 208582084
+fully_diluted_valuation: 206893147
 circulating_supply: 409500000.0
 total_supply: 2100000000.0
 max_supply: 2100000000.0
 ath: 0.865772
-ath_change_percentage: -88.52731
+ath_change_percentage: -88.60221
 ath_date: "2024-06-06T00:10:33.261Z"
 atl: 0.081867
-atl_change_percentage: 21.32708
+atl_change_percentage: 20.53504
 atl_date: "2025-04-09T01:31:18.636Z"
 ---
 

@@ -17,19 +17,21 @@ last_updated: "2025-06-14T14:26:23.304778Z"
 last_updated: "2025-06-15T10:41:01.775Z"
 last_updated: "2025-06-15T11:42:42.257Z"
 last_updated: "2025-06-15T13:29:35.143Z"
+last_updated: "2025-06-15T14:17:24.270Z"
+# miscellaneous data source section
 coingecko_id: "story-2"
-current_price: 3.53
-market_cap: 1023053972
+current_price: 3.5
+market_cap: 1014728665
 market_cap_rank: 91
-fully_diluted_valuation: 3553760637
-circulating_supply: 289928960.16
-total_supply: 1007120009.66
+fully_diluted_valuation: 3524829181
+circulating_supply: 289930597.67
+total_supply: 1007122264.67
 max_supply: null
 ath: 7.31
-ath_change_percentage: -51.74595
+ath_change_percentage: -52.03789
 ath_date: "2025-02-26T16:11:25.410Z"
 atl: 1.0
-atl_change_percentage: 252.80385
+atl_change_percentage: 250.66937
 atl_date: "2025-02-14T03:11:08.309Z"
 ---
 

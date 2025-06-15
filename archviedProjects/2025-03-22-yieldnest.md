@@ -17,20 +17,22 @@ last_updated: "2025-06-14T14:26:23.296130Z"
 last_updated: "2025-06-15T10:40:30.290Z"
 last_updated: "2025-06-15T11:42:41.506Z"
 last_updated: "2025-06-15T13:26:30.818Z"
+last_updated: "2025-06-15T14:17:04.191Z"
+# miscellaneous data source section
 coingecko_id: "yieldnest"
-current_price: 0.0061592
+current_price: 0.00555159
 market_cap: 0.0
 market_cap_rank: null
-fully_diluted_valuation: 6159201
+fully_diluted_valuation: 5607253
 circulating_supply: 0.0
 total_supply: 1000000000.0
 max_supply: 1000000000.0
 ath: 0.02093676
-ath_change_percentage: -70.58188
+ath_change_percentage: -72.95093
 ath_date: "2025-06-06T17:26:15.633Z"
-atl: 0.00576042
-atl_change_percentage: 6.9227
-atl_date: "2025-06-15T07:50:35.184Z"
+atl: 0.00566337
+atl_change_percentage: -0.00302
+atl_date: "2025-06-15T14:03:18.223Z"
 ---
 
 ## Airdrop Details

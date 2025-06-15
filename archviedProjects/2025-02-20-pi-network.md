@@ -18,19 +18,21 @@ last_updated: "2025-06-14T14:26:23.290925Z"
 last_updated: "2025-06-15T10:41:04.303Z"
 last_updated: "2025-06-15T11:42:41.348Z"
 last_updated: "2025-06-15T13:29:35.263Z"
+last_updated: "2025-06-15T14:17:33.025Z"
+# miscellaneous data source section
 coingecko_id: "pi-network"
-current_price: 0.610019
-market_cap: 4546588457
+current_price: 0.601957
+market_cap: 4485028685
 market_cap_rank: 36
-fully_diluted_valuation: 6994751472
+fully_diluted_valuation: 6900044130
 circulating_supply: 7442410348.167771
 total_supply: 11449862074.10426
 max_supply: 100000000000.0
 ath: 2.99
-ath_change_percentage: -79.5679
+ath_change_percentage: -79.86989
 ath_date: "2025-02-26T16:41:03.732Z"
 atl: 0.406999
-atl_change_percentage: 49.98369
+atl_change_percentage: 47.76689
 atl_date: "2025-04-05T04:50:37.033Z"
 ---
 

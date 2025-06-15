@@ -18,19 +18,21 @@ last_updated: "2025-06-14T14:26:23.272076Z"
 last_updated: "2025-06-15T10:40:58.691Z"
 last_updated: "2025-06-15T11:42:47.326Z"
 last_updated: "2025-06-15T13:29:43.287Z"
+last_updated: "2025-06-15T14:17:21.782Z"
+# miscellaneous data source section
 coingecko_id: "mon-protocol"
-current_price: 0.01993958
-market_cap: 8231911
-market_cap_rank: 1726
-fully_diluted_valuation: 19932498
+current_price: 0.01990021
+market_cap: 8209205
+market_cap_rank: 1720
+fully_diluted_valuation: 19877518
 circulating_supply: 412790134.19666666
 total_supply: 999517431.0
 max_supply: 1000000000.0
 ath: 0.686349
-ath_change_percentage: -97.0944
+ath_change_percentage: -97.11338
 ath_date: "2024-05-27T10:01:13.878Z"
 atl: 0.01852497
-atl_change_percentage: 7.65247
+atl_change_percentage: 6.94904
 atl_date: "2025-06-13T14:47:42.552Z"
 ---
 

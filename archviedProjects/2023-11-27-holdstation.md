@@ -17,19 +17,21 @@ last_updated: "2025-06-14T14:26:23.258419Z"
 last_updated: "2025-06-15T10:40:59.418Z"
 last_updated: "2025-06-15T11:42:38.754Z"
 last_updated: "2025-06-15T13:29:44.030Z"
+last_updated: "2025-06-15T14:17:21.988Z"
+# miscellaneous data source section
 coingecko_id: "holdstation"
-current_price: 0.989008
-market_cap: 7804739
-market_cap_rank: 1763
-fully_diluted_valuation: 29624373
+current_price: 0.975256
+market_cap: 7708127
+market_cap_rank: 1765
+fully_diluted_valuation: 29257666
 circulating_supply: 7903700.0
 total_supply: 30000000.0
 max_supply: 30000000.0
 ath: 7.49
-ath_change_percentage: -86.80739
+ath_change_percentage: -86.75031
 ath_date: "2024-03-26T04:35:08.885Z"
 atl: 0.600735
-atl_change_percentage: 64.37837
+atl_change_percentage: 65.08957
 atl_date: "2024-11-05T03:21:12.717Z"
 ---
 
