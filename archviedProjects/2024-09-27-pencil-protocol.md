@@ -3,7 +3,7 @@ layout: "post"
 title: "Pencil Protocol"
 date: "2024-09-27"
 timeframe: ["2024"]
-ecosystem: ["not-known"]
+ecosystem: ["ethereum", "scroll"]
 rewardedActivity: ["retroactive"]
 category: ["nft"]
 function: ["marketplace", "art", "nft"]

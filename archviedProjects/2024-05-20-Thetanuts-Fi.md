@@ -3,7 +3,7 @@ layout: "post"
 title: "Thetanuts Fi"
 date: "2024-05-20"
 timeframe: ["2024"]
-ecosystem: ["not-known"]
+ecosystem: ["ethereum"]
 rewardedActivity: ["retroactive"]
 category: ["defi"]
 function: ["defi", "options"]

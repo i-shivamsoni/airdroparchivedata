@@ -3,7 +3,7 @@ layout: "post"
 title: "Sturdy Finance"
 date: "2022-11-21 05:44 +0530"
 timeframe: ["2022"]
-ecosystem: ["not-known"]
+ecosystem: ["ethereum", "bittensor"]
 rewardedActivity: ["retroactive"]
 category: ["defi"]
 function: ["defi", "risk-management", "lending"]

@@ -3,7 +3,7 @@ layout: "post"
 title: "FuruCombo"
 date: "2022-09-04 04:47 +0530"
 timeframe: ["2022"]
-ecosystem: ["not-known"]
+ecosystem: ["harmony", "ethereum", "polygon"]
 rewardedActivity: ["retroactive"]
 category: ["defi"]
 function: ["defi", "automation", "strategy"]

@@ -3,7 +3,7 @@ layout: "post"
 title: "Reflexer finance"
 date: "2021-04-13 03:21:08 +0530"
 timeframe: ["2021"]
-ecosystem: ["not-known"]
+ecosystem: ["ethereum"]
 rewardedActivity: ["retroactive"]
 category: ["stablecoin","defi"]
 function: ["algorithmic", "defi", "stablecoin"]

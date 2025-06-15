@@ -3,7 +3,7 @@ layout: "post"
 title: "Popsicle Finance"
 date: "2021-03-23 04:53 +0530"
 timeframe: ["2021"]
-ecosystem: ["not-known"]
+ecosystem: ["bnb", "fantom", "ethereum", "polygon"]
 rewardedActivity: ["retroactive"]
 category: ["defi"]
 function: ["multi-strategy", "defi", "yield"]

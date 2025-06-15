@@ -3,7 +3,7 @@ layout: "post"
 title: "Worldcoin"
 date: "2024-11-27"
 timeframe: ["2023"]
-ecosystem: ["not-known"]
+ecosystem: ["world-chain", "ethereum", "optimism-superchain", "optimism"]
 rewardedActivity: ["retroactive"]
 category: ["infrastructure"]
 function: ["identity", "infrastructure", "finance"]

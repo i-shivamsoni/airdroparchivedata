@@ -3,7 +3,7 @@ layout: "post"
 title: "Solv Protocol"
 date: "2025-01-27"
 timeframe: ["2025"]
-ecosystem: ["not-known"]
+ecosystem: ["bnb"]
 rewardedActivity: ["retroactive"]
 category: ["defi"]
 function: ["defi", "protocol", "governance", "btcfi"]

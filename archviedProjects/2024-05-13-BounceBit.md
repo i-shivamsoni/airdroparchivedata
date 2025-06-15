@@ -3,7 +3,7 @@ layout: "post"
 title: "BounceBit"
 date: "2024-05-13"
 timeframe: ["2024"]
-ecosystem: ["not-known"]
+ecosystem: ["ethereum", "solana"]
 rewardedActivity: ["retroactive", "testnet"]
 category: ["defi"]
 function: ["defi", "token-distribution", "auctions"]

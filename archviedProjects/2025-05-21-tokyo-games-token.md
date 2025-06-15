@@ -3,7 +3,7 @@ layout: "post"
 title: "Tokyo Games Token (TGT)"
 date: "2025-05-21"
 timeframe: ["2025"]
-ecosystem: ["ethereum"]
+ecosystem: ["ethereum", "immutable-zkevm"]
 rewardedActivity: ["binance-alpha", "gaming", "loyalty"]
 category: ["gaming"]
 function: ["gaming"]

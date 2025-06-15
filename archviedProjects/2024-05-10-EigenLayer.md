@@ -3,7 +3,7 @@ layout: "post"
 title: "EigenLayer"
 date: "2024-05-10"
 timeframe: ["2024"]
-ecosystem: ["not-known"]
+ecosystem: ["ethereum"]
 rewardedActivity: ["retroactive"]
 category: ["defi"]
 function: ["defi", "staking", "restaking"]

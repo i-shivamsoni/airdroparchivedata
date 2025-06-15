@@ -3,7 +3,7 @@ layout: "post"
 title: "SoSoValue"
 date: "2025-01-24"
 timeframe: ["2025"]
-ecosystem: ["ethereum", "base"]
+ecosystem: ["base", "ethereum"]
 rewardedActivity: ["retroactive", "social"]
 category: ["social","ai"]
 function: ["ai", "analytics", "social"]

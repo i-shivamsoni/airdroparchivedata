@@ -3,7 +3,7 @@ layout: "post"
 title: "Huma Finance"
 date: "2025-05-22"
 timeframe: ["2025"]
-ecosystem: ["solana"]
+ecosystem: ["bnb", "solana"]
 rewardedActivity:
   [
     "retroactive",

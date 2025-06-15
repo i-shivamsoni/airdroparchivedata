@@ -3,7 +3,7 @@ layout: "post"
 title: "Bera Chain"
 date: "2025-02-10 03:21:08 +0530"
 timeframe: ["2025"]
-ecosystem: ["not-known"]
+ecosystem: ["berachain"]
 rewardedActivity: ["testnet", "holder"]
 category: ["infrastructure"]
 function: ["blockchain"]

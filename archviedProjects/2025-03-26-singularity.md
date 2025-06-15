@@ -3,7 +3,7 @@ layout: "post"
 title: "Singularity Finance"
 date: "2025-03-26"
 timeframe: ["2025"]
-ecosystem: ["not-known"]
+ecosystem: ["ethereum"]
 rewardedActivity: ["testnet", "staking", "holder"]
 category: ["ai", "defi"]
 function: ["ai", "defi", "rwa"]

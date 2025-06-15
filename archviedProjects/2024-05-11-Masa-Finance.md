@@ -3,7 +3,7 @@ layout: "post"
 title: "Masa Finance"
 date: "2024-05-11"
 timeframe: ["2024"]
-ecosystem: ["not-known"]
+ecosystem: ["bnb", "ethereum"]
 rewardedActivity: ["retroactive", "testnet"]
 category: ["utilities"]
 function: ["ai", "identity", "protocol"]

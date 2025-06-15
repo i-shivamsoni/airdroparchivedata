@@ -3,7 +3,7 @@ layout: "post"
 title: "Juicebox DAO"
 date: "2022-02-23 03:21:08 +0530"
 timeframe: ["2022"]
-ecosystem: ["not-known"]
+ecosystem: ["ethereum"]
 rewardedActivity: ["retroactive"]
 category: ["defi"]
 function: ["fundraising", "dao", "defi"]

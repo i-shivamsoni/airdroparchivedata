@@ -3,7 +3,7 @@ layout: "post"
 title: "Helio (Lista)"
 date: "2024-06-22"
 timeframe: ["2024"]
-ecosystem: ["not-known"]
+ecosystem: ["bnb"]
 rewardedActivity: ["retroactive"]
 category: ["defi"]
 function: ["defi", "aggregation", "yield"]

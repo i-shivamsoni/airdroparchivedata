@@ -3,7 +3,7 @@ layout: "post"
 title: "Polyhedra"
 date: "2024-03-19"
 timeframe: ["2024"]
-ecosystem: ["not-known"]
+ecosystem: ["bnb", "ethereum"]
 rewardedActivity: ["retroactive", "testnet", "binance-alpha"]
 category: ["infrastructure"]
 function: ["infrastructure"]

@@ -3,7 +3,7 @@ layout: "post"
 title: "StakeStone"
 date: "2025-04-03"
 timeframe: ["2025"]
-ecosystem: ["bnb", "berachain", "manta", "bitcoin", "other"]
+ecosystem: ["berachain", "manta", "bnb", "bitcoin", "ethereum"]
 rewardedActivity: ["liquidity", "referral", "nft", "retroactive", "loyalty"]
 category: ["infrastructure", "defi"]
 function: ["liquidity", "infrastructure", "omnichain"]

@@ -3,7 +3,7 @@ layout: "post"
 title: "CyberConnect"
 date: "2023-08-15"
 timeframe: ["2023"]
-ecosystem: ["not-known"]
+ecosystem: ["optimism", "cyber", "bnb", "optimism-superchain", "ethereum"]
 rewardedActivity: ["holder"]
 category: ["infrastructure"]
 function: ["social"]

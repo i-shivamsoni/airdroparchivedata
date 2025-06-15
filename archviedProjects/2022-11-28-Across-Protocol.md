@@ -3,7 +3,7 @@ layout: "post"
 title: "Across Protocol"
 date: "2022-11-28 03:21:08 +0530"
 timeframe: ["2022"]
-ecosystem: ["not-known"]
+ecosystem: ["arbitrum", "optimism", "boba-network", "ethereum", "polygon"]
 rewardedActivity: ["retroactive"]
 category: ["infrastructure","defi"]
 function: ["liquidity", "infrastructure", "cross-chain"]

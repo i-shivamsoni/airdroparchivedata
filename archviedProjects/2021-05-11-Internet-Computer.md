@@ -3,7 +3,7 @@ layout: "post"
 title: "Internet Computer"
 date: "2021-05-11 03:21:08 +0530"
 timeframe: ["2018"]
-ecosystem: ["not-known"]
+ecosystem: ["icp"]
 rewardedActivity: ["loyalty"]
 category: ["infrastructure"]
 function: ["blockchain"]

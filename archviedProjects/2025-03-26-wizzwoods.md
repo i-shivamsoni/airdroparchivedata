@@ -3,7 +3,7 @@ layout: "post"
 title: "Wizzwoods"
 date: "2025-03-31"
 timeframe: ["2025"]
-ecosystem: ["berachain", "arbitrum", "other"]
+ecosystem: ["berachain", "arbitrum"]
 rewardedActivity: ["nft", "holder", "retroactive"]
 category: ["gaming", "nft"]
 function: ["gamefi", "nft", "marketplace"]

@@ -3,7 +3,7 @@ layout: "post"
 title: "Mocaverse"
 date: "2024-06-19"
 timeframe: ["2024"]
-ecosystem: ["not-known"]
+ecosystem: ["base", "ethereum"]
 rewardedActivity: ["retroactive"]
 category: ["gaming","social"]
 function: ["gaming", "blockchain", "metaverse"]

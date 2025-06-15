@@ -3,7 +3,7 @@ layout: "post"
 title: "StarryNift"
 date: "2024-09-26"
 timeframe: ["2024"]
-ecosystem: ["not-known"]
+ecosystem: ["bnb"]
 rewardedActivity: ["retroactive"]
 category: ["nft"]
 function: ["nft"]

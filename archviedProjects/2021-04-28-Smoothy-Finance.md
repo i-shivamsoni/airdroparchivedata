@@ -3,7 +3,7 @@ layout: "post"
 title: "Smoothy Finance"
 date: "2021-04-28 05:10 +0530"
 timeframe: ["2021"]
-ecosystem: ["not-known"]
+ecosystem: ["bnb", "ethereum"]
 rewardedActivity: ["retroactive"]
 category: ["defi"]
 function: ["defi", "aggregation", "yield"]

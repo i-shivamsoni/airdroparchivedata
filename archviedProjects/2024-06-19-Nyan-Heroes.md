@@ -3,7 +3,7 @@ layout: "post"
 title: "Nyan Heroes"
 date: "2024-06-19"
 timeframe: ["2024"]
-ecosystem: ["not-known"]
+ecosystem: ["solana"]
 rewardedActivity: ["retroactive"]
 category: ["gaming"]
 function: ["gaming"]

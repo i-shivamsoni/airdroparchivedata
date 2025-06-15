@@ -3,7 +3,7 @@ layout: "post"
 title: "Virtuswap"
 date: "2023-05-22"
 timeframe: ["2023"]
-ecosystem: ["not-known"]
+ecosystem: ["arbitrum", "ethereum", "polygon"]
 rewardedActivity: ["retroactive"]
 category: ["defi"]
 function: ["defi", "dex"]

@@ -3,7 +3,7 @@ layout: "post"
 title: "Ens domain"
 date: "2021-11-10 03:21:08 +0530"
 timeframe: ["2021"]
-ecosystem: ["not-known"]
+ecosystem: ["ethereum"]
 rewardedActivity: ["retroactive"]
 category: ["defi"]
 function: ["identity", "naming"]

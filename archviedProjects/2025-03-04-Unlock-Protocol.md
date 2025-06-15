@@ -3,7 +3,7 @@ layout: "post"
 title: "Unlock Protocol"
 date: "2025-03-04 03:21:08 +0530"
 timeframe: ["2025"]
-ecosystem: ["not-known"]
+ecosystem: ["base"]
 rewardedActivity: ["retroactive"]
 category: ["infrastructure"]
 function: ["infrastructure", "access", "control"]

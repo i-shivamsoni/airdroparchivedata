@@ -3,7 +3,7 @@ layout: "post"
 title: "Gyroscope Protocol"
 date: "2025-03-19"
 timeframe: ["2025"]
-ecosystem: ["ethereum"]
+ecosystem: ["base", "ethereum"]
 rewardedActivity: ["retroactive"]
 category: ["defi"]
 function: ["defi"]

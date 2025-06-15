@@ -3,7 +3,7 @@ layout: "post"
 title: "Ref Finance"
 date: "2021-07-22 03:21:08 +0530"
 timeframe: ["2021"]
-ecosystem: ["not-known"]
+ecosystem: ["near"]
 rewardedActivity: ["retroactive"]
 category: ["stablecoin","defi"]
 function: ["algorithmic", "defi", "stablecoin"]

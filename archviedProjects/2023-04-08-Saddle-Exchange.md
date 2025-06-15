@@ -3,7 +3,7 @@ layout: "post"
 title: "Saddle Exchange"
 date: "2023-04-08 03:21:08 +0530"
 timeframe: ["2023"]
-ecosystem: ["not-known"]
+ecosystem: ["ethereum"]
 rewardedActivity: ["holder", "retroactive"]
 category: ["stablecoin","defi"]
 function: ["defi", "exchange", "stablecoin"]

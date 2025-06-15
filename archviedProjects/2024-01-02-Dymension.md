@@ -3,7 +3,7 @@ layout: "post"
 title: "Dymension"
 date: "2024-01-02"
 timeframe: ["2024"]
-ecosystem: ["cosmos"]
+ecosystem: ["osmosis", "cosmos"]
 rewardedActivity: ["nft", "holder", "retroactive"]
 category: ["infrastructure"]
 function: ["nft", "blockchain"]

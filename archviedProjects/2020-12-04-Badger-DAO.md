@@ -3,7 +3,7 @@ layout: "post"
 title: "Badger DAO"
 date: "2020-12-04 03:21:08 +0530"
 timeframe: ["2020"]
-ecosystem: ["not-known"]
+ecosystem: ["arbitrum", "fantom", "gnosis-chain", "energi", "harmony", "ethereum"]
 rewardedActivity: ["retroactive"]
 category: ["defi"]
 function: ["dao", "defi", "bitcoin"]

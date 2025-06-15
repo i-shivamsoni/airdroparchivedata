@@ -3,7 +3,7 @@ layout: "post"
 title: "GammaSwap"
 date: "2024-09-09"
 timeframe: ["2024"]
-ecosystem: ["not-known"]
+ecosystem: ["base", "arbitrum", "ethereum"]
 rewardedActivity: ["retroactive"]
 category: ["defi"]
 function: ["defi", "futures", "options"]

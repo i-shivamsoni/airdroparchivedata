@@ -3,7 +3,7 @@ layout: "post"
 title: "Hyperlane"
 date: "2025-04-03"
 timeframe: ["2025"]
-ecosystem: ["ethereum", "other"]
+ecosystem: ["arbitrum", "optimism", "bnb", "base", "ethereum"]
 rewardedActivity:
   ["retroactive", "staking", "liquidity", "nft", "testnet", "dev-work"]
 category: ["infrastructure", "scaling"]

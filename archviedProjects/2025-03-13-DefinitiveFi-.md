@@ -3,7 +3,7 @@ layout: "post"
 title: "DefinitiveFi"
 date: "2025-03-13"
 timeframe: ["2025"]
-ecosystem: ["not-known"]
+ecosystem: ["base"]
 rewardedActivity: ["retroactive"]
 category: ["defi"]
 function: ["defi", "dex"]

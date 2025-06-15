@@ -3,7 +3,7 @@ layout: "post"
 title: "Hyperliquid"
 date: "2024-11-29"
 timeframe: ["2024"]
-ecosystem: ["hyperEVM"]
+ecosystem: ["hyperliquid", "hyperEVM"]
 rewardedActivity: ["retroactive"]
 category: ["defi"]
 function: ["perpetuals", "defi"]

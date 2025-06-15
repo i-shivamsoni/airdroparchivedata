@@ -3,7 +3,7 @@ layout: "post"
 title: "MON Protocol"
 date: "2024-05-25"
 timeframe: ["2024"]
-ecosystem: ["not-known"]
+ecosystem: ["ethereum"]
 rewardedActivity: ["retroactive"]
 category: ["gaming"]
 function: ["gaming"]

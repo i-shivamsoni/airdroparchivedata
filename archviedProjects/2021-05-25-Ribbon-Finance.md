@@ -3,7 +3,7 @@ layout: "post"
 title: "Ribbon Finance"
 date: "2021-05-25 03:21:08 +0530"
 timeframe: ["2021"]
-ecosystem: ["not-known"]
+ecosystem: ["ethereum"]
 rewardedActivity: ["retroactive"]
 category: ["defi"]
 function: ["defi", "options"]

@@ -3,7 +3,7 @@ layout: "post"
 title: "Convex Finance"
 date: "2023-04-08 03:21:08 +0530"
 timeframe: ["2023"]
-ecosystem: ["not-known"]
+ecosystem: ["ethereum"]
 rewardedActivity: ["retroactive"]
 category: ["defi"]
 function: ["defi", "optimizer", "yield"]

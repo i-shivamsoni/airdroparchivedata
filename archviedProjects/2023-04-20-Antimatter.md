@@ -3,7 +3,7 @@ layout: "post"
 title: "Antimatter"
 date: "2023-04-20"
 timeframe: ["2023"]
-ecosystem: ["not-known"]
+ecosystem: ["ethereum"]
 rewardedActivity: ["retroactive"]
 category: ["defi"]
 function: ["defi", "derivatives", "options"]

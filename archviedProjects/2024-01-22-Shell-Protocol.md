@@ -3,7 +3,7 @@ layout: "post"
 title: "Shell Protocol"
 date: "2024-01-22"
 timeframe: ["2024"]
-ecosystem: ["not-known"]
+ecosystem: ["bnb", "ethereum"]
 rewardedActivity: ["retroactive"]
 category: ["infrastructure","defi"]
 function: ["defi", "infrastructure"]

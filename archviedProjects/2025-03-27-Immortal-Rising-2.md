@@ -3,7 +3,7 @@ layout: "post"
 title: "Immortal Rising 2"
 date: "2025-03-27"
 timeframe: ["2025"]
-ecosystem: ["not-known"]
+ecosystem: ["ethereum", "immutable-zkevm"]
 rewardedActivity: ["retroactive"]
 category: ["gaming"]
 function: ["gaming"]

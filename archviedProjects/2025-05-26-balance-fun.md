@@ -3,7 +3,7 @@ layout: "post"
 title: "Balance"
 date: "2025-04-21"
 timeframe: ["2025"]
-ecosystem: ["not-known"]
+ecosystem: ["bnb"]
 rewardedActivity: ["binance-alpha", "retroactive"]
 category: [ "social"]
 function: [ "social"]

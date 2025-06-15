@@ -3,7 +3,7 @@ layout: "post"
 title: "Wayfinder"
 date: "2025-04-10"
 timeframe: ["2025"]
-ecosystem: ["ethereum", "base"]
+ecosystem: ["base", "ethereum"]
 rewardedActivity: ["binance-alpha", "quest"]
 category: ["ai"]
 function: ["ai"]

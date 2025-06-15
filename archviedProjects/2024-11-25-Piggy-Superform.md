@@ -3,7 +3,7 @@ layout: "post"
 title: "Piggy Superform"
 date: "2024-11-25"
 timeframe: ["2024"]
-ecosystem: ["not-known"]
+ecosystem: ["base"]
 rewardedActivity: ["retroactive"]
 category: ["defi"]
 function: ["synthetics", "defi", "cross-chain"]

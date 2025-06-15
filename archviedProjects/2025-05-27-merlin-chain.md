@@ -3,7 +3,7 @@ layout: "post"
 title: "Merlin Chain"
 date: "2025-05-20"
 timeframe: ["2025"]
-ecosystem: ["bitcoin"]
+ecosystem: ["bnb", "bitcoin", "ethereum", "merlin-chain"]
 rewardedActivity: ["binance-alpha"]
 category: ["scaling", "infrastructure"]
 function: ["layer-2", "scaling"]

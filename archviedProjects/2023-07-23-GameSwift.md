@@ -3,7 +3,7 @@ layout: "post"
 title: "GameSwift"
 date: "2023-07-23"
 timeframe: ["2023"]
-ecosystem: ["not-known"]
+ecosystem: ["arbitrum", "ethereum", "optimism-superchain"]
 rewardedActivity: ["retroactive", "holders"]
 category: ["gaming","infrastructure"]
 function: ["gaming", "infrastructure"]

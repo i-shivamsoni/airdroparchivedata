@@ -3,7 +3,7 @@ layout: "post"
 title: "Pyth Network"
 date: "2023-11-20"
 timeframe: ["2023"]
-ecosystem: ["not-known"]
+ecosystem: ["neon", "manta", "solana"]
 rewardedActivity: ["holder", "retroactive"]
 category: ["infrastructure"]
 function: ["oracle", "infrastructure"]

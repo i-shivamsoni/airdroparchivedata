@@ -3,7 +3,7 @@ layout: "post"
 title: "ZetaChain"
 date: "2024-01-25"
 timeframe: ["2024"]
-ecosystem: ["not-known"]
+ecosystem: ["solana"]
 rewardedActivity: ["retroactive"]
 category: ["infrastructure"]
 function: ["infrastructure"]

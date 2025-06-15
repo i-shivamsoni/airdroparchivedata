@@ -3,7 +3,7 @@ layout: "post"
 title: "Spectral Labs"
 date: "2024-05-06"
 timeframe: ["2024"]
-ecosystem: ["not-known"]
+ecosystem: ["base", "ethereum"]
 rewardedActivity: ["retroactive"]
 category: ["infrastructure"]
 function: ["visualization", "infrastructure", "analytics"]

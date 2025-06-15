@@ -3,7 +3,7 @@ layout: "post"
 title: "Odos Protocol"
 date: "2024-12-13"
 timeframe: ["2024"]
-ecosystem: ["not-known"]
+ecosystem: ["base"]
 rewardedActivity: ["retroactive"]
 category: ["defi"]
 function: ["defi", "aggregator", "dex"]

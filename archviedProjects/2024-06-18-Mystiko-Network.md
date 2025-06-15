@@ -3,7 +3,7 @@ layout: "post"
 title: "Mystiko Network"
 date: "2024-06-18"
 timeframe: ["2024"]
-ecosystem: ["not-known"]
+ecosystem: ["ethereum"]
 rewardedActivity: ["not-known"]
 category: ["privacy","infrastructure"]
 function: ["development", "privacy", "infrastructure"]

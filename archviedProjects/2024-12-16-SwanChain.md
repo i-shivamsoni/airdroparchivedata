@@ -3,7 +3,7 @@ layout: "post"
 title: "SwanChain"
 date: "2024-12-16"
 timeframe: ["2024"]
-ecosystem: ["not-known"]
+ecosystem: ["optimism-superchain"]
 rewardedActivity: ["retroactive"]
 category: ["rwa","infrastructure"]
 function: ["infrastructure", "real-assets", "tokenization"]

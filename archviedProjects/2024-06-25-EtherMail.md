@@ -3,7 +3,7 @@ layout: "post"
 title: "EtherMail"
 date: "2024-06-25"
 timeframe: ["2024"]
-ecosystem: ["not-known"]
+ecosystem: ["base"]
 rewardedActivity: ["retroactive"]
 category: ["social"]
 function: ["communication", "social"]

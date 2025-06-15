@@ -3,7 +3,7 @@ layout: "post"
 title: "zkSync"
 date: "2024-06-17"
 timeframe: ["2024"]
-ecosystem: ["ethereum"]
+ecosystem: ["zksync", "ethereum"]
 rewardedActivity: ["holder", "retroactive", "testnet"]
 category: ["scaling"]
 function: ["scaling", "ethereum"]

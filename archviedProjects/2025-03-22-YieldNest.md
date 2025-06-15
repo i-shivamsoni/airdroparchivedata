@@ -3,7 +3,7 @@ layout: "post"
 title: "YieldNest"
 date: "2025-03-22"
 timeframe: ["2025"]
-ecosystem: ["not-known"]
+ecosystem: ["bnb", "ethereum"]
 rewardedActivity: ["retroactive"]
 category: ["defi"]
 function: ["defi", "staking"]

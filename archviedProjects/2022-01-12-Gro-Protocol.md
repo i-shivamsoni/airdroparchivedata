@@ -3,7 +3,7 @@ layout: "post"
 title: "Gro Protocol"
 date: "2022-01-22 03:21:08 +0530"
 timeframe: ["2022"]
-ecosystem: ["not-known"]
+ecosystem: ["pulsechain"]
 rewardedActivity: ["retroactive"]
 category: ["defi"]
 function: ["defi", "diversification", "yield"]

@@ -3,7 +3,7 @@ layout: "post"
 title: "Vela Exchange"
 date: "2023-06-30"
 timeframe: ["2023"]
-ecosystem: ["not-known"]
+ecosystem: ["base", "arbitrum"]
 rewardedActivity: ["retroactive"]
 category: ["defi"]
 function: ["defi", "trading"]

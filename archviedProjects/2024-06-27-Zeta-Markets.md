@@ -3,7 +3,7 @@ layout: "post"
 title: "Zeta Markets"
 date: "2024-06-27"
 timeframe: ["2024"]
-ecosystem: ["not-known"]
+ecosystem: ["solana"]
 rewardedActivity: ["retroactive"]
 category: ["defi"]
 function: ["defi", "trading", "dex"]

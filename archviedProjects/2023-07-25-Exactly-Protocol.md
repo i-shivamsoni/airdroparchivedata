@@ -3,7 +3,7 @@ layout: "post"
 title: "Exactly Protocol"
 date: "2023-07-25"
 timeframe: ["2023"]
-ecosystem: ["not-known"]
+ecosystem: ["optimism"]
 rewardedActivity: ["retroactive"]
 category: ["defi"]
 function: ["defi", "lending"]

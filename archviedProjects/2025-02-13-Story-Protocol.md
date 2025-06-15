@@ -3,7 +3,7 @@ layout: "post"
 title: "Story Protocol"
 date: "2025-02-13"
 timeframe: ["2025"]
-ecosystem: ["not-known"]
+ecosystem: ["story"]
 rewardedActivity: ["testnet", "kaito-yapping"]
 category: ["infrastructure"]
 function: ["infrastructure"]

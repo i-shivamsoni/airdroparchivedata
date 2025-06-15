@@ -3,7 +3,7 @@ layout: "post"
 title: "Puffverse (PFVS)"
 date: "2025-05-27"
 timeframe: ["2025"]
-ecosystem: ["ethereum"]
+ecosystem: ["ronin", "ethereum"]
 rewardedActivity: ["binance-alpha", "gaming", "nft"]
 category: ["gaming"]
 function: ["gaming", "metaverse"]

@@ -3,7 +3,7 @@ layout: "post"
 title: "Axelar Network"
 date: "2022-09-27"
 timeframe: ["2022"]
-ecosystem: ["not-known"]
+ecosystem: ["arbitrum", "fantom", "optimism", "secret", "avalanche", "bnb", "osmosis", "moonbeam", "base", "ethereum", "polygon"]
 rewardedActivity: ["retroactive"]
 category: ["infrastructure"]
 function: ["infrastructure", "cross-chain"]

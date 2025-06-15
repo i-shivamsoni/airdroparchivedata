@@ -3,7 +3,7 @@ layout: "post"
 title: "Superfluid"
 date: "2025-02-19"
 timeframe: ["2025"]
-ecosystem: ["not-known"]
+ecosystem: ["avalanche"]
 rewardedActivity: ["retroactive"]
 category: ["defi"]
 function: ["defi", "protocol", "dex"]

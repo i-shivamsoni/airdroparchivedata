@@ -3,7 +3,7 @@ layout: "post"
 title: "Index Cooperative"
 date: "2020-10-07 04:57 +0530"
 timeframe: ["2020"]
-ecosystem: ["not-known"]
+ecosystem: ["ethereum", "polygon"]
 rewardedActivity: ["retroactive"]
 category: ["defi"]
 function: ["tokens", "defi", "index"]

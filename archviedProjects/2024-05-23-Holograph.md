@@ -3,7 +3,7 @@ layout: "post"
 title: "Holograph"
 date: "2024-05-23"
 timeframe: ["2024"]
-ecosystem: ["not-known"]
+ecosystem: ["ethereum"]
 rewardedActivity: ["retroactive"]
 category: ["infrastructure"]
 function: ["infrastructure", "cross-chain"]

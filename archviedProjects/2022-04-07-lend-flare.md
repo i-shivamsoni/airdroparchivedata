@@ -3,7 +3,7 @@ layout: "post"
 title: "Lend Flare"
 date: "2022-04-07 05:34 +0530"
 timeframe: ["2022"]
-ecosystem: ["not-known"]
+ecosystem: ["bnb"]
 rewardedActivity: ["testnet"]
 category: ["defi"]
 function: ["defi", "lending", "yield"]

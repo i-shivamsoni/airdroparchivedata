@@ -3,7 +3,7 @@ layout: "post"
 title: "Tornado Cash"
 date: "2021-10-02 03:21:08 +0530"
 timeframe: ["2021"]
-ecosystem: ["ethereum"]
+ecosystem: ["bnb", "ethereum"]
 rewardedActivity: ["retroactive"]
 category: ["privacy","infrastructure"]
 function: ["ethereum", "privacy", "infrastructure"]

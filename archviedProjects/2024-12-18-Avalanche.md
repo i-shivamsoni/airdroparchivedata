@@ -3,7 +3,7 @@ layout: "post"
 title: "Avalanche"
 date: "2024-12-18"
 timeframe: ["2024"]
-ecosystem: ["not-known"]
+ecosystem: ["avalanche"]
 rewardedActivity: ["retroactive"]
 category: ["scaling"]
 function: ["blockchain"]

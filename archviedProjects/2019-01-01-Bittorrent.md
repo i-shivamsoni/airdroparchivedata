@@ -3,7 +3,7 @@ layout: "post"
 title: "BitTorrent"
 date: "2019-01-01"
 timeframe: ["2019"]
-ecosystem: ["not-known"]
+ecosystem: ["bittorrent", "bnb", "energi", "tron", "ethereum"]
 rewardedActivity: ["holder"]
 category: ["infrastructure"]
 function: ["tron", "infrastructure", "file-sharing"]

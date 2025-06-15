@@ -3,7 +3,7 @@ layout: "post"
 title: "Hop Protocol"
 date: "2022-06-11 03:21:08 +0530"
 timeframe: ["2022"]
-ecosystem: ["not-known"]
+ecosystem: ["arbitrum", "optimism", "gnosis-chain", "base", "ethereum", "polygon"]
 rewardedActivity: ["retroactive"]
 category: ["infrastructure"]
 function: ["transfer", "infrastructure", "cross-chain"]

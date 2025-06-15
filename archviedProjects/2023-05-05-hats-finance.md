@@ -3,7 +3,7 @@ layout: "post"
 title: "Hats finance"
 date: "2024-07-26 04:33 +0530"
 timeframe: ["2024"]
-ecosystem: ["not-known"]
+ecosystem: ["arbitrum", "ethereum"]
 rewardedActivity: ["retroactive"]
 category: ["infrastructure"]
 function: ["dao", "infrastructure"]

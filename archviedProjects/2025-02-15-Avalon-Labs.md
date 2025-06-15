@@ -3,7 +3,7 @@ layout: "post"
 title: "Avalon Labs"
 date: "2025-02-15"
 timeframe: ["2025"]
-ecosystem: ["not-known"]
+ecosystem: ["ethereum"]
 rewardedActivity: ["retroactive"]
 category: ["defi"]
 function: ["defi", "protocol", "dex"]

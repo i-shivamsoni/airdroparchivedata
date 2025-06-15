@@ -3,7 +3,7 @@ layout: "post"
 title: "LayerZero"
 date: "2024-06-20"
 timeframe: ["2024"]
-ecosystem: ["not-known"]
+ecosystem: ["arbitrum", "optimism", "avalanche", "bnb", "base", "ethereum", "polygon"]
 rewardedActivity: ["retroactive"]
 category: ["infrastructure"]
 function: ["infrastructure", "cross-chain"]

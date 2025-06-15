@@ -3,7 +3,7 @@ layout: "post"
 title: "RedStone Oracles"
 date: "2025-03-06"
 timeframe: ["2025"]
-ecosystem: ["not-known"]
+ecosystem: ["ethereum"]
 rewardedActivity: ["retroactive"]
 category: ["infrastructure"]
 function: ["oracle", "infrastructure"]

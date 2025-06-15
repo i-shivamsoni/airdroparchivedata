@@ -3,7 +3,7 @@ layout: "post"
 title: "WalletConnect"
 date: "2024-11-27"
 timeframe: ["2024"]
-ecosystem: ["not-known"]
+ecosystem: ["ethereum", "solana", "optimism"]
 rewardedActivity: ["retroactive"]
 category: ["infrastructure"]
 function: ["infrastructure", "wallet", "protocol"]

@@ -3,7 +3,7 @@ layout: "post"
 title: "Streamflow"
 date: "2024-12-07"
 timeframe: ["2024"]
-ecosystem: ["not-known"]
+ecosystem: ["solana"]
 rewardedActivity: ["retroactive"]
 category: ["infrastructure","defi"]
 function: ["payment-streaming", "defi", "infrastructure"]

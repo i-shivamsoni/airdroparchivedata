@@ -3,7 +3,7 @@ layout: "post"
 title: "Magic Eden"
 date: "2025-04-17"
 timeframe: ["2025"]
-ecosystem: ["solana", "ethereum", "bitcoin", "polygon"]
+ecosystem: ["bitcoin", "ethereum", "solana", "polygon"]
 rewardedActivity: ["staking", "quest", "trading", "loyalty"]
 category: ["nft", "defi"]
 function: ["marketplace", "staking"]

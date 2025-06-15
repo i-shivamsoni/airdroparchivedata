@@ -3,7 +3,7 @@ layout: "post"
 title: "Redbelly Network"
 date: "2025-01-26"
 timeframe: ["2025"]
-ecosystem: ["not-known"]
+ecosystem: ["redbelly-network", "ethereum"]
 rewardedActivity: ["testnet", "social","node"]
 category: ["social","infrastructure"]
 function: ["infrastructure", "finance", "social"]

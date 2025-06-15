@@ -3,7 +3,7 @@ layout: "post"
 title: "RHEA Finance"
 date: "2025-03-22"
 timeframe: ["2025"]
-ecosystem: ["not-known"]
+ecosystem: ["near"]
 rewardedActivity: ["retroactive"]
 category: ["stablecoin","defi"]
 function: ["algorithmic", "defi", "stablecoin"]

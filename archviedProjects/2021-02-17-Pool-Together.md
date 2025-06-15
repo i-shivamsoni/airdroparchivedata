@@ -3,7 +3,7 @@ layout: "post"
 title: "Pool Together"
 date: "2021-02-17 04:59 +0530"
 timeframe: ["2021"]
-ecosystem: ["not-known"]
+ecosystem: ["arbitrum", "optimism", "gnosis-chain", "world-chain", "base", "ethereum", "polygon", "scroll"]
 rewardedActivity: ["retroactive"]
 category: ["defi"]
 function: ["lottery", "defi"]

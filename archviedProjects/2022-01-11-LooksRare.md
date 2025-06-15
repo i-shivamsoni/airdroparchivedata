@@ -3,7 +3,7 @@ layout: "post"
 title: "LooksRare"
 date: "2022-01-11 03:21:08 +0530"
 timeframe: ["2022"]
-ecosystem: ["not-known"]
+ecosystem: ["ethereum"]
 rewardedActivity: ["retroactive", "nft"]
 category: ["nft","defi"]
 function: ["marketplace", "nft"]

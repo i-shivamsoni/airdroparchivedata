@@ -3,7 +3,7 @@ layout: "post"
 title: "Talent Protocol"
 date: "2024-10-29"
 timeframe: ["2024"]
-ecosystem: ["not-known"]
+ecosystem: ["base"]
 rewardedActivity: ["retroactive"]
 category: ["social"]
 function: ["professional", "reputation", "social"]

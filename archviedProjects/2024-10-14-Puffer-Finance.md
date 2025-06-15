@@ -3,7 +3,7 @@ layout: "post"
 title: "Puffer Finance"
 date: "2024-10-14"
 timeframe: ["2024"]
-ecosystem: ["ethereum"]
+ecosystem: ["bnb", "ethereum"]
 rewardedActivity: ["retroactive", "binance-alpha"]
 category: ["defi"]
 function: ["defi", "restaking", "yield"]
