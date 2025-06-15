@@ -20,21 +20,21 @@ last_updated: "2025-06-15T10:40:58.761Z"
 last_updated: "2025-06-15T11:42:38.349Z"
 last_updated: "2025-06-15T13:29:33.699Z"
 last_updated: "2025-06-15T14:17:24.951Z"
-# miscellaneous data source section
+last_updated: "2025-06-15T17:02:20.744Z"
 coingecko_id: "polyhedra-network"
-current_price: 0.764023
-market_cap: 237911879
-market_cap_rank: 260
-fully_diluted_valuation: 771467089
+current_price: 0.928798
+market_cap: 288715332
+market_cap_rank: 236
+fully_diluted_valuation: 936205359
 circulating_supply: 308388890.0
 total_supply: 1000000000.0
 max_supply: 1000000000.0
 ath: 4.01
-ath_change_percentage: -80.8887
+ath_change_percentage: -76.6828
 ath_date: "2024-03-19T10:00:53.393Z"
-atl: 0.766472
-atl_change_percentage: -0.02027
-atl_date: "2025-06-15T14:05:44.025Z"
+atl: 0.762521
+atl_change_percentage: 22.61456
+atl_date: "2025-06-15T14:25:22.989Z"
 ---
 
 ## Airdrop Details

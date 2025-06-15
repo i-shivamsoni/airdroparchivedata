@@ -19,20 +19,20 @@ last_updated: "2025-06-15T10:38:52.255Z"
 last_updated: "2025-06-15T11:42:43.820Z"
 last_updated: "2025-06-15T13:28:46.632Z"
 last_updated: "2025-06-15T14:14:44.617Z"
-# miscellaneous data source section
+last_updated: "2025-06-15T17:01:34.473Z"
 coingecko_id: "nyan"
-current_price: 0.00410833
-market_cap: 601254
-market_cap_rank: 4381
-fully_diluted_valuation: 4108329
+current_price: 0.00407438
+market_cap: 598476
+market_cap_rank: 4350
+fully_diluted_valuation: 4089347
 circulating_supply: 146350109.0
 total_supply: 1000000000.0
 max_supply: 1000000000.0
 ath: 0.457078
-ath_change_percentage: -99.12978
+ath_change_percentage: -99.12786
 ath_date: "2024-05-21T11:00:58.821Z"
 atl: 0.00336829
-atl_change_percentage: 18.08977
+atl_change_percentage: 18.35018
 atl_date: "2025-06-06T10:40:04.596Z"
 ---
 

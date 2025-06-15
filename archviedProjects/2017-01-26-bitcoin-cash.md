@@ -19,20 +19,20 @@ last_updated: "2025-06-15T10:41:02.134Z"
 last_updated: "2025-06-15T11:42:46.226Z"
 last_updated: "2025-06-15T13:29:36.936Z"
 last_updated: "2025-06-15T14:17:24.268Z"
-# miscellaneous data source section
+last_updated: "2025-06-15T17:02:14.612Z"
 coingecko_id: "bitcoin-cash"
-current_price: 454.23
-market_cap: 9032590270
+current_price: 461.4
+market_cap: 9162841826
 market_cap_rank: 16
-fully_diluted_valuation: 9032590270
-circulating_supply: 19884040.52165078
-total_supply: 19884040.52165078
+fully_diluted_valuation: 9162849026
+circulating_supply: 19884068.64665078
+total_supply: 19884084.27165078
 max_supply: 21000000.0
 ath: 3785.82
-ath_change_percentage: -87.98857
+ath_change_percentage: -87.8228
 ath_date: "2017-12-20T00:00:00.000Z"
 atl: 76.93
-atl_change_percentage: 491.06042
+atl_change_percentage: 499.2178
 atl_date: "2018-12-16T00:00:00.000Z"
 ---
 

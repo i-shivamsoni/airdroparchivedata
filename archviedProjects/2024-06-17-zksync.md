@@ -20,20 +20,20 @@ last_updated: "2025-06-15T10:40:56.415Z"
 last_updated: "2025-06-15T11:42:36.719Z"
 last_updated: "2025-06-15T13:29:40.655Z"
 last_updated: "2025-06-15T14:17:25.551Z"
-# miscellaneous data source section
+last_updated: "2025-06-15T17:02:18.817Z"
 coingecko_id: "zksync"
-current_price: 0.04914921
-market_cap: 180654289
-market_cap_rank: 305
-fully_diluted_valuation: 1032310224
+current_price: 0.04990353
+market_cap: 183243289
+market_cap_rank: 304
+fully_diluted_valuation: 1047104509
 circulating_supply: 3675000000.0
 total_supply: 21000000000.0
 max_supply: 21000000000.0
 ath: 0.320983
-ath_change_percentage: -84.65055
+ath_change_percentage: -84.43115
 ath_date: "2024-06-17T07:44:40.385Z"
 atl: 0.04150724
-atl_change_percentage: 18.69985
+atl_change_percentage: 20.39652
 atl_date: "2025-04-15T13:41:54.850Z"
 ---
 

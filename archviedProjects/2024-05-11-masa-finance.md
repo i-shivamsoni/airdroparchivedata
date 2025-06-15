@@ -18,20 +18,20 @@ last_updated: "2025-06-15T10:40:57.408Z"
 last_updated: "2025-06-15T11:42:36.303Z"
 last_updated: "2025-06-15T13:29:41.789Z"
 last_updated: "2025-06-15T14:17:30.581Z"
-# miscellaneous data source section
+last_updated: "2025-06-15T17:02:19.265Z"
 coingecko_id: "masa-finance"
-current_price: 0.02085633
-market_cap: 11686663
-market_cap_rank: 1498
-fully_diluted_valuation: 32902296
+current_price: 0.02100972
+market_cap: 11740243
+market_cap_rank: 1496
+fully_diluted_valuation: 33053145
 circulating_supply: 558800582.0660924
 total_supply: 1573231182.885776
 max_supply: 1588866523.0
 ath: 0.803173
-ath_change_percentage: -97.3882
+ath_change_percentage: -97.39147
 ath_date: "2024-04-11T08:01:42.941Z"
 atl: 0.01188869
-atl_change_percentage: 76.44773
+atl_change_percentage: 76.22619
 atl_date: "2025-04-17T13:21:19.134Z"
 ---
 

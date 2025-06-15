@@ -19,20 +19,20 @@ last_updated: "2025-06-15T10:41:03.051Z"
 last_updated: "2025-06-15T11:42:42.488Z"
 last_updated: "2025-06-15T13:29:47.823Z"
 last_updated: "2025-06-15T14:17:24.183Z"
-# miscellaneous data source section
+last_updated: "2025-06-15T17:02:15.478Z"
 coingecko_id: "hyperliquid"
-current_price: 40.39
-market_cap: 13482685774
+current_price: 40.71
+market_cap: 13578950556
 market_cap_rank: 13
-fully_diluted_valuation: 40375616754
+fully_diluted_valuation: 40663893883
 circulating_supply: 333928180.0
 total_supply: 999990391.0
 max_supply: 1000000000.0
 ath: 43.82
-ath_change_percentage: -7.53302
+ath_change_percentage: -7.05967
 ath_date: "2025-06-11T15:36:41.179Z"
 atl: 3.81
-atl_change_percentage: 963.73378
+atl_change_percentage: 969.17916
 atl_date: "2024-11-29T09:30:30.871Z"
 ---
 

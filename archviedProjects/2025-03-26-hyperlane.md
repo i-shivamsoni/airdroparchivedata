@@ -19,20 +19,20 @@ last_updated: "2025-06-15T10:40:58.769Z"
 last_updated: "2025-06-15T11:42:38.046Z"
 last_updated: "2025-06-15T13:29:43.241Z"
 last_updated: "2025-06-15T14:17:20.049Z"
-# miscellaneous data source section
+last_updated: "2025-06-15T17:02:11.135Z"
 coingecko_id: "hyperlane"
-current_price: 0.111692
-market_cap: 19568524
-market_cap_rank: 1169
-fully_diluted_valuation: 89651891
+current_price: 0.113893
+market_cap: 19937810
+market_cap_rank: 1164
+fully_diluted_valuation: 91343695
 circulating_supply: 175200000.0
-total_supply: 802667144.0
+total_supply: 802666667.0
 max_supply: 1000000000.0
 ath: 0.350206
-ath_change_percentage: -68.0417
+ath_change_percentage: -67.4687
 ath_date: "2025-04-23T01:25:59.600Z"
 atl: 0.102649
-atl_change_percentage: 9.03155
+atl_change_percentage: 10.98645
 atl_date: "2025-06-13T06:30:32.690Z"
 ---
 

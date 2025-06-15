@@ -18,20 +18,20 @@ last_updated: "2025-06-15T10:40:07.984Z"
 last_updated: "2025-06-15T11:40:47.535Z"
 last_updated: "2025-06-15T13:27:03.130Z"
 last_updated: "2025-06-15T14:15:12.762Z"
-# miscellaneous data source section
+last_updated: "2025-06-15T17:01:00.137Z"
 coingecko_id: "exa"
-current_price: 0.476643
-market_cap: 1531928
-market_cap_rank: 3226
-fully_diluted_valuation: 4766430
-circulating_supply: 3213994.906868149
+current_price: 0.485718
+market_cap: 1561559
+market_cap_rank: 3220
+fully_diluted_valuation: 4857185
+circulating_supply: 3214947.172573441
 total_supply: 10000000.0
 max_supply: 10000000.0
 ath: 11.89
-ath_change_percentage: -95.99476
+ath_change_percentage: -95.97754
 ath_date: "2023-08-09T17:19:57.171Z"
 atl: 0.141845
-atl_change_percentage: 235.69728
+atl_change_percentage: 237.141
 atl_date: "2025-02-03T02:15:46.026Z"
 ---
 

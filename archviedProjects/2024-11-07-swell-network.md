@@ -18,20 +18,20 @@ last_updated: "2025-06-15T10:41:02.762Z"
 last_updated: "2025-06-15T11:42:42.487Z"
 last_updated: "2025-06-15T13:29:47.711Z"
 last_updated: "2025-06-15T14:17:20.057Z"
-# miscellaneous data source section
+last_updated: "2025-06-15T17:02:15.381Z"
 coingecko_id: "swell-network"
-current_price: 0.00812102
-market_cap: 16869776
-market_cap_rank: 1240
-fully_diluted_valuation: 81186034
-circulating_supply: 2077915984.973101
+current_price: 0.008174
+market_cap: 16972685
+market_cap_rank: 1245
+fully_diluted_valuation: 81680640
+circulating_supply: 2077932375.40716
 total_supply: 10000000000.0
 max_supply: 10000000000.0
 ath: 0.069551
-ath_change_percentage: -88.23402
+ath_change_percentage: -88.28526
 ath_date: "2024-11-09T12:46:13.695Z"
 atl: 0.00705168
-atl_change_percentage: 16.049
+atl_change_percentage: 15.54362
 atl_date: "2025-04-09T01:31:50.428Z"
 ---
 

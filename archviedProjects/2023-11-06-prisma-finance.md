@@ -18,20 +18,20 @@ last_updated: "2025-06-15T10:40:58.890Z"
 last_updated: "2025-06-15T11:42:38.356Z"
 last_updated: "2025-06-15T13:29:43.652Z"
 last_updated: "2025-06-15T14:17:22.945Z"
-# miscellaneous data source section
+last_updated: "2025-06-15T17:02:11.332Z"
 coingecko_id: "prisma-governance-token"
-current_price: 0.05822
-market_cap: 5678605
-market_cap_rank: 1961
-fully_diluted_valuation: 17465920
+current_price: 0.058066
+market_cap: 5663582
+market_cap_rank: 1969
+fully_diluted_valuation: 17419714
 circulating_supply: 97537455.7366792
 total_supply: 300000000.0
 max_supply: 300000000.0
 ath: 18.64
-ath_change_percentage: -99.68802
+ath_change_percentage: -99.68852
 ath_date: "2023-11-02T02:59:38.350Z"
 atl: 0.01791617
-atl_change_percentage: 224.66345
+atl_change_percentage: 224.14021
 atl_date: "2024-11-18T05:05:21.757Z"
 ---
 

@@ -19,20 +19,20 @@ last_updated: "2025-06-15T10:40:59.161Z"
 last_updated: "2025-06-15T11:42:47.744Z"
 last_updated: "2025-06-15T13:29:43.778Z"
 last_updated: "2025-06-15T14:17:29.176Z"
-# miscellaneous data source section
+last_updated: "2025-06-15T17:02:11.213Z"
 coingecko_id: "mind-network"
-current_price: 0.076478
-market_cap: 19037685
-market_cap_rank: 1188
-fully_diluted_valuation: 76456567
+current_price: 0.076458
+market_cap: 19039744
+market_cap_rank: 1192
+fully_diluted_valuation: 76464836
 circulating_supply: 249000000.0
 total_supply: 1000000000.0
 max_supply: 1000000000.0
 ath: 0.125171
-ath_change_percentage: -38.90878
+ath_change_percentage: -38.94512
 ath_date: "2025-04-26T00:06:12.850Z"
 atl: 0.02917914
-atl_change_percentage: 162.06606
+atl_change_percentage: 161.9102
 atl_date: "2025-04-11T09:51:11.501Z"
 ---
 

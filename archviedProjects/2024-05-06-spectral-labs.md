@@ -19,20 +19,20 @@ last_updated: "2025-06-15T10:41:01.017Z"
 last_updated: "2025-06-15T11:42:46.507Z"
 last_updated: "2025-06-15T13:29:42.616Z"
 last_updated: "2025-06-15T14:17:29.694Z"
-# miscellaneous data source section
+last_updated: "2025-06-15T17:02:20.298Z"
 coingecko_id: "spectral"
-current_price: 0.828715
-market_cap: 17103970
-market_cap_rank: 1236
-fully_diluted_valuation: 82971496
+current_price: 0.823686
+market_cap: 16980276
+market_cap_rank: 1244
+fully_diluted_valuation: 82371455
 circulating_supply: 20614271.9
 total_supply: 100000000.0
 max_supply: 100000000.0
 ath: 18.48
-ath_change_percentage: -95.51619
+ath_change_percentage: -95.53584
 ath_date: "2024-11-30T06:25:35.274Z"
 atl: 0.796312
-atl_change_percentage: 4.02968
+atl_change_percentage: 3.5736
 atl_date: "2025-06-13T02:45:13.157Z"
 ---
 

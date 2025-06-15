@@ -19,20 +19,20 @@ last_updated: "2025-06-15T10:37:32.685Z"
 last_updated: "2025-06-15T11:42:40.033Z"
 last_updated: "2025-06-15T13:27:35.302Z"
 last_updated: "2025-06-15T14:15:48.260Z"
-# miscellaneous data source section
+last_updated: "2025-06-15T16:59:54.221Z"
 coingecko_id: "reflexer-ungovernance-token"
-current_price: 3.14
-market_cap: 2589200
-market_cap_rank: 2679
-fully_diluted_valuation: 3003396
+current_price: 3.15
+market_cap: 2596671
+market_cap_rank: 2678
+fully_diluted_valuation: 3012063
 circulating_supply: 825126.1286031244
 total_supply: 957122.2961293116
 max_supply: 957122.2961293116
 ath: 1839.79
-ath_change_percentage: -99.8307
+ath_change_percentage: -99.82895
 ath_date: "2021-04-15T20:14:47.371Z"
 atl: 1.15
-atl_change_percentage: 169.76603
+atl_change_percentage: 172.55058
 atl_date: "2025-04-09T04:25:15.903Z"
 ---
 

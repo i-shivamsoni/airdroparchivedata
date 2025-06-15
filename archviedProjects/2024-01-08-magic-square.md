@@ -19,20 +19,20 @@ last_updated: "2025-06-15T10:40:21.346Z"
 last_updated: "2025-06-15T11:42:20.177Z"
 last_updated: "2025-06-15T13:29:15.698Z"
 last_updated: "2025-06-15T14:15:53.479Z"
-# miscellaneous data source section
+last_updated: "2025-06-15T17:00:49.510Z"
 coingecko_id: "magic-square"
-current_price: 0.00724516
-market_cap: 1631327
-market_cap_rank: 3148
-fully_diluted_valuation: 7244544
+current_price: 0.00720394
+market_cap: 1621583
+market_cap_rank: 3160
+fully_diluted_valuation: 7201272
 circulating_supply: 225160992.37334394
 total_supply: 999915386.9601574
 max_supply: 1000000000.0
 ath: 0.775708
-ath_change_percentage: -99.06502
+ath_change_percentage: -99.06731
 ath_date: "2024-01-18T04:01:02.519Z"
 atl: 0.00646544
-atl_change_percentage: 12.17654
+atl_change_percentage: 11.90258
 atl_date: "2025-04-16T12:46:41.489Z"
 ---
 

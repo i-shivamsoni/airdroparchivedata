@@ -18,20 +18,20 @@ last_updated: "2025-06-15T10:39:14.154Z"
 last_updated: "2025-06-15T11:40:16.493Z"
 last_updated: "2025-06-15T13:29:06.420Z"
 last_updated: "2025-06-15T14:17:15.414Z"
-# miscellaneous data source section
+last_updated: "2025-06-15T17:01:20.070Z"
 coingecko_id: "singularity-finance"
-current_price: 0.04760231
+current_price: 0.04680705
 market_cap: 0.0
 market_cap_rank: null
-fully_diluted_valuation: 23410774
+fully_diluted_valuation: 23403525
 circulating_supply: 0.0
 total_supply: 500000000.0
 max_supply: 500000000.0
 ath: 0.204218
-ath_change_percentage: -77.07309
+ath_change_percentage: -76.83249
 ath_date: "2025-02-10T11:32:04.927Z"
 atl: 0.03951998
-atl_change_percentage: 18.47384
+atl_change_percentage: 19.71714
 atl_date: "2025-06-09T19:50:04.567Z"
 ---
 

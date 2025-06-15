@@ -18,20 +18,20 @@ last_updated: "2025-06-15T10:39:23.672Z"
 last_updated: "2025-06-15T11:42:28.092Z"
 last_updated: "2025-06-15T13:29:03.399Z"
 last_updated: "2025-06-15T14:17:23.755Z"
-# miscellaneous data source section
+last_updated: "2025-06-15T17:01:46.573Z"
 coingecko_id: "pontem-liquidswap"
-current_price: 0.279171
+current_price: 0.279259
 market_cap: 0.0
 market_cap_rank: null
-fully_diluted_valuation: 11720744
+fully_diluted_valuation: 11730438
 circulating_supply: 0.0
 total_supply: 42000000.0
 max_supply: null
 ath: 1.38
-ath_change_percentage: -79.84913
+ath_change_percentage: -79.82792
 ath_date: "2024-10-16T14:35:11.577Z"
 atl: 0.258435
-atl_change_percentage: 7.95793
+atl_change_percentage: 8.07157
 atl_date: "2024-09-18T12:46:06.427Z"
 ---
 

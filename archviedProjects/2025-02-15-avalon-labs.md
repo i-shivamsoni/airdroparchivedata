@@ -18,20 +18,20 @@ last_updated: "2025-06-15T10:41:05.423Z"
 last_updated: "2025-06-15T11:42:44.411Z"
 last_updated: "2025-06-15T13:29:40.304Z"
 last_updated: "2025-06-15T14:17:28.594Z"
-# miscellaneous data source section
+last_updated: "2025-06-15T17:02:17.637Z"
 coingecko_id: "avalon-2"
-current_price: 0.141439
-market_cap: 25753712
-market_cap_rank: 1006
-fully_diluted_valuation: 141309804
+current_price: 0.138803
+market_cap: 25348444
+market_cap_rank: 1024
+fully_diluted_valuation: 139086113
 circulating_supply: 182250001.0
 total_supply: 1000000000.0
 max_supply: 1000000000.0
 ath: 0.787073
-ath_change_percentage: -81.96977
+ath_change_percentage: -82.01944
 ath_date: "2025-03-08T02:15:44.824Z"
 atl: 0.137018
-atl_change_percentage: 3.57088
+atl_change_percentage: 3.28557
 atl_date: "2025-06-13T07:51:01.801Z"
 ---
 

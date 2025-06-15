@@ -18,7 +18,7 @@ last_updated: "2025-06-15T10:31:48.759Z"
 last_updated: "2025-06-15T11:31:54.920Z"
 last_updated: "2025-06-15T13:02:15.968Z"
 last_updated: "2025-06-15T14:02:15.670Z"
-# miscellaneous data source section
+last_updated: "2025-06-15T15:02:03.433Z"
 coingecko_id: "animeswap"
 current_price: 0.00020342
 market_cap: 0.0

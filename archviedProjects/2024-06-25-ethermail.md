@@ -18,20 +18,20 @@ last_updated: "2025-06-15T10:40:55.348Z"
 last_updated: "2025-06-15T11:42:40.715Z"
 last_updated: "2025-06-15T13:28:47.051Z"
 last_updated: "2025-06-15T14:14:45.601Z"
-# miscellaneous data source section
+last_updated: "2025-06-15T17:01:35.564Z"
 coingecko_id: "email-token"
-current_price: 0.00548288
+current_price: 0.00547524
 market_cap: 0.0
 market_cap_rank: null
-fully_diluted_valuation: 5474955
+fully_diluted_valuation: 5473106
 circulating_supply: 0.0
 total_supply: 1000000000.0
 max_supply: 1000000000.0
 ath: 0.435916
-ath_change_percentage: -98.74345
+ath_change_percentage: -98.74209
 ath_date: "2024-06-13T02:03:48.797Z"
 atl: 0.00540271
-atl_change_percentage: 1.38432
+atl_change_percentage: 1.49448
 atl_date: "2025-06-10T07:45:38.514Z"
 ---
 

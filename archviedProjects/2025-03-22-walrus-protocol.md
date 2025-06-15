@@ -18,20 +18,20 @@ last_updated: "2025-06-15T10:41:04.351Z"
 last_updated: "2025-06-15T11:42:43.614Z"
 last_updated: "2025-06-15T13:29:40.406Z"
 last_updated: "2025-06-15T14:17:24.177Z"
-# miscellaneous data source section
+last_updated: "2025-06-15T17:02:16.728Z"
 coingecko_id: "walrus-2"
-current_price: 0.458708
-market_cap: 619006032
-market_cap_rank: 134
-fully_diluted_valuation: 2295803548
+current_price: 0.460691
+market_cap: 620417810
+market_cap_rank: 135
+fully_diluted_valuation: 2301039629
 circulating_supply: 1348125000.0
 total_supply: 5000000000.0
 max_supply: 5000000000.0
 ath: 0.759179
-ath_change_percentage: -39.60552
+ath_change_percentage: -39.3733
 ath_date: "2025-05-14T08:10:39.605Z"
 atl: 0.360808
-atl_change_percentage: 27.07659
+atl_change_percentage: 27.5652
 atl_date: "2025-03-27T11:06:49.973Z"
 ---
 

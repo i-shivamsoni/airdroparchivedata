@@ -19,20 +19,20 @@ last_updated: "2025-06-15T10:40:56.759Z"
 last_updated: "2025-06-15T11:42:35.578Z"
 last_updated: "2025-06-15T13:29:40.894Z"
 last_updated: "2025-06-15T14:17:25.172Z"
-# miscellaneous data source section
+last_updated: "2025-06-15T17:02:08.689Z"
 coingecko_id: "layerzero"
-current_price: 1.93
-market_cap: 214793520
-market_cap_rank: 276
-fully_diluted_valuation: 1932415695
+current_price: 1.95
+market_cap: 216184876
+market_cap_rank: 275
+fully_diluted_valuation: 1944933192
 circulating_supply: 111152854.20763355
 total_supply: 1000000000.0
 max_supply: 1000000000.0
 ath: 7.47
-ath_change_percentage: -74.08667
+ath_change_percentage: -74.00949
 ath_date: "2024-12-06T14:15:52.674Z"
 atl: 1.51
-atl_change_percentage: 28.33975
+atl_change_percentage: 28.72201
 atl_date: "2025-03-11T01:11:48.281Z"
 ---
 

@@ -18,20 +18,20 @@ last_updated: "2025-06-15T10:40:55.379Z"
 last_updated: "2025-06-15T11:42:34.522Z"
 last_updated: "2025-06-15T13:29:40.407Z"
 last_updated: "2025-06-15T14:17:28.190Z"
-# miscellaneous data source section
+last_updated: "2025-06-15T17:02:17.124Z"
 coingecko_id: "puffer-finance"
-current_price: 0.183981
-market_cap: 32410170
-market_cap_rank: 888
-fully_diluted_valuation: 184201957
+current_price: 0.183547
+market_cap: 32296410
+market_cap_rank: 893
+fully_diluted_valuation: 183555407
 circulating_supply: 175949105.0
 total_supply: 1000000000.0
 max_supply: 1000000000.0
 ath: 0.990824
-ath_change_percentage: -81.38674
+ath_change_percentage: -81.48206
 ath_date: "2024-12-07T09:42:30.591Z"
 atl: 0.137666
-atl_change_percentage: 33.96478
+atl_change_percentage: 33.27874
 atl_date: "2025-04-07T06:55:27.572Z"
 ---
 

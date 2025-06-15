@@ -18,20 +18,20 @@ last_updated: "2025-06-15T10:41:07.015Z"
 last_updated: "2025-06-15T11:42:46.425Z"
 last_updated: "2025-06-15T13:29:42.192Z"
 last_updated: "2025-06-15T14:17:28.987Z"
-# miscellaneous data source section
+last_updated: "2025-06-15T17:02:19.712Z"
 coingecko_id: "stake-link"
-current_price: 0.379659
-market_cap: 22178143
+current_price: 0.381449
+market_cap: 22244737
 market_cap_rank: 1102
-fully_diluted_valuation: 38029592
-circulating_supply: 58318120.08
+fully_diluted_valuation: 38144978
+circulating_supply: 58316292.72
 total_supply: 100000000.0
 max_supply: 100000000.0
 ath: 1.22
-ath_change_percentage: -68.8012
+ath_change_percentage: -68.85148
 ath_date: "2025-04-07T15:10:33.776Z"
 atl: 0.072039
-atl_change_percentage: 427.55333
+atl_change_percentage: 426.70314
 atl_date: "2023-05-21T09:53:23.810Z"
 ---
 

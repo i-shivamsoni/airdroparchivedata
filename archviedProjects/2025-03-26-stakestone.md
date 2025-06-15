@@ -18,20 +18,20 @@ last_updated: "2025-06-15T10:41:03.225Z"
 last_updated: "2025-06-15T11:42:43.075Z"
 last_updated: "2025-06-15T13:29:48.361Z"
 last_updated: "2025-06-15T14:17:29.693Z"
-# miscellaneous data source section
+last_updated: "2025-06-15T17:02:16.018Z"
 coingecko_id: "stakestone"
-current_price: 0.075537
-market_cap: 16995118
-market_cap_rank: 1239
-fully_diluted_valuation: 75422123
+current_price: 0.075306
+market_cap: 16904407
+market_cap_rank: 1246
+fully_diluted_valuation: 75019556
 circulating_supply: 225333333.0
 total_supply: 1000000000.0
 max_supply: 1000000000.0
 ath: 0.214457
-ath_change_percentage: -64.94455
+ath_change_percentage: -64.89759
 ath_date: "2025-05-03T10:30:34.749Z"
 atl: 0.05283
-atl_change_percentage: 42.30223
+atl_change_percentage: 42.49284
 atl_date: "2025-04-07T19:12:25.173Z"
 ---
 

@@ -18,20 +18,20 @@ last_updated: "2025-06-15T10:40:56.765Z"
 last_updated: "2025-06-15T11:42:35.507Z"
 last_updated: "2025-06-15T13:29:41.717Z"
 last_updated: "2025-06-15T14:17:28.294Z"
-# miscellaneous data source section
+last_updated: "2025-06-15T17:02:18.693Z"
 coingecko_id: "ampleforth-governance-token"
-current_price: 2.46
-market_cap: 28133321
-market_cap_rank: 956
-fully_diluted_valuation: 37576191
+current_price: 2.48
+market_cap: 28343272
+market_cap_rank: 958
+fully_diluted_valuation: 37856612
 circulating_supply: 11453546.447170038
 total_supply: 15297897.14455933
 max_supply: null
 ath: 180.47
-ath_change_percentage: -98.63243
+ath_change_percentage: -98.62907
 ath_date: "2021-04-21T16:13:43.320Z"
 atl: 1.89
-atl_change_percentage: 30.58838
+atl_change_percentage: 30.90912
 atl_date: "2025-04-05T19:57:47.290Z"
 ---
 

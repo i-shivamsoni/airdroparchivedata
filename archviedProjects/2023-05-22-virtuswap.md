@@ -18,20 +18,20 @@ last_updated: "2025-06-15T10:40:14.667Z"
 last_updated: "2025-06-15T11:40:55.411Z"
 last_updated: "2025-06-15T13:29:13.414Z"
 last_updated: "2025-06-15T14:16:16.597Z"
-# miscellaneous data source section
+last_updated: "2025-06-15T16:59:59.158Z"
 coingecko_id: "virtuswap"
-current_price: 0.00018695
-market_cap: 115817
-market_cap_rank: 6495
-fully_diluted_valuation: 186948
+current_price: 0.00018516
+market_cap: 114711
+market_cap_rank: 6549
+fully_diluted_valuation: 185163
 circulating_supply: 619514521.0996523
 total_supply: 1000000000.0
 max_supply: 1000000000.0
 ath: 0.03881494
-ath_change_percentage: -99.51865
+ath_change_percentage: -99.52367
 ath_date: "2024-02-22T16:42:48.421Z"
 atl: 0.00010317
-atl_change_percentage: 81.09502
+atl_change_percentage: 79.20344
 atl_date: "2024-12-21T17:26:02.831Z"
 ---
 

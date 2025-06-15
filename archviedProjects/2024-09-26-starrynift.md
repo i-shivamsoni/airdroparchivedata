@@ -18,20 +18,20 @@ last_updated: "2025-06-15T10:38:45.897Z"
 last_updated: "2025-06-15T11:41:28.047Z"
 last_updated: "2025-06-15T13:28:49.573Z"
 last_updated: "2025-06-15T14:14:50.211Z"
-# miscellaneous data source section
+last_updated: "2025-06-15T17:01:44.282Z"
 coingecko_id: "starrynift"
-current_price: 0.00816963
-market_cap: 1253348
-market_cap_rank: 3448
-fully_diluted_valuation: 8169629
+current_price: 0.00817021
+market_cap: 1252815
+market_cap_rank: 3459
+fully_diluted_valuation: 8166155
 circulating_supply: 153415500.0
 total_supply: 1000000000.0
 max_supply: 1000000000.0
 ath: 0.105687
-ath_change_percentage: -92.26294
+ath_change_percentage: -92.27581
 ath_date: "2024-09-26T09:50:48.322Z"
 atl: 0.00655884
-atl_change_percentage: 24.67288
+atl_change_percentage: 24.46559
 atl_date: "2025-04-07T07:03:49.013Z"
 ---
 

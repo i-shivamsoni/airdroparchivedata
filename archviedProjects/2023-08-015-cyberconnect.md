@@ -20,20 +20,20 @@ last_updated: "2025-06-15T10:41:03.116Z"
 last_updated: "2025-06-15T11:42:42.912Z"
 last_updated: "2025-06-15T13:29:38.569Z"
 last_updated: "2025-06-15T14:17:27.419Z"
-# miscellaneous data source section
+last_updated: "2025-06-15T17:02:15.887Z"
 coingecko_id: "cyberconnect"
 current_price: 1.22
-market_cap: 51989701
-market_cap_rank: 689
-fully_diluted_valuation: 121719917
+market_cap: 52278644
+market_cap_rank: 693
+fully_diluted_valuation: 122396400
 circulating_supply: 42712567.06
 total_supply: 100000000.0
 max_supply: 100000000.0
 ath: 15.79
-ath_change_percentage: -92.27857
+ath_change_percentage: -92.23611
 ath_date: "2023-09-01T22:25:07.435Z"
 atl: 0.899989
-atl_change_percentage: 35.45195
+atl_change_percentage: 36.1968
 atl_date: "2025-04-07T06:56:07.094Z"
 ---
 

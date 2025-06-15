@@ -18,20 +18,20 @@ last_updated: "2025-06-15T10:41:01.245Z"
 last_updated: "2025-06-15T11:42:40.988Z"
 last_updated: "2025-06-15T13:29:37.529Z"
 last_updated: "2025-06-15T14:17:21.658Z"
-# miscellaneous data source section
+last_updated: "2025-06-15T17:02:13.547Z"
 coingecko_id: "streamflow"
-current_price: 0.12018
-market_cap: 9018769
-market_cap_rank: 1659
-fully_diluted_valuation: 120179659
+current_price: 0.119686
+market_cap: 8975682
+market_cap_rank: 1673
+fully_diluted_valuation: 119605501
 circulating_supply: 75043891.297053
 total_supply: 999997777.160364
 max_supply: 1000000000.0
 ath: 0.180045
-ath_change_percentage: -33.24016
+ath_change_percentage: -33.47784
 ath_date: "2024-12-18T04:15:20.417Z"
 atl: 0.01692082
-atl_change_percentage: 610.3537
+atl_change_percentage: 607.82473
 atl_date: "2025-04-25T14:18:57.642Z"
 ---
 

@@ -19,20 +19,20 @@ last_updated: "2025-06-15T10:41:04.685Z"
 last_updated: "2025-06-15T11:42:43.996Z"
 last_updated: "2025-06-15T13:29:40.451Z"
 last_updated: "2025-06-15T14:17:25.572Z"
-# miscellaneous data source section
+last_updated: "2025-06-15T17:02:17.207Z"
 coingecko_id: "axelar"
-current_price: 0.427769
-market_cap: 421250262
+current_price: 0.438829
+market_cap: 432140019
 market_cap_rank: 174
-fully_diluted_valuation: 515758453
-circulating_supply: 984399742.276296
-total_supply: 1205251446.410714
+fully_diluted_valuation: 529088997
+circulating_supply: 984414262.440568
+total_supply: 1205263878.535659
 max_supply: null
 ath: 2.64
-ath_change_percentage: -83.84282
+ath_change_percentage: -83.41415
 ath_date: "2024-03-01T09:20:05.541Z"
 atl: 0.274681
-atl_change_percentage: 55.51907
+atl_change_percentage: 59.64518
 atl_date: "2025-04-07T06:56:16.620Z"
 ---
 

@@ -18,20 +18,20 @@ last_updated: "2025-06-15T10:39:10.424Z"
 last_updated: "2025-06-15T11:42:32.588Z"
 last_updated: "2025-06-15T13:27:15.522Z"
 last_updated: "2025-06-15T14:15:16.806Z"
-# miscellaneous data source section
+last_updated: "2025-06-15T16:32:58.306Z"
 coingecko_id: "juicebox"
-current_price: 0.0012986
-market_cap: 2403301
-market_cap_rank: 2759
-fully_diluted_valuation: 2487524
+current_price: 0.00129466
+market_cap: 2401947
+market_cap_rank: 2769
+fully_diluted_valuation: 2486122
 circulating_supply: 1855276060.8567774
 total_supply: 1920293432.477574
 max_supply: null
 ath: 0.02278469
-ath_change_percentage: -94.30695
+ath_change_percentage: -94.31786
 ath_date: "2021-12-11T23:18:41.562Z"
 atl: 0.0
-atl_change_percentage: 1.7196403409663415e+34
+atl_change_percentage: 1.716344477691011e+34
 atl_date: "2022-03-11T06:16:57.258Z"
 ---
 

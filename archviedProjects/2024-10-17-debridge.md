@@ -18,20 +18,20 @@ last_updated: "2025-06-15T10:41:00.572Z"
 last_updated: "2025-06-15T11:42:40.101Z"
 last_updated: "2025-06-15T13:29:45.472Z"
 last_updated: "2025-06-15T14:17:27.625Z"
-# miscellaneous data source section
+last_updated: "2025-06-15T17:02:12.994Z"
 coingecko_id: "debridge"
-current_price: 0.01436498
-market_cap: 41811479
-market_cap_rank: 770
-fully_diluted_valuation: 143644087
+current_price: 0.0142043
+market_cap: 41339962
+market_cap_rank: 776
+fully_diluted_valuation: 142024183
 circulating_supply: 2910769231.0
 total_supply: 10000000000.0
 max_supply: 10000000000.0
 ath: 0.05521
-ath_change_percentage: -74.00751
+ath_change_percentage: -74.21879
 ath_date: "2024-12-22T00:26:03.744Z"
 atl: 0.01327432
-atl_change_percentage: 8.10756
+atl_change_percentage: 7.22884
 atl_date: "2025-06-13T09:25:39.341Z"
 ---
 

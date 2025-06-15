@@ -19,20 +19,20 @@ last_updated: "2025-06-15T10:38:51.969Z"
 last_updated: "2025-06-15T11:40:33.400Z"
 last_updated: "2025-06-15T13:28:46.698Z"
 last_updated: "2025-06-15T14:17:20.002Z"
-# miscellaneous data source section
+last_updated: "2025-06-15T17:01:34.613Z"
 coingecko_id: "param"
-current_price: 0.00034863
-market_cap: 87160
-market_cap_rank: 6881
-fully_diluted_valuation: 673054
+current_price: 0.00034013
+market_cap: 90217
+market_cap_rank: 6873
+fully_diluted_valuation: 696659
 circulating_supply: 259000000.0
 total_supply: 2000000000.0
 max_supply: 2000000000.0
 ath: 0.179478
-ath_change_percentage: -99.81037
+ath_change_percentage: -99.813
 ath_date: "2024-05-29T08:19:33.207Z"
 atl: 0.00025785
-atl_change_percentage: 31.99731
+atl_change_percentage: 30.16434
 atl_date: "2025-04-17T05:22:40.327Z"
 ---
 

@@ -20,20 +20,20 @@ last_updated: "2025-06-15T10:40:54.381Z"
 last_updated: "2025-06-15T11:42:43.700Z"
 last_updated: "2025-06-15T13:29:47.688Z"
 last_updated: "2025-06-15T14:17:23.719Z"
-# miscellaneous data source section
+last_updated: "2025-06-15T17:02:15.720Z"
 coingecko_id: "avalanche-2"
-current_price: 19.0
-market_cap: 8012893185
-market_cap_rank: 20
-fully_diluted_valuation: 8677770848
-circulating_supply: 421841358.4703844
-total_supply: 456844058.4703844
+current_price: 19.11
+market_cap: 8057244235
+market_cap_rank: 19
+fully_diluted_valuation: 8725800270
+circulating_supply: 421842230.816373
+total_supply: 456844914.2348783
 max_supply: 720000000.0
 ath: 144.96
-ath_change_percentage: -86.87276
+ath_change_percentage: -86.8312
 ath_date: "2021-11-21T14:18:56.538Z"
 atl: 2.8
-atl_change_percentage: 579.36342
+atl_change_percentage: 581.51415
 atl_date: "2020-12-31T13:15:21.540Z"
 ---
 

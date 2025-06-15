@@ -18,20 +18,20 @@ last_updated: "2025-06-15T10:40:56.916Z"
 last_updated: "2025-06-15T11:42:35.505Z"
 last_updated: "2025-06-15T13:29:41.243Z"
 last_updated: "2025-06-15T14:17:27.850Z"
-# miscellaneous data source section
+last_updated: "2025-06-15T17:02:18.573Z"
 coingecko_id: "tornado-cash"
-current_price: 9.14
-market_cap: 34698984
-market_cap_rank: 851
-fully_diluted_valuation: 91060260
+current_price: 9.15
+market_cap: 34862927
+market_cap_rank: 854
+fully_diluted_valuation: 91490493
 circulating_supply: 3810550.883649667
 total_supply: 9999997.526814999
 max_supply: 10000000.0
 ath: 436.16
-ath_change_percentage: -97.90836
+ath_change_percentage: -97.91197
 ath_date: "2021-02-13T13:43:13.384Z"
 atl: 1.29
-atl_change_percentage: 606.0107
+atl_change_percentage: 604.79311
 atl_date: "2023-12-09T02:50:48.976Z"
 ---
 

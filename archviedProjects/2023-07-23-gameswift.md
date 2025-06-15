@@ -18,21 +18,21 @@ last_updated: "2025-06-15T10:40:06.724Z"
 last_updated: "2025-06-15T11:42:10.294Z"
 last_updated: "2025-06-15T13:28:06.343Z"
 last_updated: "2025-06-15T14:17:06.370Z"
-# miscellaneous data source section
+last_updated: "2025-06-15T17:01:01.481Z"
 coingecko_id: "gameswift"
-current_price: 0.0084391
-market_cap: 3212908
-market_cap_rank: 2459
-fully_diluted_valuation: 6507273
-circulating_supply: 380723086.3909274
+current_price: 0.00842407
+market_cap: 3207263
+market_cap_rank: 2480
+fully_diluted_valuation: 6495788
+circulating_supply: 380726090.0990242
 total_supply: 771098721.6192381
 max_supply: 1396500000.0
 ath: 0.809962
-ath_change_percentage: -98.9587
+ath_change_percentage: -98.96989
 ath_date: "2024-03-04T10:01:32.006Z"
-atl: 0.00840819
-atl_change_percentage: 0.30825
-atl_date: "2025-06-15T10:31:02.526Z"
+atl: 0.00836803
+atl_change_percentage: -0.2933
+atl_date: "2025-06-15T16:40:07.577Z"
 ---
 
 ## Airdrop Details

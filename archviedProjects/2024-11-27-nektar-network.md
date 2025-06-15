@@ -18,11 +18,11 @@ last_updated: "2025-05-29T19:32:03.443Z"
 last_updated: "2025-05-29T19:32:03.443Z"
 last_updated: "2025-05-29T19:32:03.443Z"
 last_updated: "2025-05-29T19:32:03.443Z"
-# miscellaneous data source section
+last_updated: "2025-05-29T19:32:03.443Z"
 coingecko_id: "nektar-network"
 current_price: 8.5e-06
 market_cap: 3554.68
-market_cap_rank: 10179
+market_cap_rank: 10188
 fully_diluted_valuation: 8502.41
 circulating_supply: 418078685.92156184
 total_supply: 1000000000.0

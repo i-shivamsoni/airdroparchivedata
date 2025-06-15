@@ -19,21 +19,21 @@ last_updated: "2025-06-15T10:40:59.629Z"
 last_updated: "2025-06-15T11:42:45.668Z"
 last_updated: "2025-06-15T13:29:41.823Z"
 last_updated: "2025-06-15T14:17:23.092Z"
-# miscellaneous data source section
+last_updated: "2025-06-15T17:02:09.227Z"
 coingecko_id: "privasea-ai"
-current_price: 0.02524712
-market_cap: 5195136
-market_cap_rank: 2037
-fully_diluted_valuation: 25214762
+current_price: 0.02361348
+market_cap: 4880814
+market_cap_rank: 2071
+fully_diluted_valuation: 23689188
 circulating_supply: 206035500.0
 total_supply: 1000000000.0
 max_supply: 1000000000.0
 ath: 0.096207
-ath_change_percentage: -73.7278
+ath_change_percentage: -75.33622
 ath_date: "2025-05-14T15:26:47.379Z"
-atl: 0.02442927
-atl_change_percentage: 3.46497
-atl_date: "2025-06-12T16:05:33.911Z"
+atl: 0.02375198
+atl_change_percentage: -0.09961
+atl_date: "2025-06-15T16:47:26.377Z"
 ---
 
 ## Airdrop Details

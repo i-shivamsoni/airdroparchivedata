@@ -19,20 +19,20 @@ last_updated: "2025-06-15T10:41:03.331Z"
 last_updated: "2025-06-15T11:42:43.083Z"
 last_updated: "2025-06-15T13:29:38.689Z"
 last_updated: "2025-06-15T14:17:24.157Z"
-# miscellaneous data source section
+last_updated: "2025-06-15T17:02:15.981Z"
 coingecko_id: "worldcoin-wld"
-current_price: 0.980775
-market_cap: 1580644149
+current_price: 0.9786
+market_cap: 1577702944
 market_cap_rank: 69
-fully_diluted_valuation: 9804469254
+fully_diluted_valuation: 9786225458
 circulating_supply: 1612166969.557901
 total_supply: 10000000000.0
 max_supply: 10000000000.0
 ath: 11.74
-ath_change_percentage: -91.62011
+ath_change_percentage: -91.65214
 ath_date: "2024-03-10T00:10:42.330Z"
 atl: 0.583741
-atl_change_percentage: 68.54238
+atl_change_percentage: 67.89814
 atl_date: "2025-04-07T07:06:11.379Z"
 ---
 

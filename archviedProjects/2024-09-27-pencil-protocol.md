@@ -18,20 +18,20 @@ last_updated: "2025-06-15T10:38:59.045Z"
 last_updated: "2025-06-15T11:42:48.247Z"
 last_updated: "2025-06-15T13:29:03.412Z"
 last_updated: "2025-06-15T14:16:31.497Z"
-# miscellaneous data source section
+last_updated: "2025-06-15T17:01:11.012Z"
 coingecko_id: "penpad-token"
-current_price: 0.00787064
-market_cap: 449172
-market_cap_rank: 4732
-fully_diluted_valuation: 787101
+current_price: 0.00786326
+market_cap: 448726
+market_cap_rank: 4749
+fully_diluted_valuation: 786319
 circulating_supply: 57066666.666666664
 total_supply: 100000000.0
 max_supply: 100000000.0
 ath: 1.058
-ath_change_percentage: -99.25591
+ath_change_percentage: -99.25668
 ath_date: "2024-09-27T10:15:24.481Z"
 atl: 0.00704395
-atl_change_percentage: 11.74547
+atl_change_percentage: 11.62964
 atl_date: "2025-06-14T08:35:38.332Z"
 ---
 

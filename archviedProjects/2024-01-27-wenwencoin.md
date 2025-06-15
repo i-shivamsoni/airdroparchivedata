@@ -18,20 +18,20 @@ last_updated: "2025-06-15T10:41:01.494Z"
 last_updated: "2025-06-15T11:42:41.448Z"
 last_updated: "2025-06-15T13:29:46.683Z"
 last_updated: "2025-06-15T14:17:28.610Z"
-# miscellaneous data source section
+last_updated: "2025-06-15T17:02:14.041Z"
 coingecko_id: "wen-4"
-current_price: 3.809e-05
-market_cap: 27725557
-market_cap_rank: 962
-fully_diluted_valuation: 27725557
-circulating_supply: 727628518330.4664
-total_supply: 727628518330.4664
+current_price: 3.807e-05
+market_cap: 27650910
+market_cap_rank: 968
+fully_diluted_valuation: 27650910
+circulating_supply: 727628510457.1648
+total_supply: 727628510457.1648
 max_supply: 1000000000000.0
 ath: 0.00051049
-ath_change_percentage: -92.5671
+ath_change_percentage: -92.58776
 ath_date: "2024-03-27T11:00:20.014Z"
 atl: 1.56e-05
-atl_change_percentage: 143.20562
+atl_change_percentage: 142.52981
 atl_date: "2024-01-26T15:12:50.824Z"
 ---
 

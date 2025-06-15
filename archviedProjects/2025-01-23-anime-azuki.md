@@ -19,20 +19,20 @@ last_updated: "2025-06-15T10:41:03.976Z"
 last_updated: "2025-06-15T11:42:43.537Z"
 last_updated: "2025-06-15T13:29:39.735Z"
 last_updated: "2025-06-15T14:17:25.536Z"
-# miscellaneous data source section
+last_updated: "2025-06-15T17:02:16.731Z"
 coingecko_id: "anime"
-current_price: 0.02402651
-market_cap: 133062722
-market_cap_rank: 378
-fully_diluted_valuation: 240245929
+current_price: 0.02400398
+market_cap: 133028777
+market_cap_rank: 380
+fully_diluted_valuation: 240184640
 circulating_supply: 5538604656.0
 total_supply: 10000000000.0
 max_supply: 10000000000.0
 ath: 0.186122
-ath_change_percentage: -87.02232
+ath_change_percentage: -87.0581
 ath_date: "2025-01-23T13:35:23.566Z"
 atl: 0.01240107
-atl_change_percentage: 94.77598
+atl_change_percentage: 94.23886
 atl_date: "2025-04-07T06:55:45.218Z"
 ---
 
