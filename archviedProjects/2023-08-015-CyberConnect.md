@@ -17,19 +17,21 @@ description: "A decentralized web3 social network that enables users to own thei
 mis-data-source: "coingecko"
 last_updated: "2025-06-14T14:26:23.255634Z"
 last_updated: "2025-06-15T10:41:03.116Z"
+last_updated: "2025-06-15T11:42:42.912Z"
+# miscellaneous data source section
 coingecko_id: "cyberconnect"
 current_price: 1.2
-market_cap: 50818991
-market_cap_rank: 696
-fully_diluted_valuation: 119993508
+market_cap: 50847797
+market_cap_rank: 694
+fully_diluted_valuation: 120061524
 circulating_supply: 42351450.39
 total_supply: 100000000.0
 max_supply: 100000000.0
 ath: 15.79
-ath_change_percentage: -92.41229
+ath_change_percentage: -92.38325
 ath_date: "2023-09-01T22:25:07.435Z"
 atl: 0.899989
-atl_change_percentage: 33.10632
+atl_change_percentage: 33.61571
 atl_date: "2025-04-07T06:56:07.094Z"
 ---
 

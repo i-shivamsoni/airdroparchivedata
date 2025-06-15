@@ -15,19 +15,21 @@ description: "A decentralized database network that enables fast queries and tam
 mis-data-source: "coingecko"
 last_updated: "2025-06-14T14:26:23.301476Z"
 last_updated: "2025-06-15T10:39:19.942Z"
+last_updated: "2025-06-15T11:42:41.696Z"
+# miscellaneous data source section
 coingecko_id: "space-and-time"
-current_price: 0.077408
+current_price: 0.077037
 market_cap: 0.0
 market_cap_rank: null
-fully_diluted_valuation: 387042191
+fully_diluted_valuation: 385298491
 circulating_supply: 0.0
 total_supply: 5000000000.0
 max_supply: 5000000000.0
 ath: 0.162092
-ath_change_percentage: -52.22837
+ath_change_percentage: -52.39785
 ath_date: "2025-05-08T13:07:41.348Z"
 atl: 0.075393
-atl_change_percentage: 2.70724
+atl_change_percentage: 2.34285
 atl_date: "2025-06-13T02:10:05.432Z"
 ---
 

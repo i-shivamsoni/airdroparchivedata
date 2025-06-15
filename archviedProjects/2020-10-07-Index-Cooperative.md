@@ -16,19 +16,21 @@ description: "A decentralized autonomous organization (DAO) focused on launching
 mis-data-source: "coingecko"
 last_updated: "2025-06-14T14:26:23.239434Z"
 last_updated: "2025-06-15T10:41:02.751Z"
+last_updated: "2025-06-15T11:42:42.539Z"
+# miscellaneous data source section
 coingecko_id: "index-cooperative"
-current_price: 1.14
-market_cap: 7671135
-market_cap_rank: 1772
-fully_diluted_valuation: 11403739
+current_price: 1.18
+market_cap: 7913179
+market_cap_rank: 1750
+fully_diluted_valuation: 11763557
 circulating_supply: 6726859.191973535
 total_supply: 10000000.0
 max_supply: 10000000.0
 ath: 67.08
-ath_change_percentage: -98.2599
+ath_change_percentage: -98.24611
 ath_date: "2021-05-09T03:51:28.144Z"
 atl: 0.804871
-atl_change_percentage: 45.01711
+atl_change_percentage: 46.16701
 atl_date: "2023-10-12T17:35:31.367Z"
 ---
 

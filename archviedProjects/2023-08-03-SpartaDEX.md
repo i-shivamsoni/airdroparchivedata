@@ -15,10 +15,12 @@ description: "SpartaDEX is a gamified decentralized exchange (DEX) operating on 
 mis-data-source: "coingecko"
 last_updated: "2025-06-14T14:26:23.255837Z"
 last_updated: "2025-06-13T23:59:39.640Z"
+last_updated: "2025-06-13T23:59:39.640Z"
+# miscellaneous data source section
 coingecko_id: "spartadex"
 current_price: 0.0023344
 market_cap: 92724
-market_cap_rank: 6810
+market_cap_rank: 6813
 fully_diluted_valuation: 92724
 circulating_supply: 39720895.81230459
 total_supply: 39720895.81230459

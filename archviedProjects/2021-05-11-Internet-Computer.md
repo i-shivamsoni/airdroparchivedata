@@ -17,19 +17,21 @@ description: "A decentralized cloud computing platform designed to run applicati
 mis-data-source: "coingecko"
 last_updated: "2025-06-14T14:26:23.242239Z"
 last_updated: "2025-06-15T10:41:01.459Z"
+last_updated: "2025-06-15T11:42:41.584Z"
+# miscellaneous data source section
 coingecko_id: "internet-computer"
-current_price: 5.32
-market_cap: 2843119714
+current_price: 5.33
+market_cap: 2845138029
 market_cap_rank: 45
-fully_diluted_valuation: 2843119714
+fully_diluted_valuation: 2845138029
 circulating_supply: 534569613.3526393
 total_supply: 534569613.3526393
 max_supply: null
 ath: 700.65
-ath_change_percentage: -99.24178
+ath_change_percentage: -99.23933
 ath_date: "2021-05-10T16:05:53.653Z"
 atl: 2.87
-atl_change_percentage: 85.42553
+atl_change_percentage: 86.02464
 atl_date: "2023-09-22T00:29:57.369Z"
 ---
 

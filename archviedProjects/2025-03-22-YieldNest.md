@@ -15,19 +15,21 @@ description: "YieldNest is a decentralized platform focused on user empowerment,
 mis-data-source: "coingecko"
 last_updated: "2025-06-14T14:26:23.296130Z"
 last_updated: "2025-06-15T10:40:30.290Z"
+last_updated: "2025-06-15T11:42:41.506Z"
+# miscellaneous data source section
 coingecko_id: "yieldnest"
-current_price: 0.00672645
+current_price: 0.00629835
 market_cap: 0.0
 market_cap_rank: null
-fully_diluted_valuation: 6240689
+fully_diluted_valuation: 6283422
 circulating_supply: 0.0
 total_supply: 1000000000.0
 max_supply: 1000000000.0
 ath: 0.02093676
-ath_change_percentage: -71.04508
+ath_change_percentage: -69.8159
 ath_date: "2025-06-06T17:26:15.633Z"
 atl: 0.00576042
-atl_change_percentage: 5.23917
+atl_change_percentage: 9.70671
 atl_date: "2025-06-15T07:50:35.184Z"
 ---
 

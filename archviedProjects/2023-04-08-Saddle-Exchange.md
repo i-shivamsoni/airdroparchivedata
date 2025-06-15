@@ -15,19 +15,21 @@ description: "A decentralized automated market maker (AMM) on the Ethereum block
 mis-data-source: "coingecko"
 last_updated: "2025-06-14T14:26:23.252491Z"
 last_updated: "2025-06-15T10:41:07.015Z"
+last_updated: "2025-06-15T11:42:46.425Z"
+# miscellaneous data source section
 coingecko_id: "stake-link"
-current_price: 0.376593
-market_cap: 21997997
-market_cap_rank: 1099
-fully_diluted_valuation: 37719229
-circulating_supply: 58320377.57
+current_price: 0.376275
+market_cap: 21944247
+market_cap_rank: 1106
+fully_diluted_valuation: 37627482
+circulating_supply: 58319732.59
 total_supply: 100000000.0
 max_supply: 100000000.0
 ath: 1.22
-ath_change_percentage: -68.8848
+ath_change_percentage: -69.09358
 ath_date: "2025-04-07T15:10:33.776Z"
 atl: 0.072039
-atl_change_percentage: 426.13975
+atl_change_percentage: 422.60945
 atl_date: "2023-05-21T09:53:23.810Z"
 ---
 

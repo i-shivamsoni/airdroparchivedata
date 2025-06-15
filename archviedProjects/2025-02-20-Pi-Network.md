@@ -16,19 +16,21 @@ description: "A decentralized cryptocurrency network focused on mobile mining an
 mis-data-source: "coingecko"
 last_updated: "2025-06-14T14:26:23.290925Z"
 last_updated: "2025-06-15T10:41:04.303Z"
+last_updated: "2025-06-15T11:42:41.348Z"
+# miscellaneous data source section
 coingecko_id: "pi-network"
-current_price: 0.609502
-market_cap: 4535719333
+current_price: 0.607974
+market_cap: 4527911032
 market_cap_rank: 36
-fully_diluted_valuation: 6978029743
+fully_diluted_valuation: 6966016973
 circulating_supply: 7442410348.167771
 total_supply: 11449862074.10426
 max_supply: 100000000000.0
 ath: 2.99
-ath_change_percentage: -79.63106
+ath_change_percentage: -79.59109
 ath_date: "2025-02-26T16:41:03.732Z"
 atl: 0.406999
-atl_change_percentage: 49.52004
+atl_change_percentage: 49.81341
 atl_date: "2025-04-05T04:50:37.033Z"
 ---
 

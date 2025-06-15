@@ -16,19 +16,21 @@ description: "A decentralized and permissionless no-loss prize savings protocol 
 mis-data-source: "coingecko"
 last_updated: "2025-06-14T14:26:23.240621Z"
 last_updated: "2025-06-15T10:40:08.230Z"
+last_updated: "2025-06-15T11:42:42.370Z"
+# miscellaneous data source section
 coingecko_id: "pooltogether"
-current_price: 0.235131
-market_cap: 1687203
-market_cap_rank: 3112
-fully_diluted_valuation: 2352343
+current_price: 0.235719
+market_cap: 1690171
+market_cap_rank: 3107
+fully_diluted_valuation: 2356482
 circulating_supply: 7172433.994768333
 total_supply: 10000000.0
 max_supply: 10000000.0
 ath: 53.98
-ath_change_percentage: -99.56388
+ath_change_percentage: -99.56341
 ath_date: "2021-02-20T04:38:40.257Z"
 atl: 0.172745
-atl_change_percentage: 36.29015
+atl_change_percentage: 36.4358
 atl_date: "2023-12-29T23:16:36.097Z"
 ---
 

@@ -15,19 +15,21 @@ description: "A decentralized credit market protocol built on Optimism (OP Mainn
 mis-data-source: "coingecko"
 last_updated: "2025-06-14T14:26:23.255457Z"
 last_updated: "2025-06-15T10:40:07.984Z"
+last_updated: "2025-06-15T11:40:47.535Z"
+# miscellaneous data source section
 coingecko_id: "exa"
-current_price: 0.47329
-market_cap: 1520635
-market_cap_rank: 3219
-fully_diluted_valuation: 4732103
-circulating_supply: 3213444.085122226
+current_price: 0.482929
+market_cap: 1552818
+market_cap_rank: 3202
+fully_diluted_valuation: 4831946
+circulating_supply: 3213650.415720619
 total_supply: 10000000.0
 max_supply: 10000000.0
 ath: 11.89
-ath_change_percentage: -96.02175
+ath_change_percentage: -96.01373
 ath_date: "2023-08-09T17:19:57.171Z"
 atl: 0.141845
-atl_change_percentage: 233.43588
+atl_change_percentage: 234.1074
 atl_date: "2025-02-03T02:15:46.026Z"
 ---
 

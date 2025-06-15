@@ -15,19 +15,21 @@ description: "A decentralized platform that enables users to earn and engage wit
 mis-data-source: "coingecko"
 last_updated: "2025-06-14T14:26:23.287730Z"
 last_updated: "2025-06-15T10:40:57.614Z"
+last_updated: "2025-06-15T11:42:46.156Z"
+# miscellaneous data source section
 coingecko_id: "creatorbid"
-current_price: 0.064006
-market_cap: 17246217
-market_cap_rank: 1234
-fully_diluted_valuation: 64236864
+current_price: 0.063752
+market_cap: 17144470
+market_cap_rank: 1237
+fully_diluted_valuation: 63857887
 circulating_supply: 268466796.9
 total_supply: 999956388.236825
 max_supply: 1000000000.0
 ath: 0.265326
-ath_change_percentage: -75.78812
+ath_change_percentage: -75.82405
 ath_date: "2025-01-23T13:40:03.799Z"
 atl: 0.02115653
-atl_change_percentage: 203.64344
+atl_change_percentage: 203.19284
 atl_date: "2025-03-16T07:30:50.995Z"
 ---
 

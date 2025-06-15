@@ -16,19 +16,21 @@ description: "A hub for decentralized on-chain financial products, including DeF
 mis-data-source: "coingecko"
 last_updated: "2025-06-14T14:26:23.252713Z"
 last_updated: "2025-06-15T10:38:49.373Z"
+last_updated: "2025-06-15T11:42:40.813Z"
+# miscellaneous data source section
 coingecko_id: "antimatter"
-current_price: 0.00290989
-market_cap: 96728
-market_cap_rank: 6751
-fully_diluted_valuation: 291397
+current_price: 0.00290984
+market_cap: 96706
+market_cap_rank: 6754
+fully_diluted_valuation: 291332
 circulating_supply: 33194608.20917096
 total_supply: 100000000.0
 max_supply: null
 ath: 6.05
-ath_change_percentage: -99.95186
+ath_change_percentage: -99.95189
 ath_date: "2021-04-08T22:44:36.228Z"
 atl: 1.55258e-13
-atl_change_percentage: 1874675196194.901
+atl_change_percentage: 1873635782993.3364
 atl_date: "2021-07-23T17:36:57.982Z"
 ---
 

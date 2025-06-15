@@ -15,19 +15,21 @@ description: "A decentralized identity system built on Solana that rewards users
 mis-data-source: "coingecko"
 last_updated: "2025-06-14T14:26:23.289174Z"
 last_updated: "2025-06-15T10:38:47.788Z"
+last_updated: "2025-06-15T11:41:53.827Z"
+# miscellaneous data source section
 coingecko_id: "solid"
-current_price: 0.00212808
-market_cap: 889328
-market_cap_rank: 3844
-fully_diluted_valuation: 2134065
+current_price: 0.00213238
+market_cap: 888490
+market_cap_rank: 3845
+fully_diluted_valuation: 2132056
 circulating_supply: 416727624.38502115
 total_supply: 999995572.3921297
 max_supply: 1000000000.0
 ath: 0.01632385
-ath_change_percentage: -86.97545
+ath_change_percentage: -86.84973
 ath_date: "2025-02-14T18:14:14.847Z"
 atl: 0.00210356
-atl_change_percentage: 1.07194
+atl_change_percentage: 2.04754
 atl_date: "2025-06-14T20:21:52.236Z"
 ---
 

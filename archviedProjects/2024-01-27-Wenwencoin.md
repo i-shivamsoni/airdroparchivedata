@@ -15,19 +15,21 @@ description: "A community coin debuting on Solana alongside a new NFT standard, 
 mis-data-source: "coingecko"
 last_updated: "2025-06-14T14:26:23.262792Z"
 last_updated: "2025-06-15T10:41:01.494Z"
+last_updated: "2025-06-15T11:42:41.448Z"
+# miscellaneous data source section
 coingecko_id: "wen-4"
-current_price: 3.597e-05
-market_cap: 26116075
+current_price: 3.614e-05
+market_cap: 26294523
 market_cap_rank: 998
-fully_diluted_valuation: 26116075
+fully_diluted_valuation: 26294522
 circulating_supply: 727628543245.4375
-total_supply: 727628543245.4375
+total_supply: 727628524460.9722
 max_supply: 1000000000000.0
 ath: 0.00051049
-ath_change_percentage: -92.95716
+ath_change_percentage: -92.88239
 ath_date: "2024-03-27T11:00:20.014Z"
 atl: 1.56e-05
-atl_change_percentage: 130.44301
+atl_change_percentage: 132.88927
 atl_date: "2024-01-26T15:12:50.824Z"
 ---
 

@@ -16,19 +16,21 @@ description: "A decentralized finance protocol designed for trading, lending, an
 mis-data-source: "coingecko"
 last_updated: "2025-06-14T14:26:23.262380Z"
 last_updated: "2025-06-15T10:40:59.626Z"
+last_updated: "2025-06-15T11:42:39.173Z"
+# miscellaneous data source section
 coingecko_id: "myshell"
-current_price: 0.138293
-market_cap: 37407743
+current_price: 0.138058
+market_cap: 37262794
 market_cap_rank: 814
-fully_diluted_valuation: 138547194
+fully_diluted_valuation: 138010347
 circulating_supply: 270000000.0
 total_supply: 1000000000.0
 max_supply: 1000000000.0
 ath: 0.68342
-ath_change_percentage: -79.7412
+ath_change_percentage: -79.77542
 ath_date: "2025-02-27T18:46:13.395Z"
 atl: 0.109602
-atl_change_percentage: 26.32271
+atl_change_percentage: 26.10931
 atl_date: "2025-04-14T16:31:15.771Z"
 ---
 

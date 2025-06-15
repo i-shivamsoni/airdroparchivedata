@@ -15,19 +15,21 @@ description: "GammaSwap is a decentralized protocol that enables users to borrow
 mis-data-source: "coingecko"
 last_updated: "2025-06-14T14:26:23.276327Z"
 last_updated: "2025-06-15T10:40:57.906Z"
+last_updated: "2025-06-15T11:42:37.297Z"
+# miscellaneous data source section
 coingecko_id: "gammaswap"
-current_price: 0.072592
-market_cap: 15896111
-market_cap_rank: 1286
-fully_diluted_valuation: 116214179
-circulating_supply: 218852618.5371355
+current_price: 0.072627
+market_cap: 15896383
+market_cap_rank: 1287
+fully_diluted_valuation: 116215275
+circulating_supply: 218854303.5194167
 total_supply: 1600000000.0
 max_supply: 1600000000.0
 ath: 0.365599
-ath_change_percentage: -80.11615
+ath_change_percentage: -80.12414
 ath_date: "2024-12-05T05:05:23.913Z"
 atl: 0.00975745
-atl_change_percentage: 645.02253
+atl_change_percentage: 644.72315
 atl_date: "2024-10-08T06:19:11.392Z"
 ---
 

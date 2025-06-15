@@ -15,19 +15,21 @@ description: "Solana Name Service (SNS) is a decentralized naming system for Sol
 mis-data-source: "coingecko"
 last_updated: "2025-06-14T14:26:23.301680Z"
 last_updated: "2025-06-15T10:41:01.254Z"
+last_updated: "2025-06-15T11:42:40.829Z"
+# miscellaneous data source section
 coingecko_id: "solana-name-service"
-current_price: 0.00213862
-market_cap: 5346527
-market_cap_rank: 2013
-fully_diluted_valuation: 21386067
+current_price: 0.00216
+market_cap: 5398761
+market_cap_rank: 2009
+fully_diluted_valuation: 21595001
 circulating_supply: 2500000000.0
 total_supply: 9999980243.25094
 max_supply: 10000000000.0
 ath: 0.00329744
-ath_change_percentage: -35.06694
+ath_change_percentage: -34.51831
 ath_date: "2025-05-27T18:31:12.415Z"
 atl: 0.00208126
-atl_change_percentage: 2.87662
+atl_change_percentage: 3.74584
 atl_date: "2025-06-13T14:57:44.493Z"
 ---
 

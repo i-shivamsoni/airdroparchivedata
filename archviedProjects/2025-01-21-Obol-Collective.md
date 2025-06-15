@@ -15,19 +15,21 @@ description: "A community dedicated to scaling Ethereum by enhancing the securit
 mis-data-source: "coingecko"
 last_updated: "2025-06-14T14:26:23.286996Z"
 last_updated: "2025-06-15T10:41:03.126Z"
+last_updated: "2025-06-15T11:42:42.443Z"
+# miscellaneous data source section
 coingecko_id: "obol-2"
-current_price: 0.120885
-market_cap: 11946163
-market_cap_rank: 1479
-fully_diluted_valuation: 60505372
+current_price: 0.120164
+market_cap: 11877362
+market_cap_rank: 1485
+fully_diluted_valuation: 60156910
 circulating_supply: 98719850.0
 total_supply: 500000000.0
 max_supply: 500000000.0
 ath: 0.380077
-ath_change_percentage: -68.16921
+ath_change_percentage: -67.9456
 ath_date: "2025-05-07T11:26:04.518Z"
 atl: 0.100634
-atl_change_percentage: 20.21881
+atl_change_percentage: 21.06336
 atl_date: "2025-06-14T21:25:37.061Z"
 ---
 

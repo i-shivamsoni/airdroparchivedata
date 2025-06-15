@@ -16,19 +16,21 @@ description: "A decentralized finance (DeFi) platform built on NEAR Protocol, of
 mis-data-source: "coingecko"
 last_updated: "2025-06-14T14:26:23.242814Z"
 last_updated: "2025-06-15T10:40:29.996Z"
+last_updated: "2025-06-15T11:42:01.818Z"
+# miscellaneous data source section
 coingecko_id: "ref-finance"
-current_price: 0.07359
-market_cap: 2824962
-market_cap_rank: 2579
-fully_diluted_valuation: 7359014
+current_price: 0.073272
+market_cap: 2812962
+market_cap_rank: 2585
+fully_diluted_valuation: 7327753
 circulating_supply: 38387779.25521146
 total_supply: 100000000.0
 max_supply: null
 ath: 10.64
-ath_change_percentage: -99.3115
+ath_change_percentage: -99.31113
 ath_date: "2021-10-25T22:29:50.921Z"
 atl: 0.04798169
-atl_change_percentage: 52.67991
+atl_change_percentage: 52.76193
 atl_date: "2023-10-21T11:01:37.339Z"
 ---
 

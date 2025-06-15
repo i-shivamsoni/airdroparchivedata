@@ -16,19 +16,21 @@ description: "Hyperlane is a permissionless interoperability protocol enabling o
 mis-data-source: "coingecko"
 last_updated: "2025-06-14T14:26:23.296930Z"
 last_updated: "2025-06-15T10:40:58.769Z"
+last_updated: "2025-06-15T11:42:38.046Z"
+# miscellaneous data source section
 coingecko_id: "hyperlane"
-current_price: 0.112816
-market_cap: 19771023
-market_cap_rank: 1164
-fully_diluted_valuation: 90579557
+current_price: 0.112428
+market_cap: 19698568
+market_cap_rank: 1166
+fully_diluted_valuation: 90247609
 circulating_supply: 175200000.0
 total_supply: 802666525.1359
 max_supply: 1000000000.0
 ath: 0.350206
-ath_change_percentage: -67.80431
+ath_change_percentage: -67.81951
 ath_date: "2025-04-23T01:25:59.600Z"
 atl: 0.102649
-atl_change_percentage: 9.84144
+atl_change_percentage: 9.78958
 atl_date: "2025-06-13T06:30:32.690Z"
 ---
 

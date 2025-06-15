@@ -15,19 +15,21 @@ description: "A modular blockchain oracle providing secure and scalable data fee
 mis-data-source: "coingecko"
 last_updated: "2025-06-14T14:26:23.292599Z"
 last_updated: "2025-06-15T10:40:58.702Z"
+last_updated: "2025-06-15T11:42:37.988Z"
+# miscellaneous data source section
 coingecko_id: "redstone-oracles"
-current_price: 0.295501
-market_cap: 82783228
-market_cap_rank: 521
-fully_diluted_valuation: 295654385
+current_price: 0.295497
+market_cap: 82634306
+market_cap_rank: 523
+fully_diluted_valuation: 295122520
 circulating_supply: 280000000.0
 total_supply: 1000000000.0
 max_supply: 1000000000.0
 ath: 0.932461
-ath_change_percentage: -68.3037
+ath_change_percentage: -68.28856
 ath_date: "2025-03-06T12:36:56.662Z"
 atl: 0.285341
-atl_change_percentage: 3.57972
+atl_change_percentage: 3.62917
 atl_date: "2025-06-14T20:21:13.449Z"
 ---
 

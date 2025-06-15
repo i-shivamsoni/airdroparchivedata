@@ -15,19 +15,21 @@ description: "A decentralized NFT marketplace that rewards users for trading and
 mis-data-source: "coingecko"
 last_updated: "2025-06-14T14:26:23.244627Z"
 last_updated: "2025-06-15T10:40:59.643Z"
+last_updated: "2025-06-15T11:42:39.159Z"
+# miscellaneous data source section
 coingecko_id: "looksrare"
-current_price: 0.01204181
-market_cap: 11961921
-market_cap_rank: 1476
-fully_diluted_valuation: 11961921
+current_price: 0.01204493
+market_cap: 11955913
+market_cap_rank: 1481
+fully_diluted_valuation: 11955913
 circulating_supply: 993364093.0502541
 total_supply: 993364093.0502541
 max_supply: 1000000000.0
 ath: 7.1
-ath_change_percentage: -99.83009
+ath_change_percentage: -99.82998
 ath_date: "2022-01-20T19:30:02.255Z"
 atl: 0.00821059
-atl_change_percentage: 46.97054
+atl_change_percentage: 47.06304
 atl_date: "2025-04-08T09:27:36.079Z"
 ---
 

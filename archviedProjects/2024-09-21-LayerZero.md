@@ -16,19 +16,21 @@ description: "LayerZero is an omnichain interoperability protocol that enables c
 mis-data-source: "coingecko"
 last_updated: "2025-06-14T14:26:23.276991Z"
 last_updated: "2025-06-15T10:40:56.759Z"
+last_updated: "2025-06-15T11:42:35.578Z"
+# miscellaneous data source section
 coingecko_id: "layerzero"
-current_price: 1.94
-market_cap: 215642786
+current_price: 1.93
+market_cap: 215076975
 market_cap_rank: 274
-fully_diluted_valuation: 1940056218
+fully_diluted_valuation: 1934965831
 circulating_supply: 111152854.20763355
 total_supply: 1000000000.0
 max_supply: 1000000000.0
 ath: 7.47
-ath_change_percentage: -74.07098
+ath_change_percentage: -73.98949
 ath_date: "2024-12-06T14:15:52.674Z"
 atl: 1.51
-atl_change_percentage: 28.41745
+atl_change_percentage: 28.82106
 atl_date: "2025-03-11T01:11:48.281Z"
 ---
 

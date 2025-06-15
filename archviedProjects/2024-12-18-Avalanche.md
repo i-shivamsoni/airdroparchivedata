@@ -17,19 +17,21 @@ description: "The Avalanche Foundation is a non-profit entity that fosters the a
 mis-data-source: "coingecko"
 last_updated: "2025-06-14T14:26:23.284505Z"
 last_updated: "2025-06-15T10:40:54.381Z"
+last_updated: "2025-06-15T11:42:43.700Z"
+# miscellaneous data source section
 coingecko_id: "avalanche-2"
-current_price: 18.89
-market_cap: 7966692524
+current_price: 18.91
+market_cap: 7978394631
 market_cap_rank: 20
-fully_diluted_valuation: 8627732073
-circulating_supply: 421841002.9598976
-total_supply: 456843431.6051176
+fully_diluted_valuation: 8640409319
+circulating_supply: 421841064.0734575
+total_supply: 456843717.2416999
 max_supply: 720000000.0
 ath: 144.96
-ath_change_percentage: -86.95447
+ath_change_percentage: -86.95293
 ath_date: "2021-11-21T14:18:56.538Z"
 atl: 2.8
-atl_change_percentage: 575.13469
+atl_change_percentage: 575.2145
 atl_date: "2020-12-31T13:15:21.540Z"
 ---
 

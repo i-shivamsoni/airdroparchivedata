@@ -16,19 +16,21 @@ description: "A decentralized protocol aiming to provide a universal digital ide
 mis-data-source: "coingecko"
 last_updated: "2025-06-14T14:26:23.281891Z"
 last_updated: "2025-06-15T10:41:03.331Z"
+last_updated: "2025-06-15T11:42:43.083Z"
+# miscellaneous data source section
 coingecko_id: "worldcoin-wld"
-current_price: 0.974945
-market_cap: 1571842275
+current_price: 0.974818
+market_cap: 1572824637
 market_cap_rank: 69
-fully_diluted_valuation: 9749872717
+fully_diluted_valuation: 9755966145
 circulating_supply: 1612166969.557901
 total_supply: 10000000000.0
 max_supply: 10000000000.0
 ath: 11.74
-ath_change_percentage: -91.69468
+ath_change_percentage: -91.66573
 ath_date: "2024-03-10T00:10:42.330Z"
 atl: 0.583741
-atl_change_percentage: 67.0425
+atl_change_percentage: 67.62471
 atl_date: "2025-04-07T07:06:11.379Z"
 ---
 

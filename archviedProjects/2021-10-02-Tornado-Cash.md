@@ -15,19 +15,21 @@ description: "Tornado Cash is an open-source, non-custodial, decentralized crypt
 mis-data-source: "coingecko"
 last_updated: "2025-06-14T14:26:23.243441Z"
 last_updated: "2025-06-15T10:40:56.916Z"
+last_updated: "2025-06-15T11:42:35.505Z"
+# miscellaneous data source section
 coingecko_id: "tornado-cash"
-current_price: 8.93
-market_cap: 34051467
-market_cap_rank: 860
-fully_diluted_valuation: 89360988
+current_price: 9.01
+market_cap: 34288768
+market_cap_rank: 858
+fully_diluted_valuation: 89983734
 circulating_supply: 3810550.883649667
 total_supply: 9999997.526814999
 max_supply: 10000000.0
 ath: 436.16
-ath_change_percentage: -97.94828
+ath_change_percentage: -97.93423
 ath_date: "2021-02-13T13:43:13.384Z"
 atl: 1.29
-atl_change_percentage: 592.53756
+atl_change_percentage: 597.27812
 atl_date: "2023-12-09T02:50:48.976Z"
 ---
 

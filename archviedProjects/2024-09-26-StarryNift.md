@@ -15,19 +15,21 @@ description: "StarryNift is a platform that integrates NFTs, gaming, and the met
 mis-data-source: "coingecko"
 last_updated: "2025-06-14T14:26:23.277494Z"
 last_updated: "2025-06-15T10:38:45.897Z"
+last_updated: "2025-06-15T11:41:28.047Z"
+# miscellaneous data source section
 coingecko_id: "starrynift"
-current_price: 0.00817122
-market_cap: 1253591
-market_cap_rank: 3445
-fully_diluted_valuation: 8171216
+current_price: 0.00817642
+market_cap: 1254066
+market_cap_rank: 3441
+fully_diluted_valuation: 8174314
 circulating_supply: 153415500.0
 total_supply: 1000000000.0
 max_supply: 1000000000.0
 ath: 0.105687
-ath_change_percentage: -92.27545
+ath_change_percentage: -92.27037
 ath_date: "2024-09-26T09:50:48.322Z"
 atl: 0.00655884
-atl_change_percentage: 24.47133
+atl_change_percentage: 24.55323
 atl_date: "2025-04-07T07:03:49.013Z"
 ---
 

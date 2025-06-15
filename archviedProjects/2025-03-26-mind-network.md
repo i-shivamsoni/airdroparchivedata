@@ -16,19 +16,21 @@ description: "Mind Network is building a quantum-resistant, fully homomorphic en
 mis-data-source: "coingecko"
 last_updated: "2025-06-14T14:26:23.297928Z"
 last_updated: "2025-06-15T10:40:59.161Z"
+last_updated: "2025-06-15T11:42:47.744Z"
+# miscellaneous data source section
 coingecko_id: "mind-network"
-current_price: 0.077349
-market_cap: 19257242
-market_cap_rank: 1181
-fully_diluted_valuation: 77338321
+current_price: 0.077156
+market_cap: 19198379
+market_cap_rank: 1180
+fully_diluted_valuation: 77101925
 circulating_supply: 249000000.0
 total_supply: 1000000000.0
 max_supply: 1000000000.0
 ath: 0.125171
-ath_change_percentage: -38.41728
+ath_change_percentage: -38.39704
 ath_date: "2025-04-26T00:06:12.850Z"
 atl: 0.02917914
-atl_change_percentage: 164.17448
+atl_change_percentage: 164.26133
 atl_date: "2025-04-11T09:51:11.501Z"
 ---
 

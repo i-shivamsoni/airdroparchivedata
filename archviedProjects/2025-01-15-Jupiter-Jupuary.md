@@ -15,19 +15,21 @@ description: "A decentralized autonomous organization focused on enhancing the J
 mis-data-source: "coingecko"
 last_updated: "2025-06-14T14:26:23.286276Z"
 last_updated: "2025-06-15T10:40:13.048Z"
+last_updated: "2025-06-15T11:42:38.355Z"
+# miscellaneous data source section
 coingecko_id: "jupiter"
-current_price: 0.00089294
-market_cap: 892935
-market_cap_rank: 3829
-fully_diluted_valuation: 892935
+current_price: 0.00089853
+market_cap: 898456
+market_cap_rank: 3836
+fully_diluted_valuation: 898456
 circulating_supply: 1000000000.0
 total_supply: 1000000000.0
 max_supply: null
 ath: 0.128999
-ath_change_percentage: -99.30485
+ath_change_percentage: -99.30351
 ath_date: "2021-03-22T08:37:18.982Z"
 atl: 4.35e-06
-atl_change_percentage: 20499.03288
+atl_change_percentage: 20538.70175
 atl_date: "2020-10-16T10:27:38.449Z"
 ---
 

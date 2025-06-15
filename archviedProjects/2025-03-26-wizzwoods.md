@@ -15,19 +15,21 @@ description: "Wizzwoods is the largest and most active gaming ecosystem on Berac
 mis-data-source: "coingecko"
 last_updated: "2025-06-14T14:26:23.299577Z"
 last_updated: "2025-06-15T10:39:53.586Z"
+last_updated: "2025-06-15T11:41:35.666Z"
+# miscellaneous data source section
 coingecko_id: "wizzwoods-token"
-current_price: 0.00941177
+current_price: 0.00938989
 market_cap: 0.0
 market_cap_rank: null
-fully_diluted_valuation: 16855696
+fully_diluted_valuation: 16864595
 circulating_supply: 0.0
 total_supply: 1800000000.0
 max_supply: 1800000000.0
 ath: 0.02913878
-ath_change_percentage: -67.60533
+ath_change_percentage: -67.74639
 ath_date: "2025-04-01T07:10:55.643Z"
 atl: 0.0090573
-atl_change_percentage: 4.21886
+atl_change_percentage: 3.76501
 atl_date: "2025-06-13T06:51:55.483Z"
 ---
 

@@ -15,19 +15,21 @@ description: "Ampleforth is a rebasing cryptocurrency designed to be a financial
 mis-data-source: "coingecko"
 last_updated: "2025-06-14T14:26:23.241661Z"
 last_updated: "2025-06-15T10:40:56.765Z"
+last_updated: "2025-06-15T11:42:35.507Z"
+# miscellaneous data source section
 coingecko_id: "ampleforth-governance-token"
-current_price: 2.5
-market_cap: 28587141
-market_cap_rank: 951
-fully_diluted_valuation: 38182334
+current_price: 2.46
+market_cap: 28201157
+market_cap_rank: 956
+fully_diluted_valuation: 37666796
 circulating_supply: 11453546.447170038
 total_supply: 15297897.14455933
 max_supply: null
 ath: 180.47
-ath_change_percentage: -98.61568
+ath_change_percentage: -98.63515
 ath_date: "2021-04-21T16:13:43.320Z"
 atl: 1.89
-atl_change_percentage: 32.18769
+atl_change_percentage: 30.32931
 atl_date: "2025-04-05T19:57:47.290Z"
 ---
 

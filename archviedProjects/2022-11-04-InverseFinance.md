@@ -15,19 +15,21 @@ description: "A decentralized finance (DeFi) platform offering lending and borro
 mis-data-source: "coingecko"
 last_updated: "2025-06-14T14:26:23.248373Z"
 last_updated: "2025-06-15T10:41:00.572Z"
+last_updated: "2025-06-15T11:42:40.101Z"
+# miscellaneous data source section
 coingecko_id: "debridge"
-current_price: 0.01457124
-market_cap: 42537596
-market_cap_rank: 763
-fully_diluted_valuation: 146138675
+current_price: 0.01452189
+market_cap: 42269881
+market_cap_rank: 764
+fully_diluted_valuation: 145218937
 circulating_supply: 2910769231.0
 total_supply: 10000000000.0
 max_supply: 10000000000.0
 ath: 0.05521
-ath_change_percentage: -73.63355
+ath_change_percentage: -73.66173
 ath_date: "2024-12-22T00:26:03.744Z"
 atl: 0.01327432
-atl_change_percentage: 9.66296
+atl_change_percentage: 9.54575
 atl_date: "2025-06-13T09:25:39.341Z"
 ---
 

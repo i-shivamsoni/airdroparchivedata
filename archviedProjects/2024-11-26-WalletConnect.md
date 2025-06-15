@@ -15,19 +15,21 @@ description: "A decentralized communication protocol that connects wallets and d
 mis-data-source: "coingecko"
 last_updated: "2025-06-14T14:26:23.281401Z"
 last_updated: "2025-06-15T10:41:00.141Z"
+last_updated: "2025-06-15T11:42:48.372Z"
+# miscellaneous data source section
 coingecko_id: "connect-token-wct"
-current_price: 0.391722
-market_cap: 72994023
-market_cap_rank: 561
-fully_diluted_valuation: 392019172
+current_price: 0.38652
+market_cap: 71994672
+market_cap_rank: 565
+fully_diluted_valuation: 386652093
 circulating_supply: 186200000.0
 total_supply: 999999275.5429252
 max_supply: 1000000000.0
 ath: 1.34
-ath_change_percentage: -70.69849
+ath_change_percentage: -71.18705
 ath_date: "2025-05-31T07:55:32.948Z"
 atl: 0.28143
-atl_change_percentage: 39.86462
+atl_change_percentage: 37.53257
 atl_date: "2025-04-15T23:17:45.835Z"
 ---
 

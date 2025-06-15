@@ -15,19 +15,21 @@ description: "Lista DAO is a decentralized autonomous organization focusing on c
 mis-data-source: "coingecko"
 last_updated: "2025-06-14T14:26:23.273944Z"
 last_updated: "2025-06-15T10:40:59.851Z"
+last_updated: "2025-06-15T11:42:39.413Z"
+# miscellaneous data source section
 coingecko_id: "lista"
-current_price: 0.209347
-market_cap: 36144150
-market_cap_rank: 826
-fully_diluted_valuation: 209259691
+current_price: 0.204558
+market_cap: 35332046
+market_cap_rank: 839
+fully_diluted_valuation: 204557946
 circulating_supply: 172723898.08909667
 total_supply: 1000000000.0
 max_supply: 1000000000.0
 ath: 0.842842
-ath_change_percentage: -75.27027
+ath_change_percentage: -75.49581
 ath_date: "2024-06-21T06:42:43.606Z"
 atl: 0.11193
-atl_change_percentage: 86.21742
+atl_change_percentage: 84.51913
 atl_date: "2025-04-07T06:56:22.583Z"
 ---
 

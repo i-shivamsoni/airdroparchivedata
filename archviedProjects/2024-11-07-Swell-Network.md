@@ -15,19 +15,21 @@ description: "Swell is a leading L2 restaking protocol offering native liquid st
 mis-data-source: "coingecko"
 last_updated: "2025-06-14T14:26:23.280586Z"
 last_updated: "2025-06-15T10:41:02.762Z"
+last_updated: "2025-06-15T11:42:42.487Z"
+# miscellaneous data source section
 coingecko_id: "swell-network"
-current_price: 0.00817387
-market_cap: 16982256
-market_cap_rank: 1243
-fully_diluted_valuation: 81727659
+current_price: 0.00817764
+market_cap: 16989884
+market_cap_rank: 1241
+fully_diluted_valuation: 81764370
 circulating_supply: 2077908062.201149
 total_supply: 10000000000.0
 max_supply: 10000000000.0
 ath: 0.069551
-ath_change_percentage: -88.23448
+ath_change_percentage: -88.18589
 ath_date: "2024-11-09T12:46:13.695Z"
 atl: 0.00705168
-atl_change_percentage: 16.04448
+atl_change_percentage: 16.5237
 atl_date: "2025-04-09T01:31:50.428Z"
 ---
 

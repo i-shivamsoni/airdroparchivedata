@@ -15,19 +15,21 @@ description: "NEXPACE is a Web3 IP-expansion initiative backed by Nexon, featuri
 mis-data-source: "coingecko"
 last_updated: "2025-06-14T14:26:23.304778Z"
 last_updated: "2025-06-15T10:41:01.775Z"
+last_updated: "2025-06-15T11:42:42.257Z"
+# miscellaneous data source section
 coingecko_id: "story-2"
-current_price: 3.51
-market_cap: 1017774913
+current_price: 3.5
+market_cap: 1016082458
 market_cap_rank: 91
-fully_diluted_valuation: 3535492721
-circulating_supply: 289920460.34
+fully_diluted_valuation: 3529578800
+circulating_supply: 289923315.56
 total_supply: 1007110377.72
 max_supply: null
 ath: 7.31
-ath_change_percentage: -51.98978
+ath_change_percentage: -51.99494
 ath_date: "2025-02-26T16:11:25.410Z"
 atl: 1.0
-atl_change_percentage: 251.02114
+atl_change_percentage: 250.98339
 atl_date: "2025-02-14T03:11:08.309Z"
 ---
 

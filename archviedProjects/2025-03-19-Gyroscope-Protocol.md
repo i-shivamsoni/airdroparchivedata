@@ -15,6 +15,8 @@ description: "A decentralized protocol focused on providing a stable and resilie
 mis-data-source: "coingecko"
 last_updated: "2025-06-14T14:26:23.294838Z"
 last_updated: "2025-06-15T03:38:35.746Z"
+last_updated: "2025-06-15T03:38:35.746Z"
+# miscellaneous data source section
 coingecko_id: "gyroscope"
 current_price: 0.637116
 market_cap: 0.0

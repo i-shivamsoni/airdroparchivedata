@@ -15,19 +15,21 @@ description: "A cryptocurrency data aggregator providing real-time data, market 
 mis-data-source: "coingecko"
 last_updated: "2025-06-14T14:26:23.288095Z"
 last_updated: "2025-06-15T10:40:56.666Z"
+last_updated: "2025-06-15T11:42:36.660Z"
+# miscellaneous data source section
 coingecko_id: "sosovalue"
-current_price: 0.489753
-market_cap: 56580075
+current_price: 0.489044
+market_cap: 56151385
 market_cap_rank: 655
-fully_diluted_valuation: 491431263
+fully_diluted_valuation: 487707837
 circulating_supply: 115133243.0
 total_supply: 1000000000.0
 max_supply: 1000000000.0
 ath: 1.42
-ath_change_percentage: -65.38043
+ath_change_percentage: -65.72705
 ath_date: "2025-01-25T12:11:14.152Z"
 atl: 0.359771
-atl_change_percentage: 36.69297
+atl_change_percentage: 35.32437
 atl_date: "2025-06-08T12:06:07.661Z"
 ---
 

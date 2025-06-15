@@ -15,19 +15,21 @@ description: "Wayfinder is an AI-powered platform that combines social missions 
 mis-data-source: "coingecko"
 last_updated: "2025-06-14T14:26:23.304106Z"
 last_updated: "2025-06-15T10:41:03.452Z"
+last_updated: "2025-06-15T11:42:43.301Z"
+# miscellaneous data source section
 coingecko_id: "wayfinder"
-current_price: 0.153792
-market_cap: 34397542
-market_cap_rank: 855
-fully_diluted_valuation: 153628833
+current_price: 0.152781
+market_cap: 34251427
+market_cap_rank: 859
+fully_diluted_valuation: 152976243
 circulating_supply: 223900304.0
 total_supply: 1000000000.0
 max_supply: 1000000000.0
 ath: 0.607139
-ath_change_percentage: -74.62578
+ath_change_percentage: -74.81383
 ath_date: "2025-04-12T16:05:52.227Z"
 atl: 0.146017
-atl_change_percentage: 5.5062
+atl_change_percentage: 4.72429
 atl_date: "2025-06-13T13:25:07.387Z"
 ---
 

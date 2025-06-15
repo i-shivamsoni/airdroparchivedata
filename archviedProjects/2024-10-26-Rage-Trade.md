@@ -15,19 +15,21 @@ description: "A decentralized perpetual and yield trading platform built on Ethe
 mis-data-source: "coingecko"
 last_updated: "2025-06-14T14:26:23.279862Z"
 last_updated: "2025-06-15T10:38:58.000Z"
+last_updated: "2025-06-15T11:35:47.572Z"
+# miscellaneous data source section
 coingecko_id: "rage"
-current_price: 0.063079
+current_price: 0.06308
 market_cap: 0.0
 market_cap_rank: null
-fully_diluted_valuation: 6307980
+fully_diluted_valuation: 6308023
 circulating_supply: 0.0
 total_supply: 100000969.0
 max_supply: 100000969.0
 ath: 0.504053
-ath_change_percentage: -87.48437
+ath_change_percentage: -87.48432
 ath_date: "2024-12-08T23:04:19.921Z"
 atl: 0.0441947
-atl_change_percentage: 42.74432
+atl_change_percentage: 42.74492
 atl_date: "2025-03-10T07:14:41.708Z"
 ---
 

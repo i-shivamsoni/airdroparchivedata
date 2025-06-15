@@ -15,19 +15,21 @@ description: "A leading DeFi protocol in the Scroll ecosystem, offering farming,
 mis-data-source: "coingecko"
 last_updated: "2025-06-14T14:26:23.277652Z"
 last_updated: "2025-06-15T10:38:59.045Z"
+last_updated: "2025-06-15T11:42:48.247Z"
+# miscellaneous data source section
 coingecko_id: "penpad-token"
-current_price: 0.0077173
-market_cap: 439174
-market_cap_rank: 4748
-fully_diluted_valuation: 769581
+current_price: 0.00769896
+market_cap: 438678
+market_cap_rank: 4754
+fully_diluted_valuation: 768712
 circulating_supply: 57066666.666666664
 total_supply: 100000000.0
 max_supply: 100000000.0
 ath: 1.058
-ath_change_percentage: -99.27868
+ath_change_percentage: -99.27584
 ath_date: "2024-09-27T10:15:24.481Z"
 atl: 0.00704395
-atl_change_percentage: 8.32521
+atl_change_percentage: 8.75128
 atl_date: "2025-06-14T08:35:38.332Z"
 ---
 

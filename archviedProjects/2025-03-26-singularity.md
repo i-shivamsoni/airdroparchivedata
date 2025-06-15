@@ -15,19 +15,21 @@ description: "Singularity Finance is a decentralized AI solutions platform that 
 mis-data-source: "coingecko"
 last_updated: "2025-06-14T14:26:23.298728Z"
 last_updated: "2025-06-15T10:39:14.154Z"
+last_updated: "2025-06-15T11:40:16.493Z"
+# miscellaneous data source section
 coingecko_id: "singularity-finance"
-current_price: 0.047825
+current_price: 0.04801173
 market_cap: 0.0
 market_cap_rank: null
-fully_diluted_valuation: 23907927
+fully_diluted_valuation: 24005576
 circulating_supply: 0.0
 total_supply: 500000000.0
 max_supply: 500000000.0
 ath: 0.204218
-ath_change_percentage: -76.57711
+ath_change_percentage: -76.48777
 ath_date: "2025-02-10T11:32:04.927Z"
 atl: 0.03951998
-atl_change_percentage: 21.03683
+atl_change_percentage: 21.49847
 atl_date: "2025-06-09T19:50:04.567Z"
 ---
 

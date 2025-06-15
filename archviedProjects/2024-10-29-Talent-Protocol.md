@@ -15,19 +15,21 @@ description: "A decentralized protocol designed to help crypto builders gain rec
 mis-data-source: "coingecko"
 last_updated: "2025-06-14T14:26:23.280014Z"
 last_updated: "2025-06-15T10:39:20.241Z"
+last_updated: "2025-06-15T11:41:51.036Z"
+# miscellaneous data source section
 coingecko_id: "talent-protocol"
-current_price: 0.00583075
-market_cap: 843902
-market_cap_rank: 3912
-fully_diluted_valuation: 3425443
+current_price: 0.00585026
+market_cap: 846837
+market_cap_rank: 3906
+fully_diluted_valuation: 3437355
 circulating_supply: 144733008.34299374
 total_supply: 587478755.7172114
 max_supply: 600000000.0
 ath: 0.151579
-ath_change_percentage: -96.16159
+ath_change_percentage: -96.14219
 ath_date: "2024-11-04T02:00:11.413Z"
 atl: 0.00553452
-atl_change_percentage: 5.12619
+atl_change_percentage: 5.6577
 atl_date: "2025-06-06T13:45:40.195Z"
 ---
 

@@ -17,19 +17,21 @@ description: "Polyhedra Network is building a Web3 infrastructure focusing on in
 mis-data-source: "coingecko"
 last_updated: "2025-06-14T14:26:23.266860Z"
 last_updated: "2025-06-15T10:40:58.761Z"
+last_updated: "2025-06-15T11:42:38.349Z"
+# miscellaneous data source section
 coingecko_id: "polyhedra-network"
 current_price: 1.95
-market_cap: 601998953
+market_cap: 602972661
 market_cap_rank: 139
-fully_diluted_valuation: 1952077303
+fully_diluted_valuation: 1955234708
 circulating_supply: 308388890.0
 total_supply: 1000000000.0
 max_supply: 1000000000.0
 ath: 4.01
-ath_change_percentage: -51.27319
+ath_change_percentage: -51.25937
 ath_date: "2024-03-19T10:00:53.393Z"
 atl: 1.041
-atl_change_percentage: 87.70795
+atl_change_percentage: 87.76119
 atl_date: "2024-06-07T19:05:27.965Z"
 ---
 

@@ -16,19 +16,21 @@ description: "A decentralized synthetic assets protocol built on the Terra block
 mis-data-source: "coingecko"
 last_updated: "2025-06-14T14:26:23.239724Z"
 last_updated: "2025-06-15T10:39:01.661Z"
+last_updated: "2025-06-15T11:42:27.732Z"
+# miscellaneous data source section
 coingecko_id: "mirror-protocol"
-current_price: 0.01384651
-market_cap: 2160883
-market_cap_rank: 2860
-fully_diluted_valuation: 5131318
+current_price: 0.01375175
+market_cap: 2132774
+market_cap_rank: 2867
+fully_diluted_valuation: 5064570
 circulating_supply: 156055246.85708
 total_supply: 370575000.0
 max_supply: 370575000.0
 ath: 12.9
-ath_change_percentage: -99.89395
+ath_change_percentage: -99.89343
 ath_date: "2021-04-10T04:24:49.114Z"
 atl: 0.00979425
-atl_change_percentage: 39.71733
+atl_change_percentage: 40.40339
 atl_date: "2023-11-21T23:15:02.502Z"
 ---
 

@@ -16,19 +16,21 @@ description: "ANIME coin is the gas token for Animechain, an L3 blockchain using
 mis-data-source: "coingecko"
 last_updated: "2025-06-14T14:26:23.287554Z"
 last_updated: "2025-06-15T10:41:03.976Z"
+last_updated: "2025-06-15T11:42:43.537Z"
+# miscellaneous data source section
 coingecko_id: "anime"
-current_price: 0.02421672
-market_cap: 134226199
+current_price: 0.02413033
+market_cap: 134352350
 market_cap_rank: 377
-fully_diluted_valuation: 242346598
+fully_diluted_valuation: 242574364
 circulating_supply: 5538604656.0
 total_supply: 10000000000.0
 max_supply: 10000000000.0
 ath: 0.186122
-ath_change_percentage: -87.00512
+ath_change_percentage: -86.92364
 ath_date: "2025-01-23T13:35:23.566Z"
 atl: 0.01240107
-atl_change_percentage: 95.034
+atl_change_percentage: 96.25692
 atl_date: "2025-04-07T06:55:45.218Z"
 ---
 

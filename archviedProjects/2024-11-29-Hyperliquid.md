@@ -16,19 +16,21 @@ description: "A decentralized trading platform offering high-performance perpetu
 mis-data-source: "coingecko"
 last_updated: "2025-06-14T14:26:23.282413Z"
 last_updated: "2025-06-15T10:41:03.051Z"
+last_updated: "2025-06-15T11:42:42.488Z"
+# miscellaneous data source section
 coingecko_id: "hyperliquid"
-current_price: 40.1
-market_cap: 13389666085
+current_price: 40.14
+market_cap: 13383929876
 market_cap_rank: 13
-fully_diluted_valuation: 40097057469
+fully_diluted_valuation: 40079879661
 circulating_supply: 333928180.0
 total_supply: 999990391.0
 max_supply: 1000000000.0
 ath: 43.82
-ath_change_percentage: -8.35382
+ath_change_percentage: -8.32001
 ath_date: "2025-06-11T15:36:41.179Z"
 atl: 3.81
-atl_change_percentage: 954.2914
+atl_change_percentage: 954.68031
 atl_date: "2024-11-29T09:30:30.871Z"
 ---
 

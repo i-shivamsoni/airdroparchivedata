@@ -16,19 +16,21 @@ description: "A team-based hero shooter featuring cats piloting giant mechs, uti
 mis-data-source: "coingecko"
 last_updated: "2025-06-14T14:26:23.273810Z"
 last_updated: "2025-06-15T10:38:52.255Z"
+last_updated: "2025-06-15T11:42:43.820Z"
+# miscellaneous data source section
 coingecko_id: "nyan"
-current_price: 0.00411083
-market_cap: 607220
+current_price: 0.00414878
+market_cap: 606595
 market_cap_rank: 4320
-fully_diluted_valuation: 4149090
+fully_diluted_valuation: 4144818
 circulating_supply: 146350109.0
 total_supply: 1000000000.0
 max_supply: 1000000000.0
 ath: 0.457078
-ath_change_percentage: -99.08882
+ath_change_percentage: -99.09587
 ath_date: "2024-05-21T11:00:58.821Z"
 atl: 0.00336829
-atl_change_percentage: 23.64763
+atl_change_percentage: 22.69078
 atl_date: "2025-06-06T10:40:04.596Z"
 ---
 

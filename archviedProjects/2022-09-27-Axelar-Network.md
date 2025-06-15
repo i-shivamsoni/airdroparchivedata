@@ -16,19 +16,21 @@ description: "Axelar delivers secure interchain communication for Web3, allowing
 mis-data-source: "coingecko"
 last_updated: "2025-06-14T14:26:23.247666Z"
 last_updated: "2025-06-15T10:41:04.685Z"
+last_updated: "2025-06-15T11:42:43.996Z"
+# miscellaneous data source section
 coingecko_id: "axelar"
-current_price: 0.423862
-market_cap: 417952934
+current_price: 0.435179
+market_cap: 428343578
 market_cap_rank: 175
-fully_diluted_valuation: 511713545
-circulating_supply: 984379065.907058
-total_supply: 1205207717.906754
+fully_diluted_valuation: 524444602
+circulating_supply: 984382453.766268
+total_supply: 1205233581.948244
 max_supply: null
 ath: 2.64
-ath_change_percentage: -83.95458
+ath_change_percentage: -83.45425
 ath_date: "2024-03-01T09:20:05.541Z"
 atl: 0.274681
-atl_change_percentage: 54.44333
+atl_change_percentage: 59.25917
 atl_date: "2025-04-07T06:56:16.620Z"
 ---
 

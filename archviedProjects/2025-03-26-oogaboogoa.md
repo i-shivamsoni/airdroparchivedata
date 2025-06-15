@@ -15,19 +15,21 @@ description: "A decentralized exchange on Berachain that rewards active traders 
 mis-data-source: "coingecko"
 last_updated: "2025-06-14T14:26:23.298140Z"
 last_updated: "2025-06-15T10:40:45.581Z"
+last_updated: "2025-06-15T11:40:45.801Z"
+# miscellaneous data source section
 coingecko_id: "ooga-booga"
-current_price: 0.092609
-market_cap: 1683859
-market_cap_rank: 3116
-fully_diluted_valuation: 9273051
+current_price: 0.091396
+market_cap: 1676787
+market_cap_rank: 3117
+fully_diluted_valuation: 9234108
 circulating_supply: 18158630.059429016
 total_supply: 100000000.0
 max_supply: 100000000.0
 ath: 0.336797
-ath_change_percentage: -72.46378
+ath_change_percentage: -72.48369
 ath_date: "2025-04-22T23:51:10.885Z"
 atl: 0.084867
-atl_change_percentage: 9.27835
+atl_change_percentage: 9.19935
 atl_date: "2025-05-31T01:58:55.789Z"
 ---
 

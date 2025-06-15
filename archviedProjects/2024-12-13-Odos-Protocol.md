@@ -15,19 +15,21 @@ description: "A DeFi protocol optimizing token swaps and trades with advanced ro
 mis-data-source: "coingecko"
 last_updated: "2025-06-14T14:26:23.283514Z"
 last_updated: "2025-06-15T10:40:58.893Z"
+last_updated: "2025-06-15T11:42:38.202Z"
+# miscellaneous data source section
 coingecko_id: "odos"
-current_price: 0.00544324
-market_cap: 8700110
-market_cap_rank: 1683
-fully_diluted_valuation: 54375688
+current_price: 0.00544494
+market_cap: 8711865
+market_cap_rank: 1688
+fully_diluted_valuation: 54449159
 circulating_supply: 1600000001.378885
 total_supply: 10000000000.0
 max_supply: 10000000000.0
 ath: 0.04904018
-ath_change_percentage: -88.93278
+ath_change_percentage: -88.91997
 ath_date: "2024-12-21T12:30:25.523Z"
 atl: 0.00481306
-atl_change_percentage: 12.76383
+atl_change_percentage: 12.89435
 atl_date: "2025-04-07T07:05:38.892Z"
 ---
 

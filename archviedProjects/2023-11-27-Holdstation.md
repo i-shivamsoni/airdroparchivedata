@@ -15,19 +15,21 @@ description: "A Web3 smart contract wallet focused on future trading, self-custo
 mis-data-source: "coingecko"
 last_updated: "2025-06-14T14:26:23.258419Z"
 last_updated: "2025-06-15T10:40:59.418Z"
+last_updated: "2025-06-15T11:42:38.754Z"
+# miscellaneous data source section
 coingecko_id: "holdstation"
-current_price: 0.982295
-market_cap: 7813525
+current_price: 0.991512
+market_cap: 7836620
 market_cap_rank: 1758
-fully_diluted_valuation: 29657725
+fully_diluted_valuation: 29745385
 circulating_supply: 7903700.0
 total_supply: 30000000.0
 max_supply: 30000000.0
 ath: 7.49
-ath_change_percentage: -86.70635
+ath_change_percentage: -86.85889
 ath_date: "2024-03-26T04:35:08.885Z"
 atl: 0.600735
-atl_change_percentage: 65.63732
+atl_change_percentage: 63.73667
 atl_date: "2024-11-05T03:21:12.717Z"
 ---
 

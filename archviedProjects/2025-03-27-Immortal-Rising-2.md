@@ -15,19 +15,21 @@ description: "A blockchain-based idle RPG where players earn and trade assets th
 mis-data-source: "coingecko"
 last_updated: "2025-06-14T14:26:23.300029Z"
 last_updated: "2025-06-15T10:39:16.011Z"
+last_updated: "2025-06-15T11:42:13.679Z"
+# miscellaneous data source section
 coingecko_id: "immortal-token"
-current_price: 0.0062817
-market_cap: 1150967
-market_cap_rank: 3531
-fully_diluted_valuation: 6279143
+current_price: 0.00624292
+market_cap: 1143218
+market_cap_rank: 3541
+fully_diluted_valuation: 6236870
 circulating_supply: 183300000.0
 total_supply: 1000000000.0
 max_supply: 1000000000.0
 ath: 0.02273463
-ath_change_percentage: -72.39614
+ath_change_percentage: -72.54718
 ath_date: "2025-03-28T12:26:36.314Z"
 atl: 0.00233253
-atl_change_percentage: 169.04833
+atl_change_percentage: 167.57612
 atl_date: "2025-04-21T15:49:38.025Z"
 ---
 

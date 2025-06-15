@@ -16,19 +16,21 @@ description: "A decentralized credit protocol aiming to expand financial inclusi
 mis-data-source: "coingecko"
 last_updated: "2025-06-14T14:26:23.251883Z"
 last_updated: "2025-06-15T10:40:58.990Z"
+last_updated: "2025-06-15T11:42:38.330Z"
+# miscellaneous data source section
 coingecko_id: "goldfinch"
-current_price: 0.714304
-market_cap: 66364961
-market_cap_rank: 598
-fully_diluted_valuation: 81644857
+current_price: 0.713718
+market_cap: 66344517
+market_cap_rank: 599
+fully_diluted_valuation: 81619706
 circulating_supply: 92897056.10346569
 total_supply: 114285714.0
 max_supply: 114285714.0
 ath: 32.94
-ath_change_percentage: -97.83171
+ath_change_percentage: -97.83288
 ath_date: "2022-01-11T21:23:15.079Z"
 atl: 0.290236
-atl_change_percentage: 146.05599
+atl_change_percentage: 145.92281
 atl_date: "2023-06-19T16:10:16.753Z"
 ---
 

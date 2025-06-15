@@ -15,19 +15,21 @@ description: "Pell Network is an Omnichain Decentralized Validated Service (DVS)
 mis-data-source: "coingecko"
 last_updated: "2025-06-14T14:26:23.293777Z"
 last_updated: "2025-06-15T10:39:20.069Z"
+last_updated: "2025-06-15T11:41:35.259Z"
+# miscellaneous data source section
 coingecko_id: "pell-network-token"
-current_price: 0.00265642
-market_cap: 890582
-market_cap_rank: 3838
-fully_diluted_valuation: 5566136
+current_price: 0.00264011
+market_cap: 889210
+market_cap_rank: 3842
+fully_diluted_valuation: 5557564
 circulating_supply: 336000000.0
 total_supply: 2100000000.0
 max_supply: 2100000000.0
 ath: 0.02488985
-ath_change_percentage: -89.34594
+ath_change_percentage: -89.39477
 ath_date: "2025-03-15T01:01:31.556Z"
 atl: 0.00228036
-atl_change_percentage: 16.28789
+atl_change_percentage: 15.75498
 atl_date: "2025-06-06T06:05:18.644Z"
 ---
 

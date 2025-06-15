@@ -16,19 +16,21 @@ description: "A cross-chain oracle network providing real-time price feeds for D
 mis-data-source: "coingecko"
 last_updated: "2025-06-14T14:26:23.258258Z"
 last_updated: "2025-06-15T10:41:01.353Z"
+last_updated: "2025-06-15T11:42:50.541Z"
+# miscellaneous data source section
 coingecko_id: "pyth-network"
-current_price: 0.105608
-market_cap: 607239838
-market_cap_rank: 136
-fully_diluted_valuation: 1056071771
+current_price: 0.105695
+market_cap: 608070420
+market_cap_rank: 137
+fully_diluted_valuation: 1057516265
 circulating_supply: 5749986456.065399
 total_supply: 10000000000.0
 max_supply: 10000000000.0
 ath: 1.2
-ath_change_percentage: -91.15969
+ath_change_percentage: -91.12403
 ath_date: "2024-03-16T07:01:15.357Z"
 atl: 0.102265
-atl_change_percentage: 3.41991
+atl_change_percentage: 3.83711
 atl_date: "2025-06-14T18:50:28.769Z"
 ---
 

@@ -15,19 +15,21 @@ description: "A decentralized protocol focused on liquidity provision and commun
 mis-data-source: "coingecko"
 last_updated: "2025-06-14T14:26:23.244875Z"
 last_updated: "2025-06-15T10:36:46.872Z"
+last_updated: "2025-06-15T11:36:46.877Z"
+# miscellaneous data source section
 coingecko_id: "growth"
-current_price: 0.777488
+current_price: 0.778254
 market_cap: 0.0
 market_cap_rank: null
-fully_diluted_valuation: 1888712
+fully_diluted_valuation: 1890572
 circulating_supply: 0.0
 total_supply: 2429250.0
 max_supply: 2429250.0
 ath: 3.98
-ath_change_percentage: -80.50743
+ath_change_percentage: -80.3895
 ath_date: "2024-05-07T18:10:16.053Z"
 atl: 0.196867
-atl_change_percentage: 293.6939
+atl_change_percentage: 296.07574
 atl_date: "2025-04-03T00:01:17.703Z"
 ---
 

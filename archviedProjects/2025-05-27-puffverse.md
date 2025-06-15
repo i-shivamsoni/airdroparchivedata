@@ -15,19 +15,21 @@ description: "Puffverse is a 3D metaverse platform that connects Web3 virtuality
 mis-data-source: "coingecko"
 last_updated: "2025-06-14T14:26:23.305231Z"
 last_updated: "2025-06-15T10:40:19.304Z"
+last_updated: "2025-06-15T11:42:23.572Z"
+# miscellaneous data source section
 coingecko_id: "puffverse"
-current_price: 0.02202398
-market_cap: 2568350
-market_cap_rank: 2673
-fully_diluted_valuation: 22022822
+current_price: 0.02203326
+market_cap: 2569780
+market_cap_rank: 2680
+fully_diluted_valuation: 22035084
 circulating_supply: 116622222.0
 total_supply: 1000000000.0
 max_supply: 1000000000.0
 ath: 0.086767
-ath_change_percentage: -74.62117
+ath_change_percentage: -74.59798
 ath_date: "2025-05-27T14:05:23.191Z"
 atl: 0.0214171
-atl_change_percentage: 2.81725
+atl_change_percentage: 2.91119
 atl_date: "2025-06-14T03:29:30.718Z"
 ---
 
