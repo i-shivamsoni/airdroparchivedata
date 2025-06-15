@@ -95,8 +95,8 @@ def cleanup_batch_files(output_dir: str) -> None:
 
 def main():
     # Configuration
-    projects_file = "_posts/scripts/projectslist-coingecko.json"
-    output_dir = "_posts/scripts/"
+    projects_file = "projectslist-coingecko.json"
+    output_dir = "."
     api_key = os.getenv('COINGECKO_API_KEY')
     batch_size = 100
     

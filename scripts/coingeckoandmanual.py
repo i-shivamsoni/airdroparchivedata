@@ -93,8 +93,8 @@ def create_json_file(projects, file_path, data_source_type):
 
 def main():
     # Set the directory path
-    directory_path = "_posts/archviedProjects"
-    output_path    = "_posts/scripts"
+    directory_path = "../archviedProjects"
+    output_path    = "."
     # Process all markdown files
     coingecko_projects, manual_projects = process_markdown_files(directory_path)
 

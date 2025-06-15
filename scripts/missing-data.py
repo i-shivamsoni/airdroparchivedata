@@ -110,8 +110,8 @@ def update_markdown_file(filepath: str, coin_data: Dict) -> bool:
 def main():
     """Main function to process missing coins"""
     # File paths
-    posts_path = "_posts/archviedProjects"
-    missing_file = "_posts/scripts/coingecko-now-missing.json"
+    posts_path = "../archviedProjects"
+    missing_file = "coingecko-now-missing.json"
     
     # Load missing data file
     print("Loading missing data file...")

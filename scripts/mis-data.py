@@ -121,9 +121,9 @@ def update_markdown_file(filepath: str, coin_data: Dict, market_data: Dict) -> b
 def main():
     """Main function to process all files"""
     # File paths
-    posts_path = "_posts/archviedProjects"
-    mapping_file = "_posts/scripts/projectslist-coingecko.json"
-    market_data_file = "_posts/scripts/all_market_data.json"
+    posts_path = "../archviedProjects"
+    mapping_file = "projectslist-coingecko.json"
+    market_data_file = "all_market_data.json"
     
     # Load data files
     print("Loading data files...")
