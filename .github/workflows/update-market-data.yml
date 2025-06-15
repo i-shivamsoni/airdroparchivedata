@@ -71,17 +71,43 @@ jobs:
     if: success()
 
     steps:
+      - name: Debug PAT
+        run: |
+          if [ -z "${{ secrets.PAT }}" ]; then
+            echo "PAT is not set"
+            exit 1
+          else
+            echo "PAT is set"
+          fi
+
       - name: Trigger Build and Deploy Workflow
         run: |
           # Set the required variables
           repo_owner="i-shivamsoni"
           repo_name="airdrop-archive"
-          event_type="workflow_dispatch"
           
-          curl -L \
+          # Debug information
+          echo "Triggering workflow in: $repo_owner/$repo_name"
+          
+          # Make the API call
+          response=$(curl -s -w "\n%{http_code}" \
             -X POST \
             -H "Accept: application/vnd.github+json" \
             -H "Authorization: Bearer ${{ secrets.PAT }}" \
             -H "X-GitHub-Api-Version: 2022-11-28" \
             https://api.github.com/repos/$repo_owner/$repo_name/dispatches \
-            -d "{\"event_type\": \"$event_type\", \"client_payload\": {\"source\": \"market-data-update\", \"timestamp\": \"$(date -u +'%Y-%m-%dT%H:%M:%SZ')\"}}" 
+            -d '{"event_type": "workflow_dispatch"}')
+          
+          # Split response into body and status code
+          body=$(echo "$response" | sed '$d')
+          status_code=$(echo "$response" | tail -n1)
+          
+          # Debug output
+          echo "Response status code: $status_code"
+          echo "Response body: $body"
+          
+          # Check if the request was successful
+          if [ "$status_code" -ne 204 ]; then
+            echo "Failed to trigger workflow"
+            exit 1
+          fi 
