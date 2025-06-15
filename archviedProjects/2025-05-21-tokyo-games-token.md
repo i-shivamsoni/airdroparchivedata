@@ -16,20 +16,20 @@ mis-data-source: "coingecko"
 last_updated: "2025-06-14T14:26:23.302472Z"
 last_updated: "2025-06-15T10:40:53.931Z"
 last_updated: "2025-06-15T11:42:42.865Z"
-# miscellaneous data source section
+last_updated: "2025-06-15T13:29:38.132Z"
 coingecko_id: "tokyo-games-token"
-current_price: 0.03366815
-market_cap: 4963958
-market_cap_rank: 2058
-fully_diluted_valuation: 33653954
+current_price: 0.03395046
+market_cap: 5011160
+market_cap_rank: 2062
+fully_diluted_valuation: 33973965
 circulating_supply: 147500000.0
 total_supply: 1000000000.0
 max_supply: 1000000000.0
 ath: 0.15017
-ath_change_percentage: -77.57508
+ath_change_percentage: -77.37668
 ath_date: "2025-05-22T12:15:42.754Z"
 atl: 0.03362437
-atl_change_percentage: 0.15202
+atl_change_percentage: 1.03809
 atl_date: "2025-06-15T11:20:41.089Z"
 ---
 

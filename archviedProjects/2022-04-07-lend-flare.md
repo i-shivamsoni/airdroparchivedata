@@ -16,20 +16,20 @@ mis-data-source: "coingecko"
 last_updated: "2025-06-14T14:26:23.246134Z"
 last_updated: "2025-06-15T10:40:57.857Z"
 last_updated: "2025-06-15T11:42:37.173Z"
-# miscellaneous data source section
+last_updated: "2025-06-15T13:29:42.284Z"
 coingecko_id: "lifeform"
-current_price: 0.01203906
-market_cap: 7412900
-market_cap_rank: 1788
-fully_diluted_valuation: 12039060
+current_price: 0.01207604
+market_cap: 7436071
+market_cap_rank: 1792
+fully_diluted_valuation: 12076691
 circulating_supply: 615737431.0
 total_supply: 1000000000.0
 max_supply: 1000000000.0
 ath: 0.582687
-ath_change_percentage: -97.93378
+ath_change_percentage: -97.92741
 ath_date: "2024-05-30T09:09:47.603Z"
 atl: 0.01108656
-atl_change_percentage: 8.59613
+atl_change_percentage: 8.93106
 atl_date: "2025-02-03T15:17:08.516Z"
 ---
 

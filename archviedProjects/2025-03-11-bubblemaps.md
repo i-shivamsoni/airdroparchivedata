@@ -16,20 +16,20 @@ mis-data-source: "coingecko"
 last_updated: "2025-06-14T14:26:23.292999Z"
 last_updated: "2025-06-15T10:41:04.611Z"
 last_updated: "2025-06-15T11:42:40.649Z"
-# miscellaneous data source section
+last_updated: "2025-06-15T13:29:36.432Z"
 coingecko_id: "bubblemaps"
-current_price: 0.116708
-market_cap: 29891912
-market_cap_rank: 924
-fully_diluted_valuation: 116682828
+current_price: 0.116437
+market_cap: 29792230
+market_cap_rank: 933
+fully_diluted_valuation: 116293720
 circulating_supply: 256180900.0
 total_supply: 1000000000.0
 max_supply: 1000000000.0
 ath: 0.317341
-ath_change_percentage: -63.22077
+ath_change_percentage: -63.32046
 ath_date: "2025-03-18T15:20:52.751Z"
 atl: 0.072226
-atl_change_percentage: 61.59785
+atl_change_percentage: 61.15985
 atl_date: "2025-04-09T01:30:59.388Z"
 ---
 

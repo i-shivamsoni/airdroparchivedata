@@ -16,20 +16,20 @@ mis-data-source: "coingecko"
 last_updated: "2025-06-14T14:26:23.289174Z"
 last_updated: "2025-06-15T10:38:47.788Z"
 last_updated: "2025-06-15T11:41:53.827Z"
-# miscellaneous data source section
+last_updated: "2025-06-15T13:26:47.834Z"
 coingecko_id: "solid"
-current_price: 0.00213238
-market_cap: 888490
-market_cap_rank: 3845
-fully_diluted_valuation: 2132056
+current_price: 0.00215352
+market_cap: 897025
+market_cap_rank: 3837
+fully_diluted_valuation: 2152535
 circulating_supply: 416727624.38502115
 total_supply: 999995572.3921297
 max_supply: 1000000000.0
 ath: 0.01632385
-ath_change_percentage: -86.84973
+ath_change_percentage: -86.80754
 ath_date: "2025-02-14T18:14:14.847Z"
 atl: 0.00210356
-atl_change_percentage: 2.04754
+atl_change_percentage: 2.37494
 atl_date: "2025-06-14T20:21:52.236Z"
 ---
 

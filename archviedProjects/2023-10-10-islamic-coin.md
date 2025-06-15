@@ -17,20 +17,20 @@ mis-data-source: "coingecko"
 last_updated: "2025-06-14T14:26:23.257063Z"
 last_updated: "2025-06-15T10:41:00.901Z"
 last_updated: "2025-06-15T11:42:40.573Z"
-# miscellaneous data source section
+last_updated: "2025-06-15T13:29:46.301Z"
 coingecko_id: "islamic-coin"
-current_price: 0.02723344
-market_cap: 51345815
-market_cap_rank: 690
-fully_diluted_valuation: 550509538
-circulating_supply: 1885392591.322277
-total_supply: 20214434188.90269
+current_price: 0.02710434
+market_cap: 51227249
+market_cap_rank: 694
+fully_diluted_valuation: 549236133
+circulating_supply: 1885402986.671051
+total_supply: 20214465090.28983
 max_supply: 100000000000.0
 ath: 0.303274
-ath_change_percentage: -91.0114
+ath_change_percentage: -91.04096
 ath_date: "2023-10-15T00:00:00.000Z"
 atl: 0.02025235
-atl_change_percentage: 34.60207
+atl_change_percentage: 34.15947
 atl_date: "2025-02-03T03:47:19.543Z"
 ---
 

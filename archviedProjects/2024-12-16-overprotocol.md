@@ -17,20 +17,20 @@ mis-data-source: "coingecko"
 last_updated: "2025-06-14T14:26:23.283696Z"
 last_updated: "2025-06-15T10:39:25.636Z"
 last_updated: "2025-06-15T11:42:28.866Z"
-# miscellaneous data source section
+last_updated: "2025-06-15T13:28:19.872Z"
 coingecko_id: "overprotocol"
-current_price: 0.02922729
+current_price: 0.02873234
 market_cap: 0.0
 market_cap_rank: null
-fully_diluted_valuation: 29191217
+fully_diluted_valuation: 28776667
 circulating_supply: 0.0
 total_supply: 1000000000.0
 max_supply: null
 ath: 0.203395
-ath_change_percentage: -85.59916
+ath_change_percentage: -85.86617
 ath_date: "2024-12-18T00:25:28.785Z"
 atl: 0.02592228
-atl_change_percentage: 12.99386
+atl_change_percentage: 10.89879
 atl_date: "2025-03-24T03:20:31.809Z"
 ---
 

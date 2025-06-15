@@ -16,20 +16,20 @@ mis-data-source: "coingecko"
 last_updated: "2025-06-14T14:26:23.291785Z"
 last_updated: "2025-06-15T10:40:35.767Z"
 last_updated: "2025-06-15T11:42:33.345Z"
-# miscellaneous data source section
+last_updated: "2025-06-15T13:29:40.278Z"
 coingecko_id: "loaded-lions"
-current_price: 0.01745341
+current_price: 0.01751143
 market_cap: 0.0
 market_cap_rank: null
-fully_diluted_valuation: 1744978014
+fully_diluted_valuation: 1751485133
 circulating_supply: 0.0
 total_supply: 100000000000.0
 max_supply: 100000000000.0
 ath: 0.02882183
-ath_change_percentage: -39.40921
+ath_change_percentage: -39.23061
 ath_date: "2025-05-10T01:30:35.066Z"
 atl: 0.00221931
-atl_change_percentage: 686.88207
+atl_change_percentage: 689.20155
 atl_date: "2025-03-04T09:34:06.201Z"
 ---
 

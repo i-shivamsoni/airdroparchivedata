@@ -18,20 +18,20 @@ mis-data-source: "coingecko"
 last_updated: "2025-06-14T14:26:23.266860Z"
 last_updated: "2025-06-15T10:40:58.761Z"
 last_updated: "2025-06-15T11:42:38.349Z"
-# miscellaneous data source section
+last_updated: "2025-06-15T13:29:33.699Z"
 coingecko_id: "polyhedra-network"
-current_price: 1.95
-market_cap: 602972661
-market_cap_rank: 139
-fully_diluted_valuation: 1955234708
+current_price: 1.25
+market_cap: 382914363
+market_cap_rank: 192
+fully_diluted_valuation: 1241660693
 circulating_supply: 308388890.0
 total_supply: 1000000000.0
 max_supply: 1000000000.0
 ath: 4.01
-ath_change_percentage: -51.25937
+ath_change_percentage: -69.01303
 ath_date: "2024-03-19T10:00:53.393Z"
 atl: 1.041
-atl_change_percentage: 87.76119
+atl_change_percentage: 19.3696
 atl_date: "2024-06-07T19:05:27.965Z"
 ---
 

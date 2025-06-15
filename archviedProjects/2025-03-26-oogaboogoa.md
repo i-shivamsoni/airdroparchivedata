@@ -16,20 +16,20 @@ mis-data-source: "coingecko"
 last_updated: "2025-06-14T14:26:23.298140Z"
 last_updated: "2025-06-15T10:40:45.581Z"
 last_updated: "2025-06-15T11:40:45.801Z"
-# miscellaneous data source section
+last_updated: "2025-06-15T13:29:35.882Z"
 coingecko_id: "ooga-booga"
-current_price: 0.091396
-market_cap: 1676787
-market_cap_rank: 3117
-fully_diluted_valuation: 9234108
+current_price: 0.09192
+market_cap: 1669093
+market_cap_rank: 3131
+fully_diluted_valuation: 9191732
 circulating_supply: 18158630.059429016
 total_supply: 100000000.0
 max_supply: 100000000.0
 ath: 0.336797
-ath_change_percentage: -72.48369
+ath_change_percentage: -72.7084
 ath_date: "2025-04-22T23:51:10.885Z"
 atl: 0.084867
-atl_change_percentage: 9.19935
+atl_change_percentage: 8.30759
 atl_date: "2025-05-31T01:58:55.789Z"
 ---
 

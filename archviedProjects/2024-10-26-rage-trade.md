@@ -16,20 +16,20 @@ mis-data-source: "coingecko"
 last_updated: "2025-06-14T14:26:23.279862Z"
 last_updated: "2025-06-15T10:38:58.000Z"
 last_updated: "2025-06-15T11:35:47.572Z"
-# miscellaneous data source section
+last_updated: "2025-06-15T13:23:00.595Z"
 coingecko_id: "rage"
-current_price: 0.06308
+current_price: 0.063085
 market_cap: 0.0
 market_cap_rank: null
-fully_diluted_valuation: 6308023
+fully_diluted_valuation: 6308593
 circulating_supply: 0.0
 total_supply: 100000969.0
 max_supply: 100000969.0
 ath: 0.504053
-ath_change_percentage: -87.48432
+ath_change_percentage: -87.48439
 ath_date: "2024-12-08T23:04:19.921Z"
 atl: 0.0441947
-atl_change_percentage: 42.74492
+atl_change_percentage: 42.7441
 atl_date: "2025-03-10T07:14:41.708Z"
 ---
 

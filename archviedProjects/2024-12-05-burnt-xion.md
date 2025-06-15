@@ -18,20 +18,20 @@ mis-data-source: "coingecko"
 last_updated: "2025-06-14T14:26:23.282545Z"
 last_updated: "2025-06-15T10:41:02.496Z"
 last_updated: "2025-06-15T11:42:42.025Z"
-# miscellaneous data source section
+last_updated: "2025-06-15T13:29:37.084Z"
 coingecko_id: "xion-2"
-current_price: 1.088
-market_cap: 38825839
-market_cap_rank: 793
-fully_diluted_valuation: 217737130
+current_price: 1.085
+market_cap: 38665663
+market_cap_rank: 795
+fully_diluted_valuation: 216838856
 circulating_supply: 35663039.014999
 total_supply: 200000000.0
 max_supply: null
 ath: 6.83
-ath_change_percentage: -84.04379
+ath_change_percentage: -84.12054
 ath_date: "2024-12-08T00:00:00.000Z"
 atl: 0.796888
-atl_change_percentage: 36.77488
+atl_change_percentage: 36.117
 atl_date: "2025-03-12T15:06:51.070Z"
 ---
 

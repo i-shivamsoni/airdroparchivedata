@@ -17,20 +17,20 @@ mis-data-source: "coingecko"
 last_updated: "2025-06-14T14:26:23.288593Z"
 last_updated: "2025-06-15T10:41:07.194Z"
 last_updated: "2025-06-15T11:42:47.063Z"
-# miscellaneous data source section
+last_updated: "2025-06-15T13:29:32.692Z"
 coingecko_id: "redbelly-network-token"
-current_price: 0.02145085
-market_cap: 21877204
-market_cap_rank: 1109
-fully_diluted_valuation: 214507606
+current_price: 0.02138099
+market_cap: 21761130
+market_cap_rank: 1122
+fully_diluted_valuation: 213369487
 circulating_supply: 1019880129.0
 total_supply: 10000000000.0
 max_supply: 10000000000.0
 ath: 0.483622
-ath_change_percentage: -95.56063
+ath_change_percentage: -95.58809
 ath_date: "2024-12-26T06:20:29.049Z"
 atl: 0.01597731
-atl_change_percentage: 34.37671
+atl_change_percentage: 33.54532
 atl_date: "2025-05-06T19:16:26.791Z"
 ---
 

@@ -16,20 +16,20 @@ mis-data-source: "coingecko"
 last_updated: "2025-06-14T14:26:23.304106Z"
 last_updated: "2025-06-15T10:41:03.452Z"
 last_updated: "2025-06-15T11:42:43.301Z"
-# miscellaneous data source section
+last_updated: "2025-06-15T13:29:38.668Z"
 coingecko_id: "wayfinder"
-current_price: 0.152781
-market_cap: 34251427
+current_price: 0.153651
+market_cap: 34474647
 market_cap_rank: 859
-fully_diluted_valuation: 152976243
+fully_diluted_valuation: 153973203
 circulating_supply: 223900304.0
 total_supply: 1000000000.0
 max_supply: 1000000000.0
 ath: 0.607139
-ath_change_percentage: -74.81383
+ath_change_percentage: -74.67883
 ath_date: "2025-04-12T16:05:52.227Z"
 atl: 0.146017
-atl_change_percentage: 4.72429
+atl_change_percentage: 5.28562
 atl_date: "2025-06-13T13:25:07.387Z"
 ---
 

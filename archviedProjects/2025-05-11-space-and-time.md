@@ -16,20 +16,20 @@ mis-data-source: "coingecko"
 last_updated: "2025-06-14T14:26:23.301476Z"
 last_updated: "2025-06-15T10:39:19.942Z"
 last_updated: "2025-06-15T11:42:41.696Z"
-# miscellaneous data source section
+last_updated: "2025-06-15T13:29:07.226Z"
 coingecko_id: "space-and-time"
-current_price: 0.077037
+current_price: 0.077696
 market_cap: 0.0
 market_cap_rank: null
-fully_diluted_valuation: 385298491
+fully_diluted_valuation: 388332105
 circulating_supply: 0.0
 total_supply: 5000000000.0
 max_supply: 5000000000.0
 ath: 0.162092
-ath_change_percentage: -52.39785
+ath_change_percentage: -52.05536
 ath_date: "2025-05-08T13:07:41.348Z"
 atl: 0.075393
-atl_change_percentage: 2.34285
+atl_change_percentage: 3.0792
 atl_date: "2025-06-13T02:10:05.432Z"
 ---
 

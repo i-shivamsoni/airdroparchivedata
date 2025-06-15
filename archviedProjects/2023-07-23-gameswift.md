@@ -16,20 +16,20 @@ mis-data-source: "coingecko"
 last_updated: "2025-06-14T14:26:23.255204Z"
 last_updated: "2025-06-15T10:40:06.724Z"
 last_updated: "2025-06-15T11:42:10.294Z"
-# miscellaneous data source section
+last_updated: "2025-06-15T13:28:06.343Z"
 coingecko_id: "gameswift"
-current_price: 0.00845047
-market_cap: 3218428
-market_cap_rank: 2453
-fully_diluted_valuation: 6518632
-circulating_supply: 380712613.3388054
+current_price: 0.00843644
+market_cap: 3213199
+market_cap_rank: 2460
+fully_diluted_valuation: 6507864
+circulating_supply: 380723086.3909274
 total_supply: 771098721.6192381
 max_supply: 1396500000.0
 ath: 0.809962
-ath_change_percentage: -98.95708
+ath_change_percentage: -98.95801
 ath_date: "2024-03-04T10:01:32.006Z"
 atl: 0.00840819
-atl_change_percentage: 0.46431
+atl_change_percentage: 0.37497
 atl_date: "2025-06-15T10:31:02.526Z"
 ---
 

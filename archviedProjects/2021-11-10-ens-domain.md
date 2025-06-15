@@ -16,20 +16,20 @@ mis-data-source: "coingecko"
 last_updated: "2025-06-14T14:26:23.243803Z"
 last_updated: "2025-06-15T10:40:58.490Z"
 last_updated: "2025-06-15T11:42:38.105Z"
-# miscellaneous data source section
+last_updated: "2025-06-15T13:29:43.651Z"
 coingecko_id: "ethereum-name-service"
-current_price: 20.06
-market_cap: 665154201
-market_cap_rank: 127
-fully_diluted_valuation: 2005555457
+current_price: 20.3
+market_cap: 673244593
+market_cap_rank: 126
+fully_diluted_valuation: 2029949394
 circulating_supply: 33165585.054507963
 total_supply: 100000000.0
 max_supply: 100000000.0
 ath: 83.4
-ath_change_percentage: -75.91159
+ath_change_percentage: -75.67074
 ath_date: "2021-11-11T02:20:01.099Z"
 atl: 6.69
-atl_change_percentage: 200.25466
+atl_change_percentage: 203.25677
 atl_date: "2023-10-19T02:35:00.861Z"
 ---
 

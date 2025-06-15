@@ -16,20 +16,20 @@ mis-data-source: "coingecko"
 last_updated: "2025-06-14T14:26:23.251352Z"
 last_updated: "2025-06-15T10:41:02.536Z"
 last_updated: "2025-06-15T11:42:42.032Z"
-# miscellaneous data source section
+last_updated: "2025-06-15T13:29:47.382Z"
 coingecko_id: "vara-network"
-current_price: 0.00545215
-market_cap: 17951429
-market_cap_rank: 1213
-fully_diluted_valuation: 54512033
-circulating_supply: 3293113115.0
+current_price: 0.00545074
+market_cap: 17950512
+market_cap_rank: 1217
+fully_diluted_valuation: 54502512
+circulating_supply: 3293520094.0
 total_supply: 10000000000.0
 max_supply: null
 ath: 0.27007
-ath_change_percentage: -97.97733
+ath_change_percentage: -97.98169
 ath_date: "2023-09-21T06:55:36.022Z"
 atl: 0.00469428
-atl_change_percentage: 16.36762
+atl_change_percentage: 16.11679
 atl_date: "2025-04-07T12:42:44.787Z"
 ---
 

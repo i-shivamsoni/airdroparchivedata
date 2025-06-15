@@ -1,49 +1,24 @@
 {
   "projects": [
     {
+      "filename": "2022-04-19-raw.md",
+      "title": "Raw",
+      "manual_id": "raw"
+    },
+    {
       "filename": "2021-01-28-lotto-finance.md",
       "title": "Lotto Finance",
       "manual_id": "lotto-finance"
     },
     {
-      "filename": "2021-12-30-Seed-Club.md",
-      "title": "Seed Club",
-      "manual_id": "seed-club"
-    },
-    {
-      "filename": "2021-03-13-ForeFront.md",
-      "title": "ForeFront",
-      "manual_id": "forefront"
-    },
-    {
-      "filename": "2025-03-26-goodog.md",
-      "title": "GooDog",
-      "manual_id": "goodog"
-    },
-    {
-      "filename": "2025-03-09-Sirath.md",
+      "filename": "2025-03-09-sirath.md",
       "title": "Sirath",
       "manual_id": "sirath"
     },
     {
-      "filename": "2022-08-22-developer-dao.md",
-      "title": "Developer DAO",
-      "manual_id": "developer-dao"
-    },
-    {
-      "filename": "2025-05-22-loopedHYPE.md",
-      "title": "LoopedHYPE",
-      "manual_id": "loopedhype"
-    },
-    {
-      "filename": "2024-11-26-Side-Protocol.md",
-      "title": "Side Protocol",
-      "manual_id": "side-protocol"
-    },
-    {
-      "filename": "2022-04-19-Raw.md",
-      "title": "Raw",
-      "manual_id": "raw"
+      "filename": "2024-01-06-soarchain.md",
+      "title": "Soarchain",
+      "manual_id": "soarchain"
     },
     {
       "filename": "2022-05-03-diffusion-finance.md",
@@ -51,29 +26,54 @@
       "manual_id": "diffusion-finance"
     },
     {
-      "filename": "2024-09-28-Bitoro-Network.md",
+      "filename": "2023-10-02-zkx.md",
+      "title": "ZKX",
+      "manual_id": "zkx"
+    },
+    {
+      "filename": "2024-07-30-aigisos.md",
+      "title": "Aigisos",
+      "manual_id": "aigisos"
+    },
+    {
+      "filename": "2025-03-26-goodog.md",
+      "title": "GooDog",
+      "manual_id": "goodog"
+    },
+    {
+      "filename": "2021-12-30-seed-club.md",
+      "title": "Seed Club",
+      "manual_id": "seed-club"
+    },
+    {
+      "filename": "2021-03-13-forefront.md",
+      "title": "ForeFront",
+      "manual_id": "forefront"
+    },
+    {
+      "filename": "2024-09-28-bitoro-network.md",
       "title": "Bitoro Network",
       "manual_id": "bitoro-network"
     },
     {
-      "filename": "2024-07-30-Aigisos.md",
-      "title": "Aigisos",
-      "manual_id": "aigisos"
+      "filename": "2025-05-22-loopedhype.md",
+      "title": "LoopedHYPE",
+      "manual_id": "loopedhype"
+    },
+    {
+      "filename": "2024-11-26-side-protocol.md",
+      "title": "Side Protocol",
+      "manual_id": "side-protocol"
+    },
+    {
+      "filename": "2022-08-22-developer-dao.md",
+      "title": "Developer DAO",
+      "manual_id": "developer-dao"
     },
     {
       "filename": "2023-01-17-zigzag-exchange.md",
       "title": "ZigZag Exchange",
       "manual_id": "zigzag-exchange"
-    },
-    {
-      "filename": "2023-10-02-ZKX.md",
-      "title": "ZKX",
-      "manual_id": "zkx"
-    },
-    {
-      "filename": "2024-01-06-Soarchain.md",
-      "title": "Soarchain",
-      "manual_id": "soarchain"
     }
   ],
   "total_count": 15,

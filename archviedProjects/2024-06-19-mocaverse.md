@@ -17,20 +17,20 @@ mis-data-source: "coingecko"
 last_updated: "2025-06-14T14:26:23.273676Z"
 last_updated: "2025-06-15T10:40:59.667Z"
 last_updated: "2025-06-15T11:42:48.439Z"
-# miscellaneous data source section
+last_updated: "2025-06-15T13:29:44.380Z"
 coingecko_id: "mocaverse"
-current_price: 0.074847
-market_cap: 200062781
-market_cap_rank: 288
-fully_diluted_valuation: 665309894
+current_price: 0.07466
+market_cap: 199391859
+market_cap_rank: 287
+fully_diluted_valuation: 663078741
 circulating_supply: 2672943606.76
 total_supply: 8888888888.0
 max_supply: 8888888888.0
 ath: 0.477373
-ath_change_percentage: -84.28515
+ath_change_percentage: -84.37621
 ath_date: "2024-12-25T03:17:29.272Z"
 atl: 0.060926
-atl_change_percentage: 23.13131
+atl_change_percentage: 22.41782
 atl_date: "2024-10-31T18:36:50.631Z"
 ---
 

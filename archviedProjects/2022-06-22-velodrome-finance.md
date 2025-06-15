@@ -16,20 +16,20 @@ mis-data-source: "coingecko"
 last_updated: "2025-06-14T14:26:23.246915Z"
 last_updated: "2025-06-15T10:40:57.585Z"
 last_updated: "2025-06-15T11:42:46.025Z"
-# miscellaneous data source section
+last_updated: "2025-06-15T13:29:42.143Z"
 coingecko_id: "velodrome-finance"
-current_price: 0.050333
-market_cap: 47563145
-market_cap_rank: 718
-fully_diluted_valuation: 106403494
-circulating_supply: 945785709.8721118
+current_price: 0.050691
+market_cap: 47942488
+market_cap_rank: 717
+fully_diluted_valuation: 107252281
+circulating_supply: 945784314.3945284
 total_supply: 2115816871.675
-max_supply: 2115813562.623892
+max_supply: 2115816871.675
 ath: 0.407515
-ath_change_percentage: -87.63641
+ath_change_percentage: -87.56789
 ath_date: "2024-12-13T08:25:28.798Z"
 atl: 0.00557275
-atl_change_percentage: 804.10321
+atl_change_percentage: 809.11329
 atl_date: "2022-07-05T13:35:32.359Z"
 ---
 

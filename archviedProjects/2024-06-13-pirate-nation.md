@@ -17,20 +17,20 @@ mis-data-source: "coingecko"
 last_updated: "2025-06-14T14:26:23.273098Z"
 last_updated: "2025-06-15T10:40:56.555Z"
 last_updated: "2025-06-15T11:42:35.466Z"
-# miscellaneous data source section
+last_updated: "2025-06-15T13:29:41.462Z"
 coingecko_id: "pirate-token"
-current_price: 0.04652488
-market_cap: 9432164
-market_cap_rank: 1620
-fully_diluted_valuation: 45870240
-circulating_supply: 202583880.2508379
-total_supply: 985200349.2508379
+current_price: 0.04706491
+market_cap: 9534577
+market_cap_rank: 1616
+fully_diluted_valuation: 46368293
+circulating_supply: 202583860.450838
+total_supply: 985200309.650838
 max_supply: 1000000000.0
 ath: 0.475661
-ath_change_percentage: -90.22294
+ath_change_percentage: -90.1068
 ath_date: "2024-07-19T00:45:26.109Z"
 atl: 0.03072638
-atl_change_percentage: 51.35424
+atl_change_percentage: 53.15208
 atl_date: "2025-04-18T02:26:09.332Z"
 ---
 

@@ -16,20 +16,20 @@ mis-data-source: "coingecko"
 last_updated: "2025-06-14T14:26:23.295127Z"
 last_updated: "2025-06-15T10:40:58.046Z"
 last_updated: "2025-06-15T11:42:47.018Z"
-# miscellaneous data source section
+last_updated: "2025-06-15T13:29:42.599Z"
 coingecko_id: "ami"
-current_price: 0.074805
-market_cap: 6243787
-market_cap_rank: 1902
-fully_diluted_valuation: 74801051
+current_price: 0.074836
+market_cap: 6246914
+market_cap_rank: 1903
+fully_diluted_valuation: 74838510
 circulating_supply: 83471914.6259824
 total_supply: 1000000000.0
 max_supply: 1000000000.0
 ath: 0.100017
-ath_change_percentage: -25.21156
+ath_change_percentage: -25.17457
 ath_date: "2025-04-03T04:16:59.148Z"
 atl: 0.03618718
-atl_change_percentage: 106.70703
+atl_change_percentage: 106.80925
 atl_date: "2025-03-28T07:40:49.465Z"
 ---
 

@@ -16,20 +16,20 @@ mis-data-source: "coingecko"
 last_updated: "2025-06-14T14:26:23.251734Z"
 last_updated: "2025-06-15T10:39:51.534Z"
 last_updated: "2025-06-15T11:41:45.626Z"
-# miscellaneous data source section
+last_updated: "2025-06-15T13:28:50.333Z"
 coingecko_id: "dappradar"
-current_price: 0.00298792
-market_cap: 4451836
-market_cap_rank: 2143
-fully_diluted_valuation: 29881908
+current_price: 0.00299255
+market_cap: 4458332
+market_cap_rank: 2151
+fully_diluted_valuation: 29925506
 circulating_supply: 1489809991.907604
 total_supply: 10000000000.0
 max_supply: 10000000000.0
 ath: 0.057067
-ath_change_percentage: -94.77206
+ath_change_percentage: -94.76713
 ath_date: "2021-12-23T02:19:01.272Z"
 atl: 0.00233281
-atl_change_percentage: 27.89055
+atl_change_percentage: 28.01121
 atl_date: "2025-04-07T07:36:08.075Z"
 ---
 

@@ -16,11 +16,11 @@ mis-data-source: "coingecko"
 last_updated: "2025-06-14T14:26:23.246356Z"
 last_updated: "2025-06-15T05:30:28.986Z"
 last_updated: "2025-06-15T05:30:28.986Z"
-# miscellaneous data source section
+last_updated: "2025-06-15T05:30:28.986Z"
 coingecko_id: "elyfi"
 current_price: 0.00676632
 market_cap: 344470
-market_cap_rank: 5060
+market_cap_rank: 5068
 fully_diluted_valuation: 676632
 circulating_supply: 50909515.0
 total_supply: 100000000.0

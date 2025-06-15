@@ -17,20 +17,20 @@ mis-data-source: "coingecko"
 last_updated: "2025-06-14T14:26:23.242532Z"
 last_updated: "2025-06-15T10:41:05.518Z"
 last_updated: "2025-06-15T11:42:44.471Z"
-# miscellaneous data source section
+last_updated: "2025-06-15T13:29:50.224Z"
 coingecko_id: "ribbon-finance"
-current_price: 0.114642
-market_cap: 11158639
-market_cap_rank: 1521
-fully_diluted_valuation: 117186730
+current_price: 0.113539
+market_cap: 10811255
+market_cap_rank: 1533
+fully_diluted_valuation: 113538541
 circulating_supply: 95221014.99511346
 total_supply: 1000000000.0
 max_supply: 1000000000.0
 ath: 5.54
-ath_change_percentage: -97.94342
+ath_change_percentage: -97.95138
 ath_date: "2021-10-07T22:30:49.258Z"
 atl: 0.097247
-atl_change_percentage: 17.19866
+atl_change_percentage: 16.74503
 atl_date: "2025-06-13T01:52:20.423Z"
 ---
 

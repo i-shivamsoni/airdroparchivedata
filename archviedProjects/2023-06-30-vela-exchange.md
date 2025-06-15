@@ -16,12 +16,12 @@ mis-data-source: "coingecko"
 last_updated: "2025-06-14T14:26:23.254577Z"
 last_updated: "2025-06-15T10:38:00.213Z"
 last_updated: "2025-06-15T11:38:07.624Z"
-# miscellaneous data source section
+last_updated: "2025-06-15T13:27:11.328Z"
 coingecko_id: "vela-token"
-current_price: 0.00270379
-market_cap: 45461
-market_cap_rank: 7714
-fully_diluted_valuation: 94633
+current_price: 0.00270331
+market_cap: 45453
+market_cap_rank: 7720
+fully_diluted_valuation: 94616
 circulating_supply: 16813842.0
 total_supply: 35000000.0
 max_supply: 50000000.0
@@ -29,7 +29,7 @@ ath: 7.67
 ath_change_percentage: -99.96475
 ath_date: "2023-02-20T11:40:30.166Z"
 atl: 0.0019003
-atl_change_percentage: 42.24727
+atl_change_percentage: 42.25701
 atl_date: "2025-05-23T12:54:55.638Z"
 ---
 

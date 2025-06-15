@@ -16,20 +16,20 @@ mis-data-source: "coingecko"
 last_updated: "2025-06-14T14:26:23.271524Z"
 last_updated: "2025-06-15T10:40:17.163Z"
 last_updated: "2025-06-15T11:42:11.357Z"
-# miscellaneous data source section
+last_updated: "2025-06-15T13:29:13.670Z"
 coingecko_id: "thetanuts-finance"
-current_price: 0.00162186
-market_cap: 1711070
-market_cap_rank: 3089
-fully_diluted_valuation: 16212639
+current_price: 0.00160258
+market_cap: 1690196
+market_cap_rank: 3111
+fully_diluted_valuation: 16014854
 circulating_supply: 1055392499.99
 total_supply: 10000000000.0
 max_supply: 10000000000.0
 ath: 0.0407299
-ath_change_percentage: -96.01823
+ath_change_percentage: -96.06804
 ath_date: "2024-05-20T10:02:20.314Z"
 atl: 0.00154874
-atl_change_percentage: 4.71566
+atl_change_percentage: 3.40575
 atl_date: "2025-04-22T02:26:34.422Z"
 ---
 
