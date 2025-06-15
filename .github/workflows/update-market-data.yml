@@ -24,23 +24,27 @@ jobs:
         
     - name: Create project lists
       run: |
-        python _posts/scripts/coingeckoandmanual.py
+        cd _posts/scripts
+        python coingeckoandmanual.py
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         
     - name: Fetch CoinGecko data
       run: |
-        python _posts/scripts/curl_req_v2.py
+        cd _posts/scripts
+        python curl_req_v2.py
       env:
         COINGECKO_API_KEY: ${{ secrets.COINGECKO_API_KEY }}
         
     - name: Update market data
       run: |
-        python _posts/scripts/mis-data.py
+        cd _posts/scripts
+        python mis-data.py
         
     - name: Handle missing data
       run: |
-        python _posts/scripts/missing-data.py
+        cd _posts/scripts
+        python missing-data.py
         
     - name: Commit and push changes
       run: |
