@@ -8,6 +8,7 @@ rewardedActivity: ["retroactive"]
 category: ["defi"]
 function: ["defi", "aggregation", "yield"]
 status: ["alive"]
+funded-by: ["defiance-capital"]
 pagetype: "project"
 website: "https://smoothy.finance"
 ticker: "SMTY"

@@ -8,6 +8,7 @@ rewardedActivity: ["retroactive"]
 category: ["scaling"]
 function: ["blockchain"]
 status: ["alive"]
+funded-by: ["galaxy-digital", "polychain-capital", "andreessen-horowitz-a16z", "world-liberty-financial", "dragonfly-capital", "defiance-capital"]
 pagetype: "project"
 blockchain-stack: ["layer-0"]
 website: "https://avax.network"

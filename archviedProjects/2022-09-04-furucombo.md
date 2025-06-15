@@ -8,6 +8,7 @@ rewardedActivity: ["retroactive"]
 category: ["defi"]
 function: ["defi", "automation", "strategy"]
 status: ["alive"]
+funded-by: ["defiance-capital", "multicoin-capital"]
 pagetype: "project"
 website: "https://furucombo.app"
 ticker: "COMBO"

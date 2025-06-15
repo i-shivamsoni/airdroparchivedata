@@ -8,6 +8,7 @@ rewardedActivity: ["retroactive"]
 category: ["infrastructure","defi"]
 function: ["liquidity", "infrastructure", "cross-chain"]
 status: ["alive"]
+funded-by: ["blockchain-capital"]
 pagetype: "project"
 website: "https://across.to/"
 ticker: "ACX"

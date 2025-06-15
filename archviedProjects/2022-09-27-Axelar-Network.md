@@ -8,6 +8,7 @@ rewardedActivity: ["retroactive"]
 category: ["infrastructure"]
 function: ["infrastructure", "cross-chain"]
 status: ["alive"]
+funded-by: ["polychain-capital", "galaxy-digital"]
 pagetype: "project"
 website: "https://airdrop.axelar.network/"
 ticker: "AXL"

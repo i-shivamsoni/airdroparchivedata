@@ -8,6 +8,7 @@ rewardedActivity: ["retroactive", "testnet", "quest", "loyalty", "binance-alpha"
 category: ["ai", "privacy"]
 function: ["ai", "privacy"]
 status: ["alive"]
+funded-by: ["yzi-labs", "okx-ventures"]
 pagetype: "project"
 website: "https://www.privasea.ai/"
 ticker: "PRAI"

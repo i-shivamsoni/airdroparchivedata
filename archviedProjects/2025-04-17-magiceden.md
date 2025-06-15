@@ -8,6 +8,7 @@ rewardedActivity: ["staking", "quest", "trading", "loyalty"]
 category: ["nft", "defi"]
 function: ["marketplace", "staking"]
 status: ["alive"]
+funded-by: ["paradigm", "sequoia-capital"]
 pagetype: "project"
 website: "https://magiceden.io/"
 ticker: "ME"

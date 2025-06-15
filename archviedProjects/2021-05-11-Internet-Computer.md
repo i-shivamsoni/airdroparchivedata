@@ -8,6 +8,7 @@ rewardedActivity: ["loyalty"]
 category: ["infrastructure"]
 function: ["blockchain"]
 status: ["alive"]
+funded-by: ["polychain-capital", "andreessen-horowitz-a16z", "blockchain-capital", "multicoin-capital"]
 pagetype: "project"
 blockchain-stack: ["layer-1"]
 website: "https://dfinity.org"

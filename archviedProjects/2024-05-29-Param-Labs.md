@@ -8,6 +8,7 @@ rewardedActivity: ["retroactive"]
 category: ["gaming"]
 function: ["gaming", "interoperability", "blockchain"]
 status: ["alive"]
+funded-by: ["animoca-brands", "delphi-ventures"]
 pagetype: "project"
 website: "https://paramgaming.com"
 ticker: "$PARAM"

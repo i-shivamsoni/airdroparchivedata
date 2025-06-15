@@ -8,6 +8,7 @@ rewardedActivity: ["retroactive"]
 category: ["defi"]
 function: ["defi", "risk-management", "lending"]
 status: ["alive"]
+funded-by: ["pantera-capital"]
 pagetype: "project"
 website: "https://sturdy.finance"
 ticker: "STRDY"

@@ -8,6 +8,7 @@ rewardedActivity: ["retroactive"]
 category: ["defi"]
 function: ["defi", "options"]
 status: ["alive"]
+funded-by: ["coinbase-ventures", "paradigm", "dragonfly-capital"]
 pagetype: "project"
 website: "https://ribbon.finance"
 ticker: "RBN"

@@ -8,6 +8,7 @@ rewardedActivity: ["retroactive"]
 category: ["defi"]
 function: ["tokens", "defi", "index"]
 status: ["alive"]
+funded-by: ["sequoia-capital", "defiance-capital", "blockchain-capital", "galaxy-digital"]
 pagetype: "project"
 website: "https://www.indexcoop.com"
 ticker: "INDEX"

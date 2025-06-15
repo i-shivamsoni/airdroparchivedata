@@ -8,6 +8,7 @@ rewardedActivity: ["retroactive"]
 category: ["gaming","social"]
 function: ["gaming", "blockchain", "metaverse"]
 status: ["alive"]
+funded-by: ["outlier-ventures", "animoca-brands", "okx-ventures"]
 pagetype: "project"
 website: "https://mocaverse.io"
 ticker: "MOCA"

@@ -8,6 +8,7 @@ rewardedActivity: ["holder", "retroactive", "testnet"]
 category: ["scaling"]
 function: ["scaling", "ethereum"]
 status: ["alive"]
+funded-by: ["consensys", "okx-ventures", "blockchain-capital"]
 pagetype: "project"
 blockchain-stack: ["layer-2"]
 website: "https://alignedfoundation.org"

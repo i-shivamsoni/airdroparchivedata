@@ -8,6 +8,7 @@ rewardedActivity: ["retroactive"]
 category: ["gaming"]
 function: ["gaming", "puzzle", "blockchain"]
 status: ["alive"]
+funded-by: ["yzi-labs"]
 pagetype: "project"
 website: "https://magic.store"
 ticker: "SQR"

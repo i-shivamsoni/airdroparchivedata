@@ -8,6 +8,7 @@ rewardedActivity: ["retroactive"]
 category: ["gaming"]
 function: ["gaming"]
 status: ["alive"]
+funded-by: ["animoca-brands", "delphi-ventures"]
 pagetype: "project"
 website: "https://www.monprotocol.ai"
 ticker: "MON"

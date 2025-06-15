@@ -8,6 +8,7 @@ rewardedActivity: ["holder", "retroactive"]
 category: ["infrastructure"]
 function: ["oracle", "infrastructure"]
 status: ["alive"]
+funded-by: ["delphi-ventures", "multicoin-capital"]
 pagetype: "project"
 website: "https://www.pyth.network"
 ticker: "PYTH"

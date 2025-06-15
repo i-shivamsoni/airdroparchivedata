@@ -8,6 +8,7 @@ rewardedActivity: ["retroactive"]
 category: ["gaming"]
 function: ["gaming"]
 status: ["alive"]
+funded-by: ["delphi-ventures"]
 pagetype: "project"
 website: "https://nyanheroes.com"
 ticker: "$NYAN"

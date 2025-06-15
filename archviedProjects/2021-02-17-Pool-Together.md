@@ -8,6 +8,7 @@ rewardedActivity: ["retroactive"]
 category: ["defi"]
 function: ["lottery", "defi"]
 status: ["alive"]
+funded-by: ["consensys", "dragonfly-capital", "galaxy-digital"]
 pagetype: "project"
 website: "https://pooltogether.com"
 ticker: "POOL"

@@ -8,6 +8,7 @@ rewardedActivity: ["retroactive"]
 category: ["rwa","infrastructure"]
 function: ["infrastructure", "real-assets", "tokenization"]
 status: ["alive"]
+funded-by: ["outlier-ventures"]
 pagetype: "project"
 website: "https://www.swanchain.io"
 ticker: "SWAN"

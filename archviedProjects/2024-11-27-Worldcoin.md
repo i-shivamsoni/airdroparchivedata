@@ -8,6 +8,7 @@ rewardedActivity: ["retroactive"]
 category: ["infrastructure"]
 function: ["identity", "infrastructure", "finance"]
 status: ["alive"]
+funded-by: ["coinbase-ventures", "andreessen-horowitz-a16z", "blockchain-capital", "multicoin-capital"]
 pagetype: "project"
 website: "https://worldcoin.org"
 ticker: "WLD"

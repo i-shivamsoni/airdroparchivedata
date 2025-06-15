@@ -8,6 +8,7 @@ rewardedActivity: ["retroactive", "testnet", "binance-alpha"]
 category: ["infrastructure"]
 function: ["infrastructure"]
 status: ["alive"]
+funded-by: ["animoca-brands", "yzi-labs", "okx-ventures"]
 pagetype: "project"
 blockchain-type: ["zk"]
 website: "https://polyhedra.network"

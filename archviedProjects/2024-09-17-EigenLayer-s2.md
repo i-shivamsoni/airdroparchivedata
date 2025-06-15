@@ -8,6 +8,7 @@ rewardedActivity: ["retroactive"]
 category: ["defi"]
 function: ["defi", "staking", "restaking"]
 status: ["alive"]
+funded-by: ["polychain-capital"]
 pagetype: "project"
 website: "https://www.eigenfoundation.org"
 ticker: "EIGEN"

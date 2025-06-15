@@ -8,6 +8,7 @@ rewardedActivity: ["retroactive"]
 category: ["defi"]
 function: ["defi", "derivatives", "options"]
 status: ["alive"]
+funded-by: ["dwf-labs"]
 pagetype: "project"
 website: "https://antimatter.finance"
 ticker: "MATTER"

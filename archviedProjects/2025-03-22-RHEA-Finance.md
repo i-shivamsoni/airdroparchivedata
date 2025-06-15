@@ -8,6 +8,7 @@ rewardedActivity: ["retroactive"]
 category: ["stablecoin","defi"]
 function: ["algorithmic", "defi", "stablecoin"]
 status: ["alive"]
+funded-by: ["alameda-research", "okx-ventures", "dragonfly-capital"]
 pagetype: "project"
 website: "https://rhea.finance"
 ticker: "RHEA"

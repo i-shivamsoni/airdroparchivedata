@@ -8,6 +8,7 @@ rewardedActivity: ["retroactive"]
 category: ["infrastructure"]
 function: ["infrastructure", "access", "control"]
 status: ["alive"]
+funded-by: ["coinbase-ventures"]
 pagetype: "project"
 website: "https://unlock-protocol.com"
 ticker: "$UP"

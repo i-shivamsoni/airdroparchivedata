@@ -8,6 +8,7 @@ rewardedActivity: ["retroactive"]
 category: ["defi"]
 function: ["dao", "defi", "bitcoin"]
 status: ["alive"]
+funded-by: ["blockchain-capital"]
 pagetype: "project"
 website: "https://app.badger.com/"
 ticker: "BADGER"

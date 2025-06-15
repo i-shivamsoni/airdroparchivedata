@@ -8,6 +8,7 @@ rewardedActivity: ["retroactive"]
 category: ["defi"]
 function: ["business", "defi", "lending"]
 status: ["alive"]
+funded-by: ["coinbase-ventures", "andreessen-horowitz-a16z"]
 pagetype: "project"
 website: "https://www.goldfinch.finance/"
 ticker: "GFI"

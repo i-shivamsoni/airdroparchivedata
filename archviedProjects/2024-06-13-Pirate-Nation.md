@@ -8,6 +8,7 @@ rewardedActivity: ["free", "retroactive"]
 category: ["gaming"]
 function: ["gaming", "nft"]
 status: ["alive"]
+funded-by: ["andreessen-horowitz-a16z"]
 pagetype: "project"
 website: "https://piratenation.game"
 ticker: "PIRATE"

@@ -8,6 +8,7 @@ rewardedActivity: ["holder"]
 category: ["infrastructure"]
 function: ["tron", "infrastructure", "file-sharing"]
 status: ["alive"]
+funded-by: ["yzi-labs"]
 pagetype: "project"
 website: "https://www.bittorrent.com"
 ticker: "BTT"

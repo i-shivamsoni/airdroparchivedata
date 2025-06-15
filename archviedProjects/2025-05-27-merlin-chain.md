@@ -8,6 +8,7 @@ rewardedActivity: ["binance-alpha"]
 category: ["scaling", "infrastructure"]
 function: ["layer-2", "scaling"]
 status: ["alive"]
+funded-by: ["okx-ventures"]
 pagetype: "project"
 website: "https://merlinchain.io"
 ticker: "MERL"

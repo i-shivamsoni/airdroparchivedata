@@ -8,6 +8,7 @@ rewardedActivity: ["retroactive"]
 category: ["stablecoin","defi"]
 function: ["algorithmic", "defi", "stablecoin"]
 status: ["alive"]
+funded-by: ["pantera-capital", "paradigm", "andreessen-horowitz-a16z"]
 pagetype: "project"
 website: "Not Known"
 ticker: "FLX"

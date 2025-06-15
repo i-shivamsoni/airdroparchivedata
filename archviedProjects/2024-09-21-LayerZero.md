@@ -8,6 +8,7 @@ rewardedActivity: ["retroactive"]
 category: ["infrastructure"]
 function: ["infrastructure", "cross-chain"]
 status: ["alive"]
+funded-by: ["circle-ventures", "okx-ventures", "sequoia-capital", "multicoin-capital"]
 pagetype: "project"
 website: "https://www.layerzero.foundation/"
 ticker: "ZRO"

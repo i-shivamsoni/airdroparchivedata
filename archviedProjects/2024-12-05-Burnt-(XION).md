@@ -8,6 +8,7 @@ rewardedActivity: ["testnet"]
 category: ["infrastructure"]
 function: ["infrastructure"]
 status: ["alive"]
+funded-by: ["animoca-brands", "multicoin-capital", "defiance-capital", "alameda-research"]
 pagetype: "project"
 blockchain-stack: ["layer-1"]
 website: "https://xion.burnt.com"

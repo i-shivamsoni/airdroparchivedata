@@ -8,6 +8,7 @@ rewardedActivity: ["binance-alpha", "retroactive"]
 category: [ "social"]
 function: [ "social"]
 status: ["alive"]
+funded-by: ["dwf-labs", "animoca-brands", "andreessen-horowitz-a16z"]
 pagetype: "project"
 website: "https://balance.fun"
 ticker: "EPT"

@@ -8,6 +8,7 @@ rewardedActivity: ["retroactive"]
 category: ["infrastructure","defi"]
 function: ["defi", "infrastructure"]
 status: ["alive"]
+funded-by: ["yzi-labs", "delphi-ventures", "okx-ventures", "dragonfly-capital"]
 pagetype: "project"
 website: "https://shellprotocol.io"
 ticker: "SHELL"

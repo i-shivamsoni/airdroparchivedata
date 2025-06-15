@@ -8,6 +8,7 @@ rewardedActivity: ["holder"]
 category: ["infrastructure"]
 function: ["social"]
 status: ["alive"]
+funded-by: ["animoca-brands", "delphi-ventures", "yzi-labs", "multicoin-capital"]
 pagetype: "project"
 blockchain-stack: ["layer-2"]
 website: "https://cyber.co"

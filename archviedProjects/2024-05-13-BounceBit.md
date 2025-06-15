@@ -8,6 +8,7 @@ rewardedActivity: ["retroactive", "testnet"]
 category: ["defi"]
 function: ["defi", "token-distribution", "auctions"]
 status: ["alive"]
+funded-by: ["yzi-labs", "okx-ventures", "defiance-capital", "blockchain-capital"]
 pagetype: "project"
 website: "https://bouncebit.io"
 ticker: "BB"

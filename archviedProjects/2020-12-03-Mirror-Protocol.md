@@ -8,6 +8,7 @@ rewardedActivity: ["holder"]
 category: ["rwa","defi"]
 function: ["assets", "synthetics", "defi"]
 status: ["alive"]
+funded-by: ["pantera-capital"]
 pagetype: "project"
 website: "https://mirror.finance/"
 ticker: "MIR"

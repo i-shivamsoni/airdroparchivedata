@@ -8,6 +8,7 @@ rewardedActivity: ["testnet", "holder"]
 category: ["infrastructure"]
 function: ["blockchain"]
 status: ["alive"]
+funded-by: ["outlier-ventures", "polychain-capital"]
 pagetype: "project"
 blockchain-stack: ["layer-1"]
 website: "https://berachain.com/"

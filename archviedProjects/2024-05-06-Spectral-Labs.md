@@ -8,6 +8,7 @@ rewardedActivity: ["retroactive"]
 category: ["infrastructure"]
 function: ["visualization", "infrastructure", "analytics"]
 status: ["alive"]
+funded-by: ["circle-ventures", "galaxy-digital"]
 pagetype: "project"
 website: "https://spectral.finance"
 ticker: "SPEC"
