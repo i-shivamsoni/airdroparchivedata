@@ -19,11 +19,13 @@ last_updated: "2025-06-15T11:42:20.646Z"
 last_updated: "2025-06-15T13:29:03.487Z"
 last_updated: "2025-06-15T14:15:30.518Z"
 last_updated: "2025-06-15T17:01:09.099Z"
+last_updated: "2025-06-15T17:03:51.594Z"
+# miscellaneous data source section
 coingecko_id: "holograph"
-current_price: 0.00023097
-market_cap: 352630
+current_price: 0.0002305
+market_cap: 351506
 market_cap_rank: 5051
-fully_diluted_valuation: 2307956
+fully_diluted_valuation: 2300596
 circulating_supply: 1525000000.0
 total_supply: 9981084201.97536
 max_supply: null

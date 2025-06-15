@@ -21,8 +21,10 @@ last_updated: "2025-06-15T11:42:36.719Z"
 last_updated: "2025-06-15T13:29:40.655Z"
 last_updated: "2025-06-15T14:17:25.551Z"
 last_updated: "2025-06-15T17:02:18.817Z"
+last_updated: "2025-06-15T17:04:31.086Z"
+# miscellaneous data source section
 coingecko_id: "zksync"
-current_price: 0.04990353
+current_price: 0.04991312
 market_cap: 183243289
 market_cap_rank: 304
 fully_diluted_valuation: 1047104509

@@ -19,6 +19,8 @@ last_updated: "2025-06-15T11:42:32.588Z"
 last_updated: "2025-06-15T13:27:15.522Z"
 last_updated: "2025-06-15T14:15:16.806Z"
 last_updated: "2025-06-15T16:32:58.306Z"
+last_updated: "2025-06-15T16:32:58.306Z"
+# miscellaneous data source section
 coingecko_id: "juicebox"
 current_price: 0.00129466
 market_cap: 2401947

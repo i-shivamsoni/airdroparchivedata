@@ -19,11 +19,13 @@ last_updated: "2025-06-15T11:42:37.173Z"
 last_updated: "2025-06-15T13:29:42.284Z"
 last_updated: "2025-06-15T14:17:22.260Z"
 last_updated: "2025-06-15T17:02:09.982Z"
+last_updated: "2025-06-15T17:04:33.250Z"
+# miscellaneous data source section
 coingecko_id: "lifeform"
-current_price: 0.01207445
-market_cap: 7434746
+current_price: 0.01207446
+market_cap: 7434697
 market_cap_rank: 1795
-fully_diluted_valuation: 12074540
+fully_diluted_valuation: 12074459
 circulating_supply: 615737431.0
 total_supply: 1000000000.0
 max_supply: 1000000000.0

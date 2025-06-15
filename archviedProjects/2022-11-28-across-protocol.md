@@ -20,8 +20,10 @@ last_updated: "2025-06-15T11:42:34.267Z"
 last_updated: "2025-06-15T13:29:39.546Z"
 last_updated: "2025-06-15T14:17:26.571Z"
 last_updated: "2025-06-15T17:02:17.115Z"
+last_updated: "2025-06-15T17:04:41.545Z"
+# miscellaneous data source section
 coingecko_id: "across-protocol"
-current_price: 0.170006
+current_price: 0.170034
 market_cap: 74969352
 market_cap_rank: 553
 fully_diluted_valuation: 170007517

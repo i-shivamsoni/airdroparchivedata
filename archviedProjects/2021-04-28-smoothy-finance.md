@@ -20,19 +20,21 @@ last_updated: "2025-06-15T11:42:05.082Z"
 last_updated: "2025-06-15T13:26:31.768Z"
 last_updated: "2025-06-15T14:16:57.203Z"
 last_updated: "2025-06-15T16:58:47.415Z"
+last_updated: "2025-06-15T17:02:29.137Z"
+# miscellaneous data source section
 coingecko_id: "smoothy"
 current_price: 0.00163015
-market_cap: 149639
+market_cap: 149091
 market_cap_rank: 6183
-fully_diluted_valuation: 163614
+fully_diluted_valuation: 163015
 circulating_supply: 91458333.0
 total_supply: 100000000.0
 max_supply: 100000000.0
 ath: 3.63
-ath_change_percentage: -99.95522
+ath_change_percentage: -99.95511
 ath_date: "2021-04-27T13:43:11.600Z"
 atl: 0.00153506
-atl_change_percentage: 5.93523
+atl_change_percentage: 6.19482
 atl_date: "2025-04-09T14:50:14.061Z"
 ---
 

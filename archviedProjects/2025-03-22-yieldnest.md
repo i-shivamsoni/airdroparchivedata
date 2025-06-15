@@ -19,8 +19,10 @@ last_updated: "2025-06-15T11:42:41.506Z"
 last_updated: "2025-06-15T13:26:30.818Z"
 last_updated: "2025-06-15T14:17:04.191Z"
 last_updated: "2025-06-15T17:00:28.501Z"
+last_updated: "2025-06-15T17:03:33.900Z"
+# miscellaneous data source section
 coingecko_id: "yieldnest"
-current_price: 0.00571354
+current_price: 0.00571408
 market_cap: 0.0
 market_cap_rank: null
 fully_diluted_valuation: 5710337

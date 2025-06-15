@@ -19,11 +19,13 @@ last_updated: "2025-06-15T11:42:38.355Z"
 last_updated: "2025-06-15T13:27:33.498Z"
 last_updated: "2025-06-15T14:15:47.873Z"
 last_updated: "2025-06-15T17:01:41.981Z"
+last_updated: "2025-06-15T17:04:41.347Z"
+# miscellaneous data source section
 coingecko_id: "jupiter"
-current_price: 0.00112866
-market_cap: 1128502
+current_price: 0.00113257
+market_cap: 1128656
 market_cap_rank: 3574
-fully_diluted_valuation: 1128502
+fully_diluted_valuation: 1128656
 circulating_supply: 1000000000.0
 total_supply: 1000000000.0
 max_supply: null

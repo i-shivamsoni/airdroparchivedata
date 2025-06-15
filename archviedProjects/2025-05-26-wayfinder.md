@@ -19,8 +19,10 @@ last_updated: "2025-06-15T11:42:43.301Z"
 last_updated: "2025-06-15T13:29:38.668Z"
 last_updated: "2025-06-15T14:17:27.956Z"
 last_updated: "2025-06-15T17:02:16.032Z"
+last_updated: "2025-06-15T17:04:40.450Z"
+# miscellaneous data source section
 coingecko_id: "wayfinder"
-current_price: 0.150453
+current_price: 0.150372
 market_cap: 33687432
 market_cap_rank: 872
 fully_diluted_valuation: 150457287

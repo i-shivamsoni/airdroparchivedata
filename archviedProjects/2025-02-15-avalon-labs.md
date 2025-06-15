@@ -19,8 +19,10 @@ last_updated: "2025-06-15T11:42:44.411Z"
 last_updated: "2025-06-15T13:29:40.304Z"
 last_updated: "2025-06-15T14:17:28.594Z"
 last_updated: "2025-06-15T17:02:17.637Z"
+last_updated: "2025-06-15T17:04:42.683Z"
+# miscellaneous data source section
 coingecko_id: "avalon-2"
-current_price: 0.138803
+current_price: 0.138733
 market_cap: 25348444
 market_cap_rank: 1024
 fully_diluted_valuation: 139086113

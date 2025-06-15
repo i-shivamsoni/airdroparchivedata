@@ -20,11 +20,13 @@ last_updated: "2025-06-15T11:42:47.063Z"
 last_updated: "2025-06-15T13:29:32.692Z"
 last_updated: "2025-06-15T14:17:20.356Z"
 last_updated: "2025-06-15T17:02:10.365Z"
+last_updated: "2025-06-15T17:04:33.856Z"
+# miscellaneous data source section
 coingecko_id: "redbelly-network-token"
-current_price: 0.02135806
-market_cap: 21783599
+current_price: 0.02135278
+market_cap: 21777274
 market_cap_rank: 1113
-fully_diluted_valuation: 213589794
+fully_diluted_valuation: 213527785
 circulating_supply: 1019880129.0
 total_supply: 10000000000.0
 max_supply: 10000000000.0

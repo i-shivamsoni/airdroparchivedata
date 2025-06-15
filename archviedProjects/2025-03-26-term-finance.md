@@ -19,6 +19,8 @@ last_updated: "2025-06-15T11:41:01.969Z"
 last_updated: "2025-06-15T13:28:20.572Z"
 last_updated: "2025-06-15T14:17:09.985Z"
 last_updated: "2025-06-15T17:01:30.479Z"
+last_updated: "2025-06-15T17:01:30.479Z"
+# miscellaneous data source section
 coingecko_id: "term-finance"
 current_price: 0.431485
 market_cap: 0.0

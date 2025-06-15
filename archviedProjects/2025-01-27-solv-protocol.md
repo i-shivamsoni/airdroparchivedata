@@ -19,8 +19,10 @@ last_updated: "2025-06-15T11:42:46.696Z"
 last_updated: "2025-06-15T13:29:32.953Z"
 last_updated: "2025-06-15T14:17:26.694Z"
 last_updated: "2025-06-15T17:02:20.434Z"
+last_updated: "2025-06-15T17:04:38.259Z"
+# miscellaneous data source section
 coingecko_id: "solv-protocol"
-current_price: 0.04600201
+current_price: 0.04601227
 market_cap: 68203140
 market_cap_rank: 587
 fully_diluted_valuation: 386420058

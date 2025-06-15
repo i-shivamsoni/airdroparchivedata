@@ -19,8 +19,10 @@ last_updated: "2025-06-15T11:41:53.827Z"
 last_updated: "2025-06-15T13:26:47.834Z"
 last_updated: "2025-06-15T14:14:54.149Z"
 last_updated: "2025-06-15T17:00:37.959Z"
+last_updated: "2025-06-15T17:03:23.525Z"
+# miscellaneous data source section
 coingecko_id: "solid"
-current_price: 0.0021984
+current_price: 0.00220219
 market_cap: 915690
 market_cap_rank: 3823
 fully_diluted_valuation: 2197325

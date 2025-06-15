@@ -21,19 +21,21 @@ last_updated: "2025-06-15T11:42:41.584Z"
 last_updated: "2025-06-15T13:29:37.780Z"
 last_updated: "2025-06-15T14:17:24.166Z"
 last_updated: "2025-06-15T17:02:13.935Z"
+last_updated: "2025-06-15T17:04:37.718Z"
+# miscellaneous data source section
 coingecko_id: "internet-computer"
 current_price: 5.37
-market_cap: 2867103303
+market_cap: 2872921343
 market_cap_rank: 45
-fully_diluted_valuation: 2867103303
+fully_diluted_valuation: 2872921343
 circulating_supply: 534569607.959014
 total_supply: 534569607.959014
 max_supply: null
 ath: 700.65
-ath_change_percentage: -99.2338
+ath_change_percentage: -99.23296
 ath_date: "2021-05-10T16:05:53.653Z"
 atl: 2.87
-atl_change_percentage: 87.37556
+atl_change_percentage: 87.58243
 atl_date: "2023-09-22T00:29:57.369Z"
 ---
 

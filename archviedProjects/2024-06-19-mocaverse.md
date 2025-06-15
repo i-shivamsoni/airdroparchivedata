@@ -20,8 +20,10 @@ last_updated: "2025-06-15T11:42:48.439Z"
 last_updated: "2025-06-15T13:29:44.380Z"
 last_updated: "2025-06-15T14:17:26.281Z"
 last_updated: "2025-06-15T17:02:12.092Z"
+last_updated: "2025-06-15T17:04:35.773Z"
+# miscellaneous data source section
 coingecko_id: "mocaverse"
-current_price: 0.07475
+current_price: 0.074708
 market_cap: 199873103
 market_cap_rank: 287
 fully_diluted_valuation: 664679119

@@ -19,11 +19,13 @@ last_updated: "2025-06-15T11:42:48.247Z"
 last_updated: "2025-06-15T13:29:03.412Z"
 last_updated: "2025-06-15T14:16:31.497Z"
 last_updated: "2025-06-15T17:01:11.012Z"
+last_updated: "2025-06-15T17:03:52.207Z"
+# miscellaneous data source section
 coingecko_id: "penpad-token"
-current_price: 0.00786326
-market_cap: 448726
+current_price: 0.00786323
+market_cap: 448729
 market_cap_rank: 4749
-fully_diluted_valuation: 786319
+fully_diluted_valuation: 786323
 circulating_supply: 57066666.666666664
 total_supply: 100000000.0
 max_supply: 100000000.0

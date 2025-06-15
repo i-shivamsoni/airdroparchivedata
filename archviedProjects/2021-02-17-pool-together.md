@@ -20,8 +20,10 @@ last_updated: "2025-06-15T11:42:42.370Z"
 last_updated: "2025-06-15T13:28:28.279Z"
 last_updated: "2025-06-15T14:16:44.173Z"
 last_updated: "2025-06-15T17:00:26.680Z"
+last_updated: "2025-06-15T17:03:20.734Z"
+# miscellaneous data source section
 coingecko_id: "pooltogether"
-current_price: 0.237834
+current_price: 0.23771
 market_cap: 1705850
 market_cap_rank: 3118
 fully_diluted_valuation: 2378342
@@ -29,10 +31,10 @@ circulating_supply: 7172433.994768333
 total_supply: 10000000.0
 max_supply: 10000000.0
 ath: 53.98
-ath_change_percentage: -99.56056
+ath_change_percentage: -99.55943
 ath_date: "2021-02-20T04:38:40.257Z"
 atl: 0.172745
-atl_change_percentage: 37.32689
+atl_change_percentage: 37.67955
 atl_date: "2023-12-29T23:16:36.097Z"
 ---
 

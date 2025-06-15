@@ -19,8 +19,10 @@ last_updated: "2025-06-15T11:42:43.075Z"
 last_updated: "2025-06-15T13:29:48.361Z"
 last_updated: "2025-06-15T14:17:29.693Z"
 last_updated: "2025-06-15T17:02:16.018Z"
+last_updated: "2025-06-15T17:04:40.419Z"
+# miscellaneous data source section
 coingecko_id: "stakestone"
-current_price: 0.075306
+current_price: 0.075057
 market_cap: 16904407
 market_cap_rank: 1246
 fully_diluted_valuation: 75019556

@@ -20,19 +20,21 @@ last_updated: "2025-06-15T11:42:01.818Z"
 last_updated: "2025-06-15T13:29:33.085Z"
 last_updated: "2025-06-15T14:15:03.768Z"
 last_updated: "2025-06-15T17:01:16.969Z"
+last_updated: "2025-06-15T17:04:00.655Z"
+# miscellaneous data source section
 coingecko_id: "ref-finance"
-current_price: 0.073576
-market_cap: 2843025
+current_price: 0.073579
+market_cap: 2824509
 market_cap_rank: 2588
-fully_diluted_valuation: 7405817
+fully_diluted_valuation: 7357585
 circulating_supply: 38389079.64765245
 total_supply: 100000000.0
 max_supply: null
 ath: 10.64
-ath_change_percentage: -99.31008
+ath_change_percentage: -99.30852
 ath_date: "2021-10-25T22:29:50.921Z"
 atl: 0.04798169
-atl_change_percentage: 52.99655
+atl_change_percentage: 53.34149
 atl_date: "2023-10-21T11:01:37.339Z"
 ---
 

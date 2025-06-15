@@ -20,11 +20,13 @@ last_updated: "2025-06-15T11:42:46.507Z"
 last_updated: "2025-06-15T13:29:42.616Z"
 last_updated: "2025-06-15T14:17:29.694Z"
 last_updated: "2025-06-15T17:02:20.298Z"
+last_updated: "2025-06-15T17:04:44.584Z"
+# miscellaneous data source section
 coingecko_id: "spectral"
-current_price: 0.823686
-market_cap: 16980276
+current_price: 0.823665
+market_cap: 16979688
 market_cap_rank: 1244
-fully_diluted_valuation: 82371455
+fully_diluted_valuation: 82368604
 circulating_supply: 20614271.9
 total_supply: 100000000.0
 max_supply: 100000000.0

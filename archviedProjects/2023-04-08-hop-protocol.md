@@ -19,6 +19,8 @@ last_updated: "2025-06-15T11:40:51.774Z"
 last_updated: "2025-06-15T13:29:03.589Z"
 last_updated: "2025-06-15T14:17:13.887Z"
 last_updated: "2025-06-15T17:01:59.473Z"
+last_updated: "2025-06-15T17:01:59.473Z"
+# miscellaneous data source section
 coingecko_id: "hop-protocol"
 current_price: 0.00905638
 market_cap: 681764

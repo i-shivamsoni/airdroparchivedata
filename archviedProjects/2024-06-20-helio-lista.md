@@ -19,8 +19,10 @@ last_updated: "2025-06-15T11:42:39.413Z"
 last_updated: "2025-06-15T13:29:34.487Z"
 last_updated: "2025-06-15T14:17:18.548Z"
 last_updated: "2025-06-15T17:02:12.269Z"
+last_updated: "2025-06-15T17:04:36.177Z"
+# miscellaneous data source section
 coingecko_id: "lista"
-current_price: 0.20501
+current_price: 0.205193
 market_cap: 35398728
 market_cap_rank: 844
 fully_diluted_valuation: 204944011

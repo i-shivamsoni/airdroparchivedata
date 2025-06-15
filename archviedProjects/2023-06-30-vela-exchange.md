@@ -19,6 +19,8 @@ last_updated: "2025-06-15T11:38:07.624Z"
 last_updated: "2025-06-15T13:27:11.328Z"
 last_updated: "2025-06-15T14:16:18.156Z"
 last_updated: "2025-06-15T16:59:59.137Z"
+last_updated: "2025-06-15T17:03:38.426Z"
+# miscellaneous data source section
 coingecko_id: "vela-token"
 current_price: 0.00270225
 market_cap: 45435

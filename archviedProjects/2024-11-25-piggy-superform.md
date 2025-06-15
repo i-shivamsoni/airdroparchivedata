@@ -19,11 +19,13 @@ last_updated: "2025-06-15T11:42:46.419Z"
 last_updated: "2025-06-15T13:27:26.828Z"
 last_updated: "2025-06-15T14:15:49.712Z"
 last_updated: "2025-06-15T16:59:20.131Z"
+last_updated: "2025-06-15T17:02:47.587Z"
+# miscellaneous data source section
 coingecko_id: "piggy-2"
-current_price: 1.025e-05
-market_cap: 647451
+current_price: 1.02e-05
+market_cap: 647281
 market_cap_rank: 4267
-fully_diluted_valuation: 647451
+fully_diluted_valuation: 647281
 circulating_supply: 63123637092.72057
 total_supply: 63123637092.72057
 max_supply: 69000000000.0

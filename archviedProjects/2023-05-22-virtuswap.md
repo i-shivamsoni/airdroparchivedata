@@ -19,8 +19,10 @@ last_updated: "2025-06-15T11:40:55.411Z"
 last_updated: "2025-06-15T13:29:13.414Z"
 last_updated: "2025-06-15T14:16:16.597Z"
 last_updated: "2025-06-15T16:59:59.158Z"
+last_updated: "2025-06-15T17:02:54.215Z"
+# miscellaneous data source section
 coingecko_id: "virtuswap"
-current_price: 0.00018516
+current_price: 0.00018527
 market_cap: 114711
 market_cap_rank: 6549
 fully_diluted_valuation: 185163

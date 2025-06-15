@@ -20,8 +20,10 @@ last_updated: "2025-06-15T11:42:43.630Z"
 last_updated: "2025-06-15T13:29:39.462Z"
 last_updated: "2025-06-15T14:17:20.675Z"
 last_updated: "2025-06-15T17:02:07.428Z"
+last_updated: "2025-06-15T17:04:30.657Z"
+# miscellaneous data source section
 coingecko_id: "balance"
-current_price: 0.00551445
+current_price: 0.00550793
 market_cap: 12772354
 market_cap_rank: 1435
 fully_diluted_valuation: 55134446

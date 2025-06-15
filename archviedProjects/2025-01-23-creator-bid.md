@@ -19,11 +19,13 @@ last_updated: "2025-06-15T11:42:46.156Z"
 last_updated: "2025-06-15T13:29:42.198Z"
 last_updated: "2025-06-15T14:17:19.973Z"
 last_updated: "2025-06-15T17:02:09.859Z"
+last_updated: "2025-06-15T17:04:33.538Z"
+# miscellaneous data source section
 coingecko_id: "creatorbid"
-current_price: 0.062151
-market_cap: 16640766
+current_price: 0.062089
+market_cap: 16671687
 market_cap_rank: 1255
-fully_diluted_valuation: 61981745
+fully_diluted_valuation: 62096914
 circulating_supply: 268466796.9
 total_supply: 999956388.236825
 max_supply: 1000000000.0

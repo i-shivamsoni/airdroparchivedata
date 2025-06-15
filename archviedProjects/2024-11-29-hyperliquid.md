@@ -20,11 +20,13 @@ last_updated: "2025-06-15T11:42:42.488Z"
 last_updated: "2025-06-15T13:29:47.823Z"
 last_updated: "2025-06-15T14:17:24.183Z"
 last_updated: "2025-06-15T17:02:15.478Z"
+last_updated: "2025-06-15T17:04:28.770Z"
+# miscellaneous data source section
 coingecko_id: "hyperliquid"
 current_price: 40.71
-market_cap: 13578950556
+market_cap: 13594945792
 market_cap_rank: 13
-fully_diluted_valuation: 40663893883
+fully_diluted_valuation: 40711793649
 circulating_supply: 333928180.0
 total_supply: 999990391.0
 max_supply: 1000000000.0

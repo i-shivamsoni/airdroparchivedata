@@ -19,8 +19,10 @@ last_updated: "2025-06-15T11:42:10.294Z"
 last_updated: "2025-06-15T13:28:06.343Z"
 last_updated: "2025-06-15T14:17:06.370Z"
 last_updated: "2025-06-15T17:01:01.481Z"
+last_updated: "2025-06-15T17:03:41.611Z"
+# miscellaneous data source section
 coingecko_id: "gameswift"
-current_price: 0.00842407
+current_price: 0.00842406
 market_cap: 3207263
 market_cap_rank: 2480
 fully_diluted_valuation: 6495788

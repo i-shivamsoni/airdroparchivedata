@@ -20,6 +20,8 @@ last_updated: "2025-06-15T11:42:40.813Z"
 last_updated: "2025-06-15T13:28:43.067Z"
 last_updated: "2025-06-15T14:14:40.510Z"
 last_updated: "2025-06-15T17:00:49.901Z"
+last_updated: "2025-06-15T17:00:49.901Z"
+# miscellaneous data source section
 coingecko_id: "antimatter"
 current_price: 0.00290827
 market_cap: 96539
@@ -29,10 +31,10 @@ circulating_supply: 33194608.20917096
 total_supply: 100000000.0
 max_supply: null
 ath: 6.05
-ath_change_percentage: -99.95183
+ath_change_percentage: -99.9519
 ath_date: "2021-04-08T22:44:36.228Z"
 atl: 1.55258e-13
-atl_change_percentage: 1875775666389.1868
+atl_change_percentage: 1873183365468.5657
 atl_date: "2021-07-23T17:36:57.982Z"
 ---
 

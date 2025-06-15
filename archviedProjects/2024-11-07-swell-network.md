@@ -19,8 +19,10 @@ last_updated: "2025-06-15T11:42:42.487Z"
 last_updated: "2025-06-15T13:29:47.711Z"
 last_updated: "2025-06-15T14:17:20.057Z"
 last_updated: "2025-06-15T17:02:15.381Z"
+last_updated: "2025-06-15T17:04:39.436Z"
+# miscellaneous data source section
 coingecko_id: "swell-network"
-current_price: 0.008174
+current_price: 0.00817319
 market_cap: 16972685
 market_cap_rank: 1245
 fully_diluted_valuation: 81680640

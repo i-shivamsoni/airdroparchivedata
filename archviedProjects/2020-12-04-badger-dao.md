@@ -20,8 +20,10 @@ last_updated: "2025-06-15T11:42:43.482Z"
 last_updated: "2025-06-15T13:29:39.336Z"
 last_updated: "2025-06-15T14:17:19.791Z"
 last_updated: "2025-06-15T17:02:16.450Z"
+last_updated: "2025-06-15T17:04:30.068Z"
+# miscellaneous data source section
 coingecko_id: "badger-dao"
-current_price: 0.947234
+current_price: 0.946583
 market_cap: 18880194
 market_cap_rank: 1197
 fully_diluted_valuation: 19893164
@@ -29,10 +31,10 @@ circulating_supply: 19930669.912362073
 total_supply: 21000000.0
 max_supply: 21000000.0
 ath: 89.08
-ath_change_percentage: -98.93614
+ath_change_percentage: -98.93687
 ath_date: "2021-02-09T01:03:21.398Z"
 atl: 0.756202
-atl_change_percentage: 25.32089
+atl_change_percentage: 25.23449
 atl_date: "2025-04-16T02:51:46.846Z"
 ---
 

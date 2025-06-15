@@ -19,8 +19,10 @@ last_updated: "2025-06-15T11:42:41.448Z"
 last_updated: "2025-06-15T13:29:46.683Z"
 last_updated: "2025-06-15T14:17:28.610Z"
 last_updated: "2025-06-15T17:02:14.041Z"
+last_updated: "2025-06-15T17:04:38.209Z"
+# miscellaneous data source section
 coingecko_id: "wen-4"
-current_price: 3.807e-05
+current_price: 3.803e-05
 market_cap: 27650910
 market_cap_rank: 968
 fully_diluted_valuation: 27650910

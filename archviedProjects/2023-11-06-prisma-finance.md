@@ -19,8 +19,10 @@ last_updated: "2025-06-15T11:42:38.356Z"
 last_updated: "2025-06-15T13:29:43.652Z"
 last_updated: "2025-06-15T14:17:22.945Z"
 last_updated: "2025-06-15T17:02:11.332Z"
+last_updated: "2025-06-15T17:04:34.682Z"
+# miscellaneous data source section
 coingecko_id: "prisma-governance-token"
-current_price: 0.058066
+current_price: 0.058064
 market_cap: 5663582
 market_cap_rank: 1969
 fully_diluted_valuation: 17419714

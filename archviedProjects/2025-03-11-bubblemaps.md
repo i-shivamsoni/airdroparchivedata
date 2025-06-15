@@ -19,8 +19,10 @@ last_updated: "2025-06-15T11:42:40.649Z"
 last_updated: "2025-06-15T13:29:36.432Z"
 last_updated: "2025-06-15T14:17:28.374Z"
 last_updated: "2025-06-15T17:02:13.413Z"
+last_updated: "2025-06-15T17:04:37.252Z"
+# miscellaneous data source section
 coingecko_id: "bubblemaps"
-current_price: 0.121284
+current_price: 0.121679
 market_cap: 31060797
 market_cap_rank: 917
 fully_diluted_valuation: 121245562

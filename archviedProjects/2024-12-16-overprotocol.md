@@ -20,8 +20,10 @@ last_updated: "2025-06-15T11:42:28.866Z"
 last_updated: "2025-06-15T13:28:19.872Z"
 last_updated: "2025-06-15T14:15:37.284Z"
 last_updated: "2025-06-15T17:01:38.978Z"
+last_updated: "2025-06-15T17:04:19.466Z"
+# miscellaneous data source section
 coingecko_id: "overprotocol"
-current_price: 0.02878625
+current_price: 0.02882077
 market_cap: 0.0
 market_cap_rank: null
 fully_diluted_valuation: 28822409

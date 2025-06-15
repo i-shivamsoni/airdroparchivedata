@@ -28,8 +28,10 @@ last_updated: "2025-06-15T11:42:40.758Z"
 last_updated: "2025-06-15T13:29:36.729Z"
 last_updated: "2025-06-15T14:17:26.751Z"
 last_updated: "2025-06-15T17:02:13.504Z"
+last_updated: "2025-06-15T17:04:37.501Z"
+# miscellaneous data source section
 coingecko_id: "huma-finance"
-current_price: 0.04018424
+current_price: 0.04014318
 market_cap: 69675858
 market_cap_rank: 577
 fully_diluted_valuation: 401976105

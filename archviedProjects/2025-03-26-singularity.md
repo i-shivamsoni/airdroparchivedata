@@ -19,8 +19,10 @@ last_updated: "2025-06-15T11:40:16.493Z"
 last_updated: "2025-06-15T13:29:06.420Z"
 last_updated: "2025-06-15T14:17:15.414Z"
 last_updated: "2025-06-15T17:01:20.070Z"
+last_updated: "2025-06-15T17:04:02.030Z"
+# miscellaneous data source section
 coingecko_id: "singularity-finance"
-current_price: 0.04680705
+current_price: 0.04681442
 market_cap: 0.0
 market_cap_rank: null
 fully_diluted_valuation: 23403525

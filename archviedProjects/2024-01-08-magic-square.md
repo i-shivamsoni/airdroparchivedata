@@ -20,8 +20,10 @@ last_updated: "2025-06-15T11:42:20.177Z"
 last_updated: "2025-06-15T13:29:15.698Z"
 last_updated: "2025-06-15T14:15:53.479Z"
 last_updated: "2025-06-15T17:00:49.510Z"
+last_updated: "2025-06-15T17:03:51.245Z"
+# miscellaneous data source section
 coingecko_id: "magic-square"
-current_price: 0.00720394
+current_price: 0.00720288
 market_cap: 1621583
 market_cap_rank: 3160
 fully_diluted_valuation: 7201272

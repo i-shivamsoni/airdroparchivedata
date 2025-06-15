@@ -21,12 +21,14 @@ last_updated: "2025-06-15T11:42:40.546Z"
 last_updated: "2025-06-15T13:29:36.710Z"
 last_updated: "2025-06-15T14:17:26.938Z"
 last_updated: "2025-06-15T17:02:23.486Z"
+last_updated: "2025-06-15T17:04:37.632Z"
+# miscellaneous data source section
 coingecko_id: "dymension"
-current_price: 0.259564
-market_cap: 79963535
+current_price: 0.259534
+market_cap: 79981768
 market_cap_rank: 531
-fully_diluted_valuation: 259464120
-circulating_supply: 308187254.0
+fully_diluted_valuation: 259514661
+circulating_supply: 308197494.0
 total_supply: 1000000000.0
 max_supply: null
 ath: 8.5

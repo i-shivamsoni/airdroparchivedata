@@ -20,8 +20,10 @@ last_updated: "2025-06-15T11:42:40.856Z"
 last_updated: "2025-06-15T13:29:37.816Z"
 last_updated: "2025-06-15T14:17:25.777Z"
 last_updated: "2025-06-15T17:02:13.826Z"
+last_updated: "2025-06-15T17:04:37.482Z"
+# miscellaneous data source section
 coingecko_id: "magic-eden"
-current_price: 0.793434
+current_price: 0.793428
 market_cap: 119120839
 market_cap_rank: 404
 fully_diluted_valuation: 793606919

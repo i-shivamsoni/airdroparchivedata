@@ -20,8 +20,10 @@ last_updated: "2025-06-15T11:42:43.537Z"
 last_updated: "2025-06-15T13:29:39.735Z"
 last_updated: "2025-06-15T14:17:25.536Z"
 last_updated: "2025-06-15T17:02:16.731Z"
+last_updated: "2025-06-15T17:04:42.518Z"
+# miscellaneous data source section
 coingecko_id: "anime"
-current_price: 0.02400398
+current_price: 0.02398797
 market_cap: 133028777
 market_cap_rank: 380
 fully_diluted_valuation: 240184640

@@ -20,8 +20,10 @@ last_updated: "2025-06-15T11:42:47.744Z"
 last_updated: "2025-06-15T13:29:43.778Z"
 last_updated: "2025-06-15T14:17:29.176Z"
 last_updated: "2025-06-15T17:02:11.213Z"
+last_updated: "2025-06-15T17:04:35.538Z"
+# miscellaneous data source section
 coingecko_id: "mind-network"
-current_price: 0.076458
+current_price: 0.076462
 market_cap: 19039744
 market_cap_rank: 1192
 fully_diluted_valuation: 76464836

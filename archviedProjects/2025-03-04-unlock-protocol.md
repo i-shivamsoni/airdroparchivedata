@@ -20,8 +20,10 @@ last_updated: "2025-06-15T11:41:12.375Z"
 last_updated: "2025-06-15T13:27:38.660Z"
 last_updated: "2025-06-15T14:15:27.020Z"
 last_updated: "2025-06-15T17:01:04.624Z"
+last_updated: "2025-06-15T17:04:04.988Z"
+# miscellaneous data source section
 coingecko_id: "unlockprotocoltoken"
-current_price: 0.0064295
+current_price: 0.00643127
 market_cap: 1794110
 market_cap_rank: 3063
 fully_diluted_valuation: 6430306

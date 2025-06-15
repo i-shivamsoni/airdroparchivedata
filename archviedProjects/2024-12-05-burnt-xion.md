@@ -21,8 +21,10 @@ last_updated: "2025-06-15T11:42:42.025Z"
 last_updated: "2025-06-15T13:29:37.084Z"
 last_updated: "2025-06-15T14:17:18.180Z"
 last_updated: "2025-06-15T17:02:14.858Z"
+last_updated: "2025-06-15T17:04:38.969Z"
+# miscellaneous data source section
 coingecko_id: "xion-2"
-current_price: 1.063
+current_price: 1.062
 market_cap: 37859385
 market_cap_rank: 811
 fully_diluted_valuation: 212317209

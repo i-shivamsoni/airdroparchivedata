@@ -19,8 +19,10 @@ last_updated: "2025-06-15T11:42:38.202Z"
 last_updated: "2025-06-15T13:29:43.332Z"
 last_updated: "2025-06-15T14:17:21.701Z"
 last_updated: "2025-06-15T17:02:21.092Z"
+last_updated: "2025-06-15T17:04:34.431Z"
+# miscellaneous data source section
 coingecko_id: "odos"
-current_price: 0.00550219
+current_price: 0.00550221
 market_cap: 8795220
 market_cap_rank: 1688
 fully_diluted_valuation: 54970125

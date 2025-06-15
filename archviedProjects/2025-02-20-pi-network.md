@@ -20,8 +20,10 @@ last_updated: "2025-06-15T11:42:41.348Z"
 last_updated: "2025-06-15T13:29:35.263Z"
 last_updated: "2025-06-15T14:17:33.025Z"
 last_updated: "2025-06-15T17:02:13.892Z"
+last_updated: "2025-06-15T17:04:38.300Z"
+# miscellaneous data source section
 coingecko_id: "pi-network"
-current_price: 0.604047
+current_price: 0.603999
 market_cap: 4490211064
 market_cap_rank: 36
 fully_diluted_valuation: 6908017022

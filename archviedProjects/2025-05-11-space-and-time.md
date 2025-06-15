@@ -19,11 +19,13 @@ last_updated: "2025-06-15T11:42:41.696Z"
 last_updated: "2025-06-15T13:29:07.226Z"
 last_updated: "2025-06-15T14:16:55.356Z"
 last_updated: "2025-06-15T17:01:49.019Z"
+last_updated: "2025-06-15T17:04:32.834Z"
+# miscellaneous data source section
 coingecko_id: "space-and-time"
-current_price: 0.076295
+current_price: 0.07625
 market_cap: 0.0
 market_cap_rank: null
-fully_diluted_valuation: 381445502
+fully_diluted_valuation: 381473909
 circulating_supply: 0.0
 total_supply: 5000000000.0
 max_supply: 5000000000.0

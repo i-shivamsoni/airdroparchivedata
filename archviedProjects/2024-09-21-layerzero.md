@@ -20,6 +20,8 @@ last_updated: "2025-06-15T11:42:35.578Z"
 last_updated: "2025-06-15T13:29:40.894Z"
 last_updated: "2025-06-15T14:17:25.172Z"
 last_updated: "2025-06-15T17:02:08.689Z"
+last_updated: "2025-06-15T17:04:31.788Z"
+# miscellaneous data source section
 coingecko_id: "layerzero"
 current_price: 1.95
 market_cap: 216184876

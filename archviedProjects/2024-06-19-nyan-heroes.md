@@ -20,8 +20,10 @@ last_updated: "2025-06-15T11:42:43.820Z"
 last_updated: "2025-06-15T13:28:46.632Z"
 last_updated: "2025-06-15T14:14:44.617Z"
 last_updated: "2025-06-15T17:01:34.473Z"
+last_updated: "2025-06-15T17:04:16.780Z"
+# miscellaneous data source section
 coingecko_id: "nyan"
-current_price: 0.00407438
+current_price: 0.00408538
 market_cap: 598476
 market_cap_rank: 4350
 fully_diluted_valuation: 4089347

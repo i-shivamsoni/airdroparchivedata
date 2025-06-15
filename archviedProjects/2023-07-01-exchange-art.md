@@ -19,8 +19,10 @@ last_updated: "2025-06-15T11:42:42.094Z"
 last_updated: "2025-06-15T13:28:31.233Z"
 last_updated: "2025-06-15T14:16:41.569Z"
 last_updated: "2025-06-15T17:00:34.795Z"
+last_updated: "2025-06-15T17:03:31.144Z"
+# miscellaneous data source section
 coingecko_id: "exchangeart"
-current_price: 0.00095144
+current_price: 0.00095135
 market_cap: 0.0
 market_cap_rank: null
 fully_diluted_valuation: 951359

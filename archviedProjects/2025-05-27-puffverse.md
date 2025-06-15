@@ -19,11 +19,13 @@ last_updated: "2025-06-15T11:42:23.572Z"
 last_updated: "2025-06-15T13:29:24.824Z"
 last_updated: "2025-06-15T14:16:36.812Z"
 last_updated: "2025-06-15T17:01:20.832Z"
+last_updated: "2025-06-15T17:04:02.130Z"
+# miscellaneous data source section
 coingecko_id: "puffverse"
-current_price: 0.0219985
-market_cap: 2564799
+current_price: 0.02204512
+market_cap: 2565514
 market_cap_rank: 2690
-fully_diluted_valuation: 21992370
+fully_diluted_valuation: 21998497
 circulating_supply: 116622222.0
 total_supply: 1000000000.0
 max_supply: 1000000000.0

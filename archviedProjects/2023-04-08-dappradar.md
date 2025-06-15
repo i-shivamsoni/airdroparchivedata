@@ -19,19 +19,21 @@ last_updated: "2025-06-15T11:41:45.626Z"
 last_updated: "2025-06-15T13:28:50.333Z"
 last_updated: "2025-06-15T14:16:17.284Z"
 last_updated: "2025-06-15T17:01:57.770Z"
+last_updated: "2025-06-15T17:01:57.770Z"
+# miscellaneous data source section
 coingecko_id: "dappradar"
 current_price: 0.00298984
-market_cap: 4442649
+market_cap: 4454286
 market_cap_rank: 2154
-fully_diluted_valuation: 29820238
+fully_diluted_valuation: 29898350
 circulating_supply: 1489809991.907604
 total_supply: 10000000000.0
 max_supply: 10000000000.0
 ath: 0.057067
-ath_change_percentage: -94.7541
+ath_change_percentage: -94.76085
 ath_date: "2021-12-23T02:19:01.272Z"
 atl: 0.00233281
-atl_change_percentage: 28.33008
+atl_change_percentage: 28.16475
 atl_date: "2025-04-07T07:36:08.075Z"
 ---
 

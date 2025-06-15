@@ -19,8 +19,10 @@ last_updated: "2025-06-15T11:42:36.303Z"
 last_updated: "2025-06-15T13:29:41.789Z"
 last_updated: "2025-06-15T14:17:30.581Z"
 last_updated: "2025-06-15T17:02:19.265Z"
+last_updated: "2025-06-15T17:04:32.864Z"
+# miscellaneous data source section
 coingecko_id: "masa-finance"
-current_price: 0.02100972
+current_price: 0.02100988
 market_cap: 11740243
 market_cap_rank: 1496
 fully_diluted_valuation: 33053145

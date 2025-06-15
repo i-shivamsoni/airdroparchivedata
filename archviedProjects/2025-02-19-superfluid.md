@@ -19,11 +19,13 @@ last_updated: "2025-06-15T11:39:50.260Z"
 last_updated: "2025-06-15T13:27:34.370Z"
 last_updated: "2025-06-15T14:14:59.330Z"
 last_updated: "2025-06-15T17:00:42.218Z"
+last_updated: "2025-06-15T17:04:07.247Z"
+# miscellaneous data source section
 coingecko_id: "supcoin"
 current_price: 1.07e-06
 market_cap: 0.0
 market_cap_rank: null
-fully_diluted_valuation: 106906
+fully_diluted_valuation: 106915
 circulating_supply: 0.0
 total_supply: 100000000000.0
 max_supply: 100000000000.0

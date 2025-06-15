@@ -19,8 +19,10 @@ last_updated: "2025-06-15T11:42:40.715Z"
 last_updated: "2025-06-15T13:28:47.051Z"
 last_updated: "2025-06-15T14:14:45.601Z"
 last_updated: "2025-06-15T17:01:35.564Z"
+last_updated: "2025-06-15T17:04:17.475Z"
+# miscellaneous data source section
 coingecko_id: "email-token"
-current_price: 0.00547524
+current_price: 0.00547865
 market_cap: 0.0
 market_cap_rank: null
 fully_diluted_valuation: 5473106

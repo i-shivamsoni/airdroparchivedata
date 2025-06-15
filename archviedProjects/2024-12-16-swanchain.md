@@ -20,8 +20,10 @@ last_updated: "2025-06-15T11:41:31.470Z"
 last_updated: "2025-06-15T13:29:46.821Z"
 last_updated: "2025-06-15T14:16:10.846Z"
 last_updated: "2025-06-15T17:01:38.284Z"
+last_updated: "2025-06-15T17:04:18.972Z"
+# miscellaneous data source section
 coingecko_id: "swan-chain"
-current_price: 0.01382123
+current_price: 0.01389707
 market_cap: 1964150
 market_cap_rank: 2970
 fully_diluted_valuation: 13756358

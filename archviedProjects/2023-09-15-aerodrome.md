@@ -19,8 +19,10 @@ last_updated: "2025-06-15T11:42:46.097Z"
 last_updated: "2025-06-15T13:29:42.309Z"
 last_updated: "2025-06-15T14:17:24.827Z"
 last_updated: "2025-06-15T17:02:10.274Z"
+last_updated: "2025-06-15T17:04:33.376Z"
+# miscellaneous data source section
 coingecko_id: "aerodrome-finance"
-current_price: 0.731626
+current_price: 0.731788
 market_cap: 609356076
 market_cap_rank: 139
 fully_diluted_valuation: 1210884953

@@ -19,8 +19,10 @@ last_updated: "2025-06-15T11:42:40.988Z"
 last_updated: "2025-06-15T13:29:37.529Z"
 last_updated: "2025-06-15T14:17:21.658Z"
 last_updated: "2025-06-15T17:02:13.547Z"
+last_updated: "2025-06-15T17:04:37.612Z"
+# miscellaneous data source section
 coingecko_id: "streamflow"
-current_price: 0.119686
+current_price: 0.119691
 market_cap: 8975682
 market_cap_rank: 1673
 fully_diluted_valuation: 119605501

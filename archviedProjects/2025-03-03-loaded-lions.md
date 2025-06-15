@@ -19,8 +19,10 @@ last_updated: "2025-06-15T11:42:33.345Z"
 last_updated: "2025-06-15T13:29:40.278Z"
 last_updated: "2025-06-15T14:16:40.245Z"
 last_updated: "2025-06-15T17:00:30.226Z"
+last_updated: "2025-06-15T17:03:28.100Z"
+# miscellaneous data source section
 coingecko_id: "loaded-lions"
-current_price: 0.01756692
+current_price: 0.01754401
 market_cap: 0.0
 market_cap_rank: null
 fully_diluted_valuation: 1756692193

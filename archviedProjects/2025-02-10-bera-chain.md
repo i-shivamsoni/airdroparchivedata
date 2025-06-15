@@ -21,6 +21,8 @@ last_updated: "2025-06-15T11:42:41.536Z"
 last_updated: "2025-06-15T13:29:35.865Z"
 last_updated: "2025-06-15T14:17:24.917Z"
 last_updated: "2025-06-15T17:02:14.011Z"
+last_updated: "2025-06-15T17:04:38.536Z"
+# miscellaneous data source section
 coingecko_id: "berachain-bera"
 current_price: 2.04
 market_cap: 245171258

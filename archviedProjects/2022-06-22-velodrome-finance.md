@@ -19,8 +19,10 @@ last_updated: "2025-06-15T11:42:46.025Z"
 last_updated: "2025-06-15T13:29:42.143Z"
 last_updated: "2025-06-15T14:17:27.348Z"
 last_updated: "2025-06-15T17:02:09.550Z"
+last_updated: "2025-06-15T17:04:32.967Z"
+# miscellaneous data source section
 coingecko_id: "velodrome-finance"
-current_price: 0.050647
+current_price: 0.050685
 market_cap: 47883043
 market_cap_rank: 721
 fully_diluted_valuation: 107119452

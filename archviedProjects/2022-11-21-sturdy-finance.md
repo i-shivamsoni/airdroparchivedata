@@ -20,8 +20,10 @@ last_updated: "2025-06-15T11:42:37.082Z"
 last_updated: "2025-06-15T13:29:42.428Z"
 last_updated: "2025-06-15T14:17:22.123Z"
 last_updated: "2025-06-15T17:02:09.975Z"
+last_updated: "2025-06-15T17:04:33.422Z"
+# miscellaneous data source section
 coingecko_id: "sturdy"
-current_price: 0.369216
+current_price: 0.369214
 market_cap: 7543185
 market_cap_rank: 1789
 fully_diluted_valuation: 36969055

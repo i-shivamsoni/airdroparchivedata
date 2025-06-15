@@ -19,8 +19,10 @@ last_updated: "2025-06-15T11:42:42.032Z"
 last_updated: "2025-06-15T13:29:47.382Z"
 last_updated: "2025-06-15T14:17:29.508Z"
 last_updated: "2025-06-15T17:02:15.002Z"
+last_updated: "2025-06-15T17:04:38.987Z"
+# miscellaneous data source section
 coingecko_id: "vara-network"
-current_price: 0.0053537
+current_price: 0.00535325
 market_cap: 17637512
 market_cap_rank: 1228
 fully_diluted_valuation: 53537024

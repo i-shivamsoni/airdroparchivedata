@@ -19,8 +19,10 @@ last_updated: "2025-06-15T11:41:35.666Z"
 last_updated: "2025-06-15T13:28:01.294Z"
 last_updated: "2025-06-15T14:17:01.106Z"
 last_updated: "2025-06-15T17:01:41.267Z"
+last_updated: "2025-06-15T17:04:22.430Z"
+# miscellaneous data source section
 coingecko_id: "wizzwoods-token"
-current_price: 0.00966427
+current_price: 0.00972747
 market_cap: 0.0
 market_cap_rank: null
 fully_diluted_valuation: 17482867

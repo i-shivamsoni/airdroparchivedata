@@ -19,11 +19,13 @@ last_updated: "2025-06-15T11:41:35.259Z"
 last_updated: "2025-06-15T13:29:17.532Z"
 last_updated: "2025-06-15T14:17:21.319Z"
 last_updated: "2025-06-15T17:00:51.465Z"
+last_updated: "2025-06-15T17:04:03.818Z"
+# miscellaneous data source section
 coingecko_id: "pell-network-token"
-current_price: 0.00260914
-market_cap: 883582
+current_price: 0.00260872
+market_cap: 876672
 market_cap_rank: 3874
-fully_diluted_valuation: 5522386
+fully_diluted_valuation: 5479199
 circulating_supply: 336000000.0
 total_supply: 2100000000.0
 max_supply: 2100000000.0

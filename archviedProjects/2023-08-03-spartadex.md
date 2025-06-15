@@ -19,6 +19,8 @@ last_updated: "2025-06-13T23:59:39.640Z"
 last_updated: "2025-06-13T23:59:39.640Z"
 last_updated: "2025-06-13T23:59:39.640Z"
 last_updated: "2025-06-13T23:59:39.640Z"
+last_updated: "2025-06-13T23:59:39.640Z"
+# miscellaneous data source section
 coingecko_id: "spartadex"
 current_price: 0.0023344
 market_cap: 92724

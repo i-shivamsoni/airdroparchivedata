@@ -21,11 +21,13 @@ last_updated: "2025-06-15T11:42:38.349Z"
 last_updated: "2025-06-15T13:29:33.699Z"
 last_updated: "2025-06-15T14:17:24.951Z"
 last_updated: "2025-06-15T17:02:20.744Z"
+last_updated: "2025-06-15T17:04:45.311Z"
+# miscellaneous data source section
 coingecko_id: "polyhedra-network"
-current_price: 0.928798
-market_cap: 288715332
+current_price: 0.923894
+market_cap: 284819239
 market_cap_rank: 236
-fully_diluted_valuation: 936205359
+fully_diluted_valuation: 923571659
 circulating_supply: 308388890.0
 total_supply: 1000000000.0
 max_supply: 1000000000.0

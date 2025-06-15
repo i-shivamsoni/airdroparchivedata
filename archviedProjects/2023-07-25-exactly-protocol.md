@@ -19,8 +19,10 @@ last_updated: "2025-06-15T11:40:47.535Z"
 last_updated: "2025-06-15T13:27:03.130Z"
 last_updated: "2025-06-15T14:15:12.762Z"
 last_updated: "2025-06-15T17:01:00.137Z"
+last_updated: "2025-06-15T17:03:53.726Z"
+# miscellaneous data source section
 coingecko_id: "exa"
-current_price: 0.485718
+current_price: 0.482828
 market_cap: 1561559
 market_cap_rank: 3220
 fully_diluted_valuation: 4857185

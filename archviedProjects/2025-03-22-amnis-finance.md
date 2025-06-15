@@ -19,8 +19,10 @@ last_updated: "2025-06-15T11:42:47.018Z"
 last_updated: "2025-06-15T13:29:42.599Z"
 last_updated: "2025-06-15T14:17:32.100Z"
 last_updated: "2025-06-15T17:02:20.249Z"
+last_updated: "2025-06-15T17:04:44.524Z"
+# miscellaneous data source section
 coingecko_id: "ami"
-current_price: 0.075206
+current_price: 0.075207
 market_cap: 6277564
 market_cap_rank: 1904
 fully_diluted_valuation: 75205700

@@ -19,11 +19,13 @@ last_updated: "2025-06-15T11:42:42.865Z"
 last_updated: "2025-06-15T13:29:38.132Z"
 last_updated: "2025-06-15T14:17:23.009Z"
 last_updated: "2025-06-15T17:02:15.316Z"
+last_updated: "2025-06-15T17:04:28.791Z"
+# miscellaneous data source section
 coingecko_id: "tokyo-games-token"
-current_price: 0.0330879
-market_cap: 4868262
+current_price: 0.03305297
+market_cap: 4880419
 market_cap_rank: 2074
-fully_diluted_valuation: 33005166
+fully_diluted_valuation: 33087586
 circulating_supply: 147500000.0
 total_supply: 1000000000.0
 max_supply: 1000000000.0

@@ -19,11 +19,13 @@ last_updated: "2025-06-15T11:41:51.036Z"
 last_updated: "2025-06-15T13:28:50.450Z"
 last_updated: "2025-06-15T14:15:29.383Z"
 last_updated: "2025-06-15T17:00:19.677Z"
+last_updated: "2025-06-15T17:03:12.052Z"
+# miscellaneous data source section
 coingecko_id: "talent-protocol"
-current_price: 0.0059305
-market_cap: 857598
+current_price: 0.00594938
+market_cap: 861072
 market_cap_rank: 3908
-fully_diluted_valuation: 3481034
+fully_diluted_valuation: 3495136
 circulating_supply: 144733008.34299374
 total_supply: 587478755.7172114
 max_supply: 600000000.0

@@ -19,8 +19,10 @@ last_updated: "2025-06-15T11:42:41.191Z"
 last_updated: "2025-06-15T13:29:37.733Z"
 last_updated: "2025-06-15T14:17:19.425Z"
 last_updated: "2025-06-15T17:02:13.895Z"
+last_updated: "2025-06-15T17:04:38.068Z"
+# miscellaneous data source section
 coingecko_id: "zeta"
-current_price: 0.117015
+current_price: 0.116943
 market_cap: 21977632
 market_cap_rank: 1106
 fully_diluted_valuation: 117045300

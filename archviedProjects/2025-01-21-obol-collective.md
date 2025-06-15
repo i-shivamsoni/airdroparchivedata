@@ -19,11 +19,13 @@ last_updated: "2025-06-15T11:42:42.443Z"
 last_updated: "2025-06-15T13:29:48.171Z"
 last_updated: "2025-06-15T14:17:21.245Z"
 last_updated: "2025-06-15T17:02:15.425Z"
+last_updated: "2025-06-15T17:04:28.676Z"
+# miscellaneous data source section
 coingecko_id: "obol-2"
-current_price: 0.119793
-market_cap: 11816537
+current_price: 0.119787
+market_cap: 11824372
 market_cap_rank: 1491
-fully_diluted_valuation: 59848840
+fully_diluted_valuation: 59888524
 circulating_supply: 98719850.0
 total_supply: 500000000.0
 max_supply: 500000000.0

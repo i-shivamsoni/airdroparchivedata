@@ -19,6 +19,8 @@ last_updated: "2025-06-15T11:41:10.574Z"
 last_updated: "2025-06-15T13:26:28.022Z"
 last_updated: "2025-06-15T13:26:28.022Z"
 last_updated: "2025-06-15T17:01:13.942Z"
+last_updated: "2025-06-15T17:01:13.942Z"
+# miscellaneous data source section
 coingecko_id: "hat"
 current_price: 0.00329807
 market_cap: 47556

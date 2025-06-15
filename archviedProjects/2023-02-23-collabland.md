@@ -19,8 +19,10 @@ last_updated: "2025-06-15T11:41:12.107Z"
 last_updated: "2025-06-15T13:27:46.919Z"
 last_updated: "2025-06-15T14:16:08.183Z"
 last_updated: "2025-06-15T16:56:14.507Z"
+last_updated: "2025-06-15T17:03:08.470Z"
+# miscellaneous data source section
 coingecko_id: "collab-land"
-current_price: 0.00016921
+current_price: 0.0001691
 market_cap: 42304
 market_cap_rank: 7840
 fully_diluted_valuation: 169214

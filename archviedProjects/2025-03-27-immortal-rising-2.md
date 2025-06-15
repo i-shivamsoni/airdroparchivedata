@@ -19,8 +19,10 @@ last_updated: "2025-06-15T11:42:13.679Z"
 last_updated: "2025-06-15T13:29:06.794Z"
 last_updated: "2025-06-15T14:16:36.203Z"
 last_updated: "2025-06-15T17:01:13.483Z"
+last_updated: "2025-06-15T17:03:55.269Z"
+# miscellaneous data source section
 coingecko_id: "immortal-token"
-current_price: 0.00647131
+current_price: 0.00647287
 market_cap: 1186191
 market_cap_rank: 3516
 fully_diluted_valuation: 6471309

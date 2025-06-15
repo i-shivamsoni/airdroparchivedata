@@ -19,11 +19,13 @@ last_updated: "2025-06-15T11:42:40.829Z"
 last_updated: "2025-06-15T13:29:46.578Z"
 last_updated: "2025-06-15T14:17:23.029Z"
 last_updated: "2025-06-15T17:02:13.546Z"
+last_updated: "2025-06-15T17:04:37.987Z"
+# miscellaneous data source section
 coingecko_id: "solana-name-service"
-current_price: 0.00220067
-market_cap: 5494162
+current_price: 0.00220059
+market_cap: 5501664
 market_cap_rank: 1996
-fully_diluted_valuation: 21976605
+fully_diluted_valuation: 22006613
 circulating_supply: 2500000000.0
 total_supply: 9999980243.25094
 max_supply: 10000000000.0

@@ -19,8 +19,10 @@ last_updated: "2025-06-15T11:42:28.092Z"
 last_updated: "2025-06-15T13:29:03.399Z"
 last_updated: "2025-06-15T14:17:23.755Z"
 last_updated: "2025-06-15T17:01:46.573Z"
+last_updated: "2025-06-15T17:04:34.268Z"
+# miscellaneous data source section
 coingecko_id: "pontem-liquidswap"
-current_price: 0.279259
+current_price: 0.27933
 market_cap: 0.0
 market_cap_rank: null
 fully_diluted_valuation: 11730438

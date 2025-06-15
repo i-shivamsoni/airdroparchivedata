@@ -20,8 +20,10 @@ last_updated: "2025-06-15T11:42:35.466Z"
 last_updated: "2025-06-15T13:29:41.462Z"
 last_updated: "2025-06-15T14:17:21.558Z"
 last_updated: "2025-06-15T17:02:18.454Z"
+last_updated: "2025-06-15T17:04:42.774Z"
+# miscellaneous data source section
 coingecko_id: "pirate-token"
-current_price: 0.04567267
+current_price: 0.0456541
 market_cap: 9261783
 market_cap_rank: 1643
 fully_diluted_valuation: 45041665

@@ -19,11 +19,13 @@ last_updated: "2025-06-15T11:42:11.357Z"
 last_updated: "2025-06-15T13:29:13.670Z"
 last_updated: "2025-06-15T14:16:17.367Z"
 last_updated: "2025-06-15T17:01:26.950Z"
+last_updated: "2025-06-15T17:04:16.831Z"
+# miscellaneous data source section
 coingecko_id: "thetanuts-finance"
-current_price: 0.0015888
-market_cap: 1677373
+current_price: 0.00159
+market_cap: 1676803
 market_cap_rank: 3133
-fully_diluted_valuation: 15893359
+fully_diluted_valuation: 15887952
 circulating_supply: 1055392499.99
 total_supply: 10000000000.0
 max_supply: 10000000000.0

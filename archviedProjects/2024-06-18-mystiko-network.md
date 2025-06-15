@@ -19,8 +19,10 @@ last_updated: "2025-06-15T11:42:20.887Z"
 last_updated: "2025-06-15T13:29:16.504Z"
 last_updated: "2025-06-15T14:17:17.216Z"
 last_updated: "2025-06-15T17:00:50.295Z"
+last_updated: "2025-06-15T17:03:39.644Z"
+# miscellaneous data source section
 coingecko_id: "xzk"
-current_price: 0.00921847
+current_price: 0.00923083
 market_cap: 3795616
 market_cap_rank: 2307
 fully_diluted_valuation: 9240456

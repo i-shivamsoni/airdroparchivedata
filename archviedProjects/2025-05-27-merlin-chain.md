@@ -20,11 +20,13 @@ last_updated: "2025-06-15T11:42:44.416Z"
 last_updated: "2025-06-15T13:29:50.338Z"
 last_updated: "2025-06-15T14:17:26.605Z"
 last_updated: "2025-06-15T17:02:17.847Z"
+last_updated: "2025-06-15T17:04:31.326Z"
+# miscellaneous data source section
 coingecko_id: "merlin-chain"
-current_price: 0.093266
-market_cap: 67620516
+current_price: 0.093325
+market_cap: 67663688
 market_cap_rank: 595
-fully_diluted_valuation: 195866322
+fully_diluted_valuation: 195991374
 circulating_supply: 725000000.0
 total_supply: 2100000000.0
 max_supply: 2100000000.0

@@ -19,8 +19,10 @@ last_updated: "2025-06-15T11:42:43.614Z"
 last_updated: "2025-06-15T13:29:40.406Z"
 last_updated: "2025-06-15T14:17:24.177Z"
 last_updated: "2025-06-15T17:02:16.728Z"
+last_updated: "2025-06-15T17:04:41.343Z"
+# miscellaneous data source section
 coingecko_id: "walrus-2"
-current_price: 0.460691
+current_price: 0.460287
 market_cap: 620417810
 market_cap_rank: 135
 fully_diluted_valuation: 2301039629

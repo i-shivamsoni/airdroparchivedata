@@ -19,11 +19,13 @@ last_updated: "2025-06-15T11:42:38.754Z"
 last_updated: "2025-06-15T13:29:44.030Z"
 last_updated: "2025-06-15T14:17:21.988Z"
 last_updated: "2025-06-15T17:02:12.198Z"
+last_updated: "2025-06-15T17:04:35.126Z"
+# miscellaneous data source section
 coingecko_id: "holdstation"
-current_price: 0.988508
-market_cap: 7863845
+current_price: 0.99186
+market_cap: 7812842
 market_cap_rank: 1753
-fully_diluted_valuation: 29848723
+fully_diluted_valuation: 29655132
 circulating_supply: 7903700.0
 total_supply: 30000000.0
 max_supply: 30000000.0

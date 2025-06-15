@@ -20,8 +20,10 @@ last_updated: "2025-06-15T11:42:43.083Z"
 last_updated: "2025-06-15T13:29:38.689Z"
 last_updated: "2025-06-15T14:17:24.157Z"
 last_updated: "2025-06-15T17:02:15.981Z"
+last_updated: "2025-06-15T17:04:29.538Z"
+# miscellaneous data source section
 coingecko_id: "worldcoin-wld"
-current_price: 0.9786
+current_price: 0.977791
 market_cap: 1577702944
 market_cap_rank: 69
 fully_diluted_valuation: 9786225458

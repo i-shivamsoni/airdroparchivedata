@@ -20,8 +20,10 @@ last_updated: "2025-06-15T11:42:02.947Z"
 last_updated: "2025-06-15T13:28:08.234Z"
 last_updated: "2025-06-15T14:17:21.373Z"
 last_updated: "2025-06-15T17:01:17.417Z"
+last_updated: "2025-06-15T17:04:09.222Z"
+# miscellaneous data source section
 coingecko_id: "mint-blockchain"
-current_price: 0.00869122
+current_price: 0.00869888
 market_cap: 1505757
 market_cap_rank: 3246
 fully_diluted_valuation: 8691225

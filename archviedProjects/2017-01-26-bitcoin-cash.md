@@ -20,8 +20,10 @@ last_updated: "2025-06-15T11:42:46.226Z"
 last_updated: "2025-06-15T13:29:36.936Z"
 last_updated: "2025-06-15T14:17:24.268Z"
 last_updated: "2025-06-15T17:02:14.612Z"
+last_updated: "2025-06-15T17:04:38.788Z"
+# miscellaneous data source section
 coingecko_id: "bitcoin-cash"
-current_price: 461.4
+current_price: 461.21
 market_cap: 9162841826
 market_cap_rank: 16
 fully_diluted_valuation: 9162849026

@@ -19,6 +19,8 @@ last_updated: "2025-06-15T11:40:50.578Z"
 last_updated: "2025-06-15T13:28:24.807Z"
 last_updated: "2025-06-15T14:16:59.146Z"
 last_updated: "2025-06-15T16:59:04.743Z"
+last_updated: "2025-06-15T17:02:52.317Z"
+# miscellaneous data source section
 coingecko_id: "ice-token"
 current_price: 0.00481248
 market_cap: 32478

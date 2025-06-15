@@ -19,11 +19,13 @@ last_updated: "2025-06-15T11:42:48.372Z"
 last_updated: "2025-06-15T13:29:44.336Z"
 last_updated: "2025-06-15T14:17:17.457Z"
 last_updated: "2025-06-15T17:02:11.688Z"
+last_updated: "2025-06-15T17:04:35.529Z"
+# miscellaneous data source section
 coingecko_id: "connect-token-wct"
-current_price: 0.376058
-market_cap: 70168282
+current_price: 0.375773
+market_cap: 69981174
 market_cap_rank: 576
-fully_diluted_valuation: 376843349
+fully_diluted_valuation: 375838470
 circulating_supply: 186200000.0
 total_supply: 999999275.8983115
 max_supply: 1000000000.0

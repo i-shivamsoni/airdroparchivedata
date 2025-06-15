@@ -19,8 +19,10 @@ last_updated: "2025-06-15T11:42:40.101Z"
 last_updated: "2025-06-15T13:29:45.472Z"
 last_updated: "2025-06-15T14:17:27.625Z"
 last_updated: "2025-06-15T17:02:12.994Z"
+last_updated: "2025-06-15T17:04:36.887Z"
+# miscellaneous data source section
 coingecko_id: "debridge"
-current_price: 0.0142043
+current_price: 0.01419537
 market_cap: 41339962
 market_cap_rank: 776
 fully_diluted_valuation: 142024183

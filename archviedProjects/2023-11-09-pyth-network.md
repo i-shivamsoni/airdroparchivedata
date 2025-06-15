@@ -20,8 +20,10 @@ last_updated: "2025-06-15T11:42:50.541Z"
 last_updated: "2025-06-15T13:29:37.108Z"
 last_updated: "2025-06-15T14:17:24.330Z"
 last_updated: "2025-06-15T17:02:13.631Z"
+last_updated: "2025-06-15T17:04:37.907Z"
+# miscellaneous data source section
 coingecko_id: "pyth-network"
-current_price: 0.105507
+current_price: 0.105584
 market_cap: 606560903
 market_cap_rank: 140
 fully_diluted_valuation: 1054891013

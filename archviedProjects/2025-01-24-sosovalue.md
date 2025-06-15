@@ -19,11 +19,13 @@ last_updated: "2025-06-15T11:42:36.660Z"
 last_updated: "2025-06-15T13:29:40.875Z"
 last_updated: "2025-06-15T14:17:27.055Z"
 last_updated: "2025-06-15T17:02:18.384Z"
+last_updated: "2025-06-15T17:04:42.747Z"
+# miscellaneous data source section
 coingecko_id: "sosovalue"
-current_price: 0.492133
-market_cap: 56579417
+current_price: 0.492438
+market_cap: 56660867
 market_cap_rank: 660
-fully_diluted_valuation: 491425549
+fully_diluted_valuation: 492132986
 circulating_supply: 115133243.0
 total_supply: 1000000000.0
 max_supply: 1000000000.0

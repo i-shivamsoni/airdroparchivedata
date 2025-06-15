@@ -19,8 +19,10 @@ last_updated: "2025-06-15T11:42:37.297Z"
 last_updated: "2025-06-15T13:29:42.572Z"
 last_updated: "2025-06-15T14:17:20.175Z"
 last_updated: "2025-06-15T17:02:10.023Z"
+last_updated: "2025-06-15T17:04:33.545Z"
+# miscellaneous data source section
 coingecko_id: "gammaswap"
-current_price: 0.073871
+current_price: 0.073856
 market_cap: 16167512
 market_cap_rank: 1274
 fully_diluted_valuation: 118197193
