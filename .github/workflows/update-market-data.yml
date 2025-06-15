@@ -4,7 +4,9 @@ on:
   schedule:
     - cron: '0 */6 * * *'  # Runs every 6 hours
   workflow_dispatch:  # Allows manual triggering
-
+  push:
+    branches:
+      - master  # Triggers on push to master branch
 jobs:
   update-market-data:
     runs-on: ubuntu-latest
@@ -54,8 +56,10 @@ jobs:
         git diff --quiet && git diff --staged --quiet || (git commit -m "Update market data [skip ci]" && git push) 
 
   trigger-build:
+    needs: update-market-data
     runs-on: ubuntu-latest
-
+    if: success()
+    
     steps:
       - name: Debug PAT
         run: |
