@@ -12,9 +12,8 @@ pagetype: "project"
 website: "https://nektar.network"
 ticker: "NET"
 description: "A decentralized protocol designed to connect Networks, Operators, and Delegators in a community-driven platform for decentralized infrastructure."
-last_updated: "2025-05-29T19:32:03.443Z"
 mis-data-source: "coingecko"
-# miscellaneous data source section
+last_updated: "2025-05-29T19:32:03.443Z"
 coingecko_id: "nektar-network"
 current_price: 8.5e-06
 market_cap: 3554.68
