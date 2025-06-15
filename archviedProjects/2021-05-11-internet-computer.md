@@ -14,14 +14,8 @@ blockchain-stack: ["layer-1"]
 website: "https://dfinity.org"
 ticker: "ICP"
 description: "A decentralized cloud computing platform designed to run applications on a public blockchain with high scalability and security."
-mis-data-source: "coingecko"
-last_updated: "2025-06-14T14:26:23.242239Z"
-last_updated: "2025-06-15T10:41:01.459Z"
-last_updated: "2025-06-15T11:42:41.584Z"
-last_updated: "2025-06-15T13:29:37.780Z"
-last_updated: "2025-06-15T14:17:24.166Z"
-last_updated: "2025-06-15T17:02:13.935Z"
 last_updated: "2025-06-15T17:04:37.718Z"
+mis-data-source: "coingecko"
 # miscellaneous data source section
 coingecko_id: "internet-computer"
 current_price: 5.37

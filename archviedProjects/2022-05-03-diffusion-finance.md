@@ -12,8 +12,8 @@ pagetype: "project"
 website: "https://diffusion.fi"
 ticker: "DIFF"
 description: "A decentralized automated market maker (AMM) built on the Evmos blockchain, aiming to bring Uniswap-like functionality to the Cosmos ecosystem."
-mis-data-source: "manual"
 last_updated: "2025-06-14T14:26:23.306817Z"
+mis-data-source: "manual"
 # miscellaneous data source section
 manual_id: "diffusion-finance"
 current_price: 0

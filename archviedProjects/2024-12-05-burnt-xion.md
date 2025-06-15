@@ -14,14 +14,8 @@ blockchain-stack: ["layer-1"]
 website: "https://xion.burnt.com"
 ticker: "XION"
 description: "XION is the first walletless Layer 1 blockchain focused on making Web3 accessible to everyone. It facilitates network usage fees, governance, proof-of-stake security, liquidity, and serves as a medium of exchange."
-mis-data-source: "coingecko"
-last_updated: "2025-06-14T14:26:23.282545Z"
-last_updated: "2025-06-15T10:41:02.496Z"
-last_updated: "2025-06-15T11:42:42.025Z"
-last_updated: "2025-06-15T13:29:37.084Z"
-last_updated: "2025-06-15T14:17:18.180Z"
-last_updated: "2025-06-15T17:02:14.858Z"
 last_updated: "2025-06-15T17:04:38.969Z"
+mis-data-source: "coingecko"
 # miscellaneous data source section
 coingecko_id: "xion-2"
 current_price: 1.062

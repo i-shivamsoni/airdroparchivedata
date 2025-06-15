@@ -12,8 +12,8 @@ pagetype: "project"
 website: "https://developerdao.notion.site/The-CODE-Governance-Token-3c1e14dbc6bd461fa07978bf37d04fd9"
 ticker: "CODE"
 description: "A decentralized community focused on helping developers embrace web3 and blockchain technology."
-mis-data-source: "manual"
 last_updated: "2025-06-14T14:26:23.306991Z"
+mis-data-source: "manual"
 # miscellaneous data source section
 manual_id: "developer-dao"
 current_price: 0

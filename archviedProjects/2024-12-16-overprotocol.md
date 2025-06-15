@@ -13,14 +13,8 @@ blockchain-stack: ["layer-1"]
 website: "https://overprotocol.io"
 ticker: "OVER"
 description: "OverProtocol is a Layer 1 blockchain with lightweight nodes, allowing individuals to run validators on personal computers. It aims to create a decentralized, community-driven network."
-mis-data-source: "coingecko"
-last_updated: "2025-06-14T14:26:23.283696Z"
-last_updated: "2025-06-15T10:39:25.636Z"
-last_updated: "2025-06-15T11:42:28.866Z"
-last_updated: "2025-06-15T13:28:19.872Z"
-last_updated: "2025-06-15T14:15:37.284Z"
-last_updated: "2025-06-15T17:01:38.978Z"
 last_updated: "2025-06-15T17:04:19.466Z"
+mis-data-source: "coingecko"
 # miscellaneous data source section
 coingecko_id: "overprotocol"
 current_price: 0.02882077

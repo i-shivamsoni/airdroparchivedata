@@ -12,8 +12,8 @@ pagetype: "project"
 website: "https://forefront.gitbook.io/forefront/token-distribution/community-airdrop"
 ticker: "FF"
 description: "A community-driven platform and marketplace for social tokens and Web3 communities."
-mis-data-source: "manual"
 last_updated: "2025-06-14T14:26:23.306236Z"
+mis-data-source: "manual"
 # miscellaneous data source section
 manual_id: "forefront"
 current_price: 0

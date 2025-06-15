@@ -12,8 +12,8 @@ pagetype: "project"
 website: "https://bitoro.network"
 ticker: "$BTORO"
 description: "A decentralized trading and DeFi ecosystem with a focus on community-driven incentives, trading rewards, and governance."
-mis-data-source: "manual"
 last_updated: "2025-06-14T14:26:23.307783Z"
+mis-data-source: "manual"
 # miscellaneous data source section
 manual_id: "bitoro-network"
 current_price: 0

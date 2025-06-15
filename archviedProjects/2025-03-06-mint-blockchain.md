@@ -13,14 +13,8 @@ blockchain-stack: ["layer-2"]
 website: "https://www.mintchain.io"
 ticker: "MINT"
 description: "Not Known"
-mis-data-source: "coingecko"
-last_updated: "2025-06-14T14:26:23.292413Z"
-last_updated: "2025-06-15T10:39:15.757Z"
-last_updated: "2025-06-15T11:42:02.947Z"
-last_updated: "2025-06-15T13:28:08.234Z"
-last_updated: "2025-06-15T14:17:21.373Z"
-last_updated: "2025-06-15T17:01:17.417Z"
 last_updated: "2025-06-15T17:04:09.222Z"
+mis-data-source: "coingecko"
 # miscellaneous data source section
 coingecko_id: "mint-blockchain"
 current_price: 0.00869888

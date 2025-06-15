@@ -12,8 +12,8 @@ pagetype: "project"
 website: "https://side.one"
 ticker: "SIDE"
 description: "A fully Bitcoin-compatible Layer 1 blockchain built on CometBFT and the Cosmos SDK."
-mis-data-source: "manual"
 last_updated: "2025-06-14T14:26:23.307945Z"
+mis-data-source: "manual"
 # miscellaneous data source section
 manual_id: "side-protocol"
 current_price: 0

@@ -14,14 +14,8 @@ blockchain-stack: ["layer-1"]
 website: "https://berachain.com/"
 ticker: "BERA"
 description: ""
-mis-data-source: "coingecko"
-last_updated: "2025-06-14T14:26:23.289843Z"
-last_updated: "2025-06-15T10:41:01.730Z"
-last_updated: "2025-06-15T11:42:41.536Z"
-last_updated: "2025-06-15T13:29:35.865Z"
-last_updated: "2025-06-15T14:17:24.917Z"
-last_updated: "2025-06-15T17:02:14.011Z"
 last_updated: "2025-06-15T17:04:38.536Z"
+mis-data-source: "coingecko"
 # miscellaneous data source section
 coingecko_id: "berachain-bera"
 current_price: 2.04

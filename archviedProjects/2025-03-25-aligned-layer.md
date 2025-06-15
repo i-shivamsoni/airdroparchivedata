@@ -14,14 +14,8 @@ blockchain-stack: ["layer-2"]
 website: "https://alignedfoundation.org"
 ticker: "ALIGN"
 description: "A foundation dedicated to supporting and advancing projects within the Ethereum and Zero Knowledge (ZK) ecosystems."
-mis-data-source: "coingecko"
-last_updated: "2025-06-14T14:26:23.296523Z"
-last_updated: "2025-06-15T10:40:56.415Z"
-last_updated: "2025-06-15T11:42:36.719Z"
-last_updated: "2025-06-15T13:29:40.655Z"
-last_updated: "2025-06-15T14:17:25.551Z"
-last_updated: "2025-06-15T17:02:18.817Z"
 last_updated: "2025-06-15T17:04:31.086Z"
+mis-data-source: "coingecko"
 # miscellaneous data source section
 coingecko_id: "zksync"
 current_price: 0.04991312

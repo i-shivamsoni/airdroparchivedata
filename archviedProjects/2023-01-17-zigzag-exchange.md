@@ -12,8 +12,8 @@ pagetype: "project"
 website: "https://zigzag.exchange"
 ticker: "ZZ"
 description: "A decentralized order book exchange utilizing zkRollups for fast and low-cost trading."
-mis-data-source: "manual"
 last_updated: "2025-06-14T14:26:23.307138Z"
+mis-data-source: "manual"
 # miscellaneous data source section
 manual_id: "zigzag-exchange"
 current_price: 0

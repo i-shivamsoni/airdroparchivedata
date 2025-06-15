@@ -13,14 +13,8 @@ blockchain-stack: ["layer-1"]
 website: "https://minepi.com/"
 ticker: "PI"
 description: "A decentralized cryptocurrency network focused on mobile mining and peer-to-peer transactions."
-mis-data-source: "coingecko"
-last_updated: "2025-06-14T14:26:23.290925Z"
-last_updated: "2025-06-15T10:41:04.303Z"
-last_updated: "2025-06-15T11:42:41.348Z"
-last_updated: "2025-06-15T13:29:35.263Z"
-last_updated: "2025-06-15T14:17:33.025Z"
-last_updated: "2025-06-15T17:02:13.892Z"
 last_updated: "2025-06-15T17:04:38.300Z"
+mis-data-source: "coingecko"
 # miscellaneous data source section
 coingecko_id: "pi-network"
 current_price: 0.603999

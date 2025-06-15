@@ -12,8 +12,8 @@ pagetype: "project"
 website: "https://lotto.finance"
 ticker: "LOTTO"
 description: "A decentralized lottery token that automatically enters holders into a daily lottery through a unique rebase mechanism. The goal is to create a 100% decentralized lottery on Ethereum."
-mis-data-source: "manual"
 last_updated: "2025-06-14T14:26:23.306029Z"
+mis-data-source: "manual"
 # miscellaneous data source section
 manual_id: "lotto-finance"
 current_price: 0

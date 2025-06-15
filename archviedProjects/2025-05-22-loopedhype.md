@@ -12,8 +12,8 @@ pagetype: "project"
 website: "https://loopingcollective.org"
 ticker: "LOOP"
 description: "LoopedHYPE ($LOOP) is a yield-generating DeFi protocol on HyperEVM, enabling users to earn multipliers and airdrops by staking LOOP and participating in liquid looping strategies."
-mis-data-source: "manual"
 last_updated: "2025-06-14T14:26:23.308464Z"
+mis-data-source: "manual"
 # miscellaneous data source section
 manual_id: "loopedhype"
 current_price: 0

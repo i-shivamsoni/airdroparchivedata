@@ -80,12 +80,16 @@ def update_markdown_file(filepath: str, coin_data: Dict, market_data: Dict) -> b
         # Build new frontmatter with miscellaneous data
         new_frontmatter_lines = []
         found_misc_section = False
+        found_last_updated = False
         
         # Process existing frontmatter
         for line in frontmatter.split('\n'):
             if line.strip() == '# miscellaneous data source section':
                 found_misc_section = True
-                break
+                continue
+            if line.strip().startswith('last_updated:'):
+                found_last_updated = True
+                continue
             if not any(key in line for key in misc_data.keys()):
                 new_frontmatter_lines.append(line)
         
