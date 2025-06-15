@@ -45,11 +45,6 @@ def update_markdown_file(filepath: str, coin_data: Dict, market_data: Dict) -> b
         with open(filepath, 'r', encoding='utf-8') as f:
             content = f.read()
         
-        # Check if file already has miscellaneous data
-        if 'mis-data-source:' in content:
-            print(f"Skipping {filepath} - already contains miscellaneous data")
-            return True
-        
         # Split content into frontmatter and body
         if not content.startswith('---'):
             print(f"Error: {filepath} doesn't start with frontmatter")
@@ -83,10 +78,20 @@ def update_markdown_file(filepath: str, coin_data: Dict, market_data: Dict) -> b
         }
         
         # Build new frontmatter with miscellaneous data
-        new_frontmatter_lines = frontmatter.split('\n')
+        new_frontmatter_lines = []
+        found_misc_section = False
         
-        # Add mis-data-source
-        new_frontmatter_lines.append('mis-data-source: "coingecko"')
+        # Process existing frontmatter
+        for line in frontmatter.split('\n'):
+            if line.strip() == '# miscellaneous data source section':
+                found_misc_section = True
+                break
+            if not any(key in line for key in misc_data.keys()):
+                new_frontmatter_lines.append(line)
+        
+        # Add mis-data-source if not present
+        if 'mis-data-source:' not in frontmatter:
+            new_frontmatter_lines.append('mis-data-source: "coingecko"')
         
         # Add last updated timestamp from market data
         last_updated = market_data.get('last_updated')
@@ -96,8 +101,9 @@ def update_markdown_file(filepath: str, coin_data: Dict, market_data: Dict) -> b
             current_utc = datetime.utcnow().strftime('%Y-%m-%dT%H:%M:%S.%fZ')
             new_frontmatter_lines.append(f'last_updated: "{current_utc}"')
         
-        # Add comment
-        new_frontmatter_lines.append('# miscellaneous data source section')
+        # Add comment if not present
+        if not found_misc_section:
+            new_frontmatter_lines.append('# miscellaneous data source section')
         
         # Add all miscellaneous data fields
         for key, value in misc_data.items():
