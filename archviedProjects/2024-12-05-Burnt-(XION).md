@@ -16,20 +16,20 @@ ticker: "XION"
 description: "XION is the first walletless Layer 1 blockchain focused on making Web3 accessible to everyone. It facilitates network usage fees, governance, proof-of-stake security, liquidity, and serves as a medium of exchange."
 mis-data-source: "coingecko"
 last_updated: "2025-06-14T14:26:23.282545Z"
-# miscellaneous data source section
+last_updated: "2025-06-15T10:41:02.496Z"
 coingecko_id: "xion-2"
-current_price: 1.13
-market_cap: 40249978
-market_cap_rank: 790
-fully_diluted_valuation: 225723768
+current_price: 1.094
+market_cap: 39009244
+market_cap_rank: 793
+fully_diluted_valuation: 218765677
 circulating_supply: 35663039.014999
 total_supply: 200000000.0
 max_supply: null
 ath: 6.83
-ath_change_percentage: -83.5009
+ath_change_percentage: -83.94105
 ath_date: "2024-12-08T00:00:00.000Z"
 atl: 0.796888
-atl_change_percentage: 41.42847
+atl_change_percentage: 37.65556
 atl_date: "2025-03-12T15:06:51.070Z"
 ---
 

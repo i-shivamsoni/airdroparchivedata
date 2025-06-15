@@ -16,20 +16,20 @@ ticker: "ALIGN"
 description: "A foundation dedicated to supporting and advancing projects within the Ethereum and Zero Knowledge (ZK) ecosystems."
 mis-data-source: "coingecko"
 last_updated: "2025-06-14T14:26:23.296523Z"
-# miscellaneous data source section
+last_updated: "2025-06-15T10:40:56.415Z"
 coingecko_id: "zksync"
-current_price: 0.051927
-market_cap: 190949198
-market_cap_rank: 300
-fully_diluted_valuation: 1091138272
+current_price: 0.050874
+market_cap: 187046583
+market_cap_rank: 305
+fully_diluted_valuation: 1068837618
 circulating_supply: 3675000000.0
 total_supply: 21000000000.0
 max_supply: 21000000000.0
 ath: 0.320983
-ath_change_percentage: -83.73064
+ath_change_percentage: -84.14316
 ath_date: "2024-06-17T07:44:40.385Z"
 atl: 0.04150724
-atl_change_percentage: 25.81373
+atl_change_percentage: 22.62363
 atl_date: "2025-04-15T13:41:54.850Z"
 ---
 

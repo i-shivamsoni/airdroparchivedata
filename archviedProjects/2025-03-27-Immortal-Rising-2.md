@@ -14,20 +14,20 @@ ticker: "IMT"
 description: "A blockchain-based idle RPG where players earn and trade assets through play-to-earn (P2E) mechanics, built on the Immutable zkEVM blockchain."
 mis-data-source: "coingecko"
 last_updated: "2025-06-14T14:26:23.300029Z"
-# miscellaneous data source section
+last_updated: "2025-06-15T10:39:16.011Z"
 coingecko_id: "immortal-token"
-current_price: 0.00606372
-market_cap: 1111480
-market_cap_rank: 3580
-fully_diluted_valuation: 6063721
+current_price: 0.0062817
+market_cap: 1150967
+market_cap_rank: 3531
+fully_diluted_valuation: 6279143
 circulating_supply: 183300000.0
 total_supply: 1000000000.0
 max_supply: 1000000000.0
 ath: 0.02273463
-ath_change_percentage: -73.19404
+ath_change_percentage: -72.39614
 ath_date: "2025-03-28T12:26:36.314Z"
 atl: 0.00233253
-atl_change_percentage: 161.27141
+atl_change_percentage: 169.04833
 atl_date: "2025-04-21T15:49:38.025Z"
 ---
 

@@ -14,20 +14,20 @@ ticker: "DBR"
 description: "A decentralized finance (DeFi) platform offering lending and borrowing solutions, including the DOLA stablecoin and DBR borrowing rights."
 mis-data-source: "coingecko"
 last_updated: "2025-06-14T14:26:23.248373Z"
-# miscellaneous data source section
+last_updated: "2025-06-15T10:41:00.572Z"
 coingecko_id: "debridge"
-current_price: 0.01367978
-market_cap: 39818585
-market_cap_rank: 793
-fully_diluted_valuation: 136797465
+current_price: 0.01457124
+market_cap: 42537596
+market_cap_rank: 763
+fully_diluted_valuation: 146138675
 circulating_supply: 2910769231.0
 total_supply: 10000000000.0
 max_supply: 10000000000.0
 ath: 0.05521
-ath_change_percentage: -75.19949
+ath_change_percentage: -73.63355
 ath_date: "2024-12-22T00:26:03.744Z"
 atl: 0.01327432
-atl_change_percentage: 3.14992
+atl_change_percentage: 9.66296
 atl_date: "2025-06-13T09:25:39.341Z"
 ---
 

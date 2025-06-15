@@ -15,20 +15,20 @@ ticker: "INDEX"
 description: "A decentralized autonomous organization (DAO) focused on launching and maintaining crypto index products to facilitate access to crypto markets."
 mis-data-source: "coingecko"
 last_updated: "2025-06-14T14:26:23.239434Z"
-# miscellaneous data source section
+last_updated: "2025-06-15T10:41:02.751Z"
 coingecko_id: "index-cooperative"
-current_price: 1.2
-market_cap: 8071979
-market_cap_rank: 1745
-fully_diluted_valuation: 11999626
+current_price: 1.14
+market_cap: 7671135
+market_cap_rank: 1772
+fully_diluted_valuation: 11403739
 circulating_supply: 6726859.191973535
 total_supply: 10000000.0
 max_supply: 10000000.0
 ath: 67.08
-ath_change_percentage: -98.21107
+ath_change_percentage: -98.2599
 ath_date: "2021-05-09T03:51:28.144Z"
 atl: 0.804871
-atl_change_percentage: 49.08716
+atl_change_percentage: 45.01711
 atl_date: "2023-10-12T17:35:31.367Z"
 ---
 

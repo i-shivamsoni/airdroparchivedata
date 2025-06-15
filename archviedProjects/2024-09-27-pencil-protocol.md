@@ -14,20 +14,20 @@ ticker: "DAPP"
 description: "A leading DeFi protocol in the Scroll ecosystem, offering farming, vaults, auctions, and yield opportunities powered by ZK technology."
 mis-data-source: "coingecko"
 last_updated: "2025-06-14T14:26:23.277652Z"
-# miscellaneous data source section
+last_updated: "2025-06-15T10:38:59.045Z"
 coingecko_id: "penpad-token"
-current_price: 0.00753135
-market_cap: 429793
-market_cap_rank: 4779
-fully_diluted_valuation: 753142
+current_price: 0.0077173
+market_cap: 439174
+market_cap_rank: 4748
+fully_diluted_valuation: 769581
 circulating_supply: 57066666.666666664
 total_supply: 100000000.0
 max_supply: 100000000.0
 ath: 1.058
-ath_change_percentage: -99.28754
+ath_change_percentage: -99.27868
 ath_date: "2024-09-27T10:15:24.481Z"
 atl: 0.00704395
-atl_change_percentage: 6.99523
+atl_change_percentage: 8.32521
 atl_date: "2025-06-14T08:35:38.332Z"
 ---
 
