@@ -51,6 +51,8 @@ jobs:
         python missing-data.py
         
     - name: Commit and push changes
+        needs: update-market-data
+        if: success()
       run: |
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
@@ -60,7 +62,7 @@ jobs:
   trigger-build:
     needs: update-market-data
     runs-on: ubuntu-latest
-    if: success() && needs.update-market-data.steps.update-market-data.outcome == 'success'
+    if: success()
 
     steps:
       - name: Trigger Build and Deploy Workflow
