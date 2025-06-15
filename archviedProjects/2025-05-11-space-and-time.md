@@ -6,7 +6,7 @@ timeframe: ["2025"]
 ecosystem: ["ethereum"]
 rewardedActivity: ["testnet", "loyalty", "binance-alpha"]
 category: ["infrastructure"]
-function: ["database", "oracle"]
+function: ["oracle", "database", "smart-contract-platform", "zero-knowledge"]
 status: ["alive"]
 pagetype: "project"
 website: "https://www.spaceandtime.io/"

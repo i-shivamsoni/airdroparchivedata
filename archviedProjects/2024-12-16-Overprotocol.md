@@ -6,7 +6,7 @@ timeframe: ["2024"]
 ecosystem: ["not-known"]
 rewardedActivity: ["retroactive", "testnet"]
 category: ["privacy","infrastructure"]
-function: ["interoperability", "privacy", "infrastructure"]
+function: ["proof-of-stake", "layer-1", "interoperability", "infrastructure", "smart-contract-platform", "privacy"]
 status: ["alive"]
 pagetype: "project"
 blockchain-stack: ["layer-1"]

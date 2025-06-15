@@ -6,7 +6,7 @@ timeframe: ["2024"]
 ecosystem: ["base"]
 rewardedActivity: ["retroactive"]
 category: ["social"]
-function: ["communication", "social"]
+function: ["marketing", "social", "communication", "cross-chain-communication", "wallets"]
 status: ["alive"]
 pagetype: "project"
 website: "https://ethermail.io"

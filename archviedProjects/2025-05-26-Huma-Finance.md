@@ -15,7 +15,7 @@ rewardedActivity:
     "binance-alpha",
   ]
 category: ["defi"]
-function: ["payfi", "decentralized finance"]
+function: ["decentralized-finance", "decentralized finance", "payment-solutions", "payfi"]
 status: ["alive"]
 pagetype: "project"
 website: "https://huma.finance/"

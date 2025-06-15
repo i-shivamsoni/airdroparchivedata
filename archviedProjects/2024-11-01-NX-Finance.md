@@ -6,7 +6,7 @@ timeframe: ["2024"]
 ecosystem: "solana"
 rewardedActivity: ["retroactive"]
 category: ["defi"]
-function: ["defi"]
+function: ["decentralized-finance", "defi"]
 status: ["alive"]
 pagetype: "project"
 website: "Not Known"

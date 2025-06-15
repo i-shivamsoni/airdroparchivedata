@@ -6,7 +6,7 @@ timeframe: ["2024"]
 ecosystem: ["base"]
 rewardedActivity: ["retroactive"]
 category: ["defi"]
-function: ["defi", "aggregator", "dex"]
+function: ["dex-aggregator", "dex", "aggregator", "decentralized-finance", "defi"]
 status: ["alive"]
 pagetype: "project"
 website: "https://www.odos.xyz/"

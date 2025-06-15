@@ -6,7 +6,7 @@ timeframe: ["2024"]
 ecosystem: ["osmosis", "base", "ethereum"]
 rewardedActivity: ["testnet"]
 category: ["infrastructure"]
-function: ["infrastructure"]
+function: ["layer-1", "smart-contract-platform", "chain-abstraction", "infrastructure"]
 status: ["alive"]
 funded-by: ["animoca-brands", "multicoin-capital", "defiance-capital", "alameda-research"]
 pagetype: "project"

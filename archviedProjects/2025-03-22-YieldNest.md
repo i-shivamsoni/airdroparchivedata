@@ -6,7 +6,7 @@ timeframe: ["2025"]
 ecosystem: ["bnb", "ethereum"]
 rewardedActivity: ["retroactive"]
 category: ["defi"]
-function: ["defi", "staking"]
+function: ["liquid-staking-governance-tokens", "staking", "liquid-restaking-governance-tokens", "decentralized-finance", "defi"]
 status: ["alive"]
 pagetype: "project"
 website: "https://www.yieldnest.finance"

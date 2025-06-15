@@ -6,7 +6,7 @@ timeframe: ["2025"]
 ecosystem: "solana"
 rewardedActivity: ["retroactive", "nft"]
 category: ["nft"]
-function: ["nft", "staking"]
+function: ["nft", "airdropped-tokens-nft", "meme", "staking"]
 status: ["alive"]
 pagetype: "project"
 website: "https://crypto.com/en/product-news/lion-everything-you-need-to-know"

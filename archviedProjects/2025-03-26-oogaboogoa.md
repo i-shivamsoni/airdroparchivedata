@@ -6,7 +6,7 @@ timeframe: ["2025"]
 ecosystem: ["berachain"]
 rewardedActivity: ["loyalty", "testnet"]
 category: ["defi"]
-function: ["dex", "trading"]
+function: ["decentralized-finance", "dex-aggregator", "trading", "dex"]
 status: ["alive"]
 pagetype: "project"
 website: "https://app.oogabooga.io"

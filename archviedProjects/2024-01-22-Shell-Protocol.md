@@ -6,7 +6,7 @@ timeframe: ["2024"]
 ecosystem: ["bnb", "ethereum"]
 rewardedActivity: ["retroactive"]
 category: ["infrastructure","defi"]
-function: ["defi", "infrastructure"]
+function: ["artificial-intelligence", "ai-framework", "infrastructure", "ai-agent-launchpad", "defi"]
 status: ["alive"]
 funded-by: ["yzi-labs", "delphi-ventures", "okx-ventures", "dragonfly-capital"]
 pagetype: "project"

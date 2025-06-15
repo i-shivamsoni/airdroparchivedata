@@ -6,7 +6,7 @@ timeframe: ["2022"]
 ecosystem: ["harmony", "ethereum", "polygon"]
 rewardedActivity: ["retroactive"]
 category: ["defi"]
-function: ["defi", "automation", "strategy"]
+function: ["automation", "defi", "strategy", "decentralized-finance"]
 status: ["alive"]
 funded-by: ["defiance-capital", "multicoin-capital"]
 pagetype: "project"

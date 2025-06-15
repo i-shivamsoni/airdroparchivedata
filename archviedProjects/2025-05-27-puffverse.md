@@ -6,7 +6,7 @@ timeframe: ["2025"]
 ecosystem: ["ronin", "ethereum"]
 rewardedActivity: ["binance-alpha", "gaming", "nft"]
 category: ["gaming"]
-function: ["gaming", "metaverse"]
+function: ["gaming", "rpg", "gamefi", "nft", "metaverse", "mmo"]
 status: ["alive"]
 pagetype: "project"
 website: "https://puffverse.io"

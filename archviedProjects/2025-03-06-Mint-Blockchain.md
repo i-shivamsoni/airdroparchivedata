@@ -6,7 +6,7 @@ timeframe: ["2025"]
 ecosystem: ["mint", "optimism", "ethereum"]
 rewardedActivity: ["retroactive"]
 category: ["scaling"]
-function: ["scaling", "ethereum"]
+function: ["ai-applications", "layer-2", "ethereum", "scaling", "nft"]
 status: ["alive"]
 pagetype: "project"
 blockchain-stack: ["layer-2"]

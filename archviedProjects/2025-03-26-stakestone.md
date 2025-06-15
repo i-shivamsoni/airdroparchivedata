@@ -6,7 +6,7 @@ timeframe: ["2025"]
 ecosystem: ["berachain", "manta", "bnb", "bitcoin", "ethereum"]
 rewardedActivity: ["liquidity", "referral", "nft", "retroactive", "loyalty"]
 category: ["infrastructure", "defi"]
-function: ["liquidity", "infrastructure", "omnichain"]
+function: ["liquidity", "omnichain", "infrastructure", "decentralized-finance"]
 status: ["alive"]
 pagetype: "project"
 website: "https://stakestone.io"

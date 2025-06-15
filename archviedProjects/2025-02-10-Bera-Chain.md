@@ -6,7 +6,7 @@ timeframe: ["2025"]
 ecosystem: ["berachain"]
 rewardedActivity: ["testnet", "holder"]
 category: ["infrastructure"]
-function: ["blockchain"]
+function: ["layer-1", "decentralized-finance", "smart-contract-platform", "blockchain"]
 status: ["alive"]
 funded-by: ["outlier-ventures", "polychain-capital"]
 pagetype: "project"

@@ -6,7 +6,7 @@ timeframe: ["2022"]
 ecosystem: ["ethereum", "bittensor"]
 rewardedActivity: ["retroactive"]
 category: ["defi"]
-function: ["defi", "risk-management", "lending"]
+function: ["defai", "artificial-intelligence", "lending", "lending-borrowing-protocols", "risk-management", "decentralized-finance", "defi"]
 status: ["alive"]
 funded-by: ["pantera-capital"]
 pagetype: "project"

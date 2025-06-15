@@ -6,7 +6,7 @@ timeframe: ["2024"]
 ecosystem: ["ethereum"]
 rewardedActivity: ["retroactive"]
 category: ["defi"]
-function: ["defi", "staking", "restaking"]
+function: ["restaking", "staking", "infrastructure", "defi", "data-availability"]
 status: ["alive"]
 funded-by: ["polychain-capital"]
 pagetype: "project"

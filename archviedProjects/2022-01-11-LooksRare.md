@@ -6,7 +6,7 @@ timeframe: ["2022"]
 ecosystem: ["ethereum"]
 rewardedActivity: ["retroactive", "nft"]
 category: ["nft","defi"]
-function: ["marketplace", "nft"]
+function: ["nft-marketplace", "nft", "marketplace"]
 status: ["alive"]
 pagetype: "project"
 website: "https://looksrare.org"

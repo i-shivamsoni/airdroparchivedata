@@ -6,7 +6,7 @@ timeframe: ["2025"]
 ecosystem: ["base", "ethereum"]
 rewardedActivity: ["binance-alpha", "quest"]
 category: ["ai"]
-function: ["ai"]
+function: ["artificial-intelligence", "defai", "ai", "ai-agents"]
 status: ["alive"]
 pagetype: "project"
 website: "https://www.wayfinder.ai"

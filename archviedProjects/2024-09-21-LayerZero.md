@@ -6,7 +6,7 @@ timeframe: ["2024"]
 ecosystem: ["arbitrum", "optimism", "avalanche", "bnb", "base", "ethereum", "polygon"]
 rewardedActivity: ["retroactive"]
 category: ["infrastructure"]
-function: ["infrastructure", "cross-chain"]
+function: ["cross-chain-communication", "cross-chain", "layer-0", "infrastructure", "smart-contract-platform"]
 status: ["alive"]
 funded-by: ["circle-ventures", "okx-ventures", "sequoia-capital", "multicoin-capital"]
 pagetype: "project"

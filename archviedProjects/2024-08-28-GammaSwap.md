@@ -6,7 +6,7 @@ timeframe: ["2024"]
 ecosystem: ["base", "arbitrum", "ethereum"]
 rewardedActivity: ["retroactive"]
 category: ["defi"]
-function: ["defi", "futures", "options"]
+function: ["futures", "perpetuals", "options", "decentralized-finance", "defi"]
 status: ["alive"]
 pagetype: "project"
 website: "https://gammaswap.com/"

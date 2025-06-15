@@ -6,7 +6,7 @@ timeframe: ["2022"]
 ecosystem: ["solana"]
 rewardedActivity: ["retroactive"]
 category: ["defi"]
-function: ["synthetics", "defi", "lending"]
+function: ["bridge-governance-tokens", "lending", "cross-chain-communication", "synthetics", "defi", "intent"]
 status: ["alive"]
 pagetype: "project"
 website: "https://www.inverse.finance"

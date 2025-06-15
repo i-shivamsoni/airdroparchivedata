@@ -7,7 +7,7 @@ timeframe: ["2025"]
 ecosystem: ["bnb", "mindchain"]
 rewardedActivity: ["holder", "staking", "nft", "testnet", "quest", "discord-role", "retroactive", "form"]
 category: ["infrastructure", "privacy"]
-function: ["infrastructure", "privacy", "ai"]
+function: ["artificial-intelligence", "layer-2", "infrastructure", "ai", "smart-contract-platform", "privacy"]
 status: ["alive"]
 pagetype: "project"
 website: "https://mindnetwork.xyz"

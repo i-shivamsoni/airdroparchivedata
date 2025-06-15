@@ -6,7 +6,7 @@ timeframe: ["2024"]
 ecosystem: ["bnb", "ethereum"]
 rewardedActivity: ["retroactive", "binance-alpha"]
 category: ["defi"]
-function: ["defi", "restaking", "yield"]
+function: ["yield", "restaking", "rollup", "layer-2", "liquid-restaking-governance-tokens", "liquid-staking", "defi", "smart-contract-platform"]
 status: ["alive"]
 pagetype: "project"
 website: "https://www.puffer.fi/"

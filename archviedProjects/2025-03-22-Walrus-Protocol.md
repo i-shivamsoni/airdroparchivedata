@@ -6,7 +6,7 @@ timeframe: ["2025"]
 ecosystem: ["sui"]
 rewardedActivity: ["retroactive"]
 category: ["defi"]
-function: ["defi"]
+function: ["defi", "storage", "infrastructure"]
 status: ["alive"]
 pagetype: "project"
 website: "https://www.walrus.xyz/"

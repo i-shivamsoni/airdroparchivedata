@@ -6,7 +6,7 @@ timeframe: ["2021"]
 ecosystem: ["ethereum"]
 rewardedActivity: ["retroactive"]
 category: ["stablecoin","defi"]
-function: ["algorithmic", "defi", "stablecoin"]
+function: ["algorithmic", "stablecoin", "decentralized-finance", "defi", "stablecoin-protocol"]
 status: ["alive"]
 funded-by: ["pantera-capital", "paradigm", "andreessen-horowitz-a16z"]
 pagetype: "project"

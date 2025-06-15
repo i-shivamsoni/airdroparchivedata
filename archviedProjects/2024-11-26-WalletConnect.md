@@ -6,7 +6,7 @@ timeframe: ["2024"]
 ecosystem: ["ethereum", "solana", "optimism"]
 rewardedActivity: ["retroactive"]
 category: ["infrastructure"]
-function: ["infrastructure", "wallet", "protocol"]
+function: ["wallet", "wallets", "infrastructure", "protocol"]
 status: ["alive"]
 pagetype: "project"
 website: "https://walletconnect.com"

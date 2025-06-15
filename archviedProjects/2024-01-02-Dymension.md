@@ -6,7 +6,7 @@ timeframe: ["2024"]
 ecosystem: ["osmosis", "cosmos"]
 rewardedActivity: ["nft", "holder", "retroactive"]
 category: ["infrastructure"]
-function: ["nft", "blockchain"]
+function: ["modular-blockchain", "raas", "smart-contract-platform", "blockchain", "nft"]
 status: ["alive"]
 pagetype: "project"
 blockchain-stack: ["layer-1"]

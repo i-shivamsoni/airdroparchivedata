@@ -6,7 +6,7 @@ timeframe: ["2023"]
 ecosystem: ["linea"]
 rewardedActivity: ["retroactive"]
 category: ["defi"]
-function: ["defi", "dex"]
+function: ["dex", "strategy-games", "gamefi", "decentralized-finance", "defi", "launchpad"]
 status: ["alive"]
 pagetype: "project"
 website: "https://spartadex.io/"

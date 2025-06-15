@@ -6,7 +6,7 @@ timeframe: ["2023"]
 ecosystem: "solana"
 rewardedActivity: ["retroactive"]
 category: ["meme"]
-function: ["charity", "social"]
+function: ["cat-themed", "social", "anime-themed", "ai-meme", "charity", "nftfi", "nft", "fractionalized-nft", "solana-meme", "meme"]
 status: ["alive"]
 pagetype: "project"
 website: "https://wenwencoin.com/"

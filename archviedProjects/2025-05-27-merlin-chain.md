@@ -6,7 +6,7 @@ timeframe: ["2025"]
 ecosystem: ["bnb", "bitcoin", "ethereum", "merlin-chain"]
 rewardedActivity: ["binance-alpha"]
 category: ["scaling", "infrastructure"]
-function: ["layer-2", "scaling"]
+function: ["bitcoin-sidechains", "layer-2", "sidechain", "scaling", "smart-contract-platform"]
 status: ["alive"]
 funded-by: ["okx-ventures"]
 pagetype: "project"

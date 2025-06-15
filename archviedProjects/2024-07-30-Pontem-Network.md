@@ -6,7 +6,7 @@ timeframe: ["2024"]
 ecosystem: ["aptos"]
 rewardedActivity: ["retroactive"]
 category: ["social","defi"]
-function: ["dex"]
+function: ["decentralized-finance", "dex"]
 status: ["alive"]
 pagetype: "project"
 website: "https://pontem.network"

@@ -6,7 +6,7 @@ timeframe: ["2018"]
 ecosystem: ["icp"]
 rewardedActivity: ["loyalty"]
 category: ["infrastructure"]
-function: ["blockchain"]
+function: ["artificial-intelligence", "layer-1", "layer-0", "infrastructure", "smart-contract-platform", "blockchain"]
 status: ["alive"]
 funded-by: ["polychain-capital", "andreessen-horowitz-a16z", "blockchain-capital", "multicoin-capital"]
 pagetype: "project"

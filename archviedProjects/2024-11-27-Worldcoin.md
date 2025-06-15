@@ -6,7 +6,7 @@ timeframe: ["2023"]
 ecosystem: ["world-chain", "ethereum", "optimism-superchain", "optimism"]
 rewardedActivity: ["retroactive"]
 category: ["infrastructure"]
-function: ["identity", "infrastructure", "finance"]
+function: ["decentralized-identifier", "infrastructure", "identity", "finance", "smart-contract-platform"]
 status: ["alive"]
 funded-by: ["coinbase-ventures", "andreessen-horowitz-a16z", "blockchain-capital", "multicoin-capital"]
 pagetype: "project"
@@ -86,7 +86,7 @@ Completing both Orb and Passport Verifications demonstrates the highest level of
 
 - **Token Reservation**:
 
-  - As of August 1, 2024, users can no longer reserve new WLD tokens. However, any previously reserved tokens will remain claimable until July 31, 2025. 
+  - As of August 1, 2024, users can no longer reserve new WLD tokens. However, any previously reserved tokens will remain claimable until July 31, 2025.
 
 - **Disclaimer**:
-  - The Airdrop Program is only available to World ID users who meet the eligibility requirements set forth in Worldcoin's Terms and are not U.S. persons or located in the United States. 
+  - The Airdrop Program is only available to World ID users who meet the eligibility requirements set forth in Worldcoin's Terms and are not U.S. persons or located in the United States.

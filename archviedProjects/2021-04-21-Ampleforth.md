@@ -6,7 +6,7 @@ timeframe: ["2021"]
 ecosystem: ["ethereum"]
 rewardedActivity: ["retroactive"]
 category: ["stablecoin","defi"]
-function: ["defi", "stablecoin", "rebase"]
+function: ["defi", "rebase", "stablecoin", "stablecoin-protocol"]
 status: ["alive"]
 pagetype: "project"
 website: "https://www.ampleforth.org/"

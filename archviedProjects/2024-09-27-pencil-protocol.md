@@ -6,7 +6,7 @@ timeframe: ["2024"]
 ecosystem: ["ethereum", "scroll"]
 rewardedActivity: ["retroactive"]
 category: ["nft"]
-function: ["marketplace", "art", "nft"]
+function: ["art", "yield-farming", "decentralized-finance", "nft", "yield-aggregator", "marketplace"]
 status: ["alive"]
 pagetype: "project"
 website: "https://pencilsprotocol.io"

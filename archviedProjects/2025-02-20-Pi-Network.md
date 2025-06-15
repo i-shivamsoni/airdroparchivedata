@@ -6,7 +6,7 @@ timeframe: ["2025"]
 ecosystem: ["not-known"]
 rewardedActivity: ["free", "mining"]
 category: ["infrastructure"]
-function: ["mining"]
+function: ["layer-1", "mining", "mobile-mining"]
 status: ["alive"]
 pagetype: "project"
 blockchain-stack: ["layer-1"]

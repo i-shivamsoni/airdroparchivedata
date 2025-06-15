@@ -6,7 +6,7 @@ timeframe: ["2024"]
 ecosystem: ["ethereum"]
 rewardedActivity: ["retroactive"]
 category: ["gaming"]
-function: ["gaming"]
+function: ["gaming", "gamefi", "mmo"]
 status: ["alive"]
 funded-by: ["animoca-brands", "delphi-ventures"]
 pagetype: "project"

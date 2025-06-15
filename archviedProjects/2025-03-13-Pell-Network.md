@@ -6,7 +6,7 @@ timeframe: ["2025"]
 ecosystem: ["core", "arbitrum", "bitlayer", "bnb", "bitcoin", "ethereum"]
 rewardedActivity: ["retroactive"]
 category: ["defi"]
-function: ["staking"]
+function: ["restaking", "defai", "staking"]
 status: ["alive"]
 pagetype: "project"
 website: "https://pell.network/"

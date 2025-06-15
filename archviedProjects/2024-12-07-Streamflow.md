@@ -6,7 +6,7 @@ timeframe: ["2024"]
 ecosystem: ["solana"]
 rewardedActivity: ["retroactive"]
 category: ["infrastructure","defi"]
-function: ["payment-streaming", "defi", "infrastructure"]
+function: ["decentralized-finance", "defi", "infrastructure", "payment-streaming"]
 status: ["alive"]
 pagetype: "project"
 website: "https://streamflow.foundation"

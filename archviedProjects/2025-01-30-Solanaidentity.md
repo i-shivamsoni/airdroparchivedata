@@ -6,7 +6,7 @@ timeframe: ["2025"]
 ecosystem: "solana"
 rewardedActivity: ["retroactive"]
 category: ["utilities"]
-function: ["identity"]
+function: ["identity", "decentralized-identifier"]
 status: ["alive"]
 pagetype: "project"
 website: "http://airdrop.solana.id"

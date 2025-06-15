@@ -6,7 +6,7 @@ timeframe: ["2025"]
 ecosystem: ["ethereum", "immutable-zkevm"]
 rewardedActivity: ["binance-alpha", "gaming", "loyalty"]
 category: ["gaming"]
-function: ["gaming"]
+function: ["gaming", "gamefi"]
 status: ["alive"]
 pagetype: "project"
 website: "https://tokyogamestoken.io"

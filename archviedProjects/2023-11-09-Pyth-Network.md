@@ -6,7 +6,7 @@ timeframe: ["2023"]
 ecosystem: ["neon", "manta", "solana"]
 rewardedActivity: ["holder", "retroactive"]
 category: ["infrastructure"]
-function: ["oracle", "infrastructure"]
+function: ["decentralized-finance", "oracle", "business-services", "infrastructure"]
 status: ["alive"]
 funded-by: ["delphi-ventures", "multicoin-capital"]
 pagetype: "project"

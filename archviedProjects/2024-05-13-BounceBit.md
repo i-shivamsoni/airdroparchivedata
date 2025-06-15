@@ -6,7 +6,7 @@ timeframe: ["2024"]
 ecosystem: ["ethereum", "solana"]
 rewardedActivity: ["retroactive", "testnet"]
 category: ["defi"]
-function: ["defi", "token-distribution", "auctions"]
+function: ["restaking", "token-distribution", "proof-of-stake", "layer-1", "auctions", "defi", "smart-contract-platform"]
 status: ["alive"]
 funded-by: ["yzi-labs", "okx-ventures", "defiance-capital", "blockchain-capital"]
 pagetype: "project"

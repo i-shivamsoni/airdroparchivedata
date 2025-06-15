@@ -6,7 +6,7 @@ timeframe: ["2023"]
 ecosystem: ["ethereum"]
 rewardedActivity: ["holder", "retroactive"]
 category: ["stablecoin","defi"]
-function: ["defi", "exchange", "stablecoin"]
+function: ["defi", "liquid-staking", "exchange", "stablecoin"]
 status: ["alive"]
 pagetype: "project"
 website: "https://saddle.finance"

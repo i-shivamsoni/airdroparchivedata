@@ -6,7 +6,7 @@ timeframe: ["2025"]
 ecosystem: ["solana"]
 rewardedActivity: ["retroactive", "holder", "loyalty"]
 category: ["infrastructure", "utilities"]
-function: ["domain-service", "naming-system"]
+function: ["name-service", "domain-service", "decentralized-identifier", "naming-system"]
 status: ["alive"]
 pagetype: "project"
 website: "https://www.sns.id/"

@@ -6,7 +6,7 @@ timeframe: ["2023"]
 ecosystem: ["berachain", "zksync"]
 rewardedActivity: ["retroactive"]
 category: ["infrastructure"]
-function: ["infrastructure"]
+function: ["artificial-intelligence", "account-abstraction", "infrastructure", "ai-agent-launchpad", "wallets"]
 status: ["alive"]
 pagetype: "project"
 website: "https://holdstation.com"

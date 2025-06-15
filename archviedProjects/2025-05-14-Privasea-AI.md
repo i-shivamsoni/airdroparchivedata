@@ -6,7 +6,7 @@ timeframe: ["2025"]
 ecosystem: ["bnb"]
 rewardedActivity: ["retroactive", "testnet", "quest", "loyalty", "binance-alpha"]
 category: ["ai", "privacy"]
-function: ["ai", "privacy"]
+function: ["artificial-intelligence", "depin", "ai-agents", "ai", "privacy"]
 status: ["alive"]
 funded-by: ["yzi-labs", "okx-ventures"]
 pagetype: "project"

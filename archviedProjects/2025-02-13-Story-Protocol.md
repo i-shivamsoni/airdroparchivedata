@@ -6,7 +6,7 @@ timeframe: ["2025"]
 ecosystem: ["story"]
 rewardedActivity: ["testnet", "kaito-yapping"]
 category: ["infrastructure"]
-function: ["infrastructure"]
+function: ["layer-1", "smart-contract-platform", "artificial-intelligence", "infrastructure"]
 status: ["alive"]
 pagetype: "project"
 blockchain-stack: ["layer-1"]

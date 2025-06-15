@@ -6,7 +6,7 @@ timeframe: ["2023"]
 ecosystem: ["ethereum"]
 rewardedActivity: ["retroactive"]
 category: ["defi"]
-function: ["defi", "derivatives", "options"]
+function: ["derivatives", "options", "decentralized-finance", "defi", "nft"]
 status: ["alive"]
 funded-by: ["dwf-labs"]
 pagetype: "project"

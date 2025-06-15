@@ -6,7 +6,7 @@ timeframe: ["2023"]
 ecosystem: ["kava"]
 rewardedActivity: ["testnet"]
 category: ["defi"]
-function: ["defi"]
+function: ["layer-1", "defi", "smart-contract-platform"]
 status: ["alive"]
 pagetype: "project"
 website: "https://equilibrefinance.com/"

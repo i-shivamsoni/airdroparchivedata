@@ -6,7 +6,7 @@ timeframe: ["2021"]
 ecosystem: ["bnb", "ethereum", "polygon"]
 rewardedActivity: ["retroactive"]
 category: ["infrastructure"]
-function: ["infrastructure", "analytics", "dapps"]
+function: ["dapps", "analytics", "infrastructure"]
 status: ["alive"]
 pagetype: "project"
 website: "https://dappradar.com/"

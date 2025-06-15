@@ -6,7 +6,7 @@ timeframe: ["2023"]
 ecosystem: ["optimism", "cyber", "bnb", "optimism-superchain", "ethereum"]
 rewardedActivity: ["holder"]
 category: ["infrastructure"]
-function: ["social"]
+function: ["social", "layer-2", "socialfi", "decentralized-identifier", "nft", "smart-contract-platform"]
 status: ["alive"]
 funded-by: ["animoca-brands", "delphi-ventures", "yzi-labs", "multicoin-capital"]
 pagetype: "project"

@@ -6,7 +6,7 @@ timeframe: ["2025"]
 ecosystem: ["aptos"]
 rewardedActivity: ["retroactive"]
 category: ["defi"]
-function: ["staking"]
+function: ["decentralized-finance", "liquid-staking-governance-tokens", "liquid-staking", "staking"]
 status: ["alive"]
 pagetype: "project"
 website: "https://amnis.finance/"

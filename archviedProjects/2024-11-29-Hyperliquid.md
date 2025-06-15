@@ -6,7 +6,7 @@ timeframe: ["2024"]
 ecosystem: ["hyperliquid", "hyperEVM"]
 rewardedActivity: ["retroactive"]
 category: ["defi"]
-function: ["perpetuals", "defi"]
+function: ["layer-1", "perpetuals", "dex", "decentralized-finance", "defi", "smart-contract-platform"]
 status: ["alive"]
 pagetype: "project"
 blockchain-stack: ["layer-1"]

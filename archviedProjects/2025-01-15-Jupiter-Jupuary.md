@@ -6,7 +6,7 @@ timeframe: ["2025"]
 ecosystem: "solana"
 rewardedActivity: ["retroactive"]
 category: ["defi"]
-function: ["defi", "aggregator", "dex"]
+function: ["aggregator", "defi", "communication", "dex"]
 status: ["alive"]
 pagetype: "project"
 website: "https://jupuary.jup.ag"

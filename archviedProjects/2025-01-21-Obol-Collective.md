@@ -6,7 +6,7 @@ timeframe: ["2025"]
 ecosystem: ["ethereum"]
 rewardedActivity: ["retroactive", "binance-alpha"]
 category: ["defi"]
-function: ["defi"]
+function: ["decentralized-finance", "defi", "liquid-staking", "restaking"]
 status: ["alive"]
 pagetype: "project"
 website: "https://obol.org"

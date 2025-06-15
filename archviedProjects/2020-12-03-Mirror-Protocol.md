@@ -6,7 +6,7 @@ timeframe: ["2020"]
 ecosystem: ["terra-classic", "ethereum", "energi", "bnb"]
 rewardedActivity: ["holder"]
 category: ["rwa","defi"]
-function: ["assets", "synthetics", "defi"]
+function: ["assets", "synthetic", "derivatives", "synthetics", "synthetic-issuer", "decentralized-finance", "defi"]
 status: ["alive"]
 funded-by: ["pantera-capital"]
 pagetype: "project"

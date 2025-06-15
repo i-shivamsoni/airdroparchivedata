@@ -6,7 +6,7 @@ timeframe: ["2021"]
 ecosystem: ["bnb", "fantom", "ethereum", "polygon"]
 rewardedActivity: ["retroactive"]
 category: ["defi"]
-function: ["multi-strategy", "defi", "yield"]
+function: ["yield", "multi-strategy", "defi", "decentralized-finance"]
 status: ["alive"]
 pagetype: "project"
 website: "https://popsicle.finance"

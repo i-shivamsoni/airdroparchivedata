@@ -6,7 +6,7 @@ timeframe: ["2024"]
 ecosystem: ["base", "ethereum"]
 rewardedActivity: ["retroactive"]
 category: ["gaming","social"]
-function: ["gaming", "blockchain", "metaverse"]
+function: ["gaming", "decentralized-identifier", "gamefi", "metaverse", "blockchain"]
 status: ["alive"]
 funded-by: ["outlier-ventures", "animoca-brands", "okx-ventures"]
 pagetype: "project"

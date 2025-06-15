@@ -6,7 +6,7 @@ timeframe: ["2021"]
 ecosystem: ["ethereum"]
 rewardedActivity: ["retroactive"]
 category: ["defi"]
-function: ["identity", "naming"]
+function: ["name-service", "naming", "decentralized-identifier", "identity", "nft"]
 status: ["alive"]
 pagetype: "project"
 website: "https://ens.domains"

@@ -6,7 +6,7 @@ timeframe: ["2022"]
 ecosystem: ["ethereum"]
 rewardedActivity: ["retroactive"]
 category: ["defi"]
-function: ["business", "defi", "lending"]
+function: ["lending", "lending-borrowing-protocols", "rwa-protocol", "real-world-assets", "decentralized-finance", "defi", "business"]
 status: ["alive"]
 funded-by: ["coinbase-ventures", "andreessen-horowitz-a16z"]
 pagetype: "project"

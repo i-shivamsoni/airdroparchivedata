@@ -6,7 +6,7 @@ timeframe: ["2024"]
 ecosystem: ["avalanche"]
 rewardedActivity: ["retroactive"]
 category: ["scaling"]
-function: ["blockchain"]
+function: ["layer-1", "smart-contract-platform", "proof-of-stake", "blockchain"]
 status: ["alive"]
 funded-by: ["galaxy-digital", "polychain-capital", "andreessen-horowitz-a16z", "world-liberty-financial", "dragonfly-capital", "defiance-capital"]
 pagetype: "project"

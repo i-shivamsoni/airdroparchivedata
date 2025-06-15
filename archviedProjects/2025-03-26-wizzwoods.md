@@ -6,7 +6,7 @@ timeframe: ["2025"]
 ecosystem: ["berachain", "arbitrum"]
 rewardedActivity: ["nft", "holder", "retroactive"]
 category: ["gaming", "nft"]
-function: ["gamefi", "nft", "marketplace"]
+function: ["nft", "marketplace", "gamefi"]
 status: ["alive"]
 pagetype: "project"
 website: "https://hub.wizzwoods.com/"

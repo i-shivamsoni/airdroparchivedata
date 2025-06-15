@@ -6,7 +6,7 @@ timeframe: ["2025"]
 ecosystem: ["bnb", "solana"]
 rewardedActivity: ["retroactive"]
 category: ["infrastructure"]
-function: ["infrastructure", "analytics"]
+function: ["analytics", "infrastructure"]
 status: ["alive"]
 pagetype: "project"
 website: "https://bubblemaps.io"

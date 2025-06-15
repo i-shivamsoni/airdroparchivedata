@@ -6,7 +6,7 @@ timeframe: ["2023"]
 ecosystem: ["arbitrum"]
 rewardedActivity: ["retroactive"]
 category: ["infrastructure"]
-function: ["infrastructure", "community"]
+function: ["community", "telegram-apps", "infrastructure", "discord-bots"]
 status: ["alive"]
 pagetype: "project"
 website: "https://wagmi.collab.land/"

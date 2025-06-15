@@ -6,7 +6,7 @@ timeframe: ["2023"]
 ecosystem: ["arbitrum", "ethereum", "optimism-superchain"]
 rewardedActivity: ["retroactive", "holders"]
 category: ["gaming","infrastructure"]
-function: ["gaming", "infrastructure"]
+function: ["gaming", "artificial-intelligence", "gaming-platform", "modular-blockchain", "infrastructure", "gamefi", "smart-contract-platform", "meme"]
 status: ["alive"]
 pagetype: "project"
 website: "https://gameswift.io"

@@ -6,7 +6,7 @@ timeframe: ["2025"]
 ecosystem: ["base", "ethereum"]
 rewardedActivity: ["retroactive"]
 category: ["defi"]
-function: ["defi"]
+function: ["defi", "stablecoin-protocol"]
 status: ["alive"]
 pagetype: "project"
 website: "https://gyro.finance"

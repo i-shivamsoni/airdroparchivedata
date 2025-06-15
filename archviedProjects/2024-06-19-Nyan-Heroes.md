@@ -6,7 +6,7 @@ timeframe: ["2024"]
 ecosystem: ["solana"]
 rewardedActivity: ["retroactive"]
 category: ["gaming"]
-function: ["gaming"]
+function: ["gaming", "gamefi", "action-games", "shooting-games"]
 status: ["alive"]
 funded-by: ["delphi-ventures"]
 pagetype: "project"

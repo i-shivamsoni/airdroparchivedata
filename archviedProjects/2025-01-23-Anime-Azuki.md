@@ -6,7 +6,7 @@ timeframe: ["2025"]
 ecosystem: ["arbitrum", "ethereum"]
 rewardedActivity: ["nft", "holder","kaito-yapping"]
 category: ["social","nft"]
-function: ["community", "nft", "social"]
+function: ["community", "airdropped-tokens-nft", "social", "anime-themed", "nft", "meme"]
 status: ["alive"]
 pagetype: "project"
 blockchain-type: ["arbitrum-orbit"]

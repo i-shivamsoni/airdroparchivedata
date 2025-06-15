@@ -6,7 +6,7 @@ timeframe: ["2025"]
 ecosystem: ["base", "ethereum"]
 rewardedActivity: ["retroactive", "social"]
 category: ["social","ai"]
-function: ["ai", "analytics", "social"]
+function: ["social", "decentralized-finance", "ai", "analytics"]
 status: ["alive"]
 pagetype: "project"
 website: "https://sosovalue.com"

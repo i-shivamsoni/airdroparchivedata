@@ -6,7 +6,7 @@ timeframe: ["2017"]
 ecosystem: ["not-known"]
 rewardedActivity: ["fork", "holder"]
 category: ["infrastructure"]
-function: ["blockchain"]
+function: ["bitcoin-fork", "layer-1", "proof-of-work", "smart-contract-platform", "blockchain"]
 status: ["alive"]
 pagetype: "project"
 blockchain-stack: ["layer-1"]

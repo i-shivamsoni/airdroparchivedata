@@ -6,7 +6,7 @@ timeframe: ["2024"]
 ecosystem: ["base"]
 rewardedActivity: ["retroactive"]
 category: ["defi"]
-function: ["synthetics", "defi", "cross-chain"]
+function: ["ai-meme", "base-meme", "synthetics", "cross-chain", "defi", "meme"]
 status: ["alive"]
 pagetype: "project"
 website: "https://www.superform.xyz/"

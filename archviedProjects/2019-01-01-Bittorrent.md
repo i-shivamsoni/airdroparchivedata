@@ -6,7 +6,7 @@ timeframe: ["2019"]
 ecosystem: ["bittorrent", "bnb", "energi", "tron", "ethereum"]
 rewardedActivity: ["holder"]
 category: ["infrastructure"]
-function: ["tron", "infrastructure", "file-sharing"]
+function: ["storage", "tron", "depin", "infrastructure", "file-sharing"]
 status: ["alive"]
 funded-by: ["yzi-labs"]
 pagetype: "project"

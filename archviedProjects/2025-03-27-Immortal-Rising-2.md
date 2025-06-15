@@ -6,7 +6,7 @@ timeframe: ["2025"]
 ecosystem: ["ethereum", "immutable-zkevm"]
 rewardedActivity: ["retroactive"]
 category: ["gaming"]
-function: ["gaming"]
+function: ["gaming", "gamefi"]
 status: ["alive"]
 pagetype: "project"
 website: "https://immortalrising2.com"

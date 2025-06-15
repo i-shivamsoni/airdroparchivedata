@@ -6,7 +6,7 @@ timeframe: ["2023"]
 ecosystem: ["base", "arbitrum"]
 rewardedActivity: ["retroactive"]
 category: ["defi"]
-function: ["defi", "trading"]
+function: ["defi", "perpetuals", "trading", "derivatives"]
 status: ["alive"]
 pagetype: "project"
 website: "https://vela.exchange"

@@ -6,7 +6,7 @@ timeframe: ["2024"]
 ecosystem: ["zksync", "ethereum"]
 rewardedActivity: ["holder", "retroactive", "testnet"]
 category: ["scaling"]
-function: ["scaling", "ethereum"]
+function: ["layer-2", "ethereum", "scaling", "smart-contract-platform", "zero-knowledge"]
 status: ["alive"]
 funded-by: ["consensys", "okx-ventures", "blockchain-capital"]
 pagetype: "project"

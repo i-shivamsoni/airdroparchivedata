@@ -6,7 +6,7 @@ timeframe: ["2020"]
 ecosystem: ["arbitrum", "fantom", "gnosis-chain", "energi", "harmony", "ethereum"]
 rewardedActivity: ["retroactive"]
 category: ["defi"]
-function: ["dao", "defi", "bitcoin"]
+function: ["yield-farming", "bitcoin", "dao", "decentralized-finance", "defi", "yield-aggregator"]
 status: ["alive"]
 funded-by: ["blockchain-capital"]
 pagetype: "project"

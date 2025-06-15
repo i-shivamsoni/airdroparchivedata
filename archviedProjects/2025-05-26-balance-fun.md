@@ -6,7 +6,7 @@ timeframe: ["2025"]
 ecosystem: ["bnb"]
 rewardedActivity: ["binance-alpha", "retroactive"]
 category: [ "social"]
-function: [ "social"]
+function: ["artificial-intelligence", "social", "ai-agents", "gamefi", "ai-agent-launchpad"]
 status: ["alive"]
 funded-by: ["dwf-labs", "animoca-brands", "andreessen-horowitz-a16z"]
 pagetype: "project"
