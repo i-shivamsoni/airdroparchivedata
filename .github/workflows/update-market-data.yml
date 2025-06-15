@@ -1,0 +1,50 @@
+name: Update Market Data
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'  # Runs every 6 hours
+  workflow_dispatch:  # Allows manual triggering
+
+jobs:
+  update-market-data:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: actions/checkout@v3
+    
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
+        
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests pyyaml
+        
+    - name: Create project lists
+      run: |
+        python _posts/scripts/coingeckoandmanual.py
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        
+    - name: Fetch CoinGecko data
+      run: |
+        python _posts/scripts/curl_req_v2.py
+      env:
+        COINGECKO_API_KEY: ${{ secrets.COINGECKO_API_KEY }}
+        
+    - name: Update market data
+      run: |
+        python _posts/scripts/mis-data.py
+        
+    - name: Handle missing data
+      run: |
+        python _posts/scripts/missing-data.py
+        
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        git add .
+        git diff --quiet && git diff --staged --quiet || (git commit -m "Update market data [skip ci]" && git push) 
