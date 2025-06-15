@@ -5,7 +5,7 @@ date: "2021-01-28 04:47 +0530"
 timeframe: ["2021"]
 ecosystem: ["not-known"]
 rewardedActivity: ["retroactive"]
-category: [defi]
+category: ["defi"]
 function: ["gambling", "defi", "lottery"]
 status: ["alive"]
 pagetype: "project"

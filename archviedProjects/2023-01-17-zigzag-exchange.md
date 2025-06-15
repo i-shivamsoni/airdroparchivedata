@@ -5,7 +5,7 @@ date: "2023-01-17 05:36 +0530"
 timeframe: ["2023"]
 ecosystem: ["zksync"]
 rewardedActivity: ["retroactive"]
-category: [defi]
+category: ["defi"]
 function: ["defi", "dex"]
 status: ["dead"]
 pagetype: "project"

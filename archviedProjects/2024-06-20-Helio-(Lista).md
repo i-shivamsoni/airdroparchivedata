@@ -5,7 +5,7 @@ date: "2024-06-22"
 timeframe: ["2024"]
 ecosystem: ["not-known"]
 rewardedActivity: ["retroactive"]
-category: [defi]
+category: ["defi"]
 function: ["defi", "aggregation", "yield"]
 status: ["alive"]
 pagetype: "project"

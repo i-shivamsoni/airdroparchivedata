@@ -5,7 +5,7 @@ date: "2023-08-03"
 timeframe: ["2023"]
 ecosystem: ["linea"]
 rewardedActivity: ["retroactive"]
-category: [defi]
+category: ["defi"]
 function: ["defi", "dex"]
 status: ["alive"]
 pagetype: "project"

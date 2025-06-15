@@ -5,8 +5,8 @@ date: "2025-05-27"
 timeframe: ["2025"]
 ecosystem: ["ethereum"]
 rewardedActivity: ["binance-alpha", "gaming", "nft"]
-category: ["gaming", "metaverse"]
-function: ["gaming", "platform", "metaverse"]
+category: ["gaming"]
+function: ["gaming", "metaverse"]
 status: ["alive"]
 pagetype: "project"
 website: "https://puffverse.io"

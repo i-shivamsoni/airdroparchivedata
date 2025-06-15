@@ -5,7 +5,7 @@ date: "2024-06-19"
 timeframe: ["2024"]
 ecosystem: ["not-known"]
 rewardedActivity: ["retroactive"]
-category: [gaming,social]
+category: ["gaming","social"]
 function: ["gaming", "blockchain", "metaverse"]
 status: ["alive"]
 pagetype: "project"

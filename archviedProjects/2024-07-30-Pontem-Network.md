@@ -5,7 +5,7 @@ date: "2024-07-30"
 timeframe: ["2024"]
 ecosystem: ["aptos"]
 rewardedActivity: ["retroactive"]
-category: [social,defi]
+category: ["social","defi"]
 function: ["dex"]
 status: ["alive"]
 pagetype: "project"

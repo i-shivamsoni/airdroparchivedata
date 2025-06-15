@@ -5,7 +5,7 @@ date: "2021-03-13 03:21:08 +0530"
 timeframe: ["2021"]
 ecosystem: ["not-known"]
 rewardedActivity: ["retroactive"]
-category: [defi]
+category: ["defi"]
 function: ["defi", "venture-capital", "community"]
 status: ["alive"]
 pagetype: "project"

@@ -6,7 +6,7 @@ timeframe: ["2025"]
 ecosystem: ["bnb"]
 rewardedActivity: ["retroactive", "testnet", "quest", "loyalty", "binance-alpha"]
 category: ["ai", "privacy"]
-function: ["ai", "privacy", "platform"]
+function: ["ai", "privacy"]
 status: ["alive"]
 pagetype: "project"
 website: "https://www.privasea.ai/"

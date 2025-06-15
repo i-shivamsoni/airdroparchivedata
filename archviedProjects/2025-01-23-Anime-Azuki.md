@@ -5,7 +5,7 @@ date: "2025-01-23"
 timeframe: ["2025"]
 ecosystem: ["ethereum", "arbitrum"]
 rewardedActivity: ["nft", "holder","kaito-yapping"]
-category: [social,nft]
+category: ["social","nft"]
 function: ["community", "nft", "social"]
 status: ["alive"]
 pagetype: "project"

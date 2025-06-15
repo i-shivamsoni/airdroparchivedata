@@ -3,7 +3,7 @@ layout: "post"
 title: "Huma Finance"
 date: "2025-05-22"
 timeframe: ["2025"]
-ecosystem: ["Solana"]
+ecosystem: ["solana"]
 rewardedActivity:
   [
     "retroactive",
@@ -14,13 +14,13 @@ rewardedActivity:
     "kaito-yapping",
     "binance-alpha",
   ]
-category: ["DeFi"]
-function: ["PayFi", "Decentralized Finance"]
+category: ["defi"]
+function: ["payfi", "decentralized finance"]
 status: ["alive"]
 pagetype: "project"
 website: "https://huma.finance/"
 ticker: "HUMA"
-description: "Huma Finance is a decentralized PayFi protocol that has facilitated over $4.4 billion in PayFi transactions, focusing on bringing real yield on-chain through its ecosystem partners."
+description: "Huma Finance is a decentralized payfi protocol that has facilitated over $4.4 billion in payfi transactions, focusing on bringing real yield on-chain through its ecosystem partners."
 mis-data-source: "coingecko"
 last_updated: "2025-06-14T14:26:23.303062Z"
 # miscellaneous data source section
@@ -79,7 +79,7 @@ atl_date: "2025-05-31T12:01:01.107Z"
 - 65% of airdrop allocation
 
 #### Ecosystem Partners
-- Active PayFi ecosystem partners contributing to PayFi yield opportunities
+- Active payfi ecosystem partners contributing to payfi yield opportunities
 - 25% of airdrop allocation
 - 6-month vesting schedule
 

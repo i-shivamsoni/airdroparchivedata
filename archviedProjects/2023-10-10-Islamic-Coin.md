@@ -5,7 +5,7 @@ date: "2023-10-11"
 timeframe: ["2023"]
 ecosystem: ["osmosis"]
 rewardedActivity: ["holder", "testnet"]
-category: [defi]
+category: ["defi"]
 function: ["defi", "sharia-compliant"]
 status: ["alive"]
 pagetype: "project"

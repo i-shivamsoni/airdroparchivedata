@@ -5,7 +5,7 @@ date: "2024-08-15"
 timeframe: ["2024"]
 ecosystem: ["not-known"]
 rewardedActivity: ["not-known"]
-category: [defi]
+category: ["defi"]
 function: ["defi", "trading"]
 status: ["alive"]
 pagetype: "project"

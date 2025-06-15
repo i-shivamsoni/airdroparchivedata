@@ -5,7 +5,7 @@ date: "2021-09-01 03:21:08 +0530"
 timeframe: ["2021"]
 ecosystem: ["not-known"]
 rewardedActivity: ["retroactive"]
-category: [infrastructure,defi]
+category: ["infrastructure","defi"]
 function: ["infrastructure", "access", "control"]
 status: ["alive"]
 pagetype: "project"

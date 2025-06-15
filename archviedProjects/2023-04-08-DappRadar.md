@@ -5,7 +5,7 @@ date: "2021-12-14 03:21:08 +0530"
 timeframe: ["2021"]
 ecosystem: ["not-known"]
 rewardedActivity: ["retroactive"]
-category: [data,infrastructure]
+category: ["infrastructure"]
 function: ["infrastructure", "analytics", "dapps"]
 status: ["alive"]
 pagetype: "project"

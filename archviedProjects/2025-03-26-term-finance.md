@@ -6,7 +6,7 @@ timeframe: ["2025"]
 ecosystem: ["ethereum"]
 rewardedActivity: ["retroactive", "quest", "loyalty"]
 category: ["defi"]
-function: ["lending", "fixed-rate", "governance", "platform"]
+function: ["lending", "fixed-rate", "governance"]
 status: ["alive"]
 pagetype: "project"
 website: "https://app.term.finance/"

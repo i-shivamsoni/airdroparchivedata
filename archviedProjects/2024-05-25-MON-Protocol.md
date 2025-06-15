@@ -5,7 +5,7 @@ date: "2024-05-25"
 timeframe: ["2024"]
 ecosystem: ["not-known"]
 rewardedActivity: ["retroactive"]
-category: [gaming]
+category: ["gaming"]
 function: ["gaming"]
 status: ["alive"]
 pagetype: "project"

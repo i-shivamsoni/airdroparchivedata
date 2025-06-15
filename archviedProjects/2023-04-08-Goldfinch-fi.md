@@ -5,7 +5,7 @@ date: "2022-04-08 03:21:08 +0530"
 timeframe: ["2022"]
 ecosystem: ["not-known"]
 rewardedActivity: ["retroactive"]
-category: [defi]
+category: ["defi"]
 function: ["business", "defi", "lending"]
 status: ["alive"]
 pagetype: "project"

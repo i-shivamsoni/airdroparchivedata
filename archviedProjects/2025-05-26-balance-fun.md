@@ -5,8 +5,8 @@ date: "2025-04-21"
 timeframe: ["2025"]
 ecosystem: ["not-known"]
 rewardedActivity: ["binance-alpha", "retroactive"]
-category: ["platform", "social"]
-function: ["platform", "social"]
+category: [ "social"]
+function: [ "social"]
 status: ["alive"]
 pagetype: "project"
 website: "https://balance.fun"

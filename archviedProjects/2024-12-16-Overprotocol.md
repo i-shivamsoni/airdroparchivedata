@@ -5,7 +5,7 @@ date: "2024-12-16"
 timeframe: ["2024"]
 ecosystem: ["not-known"]
 rewardedActivity: ["retroactive", "testnet"]
-category: [privacy,infrastructure]
+category: ["privacy","infrastructure"]
 function: ["interoperability", "privacy", "infrastructure"]
 status: ["alive"]
 pagetype: "project"

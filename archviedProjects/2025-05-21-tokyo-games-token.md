@@ -5,8 +5,8 @@ date: "2025-05-21"
 timeframe: ["2025"]
 ecosystem: ["ethereum"]
 rewardedActivity: ["binance-alpha", "gaming", "loyalty"]
-category: ["gaming", "platform"]
-function: ["gaming", "platform"]
+category: ["gaming"]
+function: ["gaming"]
 status: ["alive"]
 pagetype: "project"
 website: "https://tokyogamestoken.io"

@@ -5,7 +5,7 @@ date: "2020-12-03 03:21:08 +0530"
 timeframe: ["2020"]
 ecosystem: ["not-known"]
 rewardedActivity: ["holder"]
-category: [rwa,defi]
+category: ["rwa","defi"]
 function: ["assets", "synthetics", "defi"]
 status: ["alive"]
 pagetype: "project"

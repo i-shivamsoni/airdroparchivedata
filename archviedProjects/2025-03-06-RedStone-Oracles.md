@@ -5,7 +5,7 @@ date: "2025-03-06"
 timeframe: ["2025"]
 ecosystem: ["not-known"]
 rewardedActivity: ["retroactive"]
-category: [infrastructure]
+category: ["infrastructure"]
 function: ["oracle", "infrastructure"]
 status: ["alive"]
 pagetype: "project"

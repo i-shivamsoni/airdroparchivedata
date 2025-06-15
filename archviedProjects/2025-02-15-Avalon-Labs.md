@@ -5,7 +5,7 @@ date: "2025-02-15"
 timeframe: ["2025"]
 ecosystem: ["not-known"]
 rewardedActivity: ["retroactive"]
-category: [defi]
+category: ["defi"]
 function: ["defi", "protocol", "dex"]
 status: ["alive"]
 pagetype: "project"

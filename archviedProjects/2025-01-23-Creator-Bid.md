@@ -5,7 +5,7 @@ date: "2025-01-23"
 timeframe: ["2025"]
 ecosystem: ["bnb", "base"]
 rewardedActivity: ["retroactive", "social"]
-category: [ai,social]
+category: ["ai","social"]
 function: ["ai", "social"]
 status: ["alive"]
 pagetype: "project"

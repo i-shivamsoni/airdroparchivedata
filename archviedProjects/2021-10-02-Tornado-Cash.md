@@ -5,7 +5,7 @@ date: "2021-10-02 03:21:08 +0530"
 timeframe: ["2021"]
 ecosystem: ["ethereum"]
 rewardedActivity: ["retroactive"]
-category: [privacy,infrastructure]
+category: ["privacy","infrastructure"]
 function: ["ethereum", "privacy", "infrastructure"]
 status: ["alive"]
 pagetype: "project"

@@ -5,7 +5,7 @@ date: "2020-12-04 03:21:08 +0530"
 timeframe: ["2020"]
 ecosystem: ["not-known"]
 rewardedActivity: ["retroactive"]
-category: [defi]
+category: ["defi"]
 function: ["dao", "defi", "bitcoin"]
 status: ["alive"]
 pagetype: "project"

@@ -5,7 +5,7 @@ date: "2022-09-27"
 timeframe: ["2022"]
 ecosystem: ["not-known"]
 rewardedActivity: ["retroactive"]
-category: [infrastructure]
+category: ["infrastructure"]
 function: ["infrastructure", "cross-chain"]
 status: ["alive"]
 pagetype: "project"

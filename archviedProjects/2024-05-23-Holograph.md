@@ -5,7 +5,7 @@ date: "2024-05-23"
 timeframe: ["2024"]
 ecosystem: ["not-known"]
 rewardedActivity: ["retroactive"]
-category: [infrastructure]
+category: ["infrastructure"]
 function: ["infrastructure", "cross-chain"]
 status: ["alive"]
 pagetype: "project"

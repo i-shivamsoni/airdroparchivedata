@@ -5,7 +5,7 @@ date: "2024-01-22"
 timeframe: ["2024"]
 ecosystem: ["not-known"]
 rewardedActivity: ["retroactive"]
-category: [infrastructure,defi]
+category: ["infrastructure","defi"]
 function: ["defi", "infrastructure"]
 status: ["alive"]
 pagetype: "project"

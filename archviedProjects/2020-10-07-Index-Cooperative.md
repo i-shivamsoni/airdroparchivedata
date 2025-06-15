@@ -5,7 +5,7 @@ date: "2020-10-07 04:57 +0530"
 timeframe: ["2020"]
 ecosystem: ["not-known"]
 rewardedActivity: ["retroactive"]
-category: [defi]
+category: ["defi"]
 function: ["tokens", "defi", "index"]
 status: ["alive"]
 pagetype: "project"

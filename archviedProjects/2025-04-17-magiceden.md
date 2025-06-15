@@ -6,7 +6,7 @@ timeframe: ["2025"]
 ecosystem: ["solana", "ethereum", "bitcoin", "polygon"]
 rewardedActivity: ["staking", "quest", "trading", "loyalty"]
 category: ["nft", "defi"]
-function: ["marketplace", "staking", "platform"]
+function: ["marketplace", "staking"]
 status: ["alive"]
 pagetype: "project"
 website: "https://magiceden.io/"

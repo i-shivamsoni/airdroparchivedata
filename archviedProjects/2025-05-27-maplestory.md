@@ -5,8 +5,8 @@ date: "2025-05-15"
 timeframe: ["2025"]
 ecosystem: ["avalanche", "bnb"]
 rewardedActivity: ["binance-alpha", "gaming", "loyalty", "testnet", "kaito"]
-category: ["gaming", "platform"]
-function: ["gaming", "platform"]
+category: ["gaming"]
+function: ["gaming"]
 status: ["alive"]
 pagetype: "project"
 website: "https://msu.io"

@@ -5,7 +5,7 @@ date: "2022-01-11 03:21:08 +0530"
 timeframe: ["2022"]
 ecosystem: ["not-known"]
 rewardedActivity: ["retroactive", "nft"]
-category: [nft,defi]
+category: ["nft","defi"]
 function: ["marketplace", "nft"]
 status: ["alive"]
 pagetype: "project"

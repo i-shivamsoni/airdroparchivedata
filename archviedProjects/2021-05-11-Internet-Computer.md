@@ -5,7 +5,7 @@ date: "2021-05-11 03:21:08 +0530"
 timeframe: ["2018"]
 ecosystem: ["not-known"]
 rewardedActivity: ["loyalty"]
-category: [infrastructure]
+category: ["infrastructure"]
 function: ["blockchain"]
 status: ["alive"]
 pagetype: "project"

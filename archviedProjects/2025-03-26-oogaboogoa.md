@@ -5,7 +5,7 @@ date: "2025-04-04"
 timeframe: ["2025"]
 ecosystem: ["berachain"]
 rewardedActivity: ["loyalty", "testnet"]
-category: ["defi", "trading"]
+category: ["defi"]
 function: ["dex", "trading"]
 status: ["alive"]
 pagetype: "project"

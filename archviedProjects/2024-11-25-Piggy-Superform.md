@@ -5,7 +5,7 @@ date: "2024-11-25"
 timeframe: ["2024"]
 ecosystem: ["not-known"]
 rewardedActivity: ["retroactive"]
-category: [defi]
+category: ["defi"]
 function: ["synthetics", "defi", "cross-chain"]
 status: ["alive"]
 pagetype: "project"

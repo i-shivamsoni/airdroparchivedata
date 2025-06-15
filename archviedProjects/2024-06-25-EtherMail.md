@@ -5,7 +5,7 @@ date: "2024-06-25"
 timeframe: ["2024"]
 ecosystem: ["not-known"]
 rewardedActivity: ["retroactive"]
-category: [social]
+category: ["social"]
 function: ["communication", "social"]
 status: ["alive"]
 pagetype: "project"

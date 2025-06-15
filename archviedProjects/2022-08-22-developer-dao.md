@@ -5,7 +5,7 @@ date: "2022-08-22 04:10 +0530"
 timeframe: ["2022"]
 ecosystem: ["not-known"]
 rewardedActivity: ["retroactive"]
-category: [social]
+category: ["social"]
 function: ["dao", "community", "social"]
 status: ["alive"]
 pagetype: "project"

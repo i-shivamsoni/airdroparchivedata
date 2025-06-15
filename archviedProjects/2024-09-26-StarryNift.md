@@ -5,8 +5,8 @@ date: "2024-09-26"
 timeframe: ["2024"]
 ecosystem: ["not-known"]
 rewardedActivity: ["retroactive"]
-category: [nft]
-function: ["nft", "platform"]
+category: ["nft"]
+function: ["nft"]
 status: ["alive"]
 pagetype: "project"
 website: "https://starrynift.com"

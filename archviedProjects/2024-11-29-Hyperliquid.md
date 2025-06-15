@@ -5,7 +5,7 @@ date: "2024-11-29"
 timeframe: ["2024"]
 ecosystem: ["hyperEVM"]
 rewardedActivity: ["retroactive"]
-category: [defi]
+category: ["defi"]
 function: ["perpetuals", "defi"]
 status: ["alive"]
 pagetype: "project"

@@ -5,8 +5,8 @@ date: "2025-04-10"
 timeframe: ["2025"]
 ecosystem: ["ethereum", "base"]
 rewardedActivity: ["binance-alpha", "quest"]
-category: ["ai", "platform"]
-function: ["ai", "platform"]
+category: ["ai"]
+function: ["ai"]
 status: ["alive"]
 pagetype: "project"
 website: "https://www.wayfinder.ai"

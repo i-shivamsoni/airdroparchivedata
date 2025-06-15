@@ -5,7 +5,7 @@ date: "2022-04-07 05:34 +0530"
 timeframe: ["2022"]
 ecosystem: ["not-known"]
 rewardedActivity: ["testnet"]
-category: [defi]
+category: ["defi"]
 function: ["defi", "lending", "yield"]
 status: ["alive"]
 pagetype: "project"

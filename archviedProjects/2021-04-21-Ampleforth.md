@@ -5,7 +5,7 @@ date: "2021-04-21 03:21:08 +0530"
 timeframe: ["2021"]
 ecosystem: ["not-known"]
 rewardedActivity: ["retroactive"]
-category: [stablecoin,defi]
+category: ["stablecoin","defi"]
 function: ["defi", "stablecoin", "rebase"]
 status: ["alive"]
 pagetype: "project"

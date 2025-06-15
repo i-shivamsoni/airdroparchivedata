@@ -5,7 +5,7 @@ date: "2019-01-01"
 timeframe: ["2019"]
 ecosystem: ["not-known"]
 rewardedActivity: ["holder"]
-category: [infrastructure]
+category: ["infrastructure"]
 function: ["tron", "infrastructure", "file-sharing"]
 status: ["alive"]
 pagetype: "project"

@@ -5,7 +5,7 @@ date: "2024-05-13"
 timeframe: ["2024"]
 ecosystem: ["not-known"]
 rewardedActivity: ["retroactive", "testnet"]
-category: [defi]
+category: ["defi"]
 function: ["defi", "token-distribution", "auctions"]
 status: ["alive"]
 pagetype: "project"

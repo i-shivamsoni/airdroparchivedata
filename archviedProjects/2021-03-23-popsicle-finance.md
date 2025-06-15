@@ -5,7 +5,7 @@ date: "2021-03-23 04:53 +0530"
 timeframe: ["2021"]
 ecosystem: ["not-known"]
 rewardedActivity: ["retroactive"]
-category: [defi]
+category: ["defi"]
 function: ["multi-strategy", "defi", "yield"]
 status: ["alive"]
 pagetype: "project"

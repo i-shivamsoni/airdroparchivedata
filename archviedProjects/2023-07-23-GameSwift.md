@@ -5,7 +5,7 @@ date: "2023-07-23"
 timeframe: ["2023"]
 ecosystem: ["not-known"]
 rewardedActivity: ["retroactive", "holders"]
-category: [gaming,infrastructure]
+category: ["gaming","infrastructure"]
 function: ["gaming", "infrastructure"]
 status: ["alive"]
 pagetype: "project"

@@ -5,7 +5,7 @@ date: "2024-09-28"
 timeframe: ["2024"]
 ecosystem: ["arbitrum"]
 rewardedActivity: ["retroactive"]
-category: [defi]
+category: ["defi"]
 function: ["defi"]
 status: ["alive"]
 pagetype: "project"
