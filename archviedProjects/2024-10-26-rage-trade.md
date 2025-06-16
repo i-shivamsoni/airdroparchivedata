@@ -13,21 +13,20 @@ website: "https://rage.trade"
 ticker: "RAGE"
 description: "A decentralized perpetual and yield trading platform built on Ethereum and Layer 2 scaling solutions."
 mis-data-source: "coingecko"
-last_updated: "2025-06-16T06:28:19.266Z"
-# miscellaneous data source section
+last_updated: "2025-06-16T12:39:11.853Z"
 coingecko_id: "rage"
-current_price: 0.062142
+current_price: 0.068804
 market_cap: 0.0
 market_cap_rank: null
-fully_diluted_valuation: 6214817
+fully_diluted_valuation: 6859869
 circulating_supply: 0.0
 total_supply: 100000969.0
 max_supply: 100000969.0
 ath: 0.504053
-ath_change_percentage: -87.67043
+ath_change_percentage: -86.38945
 ath_date: "2024-12-08T23:04:19.921Z"
 atl: 0.0441947
-atl_change_percentage: 40.62223
+atl_change_percentage: 55.23226
 atl_date: "2025-03-10T07:14:41.708Z"
 ---
 

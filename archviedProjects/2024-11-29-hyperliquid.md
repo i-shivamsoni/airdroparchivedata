@@ -14,21 +14,20 @@ website: "https://app.hyperliquid.xyz/trade"
 ticker: "HYPE"
 description: "A decentralized trading platform offering high-performance perpetual futures trading and innovative DeFi solutions."
 mis-data-source: "coingecko"
-last_updated: "2025-06-16T06:29:36.189Z"
-# miscellaneous data source section
+last_updated: "2025-06-16T12:39:38.594Z"
 coingecko_id: "hyperliquid"
-current_price: 44.25
-market_cap: 14694329112
+current_price: 44.05
+market_cap: 14733172675
 market_cap_rank: 12
-fully_diluted_valuation: 44004036779
+fully_diluted_valuation: 44120358766
 circulating_supply: 333928180.0
 total_supply: 999990391.0
 max_supply: 1000000000.0
-ath: 44.22
-ath_change_percentage: 0.0
-ath_date: "2025-06-16T06:26:43.326Z"
+ath: 44.72
+ath_change_percentage: -1.30797
+ath_date: "2025-06-16T10:21:25.060Z"
 atl: 3.81
-atl_change_percentage: 1061.06513
+atl_change_percentage: 1058.67333
 atl_date: "2024-11-29T09:30:30.871Z"
 ---
 
