@@ -5,8 +5,8 @@ date: "2024-07-26 04:33 +0530"
 timeframe: ["2024"]
 ecosystem: ["arbitrum", "ethereum"]
 rewardedActivity: ["retroactive"]
-category: ["infrastructure"]
-function: ["dao", "infrastructure"]
+category: ["infrastructure", "defi"]
+function: ["dao"]
 status: ["alive"]
 pagetype: "project"
 website: "https://hats.finance"

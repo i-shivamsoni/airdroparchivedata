@@ -5,8 +5,8 @@ date: "2024-11-26"
 timeframe: ["2024"]
 ecosystem: ["not-known"]
 rewardedActivity: ["retroactive", "holder", "nft"]
-category: ["nft","defi","infrastructure"]
-function: ["defi", "infrastructure", "nft", "tokenization"]
+category: ["nft", "defi", "infrastructure", "rwa"]
+function: ["tokenization"]
 status: ["alive"]
 pagetype: "project"
 website: "https://side.one"
@@ -14,6 +14,7 @@ ticker: "SIDE"
 description: "A fully Bitcoin-compatible Layer 1 blockchain built on CometBFT and the Cosmos SDK."
 last_updated: "2025-06-14T14:26:23.307945Z"
 mis-data-source: "manual"
+manual_source: "https://airdroparchive.com"
 # miscellaneous data source section
 manual_id: "side-protocol"
 current_price: 0

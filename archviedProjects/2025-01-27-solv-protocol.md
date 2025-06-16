@@ -5,8 +5,8 @@ date: "2025-01-27"
 timeframe: ["2025"]
 ecosystem: ["bnb"]
 rewardedActivity: ["retroactive"]
-category: ["defi"]
-function: ["btcfi-protocol", "governance", "protocol", "btcfi", "defi"]
+category: ["defi", "utilities"]
+function: ["btcfi-protocol", "governance", "protocol", "btcfi"]
 status: ["alive"]
 pagetype: "project"
 website: "https://solv.finance"

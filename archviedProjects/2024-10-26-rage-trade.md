@@ -6,7 +6,7 @@ timeframe: ["2024"]
 ecosystem: ["not-known"]
 rewardedActivity: ["not-known"]
 category: ["defi"]
-function: ["trading", "perpetuals", "derivatives", "decentralized-finance", "defi"]
+function: ["trading", "perpetuals", "derivatives", "decentralized-finance"]
 status: ["alive"]
 pagetype: "project"
 website: "https://rage.trade"

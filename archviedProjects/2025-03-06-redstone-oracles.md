@@ -5,8 +5,8 @@ date: "2025-03-06"
 timeframe: ["2025"]
 ecosystem: ["ethereum"]
 rewardedActivity: ["retroactive"]
-category: ["infrastructure"]
-function: ["oracle", "infrastructure"]
+category: ["infrastructure", "utilities"]
+function: ["oracle"]
 status: ["alive"]
 pagetype: "project"
 website: "https://redstone.finance"

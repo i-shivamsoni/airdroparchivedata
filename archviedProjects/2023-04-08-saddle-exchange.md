@@ -5,8 +5,8 @@ date: "2023-04-08 03:21:08 +0530"
 timeframe: ["2023"]
 ecosystem: ["ethereum"]
 rewardedActivity: ["holder", "retroactive"]
-category: ["stablecoin","defi"]
-function: ["defi", "liquid-staking", "exchange", "stablecoin"]
+category: ["stablecoin", "defi"]
+function: ["liquid-staking", "exchange"]
 status: ["alive"]
 pagetype: "project"
 website: "https://saddle.finance"

@@ -5,8 +5,8 @@ date: "2023-04-08 03:21:08 +0530"
 timeframe: ["2022"]
 ecosystem: ["bnb", "ethereum"]
 rewardedActivity: ["retroactive"]
-category: ["rwa","defi"]
-function: ["defi", "rwa", "yield"]
+category: ["rwa", "defi"]
+function: ["yield"]
 status: ["dead"]
 pagetype: "project"
 website: "https://element.fi"

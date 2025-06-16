@@ -6,7 +6,7 @@ timeframe: ["2024"]
 ecosystem: ["solana"]
 rewardedActivity: ["retroactive"]
 category: ["nft"]
-function: ["marketplace", "nft"]
+function: ["marketplace"]
 status: ["alive"]
 pagetype: "project"
 website: "https://exchange.art"

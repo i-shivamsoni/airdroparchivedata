@@ -5,8 +5,8 @@ date: "2021-03-13 03:21:08 +0530"
 timeframe: ["2021"]
 ecosystem: ["not-known"]
 rewardedActivity: ["retroactive"]
-category: ["defi"]
-function: ["defi", "venture-capital", "community"]
+category: ["defi", "social", "other"]
+function: ["venture-capital", "community"]
 status: ["alive"]
 pagetype: "project"
 website: "https://forefront.gitbook.io/forefront/token-distribution/community-airdrop"
@@ -14,6 +14,7 @@ ticker: "FF"
 description: "A community-driven platform and marketplace for social tokens and Web3 communities."
 last_updated: "2025-06-14T14:26:23.306236Z"
 mis-data-source: "manual"
+manual_source: "https://airdroparchive.com"
 # miscellaneous data source section
 manual_id: "forefront"
 current_price: 0

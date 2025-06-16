@@ -5,8 +5,8 @@ date: "2025-03-04 03:21:08 +0530"
 timeframe: ["2025"]
 ecosystem: ["base"]
 rewardedActivity: ["retroactive"]
-category: ["infrastructure"]
-function: ["infrastructure", "access", "control"]
+category: ["infrastructure", "other", "utilities"]
+function: ["access", "control"]
 status: ["alive"]
 funded-by: ["coinbase-ventures"]
 pagetype: "project"

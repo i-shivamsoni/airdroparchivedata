@@ -5,8 +5,8 @@ date: "2024-05-06"
 timeframe: ["2024"]
 ecosystem: ["base", "ethereum"]
 rewardedActivity: ["retroactive"]
-category: ["infrastructure"]
-function: ["defai", "analytics", "artificial-intelligence", "visualization", "ai-agents", "infrastructure", "ai-agent-launchpad"]
+category: ["infrastructure", "other", "ai", "utilities"]
+function: ["defai", "analytics", "artificial-intelligence", "visualization", "ai-agents", "ai-agent-launchpad"]
 status: ["alive"]
 funded-by: ["circle-ventures", "galaxy-digital"]
 pagetype: "project"

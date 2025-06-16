@@ -6,7 +6,7 @@ timeframe: ["2022"]
 ecosystem: ["bnb"]
 rewardedActivity: ["testnet"]
 category: ["defi"]
-function: ["defi", "lending", "yield"]
+function: ["lending", "yield"]
 status: ["alive"]
 pagetype: "project"
 website: "https://lendflare.finance/"

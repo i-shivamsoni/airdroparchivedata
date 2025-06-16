@@ -5,8 +5,8 @@ date: "2025-03-22"
 timeframe: ["2025"]
 ecosystem: ["near"]
 rewardedActivity: ["retroactive"]
-category: ["stablecoin","defi"]
-function: ["algorithmic", "defi", "stablecoin"]
+category: ["stablecoin", "defi"]
+function: ["algorithmic"]
 status: ["alive"]
 funded-by: ["alameda-research", "okx-ventures", "dragonfly-capital"]
 pagetype: "project"

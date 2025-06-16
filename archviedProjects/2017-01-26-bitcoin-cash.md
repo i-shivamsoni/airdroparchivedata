@@ -6,10 +6,11 @@ timeframe: ["2017"]
 ecosystem: ["not-known"]
 rewardedActivity: ["fork", "holder"]
 category: ["infrastructure"]
-function: ["bitcoin-fork", "layer-1", "proof-of-work", "smart-contract-platform", "blockchain"]
+function: ["bitcoin-fork", "smart-contract-platform", "blockchain"]
 status: ["alive"]
 pagetype: "project"
 blockchain-stack: ["layer-1"]
+blockchain-type: ["proof-of-work"]
 website: "https://bitcoincash.org"
 ticker: "BCH"
 description: "Bitcoin Cash (BCH) is a decentralized cryptocurrency that originated from a hard fork of Bitcoin (BTC) on August 1, 2017, with the goal of enabling faster and cheaper transactions."

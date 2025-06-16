@@ -5,8 +5,8 @@ date: "2025-01-23"
 timeframe: ["2025"]
 ecosystem: ["bnb", "base"]
 rewardedActivity: ["retroactive", "social"]
-category: ["ai","social"]
-function: ["social", "ai-agent-launchpad", "artificial-intelligence", "ai"]
+category: ["ai", "social"]
+function: ["ai-agent-launchpad", "artificial-intelligence"]
 status: ["alive"]
 pagetype: "project"
 website: "https://creator.bid/"

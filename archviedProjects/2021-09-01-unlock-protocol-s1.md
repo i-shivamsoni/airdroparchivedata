@@ -5,8 +5,8 @@ date: "2021-09-01 03:21:08 +0530"
 timeframe: ["2021"]
 ecosystem: ["base"]
 rewardedActivity: ["retroactive"]
-category: ["infrastructure","defi"]
-function: ["infrastructure", "access", "control"]
+category: ["infrastructure", "defi", "other", "utilities"]
+function: ["access", "control"]
 status: ["alive"]
 funded-by: ["coinbase-ventures"]
 pagetype: "project"

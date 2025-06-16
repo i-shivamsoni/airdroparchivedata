@@ -6,7 +6,7 @@ timeframe: ["2024"]
 ecosystem: ["base"]
 rewardedActivity: ["retroactive"]
 category: ["social"]
-function: ["social", "decentralized-identifier", "professional", "reputation"]
+function: ["decentralized-identifier", "professional", "reputation"]
 status: ["alive"]
 pagetype: "project"
 website: "https://talentprotocol.com"

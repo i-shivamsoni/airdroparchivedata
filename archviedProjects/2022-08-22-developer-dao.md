@@ -5,8 +5,8 @@ date: "2022-08-22 04:10 +0530"
 timeframe: ["2022"]
 ecosystem: ["not-known"]
 rewardedActivity: ["retroactive"]
-category: ["social"]
-function: ["dao", "community", "social"]
+category: ["social", "defi"]
+function: ["dao", "community"]
 status: ["alive"]
 pagetype: "project"
 website: "https://developerdao.notion.site/The-CODE-Governance-Token-3c1e14dbc6bd461fa07978bf37d04fd9"
@@ -14,6 +14,7 @@ ticker: "CODE"
 description: "A decentralized community focused on helping developers embrace web3 and blockchain technology."
 last_updated: "2025-06-14T14:26:23.306991Z"
 mis-data-source: "manual"
+manual_source: "https://airdroparchive.com"
 # miscellaneous data source section
 manual_id: "developer-dao"
 current_price: 0

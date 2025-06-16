@@ -5,8 +5,8 @@ date: "2024-09-27"
 timeframe: ["2024"]
 ecosystem: ["ethereum", "scroll"]
 rewardedActivity: ["retroactive"]
-category: ["nft"]
-function: ["art", "yield-farming", "decentralized-finance", "nft", "yield-aggregator", "marketplace"]
+category: ["nft", "defi"]
+function: ["art", "yield-farming", "decentralized-finance", "yield-aggregator", "marketplace"]
 status: ["alive"]
 pagetype: "project"
 website: "https://pencilsprotocol.io"

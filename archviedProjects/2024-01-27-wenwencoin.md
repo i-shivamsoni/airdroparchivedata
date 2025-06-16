@@ -5,8 +5,8 @@ date: "2024-01-27"
 timeframe: ["2023"]
 ecosystem: "solana"
 rewardedActivity: ["retroactive"]
-category: ["meme"]
-function: ["cat-themed", "social", "anime-themed", "ai-meme", "charity", "nftfi", "nft", "fractionalized-nft", "solana-meme", "meme"]
+category: ["meme", "social", "nft", "other"]
+function: ["cat-themed", "anime-themed", "ai-meme", "charity", "nftfi", "fractionalized-nft", "solana-meme"]
 status: ["alive"]
 pagetype: "project"
 website: "https://wenwencoin.com/"

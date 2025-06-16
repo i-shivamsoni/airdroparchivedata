@@ -5,8 +5,8 @@ date: "2024-11-27"
 timeframe: ["2024"]
 ecosystem: ["ethereum"]
 rewardedActivity: ["retroactive"]
-category: ["privacy","defi","infrastructure"]
-function: ["depin", "infrastructure", "decentralized-finance", "defi", "privacy"]
+category: ["privacy", "defi", "infrastructure"]
+function: ["depin", "decentralized-finance"]
 status: ["alive"]
 pagetype: "project"
 website: "https://nektar.network"

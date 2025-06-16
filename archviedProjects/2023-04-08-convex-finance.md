@@ -6,7 +6,7 @@ timeframe: ["2023"]
 ecosystem: ["ethereum"]
 rewardedActivity: ["retroactive"]
 category: ["defi"]
-function: ["yield", "optimizer", "yield-farming", "curve-ecosystem", "yield-optimizer", "decentralized-finance", "defi", "yield-aggregator", "metagovernance"]
+function: ["yield", "optimizer", "yield-farming", "curve-ecosystem", "yield-optimizer", "decentralized-finance", "yield-aggregator", "metagovernance"]
 status: ["alive"]
 pagetype: "project"
 website: "https://www.convexfinance.com"

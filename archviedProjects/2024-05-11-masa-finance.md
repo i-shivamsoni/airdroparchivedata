@@ -5,8 +5,8 @@ date: "2024-05-11"
 timeframe: ["2024"]
 ecosystem: ["bnb", "ethereum"]
 rewardedActivity: ["retroactive", "testnet"]
-category: ["utilities"]
-function: ["identity", "artificial-intelligence", "ai", "protocol"]
+category: ["utilities", "social", "ai"]
+function: ["identity", "artificial-intelligence", "protocol"]
 status: ["alive"]
 pagetype: "project"
 website: "https://masa.finance"

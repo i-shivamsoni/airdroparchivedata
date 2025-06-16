@@ -5,8 +5,8 @@ date: "2025-02-10 03:21:08 +0530"
 timeframe: ["2025"]
 ecosystem: ["berachain"]
 rewardedActivity: ["testnet", "holder"]
-category: ["infrastructure"]
-function: ["layer-1", "decentralized-finance", "smart-contract-platform", "blockchain"]
+category: ["infrastructure", "defi"]
+function: ["decentralized-finance", "smart-contract-platform", "blockchain"]
 status: ["alive"]
 funded-by: ["outlier-ventures", "polychain-capital"]
 pagetype: "project"

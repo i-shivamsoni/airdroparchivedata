@@ -5,8 +5,8 @@ date: "2024-11-29"
 timeframe: ["2024"]
 ecosystem: ["hyperliquid", "hyperEVM"]
 rewardedActivity: ["retroactive"]
-category: ["defi"]
-function: ["layer-1", "perpetuals", "dex", "decentralized-finance", "defi", "smart-contract-platform"]
+category: ["defi", "infrastructure"]
+function: ["perpetuals", "dex", "decentralized-finance", "smart-contract-platform"]
 status: ["alive"]
 pagetype: "project"
 blockchain-stack: ["layer-1"]

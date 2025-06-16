@@ -6,7 +6,7 @@ timeframe: ["2022"]
 ecosystem: ["aptos"]
 rewardedActivity: ["retroactive"]
 category: ["defi"]
-function: ["exchange-based-tokens", "defi", "dex"]
+function: ["exchange-based-tokens", "dex"]
 status: ["alive"]
 pagetype: "project"
 website: "https://animeswap.org"

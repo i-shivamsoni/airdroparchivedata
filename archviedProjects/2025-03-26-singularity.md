@@ -5,8 +5,9 @@ date: "2025-03-26"
 timeframe: ["2025"]
 ecosystem: ["ethereum"]
 rewardedActivity: ["testnet", "staking", "holder"]
-category: ["ai", "defi"]
-function: ["rwa", "artificial-intelligence", "layer-2", "real-world-assets", "decentralized-finance", "defi", "ai", "smart-contract-platform"]
+category: ["ai", "defi", "infrastructure", "rwa", "scaling"]
+function: ["artificial-intelligence", "real-world-assets", "decentralized-finance", "smart-contract-platform"]
+blockchain-stack: ["layer-2"]
 status: ["alive"]
 pagetype: "project"
 website: "https://singularityfinance.ai"

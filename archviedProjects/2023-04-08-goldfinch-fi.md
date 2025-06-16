@@ -5,8 +5,8 @@ date: "2022-04-08 03:21:08 +0530"
 timeframe: ["2022"]
 ecosystem: ["ethereum"]
 rewardedActivity: ["retroactive"]
-category: ["defi"]
-function: ["lending", "lending-borrowing-protocols", "rwa-protocol", "real-world-assets", "decentralized-finance", "defi", "business"]
+category: ["defi", "rwa"]
+function: ["lending", "lending-borrowing-protocols", "rwa-protocol", "real-world-assets", "decentralized-finance", "business"]
 status: ["alive"]
 funded-by: ["coinbase-ventures", "andreessen-horowitz-a16z"]
 pagetype: "project"

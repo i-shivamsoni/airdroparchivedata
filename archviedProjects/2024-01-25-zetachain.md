@@ -5,8 +5,8 @@ date: "2024-01-25"
 timeframe: ["2024"]
 ecosystem: ["solana"]
 rewardedActivity: ["retroactive"]
-category: ["infrastructure"]
-function: ["decentralized-finance", "perpetuals", "infrastructure", "derivatives"]
+category: ["infrastructure", "defi"]
+function: ["decentralized-finance", "perpetuals", "derivatives"]
 status: ["alive"]
 pagetype: "project"
 blockchain-stack: ["layer-1"]

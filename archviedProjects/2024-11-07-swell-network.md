@@ -5,8 +5,8 @@ date: "2024-11-07"
 timeframe: ["2024"]
 ecosystem: ["ethereum"]
 rewardedActivity: ["retroactive"]
-category: ["scaling","defi"]
-function: ["restaking", "staking", "liquid-restaking-governance-tokens", "ethereum", "defi"]
+category: ["scaling", "defi", "infrastructure"]
+function: ["restaking", "staking", "liquid-restaking-governance-tokens"]
 status: ["alive"]
 pagetype: "project"
 website: "https://www.swellnetwork.io"

@@ -5,8 +5,8 @@ date: "2021-10-02 03:21:08 +0530"
 timeframe: ["2021"]
 ecosystem: ["bnb", "ethereum"]
 rewardedActivity: ["retroactive"]
-category: ["privacy","infrastructure"]
-function: ["decentralized-finance", "ethereum", "infrastructure", "privacy"]
+category: ["privacy", "infrastructure", "defi"]
+function: ["decentralized-finance"]
 status: ["alive"]
 pagetype: "project"
 website: "https://tornadocash.eth.link/"

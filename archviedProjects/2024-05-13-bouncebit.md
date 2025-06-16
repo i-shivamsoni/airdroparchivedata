@@ -5,11 +5,13 @@ date: "2024-05-13"
 timeframe: ["2024"]
 ecosystem: ["ethereum", "solana"]
 rewardedActivity: ["retroactive", "testnet"]
-category: ["defi"]
-function: ["restaking", "token-distribution", "proof-of-stake", "layer-1", "auctions", "defi", "smart-contract-platform"]
+category: ["defi", "infrastructure", "other"]
+function: ["restaking", "token-distribution", "auctions", "smart-contract-platform"]
+blockchain-stack: ["layer-1"]
 status: ["alive"]
 funded-by: ["yzi-labs", "okx-ventures", "defiance-capital", "blockchain-capital"]
 pagetype: "project"
+blockchain-type: ["proof-of-stake"]
 website: "https://bouncebit.io"
 ticker: "BB"
 description: "BounceBit is building a BTC restaking infrastructure that provides a foundational layer for various restaking products, secured by regulated custody. The BounceBit chain operates as a standalone Layer 1 network with a dual-token PoS mechanism, leveraging native Bitcoin's security with full EVM compatibility."

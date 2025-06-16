@@ -6,7 +6,7 @@ timeframe: ["2024"]
 ecosystem: ["solana"]
 rewardedActivity: ["retroactive"]
 category: ["defi"]
-function: ["trading", "perpetuals", "dex", "derivatives", "decentralized-finance", "defi"]
+function: ["trading", "perpetuals", "dex", "derivatives", "decentralized-finance"]
 status: ["alive"]
 pagetype: "project"
 website: "https://dex.zeta.markets"

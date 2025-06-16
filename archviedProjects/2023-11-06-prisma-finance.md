@@ -5,8 +5,8 @@ date: "2023-11-04"
 timeframe: ["2023"]
 ecosystem: ["ethereum"]
 rewardedActivity: ["holder", "retroactive"]
-category: ["stablecoin","defi"]
-function: ["yield", "lending-borrowing-protocols", "stablecoin", "lsdfi", "liquid-staking", "curve-ecosystem", "decentralized-finance", "defi", "stablecoin-protocol"]
+category: ["stablecoin", "defi"]
+function: ["yield", "lending-borrowing-protocols", "lsdfi", "liquid-staking", "curve-ecosystem", "decentralized-finance", "stablecoin-protocol"]
 status: ["alive"]
 pagetype: "project"
 website: "https://prismafinance.com/"

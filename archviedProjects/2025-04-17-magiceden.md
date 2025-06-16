@@ -6,7 +6,7 @@ timeframe: ["2025"]
 ecosystem: ["bitcoin", "ethereum", "solana", "polygon"]
 rewardedActivity: ["staking", "quest", "trading", "loyalty"]
 category: ["nft", "defi"]
-function: ["nft-marketplace", "nft", "staking", "marketplace"]
+function: ["nft-marketplace", "staking", "marketplace"]
 status: ["alive"]
 funded-by: ["paradigm", "sequoia-capital"]
 pagetype: "project"

@@ -6,7 +6,7 @@ timeframe: ["2021"]
 ecosystem: ["ethereum"]
 rewardedActivity: ["retroactive"]
 category: ["defi"]
-function: ["options", "decentralized-finance", "defi", "derivatives"]
+function: ["options", "decentralized-finance", "derivatives"]
 status: ["alive"]
 funded-by: ["coinbase-ventures", "paradigm", "dragonfly-capital"]
 pagetype: "project"

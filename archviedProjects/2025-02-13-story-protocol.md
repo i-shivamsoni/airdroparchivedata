@@ -5,8 +5,8 @@ date: "2025-02-13"
 timeframe: ["2025"]
 ecosystem: ["story"]
 rewardedActivity: ["testnet", "kaito-yapping"]
-category: ["infrastructure"]
-function: ["layer-1", "smart-contract-platform", "artificial-intelligence", "infrastructure"]
+category: ["infrastructure", "ai"]
+function: ["smart-contract-platform", "artificial-intelligence"]
 status: ["alive"]
 pagetype: "project"
 blockchain-stack: ["layer-1"]

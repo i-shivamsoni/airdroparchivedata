@@ -5,8 +5,8 @@ date: "2022-09-04 04:47 +0530"
 timeframe: ["2022"]
 ecosystem: ["harmony", "ethereum", "polygon"]
 rewardedActivity: ["retroactive"]
-category: ["defi"]
-function: ["automation", "defi", "strategy", "decentralized-finance"]
+category: ["defi", "ai"]
+function: ["automation", "strategy", "decentralized-finance"]
 status: ["alive"]
 funded-by: ["defiance-capital", "multicoin-capital"]
 pagetype: "project"

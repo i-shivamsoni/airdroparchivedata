@@ -5,8 +5,8 @@ date: "2023-02-23 04:15 +0530"
 timeframe: ["2023"]
 ecosystem: ["arbitrum"]
 rewardedActivity: ["retroactive"]
-category: ["infrastructure"]
-function: ["community", "telegram-apps", "infrastructure", "discord-bots"]
+category: ["infrastructure", "social"]
+function: ["community", "telegram-apps", "discord-bots"]
 status: ["alive"]
 pagetype: "project"
 website: "https://wagmi.collab.land/"

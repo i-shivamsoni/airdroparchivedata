@@ -5,8 +5,8 @@ date: "2022-11-21 05:44 +0530"
 timeframe: ["2022"]
 ecosystem: ["ethereum", "bittensor"]
 rewardedActivity: ["retroactive"]
-category: ["defi"]
-function: ["defai", "artificial-intelligence", "lending", "lending-borrowing-protocols", "risk-management", "decentralized-finance", "defi"]
+category: ["defi", "ai"]
+function: ["defai", "artificial-intelligence", "lending", "lending-borrowing-protocols", "risk-management", "decentralized-finance"]
 status: ["alive"]
 funded-by: ["pantera-capital"]
 pagetype: "project"

@@ -5,8 +5,8 @@ date: "2024-03-19"
 timeframe: ["2024"]
 ecosystem: ["bnb", "ethereum"]
 rewardedActivity: ["retroactive", "testnet", "binance-alpha"]
-category: ["infrastructure"]
-function: ["smart-contract-platform", "infrastructure", "zero-knowledge"]
+category: ["infrastructure", "privacy"]
+function: ["smart-contract-platform", "zero-knowledge"]
 status: ["alive"]
 funded-by: ["animoca-brands", "yzi-labs", "okx-ventures"]
 pagetype: "project"

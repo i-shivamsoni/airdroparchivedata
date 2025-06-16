@@ -5,8 +5,9 @@ date: "2024-12-16"
 timeframe: ["2024"]
 ecosystem: ["optimism-superchain"]
 rewardedActivity: ["retroactive"]
-category: ["rwa","infrastructure"]
-function: ["real-assets", "layer-2", "depin", "infrastructure", "tokenization", "smart-contract-platform"]
+category: ["rwa", "infrastructure", "scaling"]
+function: ["real-assets", "depin", "tokenization", "smart-contract-platform"]
+blockchain-stack: ["layer-2"]
 status: ["alive"]
 funded-by: ["outlier-ventures"]
 pagetype: "project"

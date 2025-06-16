@@ -6,7 +6,7 @@ timeframe: ["2025"]
 ecosystem: ["hyperEVM"]
 rewardedActivity: ["staking", "retroactive", "loyalty"]
 category: ["defi"]
-function: ["yield-farming", "staking", "defi"]
+function: ["yield-farming", "staking"]
 status: ["alive"]
 pagetype: "project"
 website: "https://loopingcollective.org"
@@ -14,6 +14,7 @@ ticker: "LOOP"
 description: "LoopedHYPE ($LOOP) is a yield-generating DeFi protocol on HyperEVM, enabling users to earn multipliers and airdrops by staking LOOP and participating in liquid looping strategies."
 last_updated: "2025-06-14T14:26:23.308464Z"
 mis-data-source: "manual"
+manual_source: "https://airdroparchive.com"
 # miscellaneous data source section
 manual_id: "loopedhype"
 current_price: 0

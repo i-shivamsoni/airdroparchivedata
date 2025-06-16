@@ -5,8 +5,8 @@ date: "2025-01-26"
 timeframe: ["2025"]
 ecosystem: ["redbelly-network", "ethereum"]
 rewardedActivity: ["testnet", "social","node"]
-category: ["social","infrastructure"]
-function: ["social", "layer-1", "real-world-assets", "infrastructure", "finance", "smart-contract-platform"]
+category: ["social", "infrastructure", "rwa", "defi"]
+function: ["real-world-assets", "finance", "smart-contract-platform"]
 status: ["alive"]
 pagetype: "project"
 blockchain-stack: ["layer-1"]

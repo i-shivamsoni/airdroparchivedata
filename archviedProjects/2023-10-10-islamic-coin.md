@@ -5,8 +5,8 @@ date: "2023-10-11"
 timeframe: ["2023"]
 ecosystem: ["osmosis"]
 rewardedActivity: ["holder", "testnet"]
-category: ["defi"]
-function: ["wallets", "layer-2", "sharia-compliant", "defi", "smart-contract-platform"]
+category: ["defi", "other", "infrastructure", "scaling", "utilities"]
+function: ["wallets", "sharia-compliant", "smart-contract-platform"]
 status: ["alive"]
 pagetype: "project"
 blockchain-stack: ["layer-2"]

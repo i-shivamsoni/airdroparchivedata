@@ -5,7 +5,7 @@ date: "2025-01-30"
 timeframe: ["2025"]
 ecosystem: "solana"
 rewardedActivity: ["retroactive"]
-category: ["utilities"]
+category: ["utilities", "social"]
 function: ["identity", "decentralized-identifier"]
 status: ["alive"]
 pagetype: "project"

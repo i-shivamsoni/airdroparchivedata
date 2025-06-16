@@ -5,8 +5,8 @@ date: "2022-01-11 03:21:08 +0530"
 timeframe: ["2022"]
 ecosystem: ["ethereum"]
 rewardedActivity: ["retroactive", "nft"]
-category: ["nft","defi"]
-function: ["nft-marketplace", "nft", "marketplace"]
+category: ["nft", "defi"]
+function: ["nft-marketplace", "marketplace"]
 status: ["alive"]
 pagetype: "project"
 website: "https://looksrare.org"

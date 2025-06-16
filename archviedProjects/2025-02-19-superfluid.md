@@ -5,8 +5,8 @@ date: "2025-02-19"
 timeframe: ["2025"]
 ecosystem: ["avalanche"]
 rewardedActivity: ["retroactive"]
-category: ["defi"]
-function: ["dex", "meme", "defi", "protocol"]
+category: ["defi", "meme", "utilities"]
+function: ["dex", "protocol"]
 status: ["alive"]
 pagetype: "project"
 website: "https://superfluid.org"

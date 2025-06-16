@@ -6,7 +6,7 @@ timeframe: ["2021"]
 ecosystem: ["bnb", "ethereum"]
 rewardedActivity: ["retroactive"]
 category: ["defi"]
-function: ["defi", "aggregation", "yield"]
+function: ["aggregation", "yield"]
 status: ["alive"]
 funded-by: ["defiance-capital"]
 pagetype: "project"

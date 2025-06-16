@@ -5,8 +5,8 @@ date: "2023-12-21"
 timeframe: ["2023"]
 ecosystem: ["osmosis"]
 rewardedActivity: ["staking"]
-category: ["infrastructure"]
-function: ["staking", "infrastructure", "randomness"]
+category: ["infrastructure", "defi", "utilities"]
+function: ["staking", "randomness"]
 status: ["dead"]
 pagetype: "project"
 website: "https://nois.network"

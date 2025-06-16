@@ -5,8 +5,8 @@ date: "2021-11-10 03:21:08 +0530"
 timeframe: ["2021"]
 ecosystem: ["ethereum"]
 rewardedActivity: ["retroactive"]
-category: ["defi"]
-function: ["name-service", "naming", "decentralized-identifier", "identity", "nft"]
+category: ["defi", "social", "nft"]
+function: ["name-service", "naming", "decentralized-identifier", "identity"]
 status: ["alive"]
 pagetype: "project"
 website: "https://ens.domains"

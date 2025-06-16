@@ -5,8 +5,8 @@ date: "2024-05-29"
 timeframe: ["2024"]
 ecosystem: ["ethereum"]
 rewardedActivity: ["retroactive"]
-category: ["gaming"]
-function: ["gaming", "interoperability", "blockchain", "gamefi"]
+category: ["gaming", "infrastructure"]
+function: ["interoperability", "blockchain", "gamefi"]
 status: ["alive"]
 funded-by: ["animoca-brands", "delphi-ventures"]
 pagetype: "project"

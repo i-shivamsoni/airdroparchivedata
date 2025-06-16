@@ -5,8 +5,8 @@ date: "2024-11-27"
 timeframe: ["2023"]
 ecosystem: ["world-chain", "ethereum", "optimism-superchain", "optimism"]
 rewardedActivity: ["retroactive"]
-category: ["infrastructure"]
-function: ["decentralized-identifier", "infrastructure", "identity", "finance", "smart-contract-platform"]
+category: ["infrastructure", "social", "defi"]
+function: ["decentralized-identifier", "identity", "finance", "smart-contract-platform"]
 status: ["alive"]
 funded-by: ["coinbase-ventures", "andreessen-horowitz-a16z", "blockchain-capital", "multicoin-capital"]
 pagetype: "project"

@@ -5,8 +5,8 @@ date: "2024-09-26"
 timeframe: ["2024"]
 ecosystem: ["bnb"]
 rewardedActivity: ["retroactive"]
-category: ["nft"]
-function: ["nft", "artificial-intelligence", "ai-agents"]
+category: ["nft", "ai"]
+function: ["artificial-intelligence", "ai-agents"]
 status: ["alive"]
 pagetype: "project"
 website: "https://starrynift.com"

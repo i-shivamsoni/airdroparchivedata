@@ -5,8 +5,8 @@ date: "2022-11-28 03:21:08 +0530"
 timeframe: ["2022"]
 ecosystem: ["arbitrum", "optimism", "boba-network", "ethereum", "polygon"]
 rewardedActivity: ["retroactive"]
-category: ["infrastructure","defi"]
-function: ["bridge-governance-tokens", "cross-chain-communication", "cross-chain", "infrastructure", "liquidity", "intent"]
+category: ["infrastructure", "defi", "other"]
+function: ["bridge-governance-tokens", "cross-chain-communication", "cross-chain", "liquidity", "intent"]
 status: ["alive"]
 funded-by: ["blockchain-capital"]
 pagetype: "project"

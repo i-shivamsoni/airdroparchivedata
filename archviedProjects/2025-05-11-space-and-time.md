@@ -5,7 +5,7 @@ date: "2025-05-08"
 timeframe: ["2025"]
 ecosystem: ["ethereum"]
 rewardedActivity: ["testnet", "loyalty", "binance-alpha"]
-category: ["infrastructure"]
+category: ["infrastructure", "utilities", "privacy"]
 function: ["oracle", "database", "smart-contract-platform", "zero-knowledge"]
 status: ["alive"]
 pagetype: "project"

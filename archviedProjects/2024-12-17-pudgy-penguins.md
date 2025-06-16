@@ -5,8 +5,8 @@ date: "2024-12-17"
 timeframe: ["2024"]
 ecosystem: "solana"
 rewardedActivity: ["retroactive", "nft"]
-category: ["meme","nft"]
-function: ["airdropped-tokens-nft", "collection", "nft", "solana-meme", "meme"]
+category: ["meme", "nft"]
+function: ["airdropped-tokens-nft", "collection", "solana-meme"]
 status: ["alive"]
 pagetype: "project"
 website: "https://pudgypenguins.com/"

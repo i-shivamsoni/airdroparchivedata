@@ -6,7 +6,7 @@ timeframe: ["2024"]
 ecosystem: ["ethereum"]
 rewardedActivity: ["retroactive"]
 category: ["infrastructure"]
-function: ["infrastructure", "cross-chain"]
+function: ["cross-chain"]
 status: ["alive"]
 pagetype: "project"
 website: "https://mirror.xyz/holographxyz.eth"

@@ -5,8 +5,8 @@ date: "2022-09-27"
 timeframe: ["2022"]
 ecosystem: ["arbitrum", "fantom", "optimism", "secret", "avalanche", "bnb", "osmosis", "moonbeam", "base", "ethereum", "polygon"]
 rewardedActivity: ["retroactive"]
-category: ["infrastructure"]
-function: ["bridge-governance-tokens", "cross-chain-communication", "interoperability", "cross-chain", "infrastructure"]
+category: ["infrastructure", "defi"]
+function: ["bridge-governance-tokens", "cross-chain-communication", "interoperability", "cross-chain"]
 status: ["alive"]
 funded-by: ["polychain-capital", "galaxy-digital"]
 pagetype: "project"

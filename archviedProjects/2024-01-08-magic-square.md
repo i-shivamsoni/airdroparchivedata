@@ -5,8 +5,8 @@ date: "2024-01-08"
 timeframe: ["2024"]
 ecosystem: ["bnb"]
 rewardedActivity: ["retroactive"]
-category: ["gaming"]
-function: ["gaming", "puzzle", "blockchain", "launchpad"]
+category: ["gaming", "other", "infrastructure"]
+function: ["puzzle", "blockchain", "launchpad"]
 status: ["alive"]
 funded-by: ["yzi-labs"]
 pagetype: "project"

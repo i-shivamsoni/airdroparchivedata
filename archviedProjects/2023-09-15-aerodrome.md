@@ -6,7 +6,7 @@ timeframe: ["2023"]
 ecosystem: "base"
 rewardedActivity: ["holder"]
 category: ["defi"]
-function: ["yield-farming", "amm", "dex", "liquidity", "decentralized-finance", "defi"]
+function: ["yield-farming", "amm", "dex", "liquidity", "decentralized-finance"]
 status: ["alive"]
 pagetype: "project"
 website: "https://www.aerodrome.finance/ Known"

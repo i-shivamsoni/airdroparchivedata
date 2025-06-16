@@ -5,8 +5,9 @@ date: "2025-05-15"
 timeframe: ["2025"]
 ecosystem: ["avalanche", "bnb", "story"]
 rewardedActivity: ["binance-alpha", "gaming", "loyalty", "testnet", "kaito"]
-category: ["gaming"]
-function: ["layer-1", "gaming", "artificial-intelligence", "smart-contract-platform"]
+category: ["gaming", "ai", "infrastructure"]
+function: ["artificial-intelligence", "smart-contract-platform"]
+blockchain-stack: ["layer-1"]
 status: ["alive"]
 pagetype: "project"
 website: "https://msu.io"

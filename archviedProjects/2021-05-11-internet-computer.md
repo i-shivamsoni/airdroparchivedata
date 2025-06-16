@@ -5,12 +5,12 @@ date: "2021-05-11 03:21:08 +0530"
 timeframe: ["2018"]
 ecosystem: ["icp"]
 rewardedActivity: ["loyalty"]
-category: ["infrastructure"]
-function: ["artificial-intelligence", "layer-1", "layer-0", "infrastructure", "smart-contract-platform", "blockchain"]
+category: ["infrastructure", "ai"]
+function: ["artificial-intelligence", "smart-contract-platform", "blockchain"]
 status: ["alive"]
 funded-by: ["polychain-capital", "andreessen-horowitz-a16z", "blockchain-capital", "multicoin-capital"]
 pagetype: "project"
-blockchain-stack: ["layer-1"]
+blockchain-stack: ["layer-1", "layer-0"]
 website: "https://dfinity.org"
 ticker: "ICP"
 description: "A decentralized cloud computing platform designed to run applications on a public blockchain with high scalability and security."

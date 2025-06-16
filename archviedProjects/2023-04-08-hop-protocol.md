@@ -5,8 +5,8 @@ date: "2022-06-11 03:21:08 +0530"
 timeframe: ["2022"]
 ecosystem: ["arbitrum", "optimism", "gnosis-chain", "base", "ethereum", "polygon"]
 rewardedActivity: ["retroactive"]
-category: ["infrastructure"]
-function: ["transfer", "cross-chain", "infrastructure", "bridge-governance-tokens"]
+category: ["infrastructure", "defi"]
+function: ["transfer", "cross-chain", "bridge-governance-tokens"]
 status: ["alive"]
 pagetype: "project"
 website: "https://app.hop.exchange/"

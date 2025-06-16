@@ -5,8 +5,8 @@ date: "2025-02-15"
 timeframe: ["2025"]
 ecosystem: ["ethereum"]
 rewardedActivity: ["retroactive"]
-category: ["defi"]
-function: ["dex", "decentralized-finance", "defi", "protocol"]
+category: ["defi", "utilities"]
+function: ["dex", "decentralized-finance", "protocol"]
 status: ["alive"]
 pagetype: "project"
 website: "https://www.avalonfinance.xyz/"

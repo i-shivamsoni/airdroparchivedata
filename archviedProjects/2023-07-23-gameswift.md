@@ -5,10 +5,11 @@ date: "2023-07-23"
 timeframe: ["2023"]
 ecosystem: ["arbitrum", "ethereum", "optimism-superchain"]
 rewardedActivity: ["retroactive", "holders"]
-category: ["gaming","infrastructure"]
-function: ["gaming", "artificial-intelligence", "gaming-platform", "modular-blockchain", "infrastructure", "gamefi", "smart-contract-platform", "meme"]
+category: ["gaming", "infrastructure", "meme", "ai"]
+function: ["artificial-intelligence", "gaming-platform", "gamefi", "smart-contract-platform"]
 status: ["alive"]
 pagetype: "project"
+blockchain-type: ["modular-blockchain"]
 website: "https://gameswift.io"
 ticker: "GSWIFT"
 description: "GameSwift is a comprehensive ecosystem designed to facilitate and promote Web3 gaming, offering a modular blockchain optimized for gaming applications and a platform for game developers and players."

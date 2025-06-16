@@ -5,12 +5,13 @@ date: "2024-12-18"
 timeframe: ["2024"]
 ecosystem: ["avalanche"]
 rewardedActivity: ["retroactive"]
-category: ["scaling"]
-function: ["layer-1", "smart-contract-platform", "proof-of-stake", "blockchain"]
+category: ["scaling", "infrastructure", "defi"]
+function: ["smart-contract-platform", "blockchain"]
 status: ["alive"]
 funded-by: ["galaxy-digital", "polychain-capital", "andreessen-horowitz-a16z", "world-liberty-financial", "dragonfly-capital", "defiance-capital"]
 pagetype: "project"
-blockchain-stack: ["layer-0"]
+blockchain-stack: ["layer-0", "layer-1"]
+blockchain-type: ["proof-of-stake"]
 website: "https://avax.network"
 ticker: "AVAX"
 description: "The Avalanche Foundation is a non-profit entity that fosters the advancement and growth of the Avalanche platform for the world."

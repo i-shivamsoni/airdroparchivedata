@@ -5,12 +5,12 @@ date: "2024-01-02"
 timeframe: ["2024"]
 ecosystem: ["osmosis", "cosmos"]
 rewardedActivity: ["nft", "holder", "retroactive"]
-category: ["infrastructure"]
-function: ["modular-blockchain", "raas", "smart-contract-platform", "blockchain", "nft"]
+category: ["infrastructure", "nft", "scaling"]
+function: ["raas", "smart-contract-platform", "blockchain"]
 status: ["alive"]
 pagetype: "project"
 blockchain-stack: ["layer-1"]
-blockchain-type: ["rollup"]
+blockchain-type: ["rollup", "modular-blockchain"]
 website: "https://dymension.xyz/"
 ticker: "DYM"
 description: "A modular blockchain protocol designed to enhance scalability and interoperability by enabling the deployment of RollApps—application-specific rollups—on its network."

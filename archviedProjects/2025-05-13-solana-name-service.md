@@ -5,7 +5,7 @@ date: "2025-05-13"
 timeframe: ["2025"]
 ecosystem: ["solana"]
 rewardedActivity: ["retroactive", "holder", "loyalty"]
-category: ["infrastructure", "utilities"]
+category: ["infrastructure", "utilities", "social"]
 function: ["name-service", "domain-service", "decentralized-identifier", "naming-system"]
 status: ["alive"]
 pagetype: "project"

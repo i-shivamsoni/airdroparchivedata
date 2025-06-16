@@ -5,11 +5,12 @@ date: "2024-12-16"
 timeframe: ["2024"]
 ecosystem: ["not-known"]
 rewardedActivity: ["retroactive", "testnet"]
-category: ["privacy","infrastructure"]
-function: ["proof-of-stake", "layer-1", "interoperability", "infrastructure", "smart-contract-platform", "privacy"]
+category: ["privacy", "infrastructure", "defi"]
+function: ["interoperability", "smart-contract-platform"]
 status: ["alive"]
 pagetype: "project"
 blockchain-stack: ["layer-1"]
+blockchain-type: ["proof-of-stake"]
 website: "https://overprotocol.io"
 ticker: "OVER"
 description: "OverProtocol is a Layer 1 blockchain with lightweight nodes, allowing individuals to run validators on personal computers. It aims to create a decentralized, community-driven network."

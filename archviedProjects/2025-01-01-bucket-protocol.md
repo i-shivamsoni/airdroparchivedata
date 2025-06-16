@@ -3,7 +3,7 @@ layout: "post"
 title: "BUCKET Protocol"
 date: "2025-01-07"
 timeframe: ["2025"]
-ecosystem: ["solana"]
+ecosystem: ["sui"]
 rewardedActivity: ["retroactive"]
 category: ["defi"]
 function: [ "defi"]
@@ -12,7 +12,7 @@ pagetype: "project"
 website: "https://bucketprotocol.io/"
 ticker: " $BUT "
 description: "A next-generation Liquidity Layer on the Sui Network, allowing users to mint $BUCK stablecoin by locking assets as collateral, while unlocking opportunities for yield generation and leveraged liquidity."
----      
+---
                                                                                                                                                                                                |
 ## Airdrop Details
 

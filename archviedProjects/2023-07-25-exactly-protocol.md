@@ -6,7 +6,7 @@ timeframe: ["2023"]
 ecosystem: ["optimism"]
 rewardedActivity: ["retroactive"]
 category: ["defi"]
-function: ["defi", "lending"]
+function: ["lending"]
 status: ["alive"]
 pagetype: "project"
 website: "https://exact.ly/"

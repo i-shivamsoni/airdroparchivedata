@@ -6,7 +6,7 @@ timeframe: ["2022"]
 ecosystem: ["optimism"]
 rewardedActivity: ["retroactive"]
 category: ["defi"]
-function: ["defi", "dex"]
+function: ["dex"]
 status: ["alive"]
 pagetype: "project"
 website: "https://velodrome.finance"

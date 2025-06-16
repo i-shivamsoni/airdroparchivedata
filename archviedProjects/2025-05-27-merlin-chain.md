@@ -6,10 +6,12 @@ timeframe: ["2025"]
 ecosystem: ["bnb", "bitcoin", "ethereum", "merlin-chain"]
 rewardedActivity: ["binance-alpha"]
 category: ["scaling", "infrastructure"]
-function: ["bitcoin-sidechains", "layer-2", "sidechain", "scaling", "smart-contract-platform"]
+function: ["bitcoin-sidechains", "smart-contract-platform"]
+blockchain-stack: ["layer-2"]
 status: ["alive"]
 funded-by: ["okx-ventures"]
 pagetype: "project"
+blockchain-type: ["sidechain"]
 website: "https://merlinchain.io"
 ticker: "MERL"
 description: "Merlin Chain is a native Bitcoin Layer2 committed to empowering Bitcoin's native assets, protocols, and products on Layer1 through its Layer2 network, integrating ZK-Rollup network, decentralized oracle network, and on-chain BTC fraud proof modules."

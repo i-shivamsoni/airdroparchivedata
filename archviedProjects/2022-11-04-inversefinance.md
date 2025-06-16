@@ -5,8 +5,8 @@ date: "2022-11-04 03:21:08 +0530"
 timeframe: ["2022"]
 ecosystem: ["solana"]
 rewardedActivity: ["retroactive"]
-category: ["defi"]
-function: ["bridge-governance-tokens", "lending", "cross-chain-communication", "synthetics", "defi", "intent"]
+category: ["defi", "other", "infrastructure", "stablecoin"]
+function: ["bridge-governance-tokens", "lending", "cross-chain-communication", "synthetics", "intent"]
 status: ["alive"]
 pagetype: "project"
 website: "https://www.inverse.finance"

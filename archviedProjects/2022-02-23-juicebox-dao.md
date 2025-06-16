@@ -5,8 +5,8 @@ date: "2022-02-23 03:21:08 +0530"
 timeframe: ["2022"]
 ecosystem: ["ethereum"]
 rewardedActivity: ["retroactive"]
-category: ["defi"]
-function: ["fundraising", "dao", "defi"]
+category: ["defi", "other"]
+function: ["fundraising", "dao"]
 status: ["alive"]
 pagetype: "project"
 website: "https://juicebox.money/"

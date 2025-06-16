@@ -6,7 +6,7 @@ timeframe: ["2025"]
 ecosystem: ["base"]
 rewardedActivity: ["retroactive"]
 category: ["defi"]
-function: ["decentralized-finance", "defi", "dex-aggregator", "dex"]
+function: ["decentralized-finance", "dex-aggregator", "dex"]
 status: ["alive"]
 pagetype: "project"
 website: "https://definitive.fi"

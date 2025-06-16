@@ -6,7 +6,7 @@ timeframe: ["2020"]
 ecosystem: ["ethereum", "polygon"]
 rewardedActivity: ["retroactive"]
 category: ["defi"]
-function: ["asset-manager", "index", "tokens", "decentralized-finance", "defi", "metagovernance"]
+function: ["asset-manager", "index", "tokens", "decentralized-finance", "metagovernance"]
 status: ["alive"]
 funded-by: ["sequoia-capital", "defiance-capital", "blockchain-capital", "galaxy-digital"]
 pagetype: "project"

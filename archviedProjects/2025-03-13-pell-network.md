@@ -5,7 +5,7 @@ date: "2025-03-13"
 timeframe: ["2025"]
 ecosystem: ["core", "arbitrum", "bitlayer", "bnb", "bitcoin", "ethereum"]
 rewardedActivity: ["retroactive"]
-category: ["defi"]
+category: ["defi", "ai"]
 function: ["restaking", "defai", "staking"]
 status: ["alive"]
 pagetype: "project"

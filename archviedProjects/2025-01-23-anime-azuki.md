@@ -3,13 +3,13 @@ layout: "post"
 title: "Anime Azuki"
 date: "2025-01-23"
 timeframe: ["2025"]
-ecosystem: ["arbitrum", "ethereum"]
+ecosystem: ["arbitrum", "ethereum","arbitrum-orbit"]
 rewardedActivity: ["nft", "holder","kaito-yapping"]
-category: ["social","nft"]
-function: ["community", "airdropped-tokens-nft", "social", "anime-themed", "nft", "meme"]
+category: ["social", "nft", "meme"]
+function: ["community", "airdropped-tokens-nft", "anime-themed"]
 status: ["alive"]
 pagetype: "project"
-blockchain-type: ["arbitrum-orbit"]
+blockchain-type: ["rollup"]
 website: "https://www.anime.xyz/"
 ticker: "ANIME"
 description: "ANIME coin is the gas token for Animechain, an L3 blockchain using Arbitrum Orbit to enable gasless transactions. Backed by Azuki"

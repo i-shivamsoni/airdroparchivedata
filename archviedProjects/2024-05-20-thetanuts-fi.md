@@ -6,7 +6,7 @@ timeframe: ["2024"]
 ecosystem: ["ethereum"]
 rewardedActivity: ["retroactive"]
 category: ["defi"]
-function: ["restaking", "derivatives", "options", "decentralized-finance", "defi", "lrtfi"]
+function: ["restaking", "derivatives", "options", "decentralized-finance", "lrtfi"]
 status: ["alive"]
 pagetype: "project"
 website: "https://thetanuts.finance"

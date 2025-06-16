@@ -6,7 +6,7 @@ timeframe: ["2024"]
 ecosystem: ["bnb"]
 rewardedActivity: ["retroactive"]
 category: ["defi"]
-function: ["yield", "lending-borrowing-protocols", "aggregation", "liquid-staking", "liquid-staking-tokens", "decentralized-finance", "defi"]
+function: ["yield", "lending-borrowing-protocols", "aggregation", "liquid-staking", "liquid-staking-tokens", "decentralized-finance"]
 status: ["alive"]
 pagetype: "project"
 website: "https://listadao.org"

@@ -5,10 +5,12 @@ date: "2024-10-14"
 timeframe: ["2024"]
 ecosystem: ["bnb", "ethereum"]
 rewardedActivity: ["retroactive", "binance-alpha"]
-category: ["defi"]
-function: ["yield", "restaking", "rollup", "layer-2", "liquid-restaking-governance-tokens", "liquid-staking", "defi", "smart-contract-platform"]
+category: ["defi", "infrastructure", "scaling"]
+function: ["yield", "restaking", "liquid-restaking-governance-tokens", "liquid-staking", "smart-contract-platform"]
+blockchain-stack: ["layer-2"]
 status: ["alive"]
 pagetype: "project"
+blockchain-type: ["rollup"]
 website: "https://www.puffer.fi/"
 ticker: "PUFFER"
 description: "Puffer Finance is a decentralized Ethereum infrastructure protocol focused on liquid restaking (LRT) and preconfirmation services, including Puffer UniFi and UniFi AVS."

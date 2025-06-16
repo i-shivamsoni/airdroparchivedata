@@ -5,8 +5,8 @@ date: "2023-05-22"
 timeframe: ["2023"]
 ecosystem: ["arbitrum", "ethereum", "polygon"]
 rewardedActivity: ["retroactive"]
-category: ["defi"]
-function: ["artificial-intelligence", "amm", "dex", "decentralized-finance", "defi"]
+category: ["defi", "ai"]
+function: ["artificial-intelligence", "amm", "dex", "decentralized-finance"]
 status: ["alive"]
 pagetype: "project"
 website: "https://virtuswap.io"

@@ -6,7 +6,7 @@ timeframe: ["2022"]
 ecosystem: ["pulsechain"]
 rewardedActivity: ["retroactive"]
 category: ["defi"]
-function: ["defi", "diversification", "yield"]
+function: ["diversification", "yield"]
 status: ["dead"]
 pagetype: "project"
 website: "https://gro.xyz/"

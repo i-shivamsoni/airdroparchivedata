@@ -6,7 +6,7 @@ timeframe: ["2022"]
 ecosystem: ["not-known"]
 rewardedActivity: ["holder", "staking"]
 category: ["defi"]
-function: ["defi", "dex", "staking"]
+function: ["dex", "staking"]
 status: ["alive"]
 pagetype: "project"
 website: "https://diffusion.fi"
@@ -14,6 +14,7 @@ ticker: "DIFF"
 description: "A decentralized automated market maker (AMM) built on the Evmos blockchain, aiming to bring Uniswap-like functionality to the Cosmos ecosystem."
 last_updated: "2025-06-14T14:26:23.306817Z"
 mis-data-source: "manual"
+manual_source: "https://airdroparchive.com"
 # miscellaneous data source section
 manual_id: "diffusion-finance"
 current_price: 0

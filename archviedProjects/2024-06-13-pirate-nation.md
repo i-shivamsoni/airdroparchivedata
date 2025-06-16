@@ -5,8 +5,8 @@ date: "2024-06-13"
 timeframe: ["2024"]
 ecosystem: ["ethereum"]
 rewardedActivity: ["free", "retroactive"]
-category: ["gaming"]
-function: ["gaming", "action-games", "play-to-earn", "rpg", "gamefi", "nft"]
+category: ["gaming", "nft"]
+function: ["action-games", "play-to-earn", "rpg", "gamefi"]
 status: ["alive"]
 funded-by: ["andreessen-horowitz-a16z"]
 pagetype: "project"

@@ -5,8 +5,8 @@ date: "2024-06-18"
 timeframe: ["2024"]
 ecosystem: ["ethereum"]
 rewardedActivity: ["not-known"]
-category: ["privacy","infrastructure"]
-function: ["artificial-intelligence", "development", "ai-framework", "infrastructure", "privacy"]
+category: ["privacy", "infrastructure", "ai", "utilities"]
+function: ["artificial-intelligence", "development", "ai-framework"]
 status: ["alive"]
 pagetype: "project"
 website: "https://mystiko.network"

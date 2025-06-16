@@ -6,7 +6,7 @@ timeframe: ["2021"]
 ecosystem: ["arbitrum", "optimism", "gnosis-chain", "world-chain", "base", "ethereum", "polygon", "scroll"]
 rewardedActivity: ["retroactive"]
 category: ["defi"]
-function: ["decentralized-finance", "defi", "lottery", "decentralized-lottery"]
+function: ["decentralized-finance", "lottery", "decentralized-lottery"]
 status: ["alive"]
 funded-by: ["consensys", "dragonfly-capital", "galaxy-digital"]
 pagetype: "project"

@@ -7,7 +7,7 @@ ecosystem: ["arbitrum", "optimism", "bnb", "base", "ethereum"]
 rewardedActivity:
   ["retroactive", "staking", "liquidity", "nft", "testnet", "dev-work"]
 category: ["infrastructure", "scaling"]
-function: ["cross-chain-communication", "interoperability", "bridge", "infrastructure"]
+function: ["cross-chain-communication", "interoperability", "bridge"]
 status: ["alive"]
 pagetype: "project"
 website: "https://hyperlane.xyz"
