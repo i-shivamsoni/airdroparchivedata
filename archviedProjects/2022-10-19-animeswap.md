@@ -14,7 +14,6 @@ ticker: "ANI"
 description: "A decentralized exchange on the Aptos blockchain that facilitates liquidity provision, staking, farming, and governance."
 mis-data-source: "coingecko"
 last_updated: "2025-06-17T23:16:59.829Z"
-# miscellaneous data source section
 coingecko_id: "animeswap"
 current_price: 0.00020017
 market_cap: 0.0

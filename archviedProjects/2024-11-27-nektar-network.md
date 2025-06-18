@@ -13,21 +13,20 @@ website: "https://nektar.network"
 ticker: "NET"
 description: "A decentralized protocol designed to connect Networks, Operators, and Delegators in a community-driven platform for decentralized infrastructure."
 mis-data-source: "coingecko"
-last_updated: "2025-05-29T19:32:03.443Z"
-# miscellaneous data source section
+last_updated: "2025-06-18T06:27:02.116Z"
 coingecko_id: "nektar-network"
-current_price: 8.5e-06
-market_cap: 3554.68
-market_cap_rank: 10223
-fully_diluted_valuation: 8502.41
+current_price: 3.497e-05
+market_cap: 14624.36
+market_cap_rank: 9149
+fully_diluted_valuation: 34980
 circulating_supply: 418079237.3748351
 total_supply: 1000000000.0
 max_supply: 1000000000.0
 ath: 0.099867
-ath_change_percentage: -99.99149
+ath_change_percentage: -99.96498
 ath_date: "2024-12-03T17:16:36.223Z"
 atl: 8.5e-06
-atl_change_percentage: 0.01065
+atl_change_percentage: 311.32823
 atl_date: "2025-05-29T09:25:43.594Z"
 ---
 
