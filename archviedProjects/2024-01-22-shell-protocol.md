@@ -14,20 +14,21 @@ website: "https://shellprotocol.io"
 ticker: "SHELL"
 description: "A decentralized finance protocol designed for trading, lending, and NFT sales, with governance through the Shell DAO."
 mis-data-source: "coingecko"
-last_updated: "2025-06-18T06:28:02.636Z"
+last_updated: "2025-06-18T12:39:13.653Z"
+# miscellaneous data source section
 coingecko_id: "myshell"
-current_price: 0.141212
-market_cap: 38127294
-market_cap_rank: 796
-fully_diluted_valuation: 141212199
+current_price: 0.135422
+market_cap: 36571509
+market_cap_rank: 810
+fully_diluted_valuation: 135450034
 circulating_supply: 270000000.0
 total_supply: 1000000000.0
 max_supply: 1000000000.0
 ath: 0.68342
-ath_change_percentage: -79.33743
+ath_change_percentage: -80.14359
 ath_date: "2025-02-27T18:46:13.395Z"
 atl: 0.109602
-atl_change_percentage: 28.84037
+atl_change_percentage: 23.81359
 atl_date: "2025-04-14T16:31:15.771Z"
 ---
 
