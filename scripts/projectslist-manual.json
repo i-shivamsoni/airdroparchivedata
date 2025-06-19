@@ -26,6 +26,11 @@
       "manual_id": "sirath"
     },
     {
+      "filename": "2024-01-22-shell-protocol.md",
+      "title": "Shell Protocol",
+      "manual_id": "shell-protocol"
+    },
+    {
       "filename": "2022-04-19-raw.md",
       "title": "Raw",
       "manual_id": "raw"
@@ -76,6 +81,6 @@
       "manual_id": "side-protocol"
     }
   ],
-  "total_count": 15,
+  "total_count": 16,
   "data_source": "manual"
 }

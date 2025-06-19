@@ -416,11 +416,6 @@
       "id": "aleo"
     },
     {
-      "filename": "2024-01-22-shell-protocol.md",
-      "title": "Shell Protocol",
-      "id": "myshell"
-    },
-    {
       "filename": "2025-05-14-privasea-ai.md",
       "title": "Privasea AI",
       "id": "privasea-ai"
@@ -1492,8 +1487,8 @@
     },
     {
       "filename": "2022-11-04-inversefinance.md",
-      "title": "InverseFinance",
-      "id": "debridge"
+      "title": "Inverse Finance",
+      "id": "inverse-finance"
     },
     {
       "filename": "2024-10-17-debridge.md",
@@ -1597,8 +1592,8 @@
     },
     {
       "filename": "2025-03-25-aligned-layer.md",
-      "title": "zkSync",
-      "id": "zksync"
+      "title": "Aligned Layer",
+      "id": "aligned"
     },
     {
       "filename": "2025-05-17-revox.md",
@@ -1736,6 +1731,6 @@
       "id": "ethena"
     }
   ],
-  "total_count": 347,
+  "total_count": 346,
   "data_source": "coingecko"
 }
