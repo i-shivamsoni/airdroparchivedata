@@ -1,25 +1,24 @@
 ---
 layout: "post"
-title: "InverseFinance"
+title: "Inverse Finance"
 date: "2022-11-04 03:21:08 +0530"
 timeframe: ["2022"]
-ecosystem: ["solana"]
+ecosystem: ["ethereum"]
 rewardedActivity: ["retroactive"]
-category: ["defi", "other", "infrastructure", "stablecoin"]
-function: ["bridge-governance-tokens", "lending", "cross-chain-communication", "synthetics", "intent"]
+category: ["defi"]
+function: ["ield-farming" ,"yield-aggregator", "lending"]
 status: ["alive"]
 pagetype: "project"
 website: "https://www.inverse.finance"
 ticker: "DBR"
 description: "A decentralized finance (DeFi) platform offering lending and borrowing solutions, including the DOLA stablecoin and DBR borrowing rights."
 mis-data-source: "coingecko"
-last_updated: "2025-06-19T12:38:45.390Z"
-# miscellaneous data source section
-coingecko_id: "debridge"
-current_price: 0.01382714
-market_cap: 40247280
-market_cap_rank: 784
-fully_diluted_valuation: 138270254
+last_updated: "2025-06-16T12:39:49.742Z"
+coingecko_id: "inverse-finance"
+current_price: 0.01418559
+market_cap: 41293811
+market_cap_rank: 782
+fully_diluted_valuation: 141865631
 circulating_supply: 2910769231.0
 total_supply: 10000000000.0
 max_supply: 10000000000.0

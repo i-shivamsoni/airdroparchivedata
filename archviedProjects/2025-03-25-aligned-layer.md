@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "zkSync"
+title: "Aligned Layer"
 date: "2024-06-17"
 timeframe: ["2024"]
 ecosystem: ["zksync", "ethereum"]
@@ -15,22 +15,21 @@ website: "https://alignedfoundation.org"
 ticker: "ALIGN"
 description: "A foundation dedicated to supporting and advancing projects within the Ethereum and Zero Knowledge (ZK) ecosystems."
 mis-data-source: "coingecko"
-last_updated: "2025-06-19T12:38:51.052Z"
-# miscellaneous data source section
-coingecko_id: "zksync"
-current_price: 0.04582889
-market_cap: 168441404
-market_cap_rank: 313
-fully_diluted_valuation: 962522311
-circulating_supply: 3675000000.0
-total_supply: 21000000000.0
-max_supply: 21000000000.0
-ath: 0.320983
-ath_change_percentage: -85.69852
-ath_date: "2024-06-17T07:44:40.385Z"
-atl: 0.04150724
-atl_change_percentage: 10.59575
-atl_date: "2025-04-15T13:41:54.850Z"
+last_updated: "2025-06-16T12:39:41.255Z"
+coingecko_id: "aligned"
+current_price: 0
+market_cap: 0
+market_cap_rank: 0
+fully_diluted_valuation: 0
+circulating_supply: 0.
+total_supply: 0
+max_supply: 0
+ath: 0
+ath_change_percentage: 0
+ath_date: "null"
+atl: 0.0
+atl_change_percentage: 0
+atl_date: "null"
 ---
 
 ## Airdrop Details
