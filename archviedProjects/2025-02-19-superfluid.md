@@ -13,21 +13,20 @@ website: "https://superfluid.org"
 ticker: "SUP"
 description: "Superfluid is a protocol enabling real-time financial transactions, allowing money to be streamed continuously over time."
 mis-data-source: "coingecko"
-last_updated: "2025-06-19T18:24:46.365Z"
-# miscellaneous data source section
+last_updated: "2025-06-20T01:35:16.666Z"
 coingecko_id: "supcoin"
 current_price: 1.09e-06
 market_cap: 0.0
 market_cap_rank: null
-fully_diluted_valuation: 109053
+fully_diluted_valuation: 109071
 circulating_supply: 0.0
 total_supply: 100000000000.0
 max_supply: 100000000000.0
 ath: 1.274e-05
-ath_change_percentage: -91.4383
+ath_change_percentage: -91.43582
 ath_date: "2025-04-30T16:44:37.377Z"
 atl: 8.96417e-07
-atl_change_percentage: 21.65623
+atl_change_percentage: 21.69144
 atl_date: "2025-06-06T02:28:49.987Z"
 ---
 
