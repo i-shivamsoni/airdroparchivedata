@@ -75,7 +75,7 @@ Users must have participated in the **Superform Safari campaign**, with a focus 
 ## Important Links
 
 - **Price Tracking:** [CoinMarketCap](https://coinmarketcap.com/currencies/piggy)
-- **Price Tracking:** [CoinGecko](https://www.coingecko.com/en/coins/piggy)
+- **Price Tracking:** [CoinGecko](https://www.coingecko.com/en/coins/piggy-2)
 - **Official Announcement:** [Superform $PIGGY Airdrop Announcement](https://x.com/superformxyz/status/1861092778408865956)
 - **Claim $PIGGY Tokens:** [Superform $PIGGY Claim Page](https://www.superform.xyz/piggy/claim/)
 - **$PIGGY Contract on Base:** [0xe3CF8dBcBDC9B220ddeaD0bD6342E245DAFF934d](https://basescan.org/address/0xe3CF8dBcBDC9B220ddeaD0bD6342E245DAFF934d)

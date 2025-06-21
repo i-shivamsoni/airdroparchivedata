@@ -14,7 +14,7 @@ ticker: "CODE"
 description: "A decentralized community focused on helping developers embrace web3 and blockchain technology."
 last_updated: "2025-06-14T14:26:23.306991Z"
 mis-data-source: "manual"
-manual_source: "https://airdroparchive.com"
+manual_source: "https://web.archive.org/web/20230408044655/https://coinmarketcap.com/currencies/developer-dao-code/"
 # miscellaneous data source section
 manual_id: "developer-dao"
 current_price: 0
@@ -22,11 +22,11 @@ market_cap: 0
 market_cap_rank: 0
 fully_diluted_valuation: 0
 circulating_supply: 0
-total_supply: 0
+total_supply: 10000000
 max_supply: 0
-ath: 0
-ath_change_percentage: 0
-ath_date: "null"
+ath: 0.732
+ath_change_percentage: -100
+ath_date: "2022-08-26"
 atl: 0
 atl_change_percentage: 0
 atl_date: "null"

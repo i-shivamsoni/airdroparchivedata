@@ -14,19 +14,19 @@ ticker: "ZZ"
 description: "A decentralized order book exchange utilizing zkRollups for fast and low-cost trading."
 last_updated: "2025-06-14T14:26:23.307138Z"
 mis-data-source: "manual"
-manual_source: "https://airdroparchive.com"
+manual_source: "https://web.archive.org/web/20241015083901/https://www.coingecko.com/en/coins/zigzag"
 # miscellaneous data source section
 manual_id: "zigzag-exchange"
 current_price: 0
 market_cap: 0
 market_cap_rank: 0
 fully_diluted_valuation: 0
-circulating_supply: 0
-total_supply: 0
-max_supply: 0
-ath: 0
-ath_change_percentage: 0
-ath_date: "null"
+circulating_supply: 63634893
+total_supply: 100000000
+max_supply: 100000000
+ath: 5.48
+ath_change_percentage: -100
+ath_date: "2022-12-12"
 atl: 0
 atl_change_percentage: 0
 atl_date: "null"

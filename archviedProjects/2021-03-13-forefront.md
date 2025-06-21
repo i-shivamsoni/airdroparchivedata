@@ -9,24 +9,24 @@ category: ["defi", "social", "other"]
 function: ["venture-capital", "community"]
 status: ["alive"]
 pagetype: "project"
-website: "https://forefront.gitbook.io/forefront/token-distribution/community-airdrop"
+website: "https://forefront.news/"
 ticker: "FF"
 description: "A community-driven platform and marketplace for social tokens and Web3 communities."
 last_updated: "2025-06-14T14:26:23.306236Z"
 mis-data-source: "manual"
-manual_source: "https://airdroparchive.com"
+manual_source: "https://web.archive.org/web/20230928200124/https://www.coingecko.com/en/coins/forefront
 # miscellaneous data source section
 manual_id: "forefront"
 current_price: 0
 market_cap: 0
 market_cap_rank: 0
 fully_diluted_valuation: 0
-circulating_supply: 0
-total_supply: 0
-max_supply: 0
-ath: 0
-ath_change_percentage: 0
-ath_date: "null"
+circulating_supply: 862384
+total_supply: 10000000
+max_supply: 10000000
+ath: 9.05
+ath_change_percentage: -100
+ath_date: "2021-08-26"
 atl: 0
 atl_change_percentage: 0
 atl_date: "null"

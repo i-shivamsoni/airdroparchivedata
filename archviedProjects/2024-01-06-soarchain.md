@@ -14,22 +14,23 @@ ticker: "SOAR"
 description: "A layer-1 mobility-based Decentralized Physical Infrastructure Network (DePIN) designed to connect mobility participants and leverage vehicle-generated data for real-world applications."
 last_updated: "2025-06-14T14:26:23.307452Z"
 mis-data-source: "manual"
-manual_source: "https://airdroparchive.com"
+manual_source: "https://coinmarketcap.com/currencies/soarchain/
 # miscellaneous data source section
 manual_id: "soarchain"
-current_price: 0
-market_cap: 0
+current_price: 0.003332
+market_cap: 335460
 market_cap_rank: 0
-fully_diluted_valuation: 0
-circulating_supply: 0
-total_supply: 0
+fully_diluted_valuation: 6330000
+circulating_supply: 100660000
+total_supply: 1900000000
 max_supply: 0
-ath: 0
-ath_change_percentage: 0
-ath_date: "null"
-atl: 0
-atl_change_percentage: 0
-atl_date: "null"
+ath: 0.02481
+ath_change_percentage: -86.58
+ath_date: "2025-01-06"
+atl: 0.002337
+atl_change_percentage: 42.46
+atl_date: "2025-05-12"
+
 ---
 
 ## Airdrop Details
