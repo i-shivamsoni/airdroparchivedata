@@ -11,6 +11,16 @@
       "manual_id": "lotto-finance"
     },
     {
+      "filename": "2021-03-13-forefront.md",
+      "title": "ForeFront",
+      "manual_id": "forefront"
+    },
+    {
+      "filename": "2024-01-06-soarchain.md",
+      "title": "Soarchain",
+      "manual_id": "soarchain"
+    },
+    {
       "filename": "2025-03-26-goodog.md",
       "title": "GooDog",
       "manual_id": "goodog"
@@ -76,6 +86,6 @@
       "manual_id": "side-protocol"
     }
   ],
-  "total_count": 15,
+  "total_count": 17,
   "data_source": "manual"
 }
