@@ -14,7 +14,7 @@ ticker: "FF"
 description: "A community-driven platform and marketplace for social tokens and Web3 communities."
 last_updated: "2025-06-14T14:26:23.306236Z"
 mis-data-source: "manual"
-manual_source: "https://web.archive.org/web/20230928200124/https://www.coingecko.com/en/coins/forefront
+manual_source: "https://web.archive.org/web/20230928200124/https://www.coingecko.com/en/coins/forefront"
 # miscellaneous data source section
 manual_id: "forefront"
 current_price: 0
