@@ -12,6 +12,12 @@ pagetype: "project"
 website: "https://soarchain.com"
 ticker: "SOAR"
 description: "A layer-1 mobility-based Decentralized Physical Infrastructure Network (DePIN) designed to connect mobility participants and leverage vehicle-generated data for real-world applications."
+# listing data
+listing_date: "2025-01-07"
+listing_high: 0.02059,
+listing_open: 0.02059,
+listing_avg: 0.019245
+
 last_updated: "2025-06-14T14:26:23.307452Z"
 mis-data-source: "manual"
 manual_source: "https://coinmarketcap.com/currencies/soarchain/
