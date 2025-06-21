@@ -13,21 +13,20 @@ website: "https://spartadex.io/"
 ticker: "SPARTA"
 description: "SpartaDEX is a gamified decentralized exchange (DEX) operating on the Arbitrum network. It uniquely combines gaming elements with DeFi protocols, offering users advanced monetization opportunities and an engaging experience."
 mis-data-source: "coingecko"
-last_updated: "2025-06-21T06:08:14.593Z"
-# miscellaneous data source section
+last_updated: "2025-06-21T12:32:58.934Z"
 coingecko_id: "spartadex"
-current_price: 0.00231489
-market_cap: 91950
+current_price: 0.00230714
+market_cap: 91641
 market_cap_rank: 6750
-fully_diluted_valuation: 91950
+fully_diluted_valuation: 91641
 circulating_supply: 39720895.81230459
 total_supply: 39720895.81230459
 max_supply: 39720895.81230459
 ath: 1.3
-ath_change_percentage: -99.82247
+ath_change_percentage: -99.82304
 ath_date: "2023-12-16T13:10:48.515Z"
 atl: 0.00225177
-atl_change_percentage: 2.79318
+atl_change_percentage: 2.4594
 atl_date: "2025-06-18T14:10:49.936Z"
 ---
 
