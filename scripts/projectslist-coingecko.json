@@ -76,11 +76,6 @@
       "id": "tomochain"
     },
     {
-      "filename": "2025-02-19-superfluid.md",
-      "title": "Superfluid",
-      "id": "supcoin"
-    },
-    {
       "filename": "2024-11-28-bluefin.md",
       "title": "Bluefin",
       "id": "bluefin"
@@ -371,11 +366,6 @@
       "id": "pontem-liquidswap"
     },
     {
-      "filename": "2025-03-13-definitivefi-.md",
-      "title": "DefinitiveFi",
-      "id": "definitive"
-    },
-    {
       "filename": "2025-01-21-obol-collective.md",
       "title": "Obol Collective",
       "id": "obol-2"
@@ -469,6 +459,11 @@
       "filename": "2024-05-10-eigenlayer.md",
       "title": "EigenLayer",
       "id": "eigenlayer"
+    },
+    {
+      "filename": "2025-03-13-definitivefi.md",
+      "title": "DefinitiveFi",
+      "id": "definitive"
     },
     {
       "filename": "2024-09-26-starrynift.md",
@@ -1731,6 +1726,6 @@
       "id": "ethena"
     }
   ],
-  "total_count": 346,
+  "total_count": 345,
   "data_source": "coingecko"
 }

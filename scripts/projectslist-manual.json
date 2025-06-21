@@ -1,19 +1,14 @@
 {
   "projects": [
     {
+      "filename": "2025-02-19-superfluid.md",
+      "title": "Superfluid",
+      "manual_id": "superfluid"
+    },
+    {
       "filename": "2021-01-28-lotto-finance.md",
       "title": "Lotto Finance",
       "manual_id": "lotto-finance"
-    },
-    {
-      "filename": "2021-03-13-forefront.md",
-      "title": "ForeFront",
-      "manual_id": "forefront"
-    },
-    {
-      "filename": "2024-01-06-soarchain.md",
-      "title": "Soarchain",
-      "manual_id": "soarchain"
     },
     {
       "filename": "2025-03-26-goodog.md",
@@ -81,6 +76,6 @@
       "manual_id": "side-protocol"
     }
   ],
-  "total_count": 16,
+  "total_count": 15,
   "data_source": "manual"
 }
