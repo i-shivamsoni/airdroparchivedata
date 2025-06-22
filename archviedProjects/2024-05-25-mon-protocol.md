@@ -14,21 +14,20 @@ website: "https://www.monprotocol.ai"
 ticker: "MON"
 description: "A social and gaming questing platform rewarding participants based on engagement, referrals, and gaming/social impact."
 mis-data-source: "coingecko"
-last_updated: "2025-06-22T06:26:11.449Z"
-# miscellaneous data source section
+last_updated: "2025-06-22T06:54:19.480Z"
 coingecko_id: "mon-protocol"
-current_price: 0.01981413
-market_cap: 8180766
-market_cap_rank: 1652
-fully_diluted_valuation: 19808657
+current_price: 0.01992537
+market_cap: 8224475
+market_cap_rank: 1649
+fully_diluted_valuation: 19914492
 circulating_supply: 412790134.19666666
 total_supply: 999517431.0
 max_supply: 1000000000.0
 ath: 0.686349
-ath_change_percentage: -97.12074
+ath_change_percentage: -97.09139
 ath_date: "2024-05-27T10:01:13.878Z"
 atl: 0.01852497
-atl_change_percentage: 6.67657
+atl_change_percentage: 7.76389
 atl_date: "2025-06-13T14:47:42.552Z"
 ---
 
