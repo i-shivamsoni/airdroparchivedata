@@ -15,11 +15,10 @@ ticker: "$UP"
 description: "A decentralized protocol for memberships, subscriptions, and ticketing onchain, enabling creators and developers to monetize access to their communities."
 mis-data-source: "coingecko"
 last_updated: "2025-06-22T10:09:04.089Z"
-# miscellaneous data source section
 coingecko_id: "unlockprotocoltoken"
 current_price: 0.00550773
 market_cap: 1536702
-market_cap_rank: 3070
+market_cap_rank: 3058
 fully_diluted_valuation: 5507727
 circulating_supply: 279008436.6347107
 total_supply: 1000000000.0
