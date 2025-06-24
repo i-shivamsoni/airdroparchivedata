@@ -3,7 +3,7 @@ layout: "post"
 title: "YieldNest"
 date: "2025-06-05"
 timeframe: ["2025"]
-ecosystem: ["bnb, ethereum"]
+ecosystem: ["bnb", "ethereum"]
 rewardedActivity: ["loyalty", "testnet", "holder", "quest"]
 category: ["defi"]
 function: ["decentralized-finance, liquid-staking-governance-tokens, liquid-restaking-governance-tokens"]
