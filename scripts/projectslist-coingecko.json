@@ -496,6 +496,11 @@
       "id": "starrynift"
     },
     {
+      "filename": "2025-06-24-mango-network.md",
+      "title": "Mango Network",
+      "id": "mango-network"
+    },
+    {
       "filename": "2025-04-10-babylon.md",
       "title": "Babylon",
       "id": "babylon"
@@ -1791,6 +1796,6 @@
       "id": "ethena"
     }
   ],
-  "total_count": 358,
+  "total_count": 359,
   "data_source": "coingecko"
 }
