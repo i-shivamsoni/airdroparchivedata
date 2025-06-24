@@ -14,21 +14,20 @@ website: "https://www.goldfinch.finance/"
 ticker: "GFI"
 description: "A decentralized credit protocol aiming to expand financial inclusion by enabling loans without collateral."
 mis-data-source: "coingecko"
-last_updated: "2025-06-24T06:28:04.184Z"
-# miscellaneous data source section
+last_updated: "2025-06-24T12:39:11.631Z"
 coingecko_id: "goldfinch"
-current_price: 0.67483
-market_cap: 62749752
-market_cap_rank: 608
-fully_diluted_valuation: 77185412
+current_price: 0.669333
+market_cap: 62177146
+market_cap_rank: 610
+fully_diluted_valuation: 76481078
 circulating_supply: 92911341.81746568
 total_supply: 114285714.0
 max_supply: 114285714.0
 ath: 32.94
-ath_change_percentage: -97.95182
+ath_change_percentage: -97.95967
 ath_date: "2022-01-11T21:23:15.079Z"
 atl: 0.290236
-atl_change_percentage: 132.42557
+atl_change_percentage: 131.5351
 atl_date: "2023-06-19T16:10:16.753Z"
 ---
 
