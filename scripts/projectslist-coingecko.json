@@ -151,6 +151,11 @@
       "id": "lista"
     },
     {
+      "filename": "2025-06-24-newton-protocol.md",
+      "title": "Newton Protocol",
+      "id": "newton-protocol"
+    },
+    {
       "filename": "2024-01-09-degen.md",
       "title": "Degen",
       "id": "degen-base"
@@ -1796,6 +1801,6 @@
       "id": "ethena"
     }
   ],
-  "total_count": 359,
+  "total_count": 360,
   "data_source": "coingecko"
 }
