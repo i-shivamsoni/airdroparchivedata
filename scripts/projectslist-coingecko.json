@@ -51,6 +51,16 @@
       "id": "rivalz-network"
     },
     {
+      "filename": "2025-06-22-artela-network.md",
+      "title": "Artela Network",
+      "id": "artela-network"
+    },
+    {
+      "filename": "2025-06-24-humanity.md",
+      "title": "Humanity",
+      "id": "humanity"
+    },
+    {
       "filename": "2025-01-24-spheron-network.md",
       "title": "Spheron Network",
       "id": "spheron-network"
@@ -74,6 +84,11 @@
       "filename": "2025-01-05-viction.md",
       "title": "Viction",
       "id": "tomochain"
+    },
+    {
+      "filename": "2025-06-22.blum.md",
+      "title": "Blum",
+      "id": "blum"
     },
     {
       "filename": "2024-11-28-bluefin.md",
@@ -154,6 +169,11 @@
       "filename": "2025-05-20-giza.md",
       "title": "Giza",
       "id": "giza"
+    },
+    {
+      "filename": "2025-06-10-defi-app.md",
+      "title": "Defi App",
+      "id": "home"
     },
     {
       "filename": "2020-12-03-mirror-protocol.md",
@@ -846,6 +866,11 @@
       "id": "tornado-cash"
     },
     {
+      "filename": "2025-06-22-sonic.md",
+      "title": "Sonic",
+      "id": "sonic-3"
+    },
+    {
       "filename": "2022-03-31-optimism.md",
       "title": "Optimism",
       "id": "optimism"
@@ -944,6 +969,11 @@
       "filename": "2021-04-21-ampleforth.md",
       "title": "Ampleforth",
       "id": "ampleforth-governance-token"
+    },
+    {
+      "filename": "2025-06-04-lagrange.md",
+      "title": "Lagrange",
+      "id": "lagrange"
     },
     {
       "filename": "2024-08-24-orderly.md",
@@ -1256,9 +1286,19 @@
       "id": "sail-2"
     },
     {
+      "filename": "2025-06-22-redbrick.md",
+      "title": "Redbrick",
+      "id": "redbrick"
+    },
+    {
       "filename": "2024-03-12-memeland.md",
       "title": "Memeland",
       "id": "memecoin-2"
+    },
+    {
+      "filename": "2025-06-07-fly-trade.md",
+      "title": "Fly",
+      "id": "fly-2"
     },
     {
       "filename": "2023-03-22-space-id.md",
@@ -1526,6 +1566,11 @@
       "id": "suins-token"
     },
     {
+      "filename": "2025-06-05-yieldnest.md",
+      "title": "YieldNest",
+      "id": "yieldnest"
+    },
+    {
       "filename": "2024-01-18-manta.md",
       "title": "Manta",
       "id": "manta-network"
@@ -1534,6 +1579,11 @@
       "filename": "2021-05-11-dfyn.md",
       "title": "DFYN",
       "id": "dfyn-network"
+    },
+    {
+      "filename": "2025-06-17-spark-fi.md",
+      "title": "Spark",
+      "id": "spark-2"
     },
     {
       "filename": "2021-11-10-ens-domain.md",
@@ -1636,9 +1686,19 @@
       "id": "jupiter"
     },
     {
+      "filename": "2025-06-09-skate.md",
+      "title": "Skate",
+      "id": "skate"
+    },
+    {
       "filename": "2025-02-20-pi-network.md",
       "title": "Pi Network",
       "id": "pi-network"
+    },
+    {
+      "filename": "2025-06-24-delorean.md",
+      "title": "DeLorean",
+      "id": "delorean"
     },
     {
       "filename": "2024-03-05-bonsai.md",
@@ -1731,6 +1791,6 @@
       "id": "ethena"
     }
   ],
-  "total_count": 346,
+  "total_count": 358,
   "data_source": "coingecko"
 }
