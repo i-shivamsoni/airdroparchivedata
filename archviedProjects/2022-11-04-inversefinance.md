@@ -6,7 +6,7 @@ timeframe: ["2022"]
 ecosystem: ["ethereum"]
 rewardedActivity: ["retroactive"]
 category: ["defi"]
-function: ["ield-farming" ,"yield-aggregator", "lending"]
+function: ["yield-farming" ,"yield-aggregator", "lending"]
 status: ["alive"]
 pagetype: "project"
 website: "https://www.inverse.finance"

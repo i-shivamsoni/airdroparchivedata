@@ -14,8 +14,8 @@ ticker: "SOAR"
 description: "A layer-1 mobility-based Decentralized Physical Infrastructure Network (DePIN) designed to connect mobility participants and leverage vehicle-generated data for real-world applications."
 # listing data
 listing_date: "2025-01-07"
-listing_high: 0.02059
-listing_open: 0.02059
+listing_high: 0.02059,
+listing_open: 0.02059,
 listing_avg: 0.019245
 
 last_updated: "2025-06-14T14:26:23.307452Z"
@@ -88,7 +88,7 @@ The Genesis Drop is allocated across various categories:
 
 - **Early Community (Zealy & OGs)**
 
-  - 1.85% (950,000 SOAR) for Zealy users who completed Zealy quests and OGs with the **"OG Motuzen"** Discord role.
+  - 1.85% (950,000 SOAR) for Zealy users who completed Zealy quests and OGs with the **“OG Motuzen”** Discord role.
   - OGs receive **100 SOAR each**.
 
 - **Mobility (OEM Integrations)**
