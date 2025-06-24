@@ -1,4 +1,4 @@
- ---
+---
 layout: "post"
 title: "Newton Protocol"
 date: "2025-06-24"
@@ -72,7 +72,7 @@ coingecko_id: "newton-protocol"
 ### Claim Process
 
 - **Platform**: Claim only available through Newton.xyz platform
-- **Wallet Requirements**: 
+- **Wallet Requirements**:
   - Before June 23, 2025 2:40pm ET: Two wallet addresses (smart contract wallet + Newton Reward Wallet)
   - After June 23, 2025 2:40pm ET: Single wallet address
 - **Gas Fees**: Users must fund their Newton.xyz account with ETH on Ethereum mainnet to cover gas fees
