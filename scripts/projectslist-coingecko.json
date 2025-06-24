@@ -86,11 +86,6 @@
       "id": "tomochain"
     },
     {
-      "filename": "2025-06-22.blum.md",
-      "title": "Blum",
-      "id": "blum"
-    },
-    {
       "filename": "2024-11-28-bluefin.md",
       "title": "Bluefin",
       "id": "bluefin"
@@ -1424,6 +1419,11 @@
       "filename": "2025-03-26-kiloex.md",
       "title": "Kiloex",
       "id": "kiloex"
+    },
+    {
+      "filename": "2025-06-22-blum.md",
+      "title": "Blum",
+      "id": "blum"
     },
     {
       "filename": "2024-06-26-blast.md",
