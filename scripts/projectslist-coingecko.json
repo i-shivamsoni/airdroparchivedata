@@ -61,6 +61,11 @@
       "id": "artela-network"
     },
     {
+      "filename": "2025-06-25-catizen.md",
+      "title": "Catizen",
+      "id": "catizen"
+    },
+    {
       "filename": "2025-06-24-humanity.md",
       "title": "Humanity",
       "id": "humanity"
@@ -494,6 +499,11 @@
       "filename": "2024-05-10-eigenlayer.md",
       "title": "EigenLayer",
       "id": "eigenlayer"
+    },
+    {
+      "filename": "2025-06-25-kontos.md",
+      "title": "Kontos",
+      "id": "kontos"
     },
     {
       "filename": "2025-03-13-definitivefi.md",
@@ -1281,6 +1291,11 @@
       "id": "ether-fi"
     },
     {
+      "filename": "2025-06-25-kip.md",
+      "title": "KIP",
+      "id": "kip"
+    },
+    {
       "filename": "2025-04-23-zora.md",
       "title": "Zora",
       "id": "zora"
@@ -1556,6 +1571,11 @@
       "id": "jupiter"
     },
     {
+      "filename": "2025-06-25-ironclad.md",
+      "title": "Ironclad",
+      "id": "ironclad"
+    },
+    {
       "filename": "2023-07-18-arkham.md",
       "title": "Arkham",
       "id": "arkham"
@@ -1786,6 +1806,11 @@
       "id": "io"
     },
     {
+      "filename": "2025-06-25-ora-coin.md",
+      "title": "ORA Coin",
+      "id": "ora-coin"
+    },
+    {
       "filename": "2025-05-26-dolomite.md",
       "title": "DOLO (Dolomite)",
       "id": "dolomite"
@@ -1826,6 +1851,6 @@
       "id": "ethena"
     }
   ],
-  "total_count": 365,
+  "total_count": 370,
   "data_source": "coingecko"
 }
