@@ -21,6 +21,11 @@
       "id": "pika-protocol"
     },
     {
+      "filename": "2025-01-01-bucket-protocol.md",
+      "title": "BUCKET Protocol",
+      "id": "bucket-token"
+    },
+    {
       "filename": "2025-01-15-derive.md",
       "title": "Derive",
       "id": "derive"
@@ -1221,6 +1226,11 @@
       "id": "gyroscope"
     },
     {
+      "filename": "2025-06-25-hamster-kombat.md",
+      "title": "Hamster Kombat",
+      "id": "hamster-kombat"
+    },
+    {
       "filename": "2023-10-10-islamic-coin.md",
       "title": "Islamic Coin",
       "id": "islamic-coin"
@@ -1851,6 +1861,6 @@
       "id": "ethena"
     }
   ],
-  "total_count": 370,
+  "total_count": 372,
   "data_source": "coingecko"
 }
