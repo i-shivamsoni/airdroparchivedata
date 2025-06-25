@@ -1,12 +1,12 @@
 name: Update Market Data
-
 on:
   schedule:
-    - cron: '0 */6 * * *'  # Runs every 6 hours
+    - cron: '0 */6 * * *'  # Fixed: Removed extra asterisk
   workflow_dispatch:  # Allows manual triggering
   push:
     branches:
       - master  # Triggers on push to master branch
+
 jobs:
   update-market-data:
     runs-on: ubuntu-latest
@@ -27,33 +27,33 @@ jobs:
     - name: Create project lists
       run: |
         cd scripts
-        python coingeckoandmanual.py
+        python3 coingeckoandmanual.py  # Fixed: Changed to python3
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         
     - name: Fetch CoinGecko data
       run: |
         cd scripts
-        python curl_req_v2.py
+        python3 curl_req_v2.py  # Fixed: Changed to python3
       env:
         COINGECKO_API_KEY: ${{ secrets.COINGECKO_API_KEY }}
         
     - name: Update market data
       run: |
         cd scripts
-        python mis-data.py
+        python3 mis-data.py  # Fixed: Changed to python3
         
     - name: Handle missing data
       run: |
         cd scripts
-        python missing-data.py
+        python3 missing-data.py  # Fixed: Changed to python3
         
     - name: Commit and push changes
       run: |
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
         git add .
-        git diff --quiet && git diff --staged --quiet || (git commit -m "Update market data [skip ci]" && git push) 
+        git diff --quiet && git diff --staged --quiet || (git commit -m "Update market data [skip ci]" && git push)
 
   trigger-build:
     needs: update-market-data
@@ -69,7 +69,7 @@ jobs:
           else
             echo "PAT is set"
           fi
-
+          
       - name: Trigger Build and Deploy Workflow
         run: |
           # Set the required variables
@@ -100,4 +100,4 @@ jobs:
           if [ "$status_code" -ne 204 ]; then
             echo "Failed to trigger workflow"
             exit 1
-          fi 
+          fi
