@@ -14,11 +14,12 @@ website: "https://islamiccoin.net"
 ticker: "ISLM"
 description: "Islamic Coin is a native currency of HAQQ, a community-run network dedicated to empowering an ethics-first, Shariah-compliant financial ecosystem."
 mis-data-source: "coingecko"
-last_updated: "2025-06-25T17:47:31.918Z"
+last_updated: "2025-06-25T17:50:03.521Z"
+# miscellaneous data source section
 coingecko_id: "islamic-coin"
-current_price: 0.03022313
+current_price: 0.03021466
 market_cap: 57693152
-market_cap_rank: 630
+market_cap_rank: 629
 fully_diluted_valuation: 611212116
 circulating_supply: 1908265383.210025
 total_supply: 20216522872.98798
