@@ -1581,11 +1581,6 @@
       "id": "jupiter"
     },
     {
-      "filename": "2025-06-25-ironclad.md",
-      "title": "Ironclad",
-      "id": "ironclad"
-    },
-    {
       "filename": "2023-07-18-arkham.md",
       "title": "Arkham",
       "id": "arkham"
@@ -1861,6 +1856,6 @@
       "id": "ethena"
     }
   ],
-  "total_count": 372,
+  "total_count": 371,
   "data_source": "coingecko"
 }

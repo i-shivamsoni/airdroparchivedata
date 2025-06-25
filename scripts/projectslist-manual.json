@@ -89,8 +89,13 @@
       "filename": "2024-11-26-side-protocol.md",
       "title": "Side Protocol",
       "manual_id": "side-protocol"
+    },
+    {
+      "filename": "2025-06-25-ironclad.md",
+      "title": "Ironclad",
+      "manual_id": "ironclad"
     }
   ],
-  "total_count": 18,
+  "total_count": 19,
   "data_source": "manual"
 }
