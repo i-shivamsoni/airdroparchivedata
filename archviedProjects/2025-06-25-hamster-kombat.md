@@ -12,6 +12,9 @@ pagetype: "project"
 website: "https://hamsterkombat.io/"
 ticker: "HMSTR"
 description: "Hamster Kombat is a Telegram-based crypto exchange CEO simulator game with 300 million players, aiming to onboard 1 billion Web2 users into Web3 through gamified social and financial activities."
+mis-data-source: "coingecko"
+# miscellaneous data source section
+coingecko_id: "hamster-kombat"
 ---
 
 ## Airdrop Details

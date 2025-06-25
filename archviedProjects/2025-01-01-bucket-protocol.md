@@ -12,6 +12,9 @@ pagetype: "project"
 website: "https://bucketprotocol.io/"
 ticker: " $BUT "
 description: "A next-generation Liquidity Layer on the Sui Network, allowing users to mint $BUCK stablecoin by locking assets as collateral, while unlocking opportunities for yield generation and leveraged liquidity."
+mis-data-source: "coingecko"
+# miscellaneous data source section
+coingecko_id: "bucket-token"
 ---
                                                                                                                                                                                                |
 ## Airdrop Details
