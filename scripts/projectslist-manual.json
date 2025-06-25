@@ -61,6 +61,11 @@
       "manual_id": "bitoro-network"
     },
     {
+      "filename": "2025-06-22-mysofinance.md",
+      "title": "Myso Finance",
+      "manual_id": "myso-token"
+    },
+    {
       "filename": "2024-07-30-aigisos.md",
       "title": "Aigisos",
       "manual_id": "aigisos"
@@ -86,6 +91,6 @@
       "manual_id": "side-protocol"
     }
   ],
-  "total_count": 17,
+  "total_count": 18,
   "data_source": "manual"
 }

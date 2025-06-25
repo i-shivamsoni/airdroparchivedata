@@ -1,6 +1,11 @@
 {
   "projects": [
     {
+      "filename": "2025-06-25-sahara-ai.md",
+      "title": "Sahara AI",
+      "id": "sahara-ai"
+    },
+    {
       "filename": "2024-04-30-nftfi.md",
       "title": "NFTfi",
       "id": "nftfi"
@@ -446,6 +451,11 @@
       "id": "ethena"
     },
     {
+      "filename": "2025-06-25-vana.md",
+      "title": "Vana",
+      "id": "vana"
+    },
+    {
       "filename": "2023-05-22-virtuswap.md",
       "title": "Virtuswap",
       "id": "virtuswap"
@@ -556,6 +566,11 @@
       "id": "zeta"
     },
     {
+      "filename": "2025-06-25-friend-tech.md",
+      "title": "Friend.tech",
+      "id": "friend-tech"
+    },
+    {
       "filename": "2025-03-26-hyperlane.md",
       "title": "Hyperlane",
       "id": "hyperlane"
@@ -604,6 +619,11 @@
       "filename": "2025-03-11-peaq.md",
       "title": "Peaq",
       "id": "peaq-2"
+    },
+    {
+      "filename": "2025-06-25-lumoz.md",
+      "title": "Lumoz",
+      "id": "lumoz"
     },
     {
       "filename": "2025-05-27-xterio.md",
@@ -1179,6 +1199,11 @@
       "filename": "2022-02-16-x2y2.md",
       "title": "x2y2",
       "id": "x2y2"
+    },
+    {
+      "filename": "2025-06-25-synfutures.md",
+      "title": "SynFutures",
+      "id": "synfutures"
     },
     {
       "filename": "2025-03-19-gyroscope-protocol.md",
@@ -1801,6 +1826,6 @@
       "id": "ethena"
     }
   ],
-  "total_count": 360,
+  "total_count": 365,
   "data_source": "coingecko"
 }
