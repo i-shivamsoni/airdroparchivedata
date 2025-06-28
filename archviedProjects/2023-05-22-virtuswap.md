@@ -13,20 +13,21 @@ website: "https://virtuswap.io"
 ticker: "VRSW"
 description: "VirtuSwap is a decentralized exchange (DEX) designed to improve trading efficiency, reduce costs, and increase yields for liquidity providers through advanced financial engineering and AI-based governance."
 mis-data-source: "coingecko"
-last_updated: "2025-06-27T18:24:49.276Z"
+last_updated: "2025-06-28T01:25:57.874Z"
+# miscellaneous data source section
 coingecko_id: "virtuswap"
-current_price: 0.0001638
-market_cap: 101652
-market_cap_rank: 6589
-fully_diluted_valuation: 164084
+current_price: 0.00016495
+market_cap: 102248
+market_cap_rank: 6578
+fully_diluted_valuation: 165045
 circulating_supply: 619514521.0996523
 total_supply: 1000000000.0
 max_supply: 1000000000.0
 ath: 0.03881494
-ath_change_percentage: -99.57799
+ath_change_percentage: -99.57503
 ath_date: "2024-02-22T16:42:48.421Z"
 atl: 0.00010317
-atl_change_percentage: 58.7701
+atl_change_percentage: 59.88286
 atl_date: "2024-12-21T17:26:02.831Z"
 ---
 
