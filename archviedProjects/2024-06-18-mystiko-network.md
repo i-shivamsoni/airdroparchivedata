@@ -10,7 +10,7 @@ function: ["artificial-intelligence", "development", "ai-framework"]
 status: ["alive"]
 pagetype: "project"
 website: "https://mystiko.network"
-ticker: "Not Known"
+ticker: "XYZ"
 description: "Mystiko is a privacy-focused blockchain infrastructure that enables private transactions and scalable decentralized applications."
 mis-data-source: "coingecko"
 last_updated: "2025-06-28T18:24:07.279Z"
@@ -87,8 +87,8 @@ The airdrop is based on **Airdrop Points**, which are earned through two mechani
 
 ## Important Links
 
-- [Price Tracking: CoinMarketCap](https://coinmarketcap.com/currencies/not-pixel/)
-- [Price Tracking: CoinGecko](https://www.coingecko.com/en/coins/not-pixel)
+- [Price Tracking: CoinMarketCap](https://coinmarketcap.com/currencies/mystiko-network)
+- [Price Tracking: CoinGecko](https://www.coingecko.com/en/coins/expand)
 - [Official Announcement](https://medium.com/@Expandzk/mystikos-first-airdrop-an-advance-notice-cc6789da52be)
 - [Mystiko Website](https://mystiko.network)
 - [Galxe Leaderboard](https://app.galxe.com/quest/mystikonetwork/leaderboard) (for loyalty point rankings)

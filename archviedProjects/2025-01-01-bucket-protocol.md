@@ -10,7 +10,7 @@ function: [ "defi"]
 status: ["alive"]
 pagetype: "project"
 website: "https://bucketprotocol.io/"
-ticker: " $BUT "
+ticker: "BUT"
 description: "A next-generation Liquidity Layer on the Sui Network, allowing users to mint $BUCK stablecoin by locking assets as collateral, while unlocking opportunities for yield generation and leveraged liquidity."
 mis-data-source: "coingecko"
 last_updated: "2025-06-28T18:24:11.960Z"
