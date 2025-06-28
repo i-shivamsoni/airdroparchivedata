@@ -12,7 +12,7 @@ funded-by: ["animoca-brands", "yzi-labs", "okx-ventures"]
 pagetype: "project"
 blockchain-type: ["zk"]
 website: "https://polyhedra.network"
-ticker: "$ZKJ"
+ticker: "ZKJ"
 description: "Polyhedra Network is building a Web3 infrastructure focusing on interoperability, scalability, and privacy using advanced zero-knowledge proof (ZKP) technology. Their flagship invention, zkBridge, transforms blockchain interoperability by enabling secure, fast, and trustless cross-chain transactions."
 mis-data-source: "coingecko"
 last_updated: "2025-06-28T06:25:21.826Z"

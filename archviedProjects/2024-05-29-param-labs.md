@@ -11,7 +11,7 @@ status: ["alive"]
 funded-by: ["animoca-brands", "delphi-ventures"]
 pagetype: "project"
 website: "https://paramgaming.com"
-ticker: "$PARAM"
+ticker: "PARAM"
 description: "Param Labs is pioneering the next generation of gaming through united creativity and technological advancement."
 mis-data-source: "coingecko"
 last_updated: "2025-06-26T16:24:41.293Z"

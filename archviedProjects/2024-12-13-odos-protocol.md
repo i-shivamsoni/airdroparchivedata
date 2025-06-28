@@ -10,7 +10,7 @@ function: ["dex-aggregator", "dex", "aggregator", "decentralized-finance"]
 status: ["alive"]
 pagetype: "project"
 website: "https://www.odos.xyz/"
-ticker: "$ODOS"
+ticker: "ODOS"
 description: "A DeFi protocol optimizing token swaps and trades with advanced routing and aggregation mechanisms."
 mis-data-source: "coingecko"
 last_updated: "2025-06-28T06:25:21.029Z"

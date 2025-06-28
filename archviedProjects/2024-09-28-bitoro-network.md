@@ -10,7 +10,7 @@ function: ["defi"]
 status: ["alive"]
 pagetype: "project"
 website: "https://bitoro.network"
-ticker: "$BTORO"
+ticker: "BTORO"
 description: "A decentralized trading and DeFi ecosystem with a focus on community-driven incentives, trading rewards, and governance."
 last_updated: "2025-06-14T14:26:23.307783Z"
 mis-data-source: "manual"

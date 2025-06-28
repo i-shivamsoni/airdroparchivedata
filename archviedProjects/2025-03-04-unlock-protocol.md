@@ -11,7 +11,7 @@ status: ["alive"]
 funded-by: ["coinbase-ventures"]
 pagetype: "project"
 website: "https://unlock-protocol.com"
-ticker: "$UP"
+ticker: "UP"
 description: "A decentralized protocol for memberships, subscriptions, and ticketing onchain, enabling creators and developers to monetize access to their communities."
 mis-data-source: "coingecko"
 last_updated: "2025-06-28T06:24:28.799Z"

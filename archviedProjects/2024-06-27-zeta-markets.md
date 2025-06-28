@@ -10,7 +10,7 @@ function: ["trading", "perpetuals", "dex", "derivatives", "decentralized-finance
 status: ["alive"]
 pagetype: "project"
 website: "https://dex.zeta.markets"
-ticker: "$ZEX"
+ticker: "ZEX"
 description: "A decentralized options trading platform built on Solana, offering traders a high-performance DeFi derivatives experience."
 mis-data-source: "coingecko"
 last_updated: "2025-06-28T06:25:25.120Z"

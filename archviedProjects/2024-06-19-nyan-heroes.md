@@ -11,7 +11,7 @@ status: ["alive"]
 funded-by: ["delphi-ventures"]
 pagetype: "project"
 website: "https://nyanheroes.com"
-ticker: "$NYAN"
+ticker: "NYAN"
 description: "A team-based hero shooter featuring cats piloting giant mechs, utilizing unique abilities and strategic combat."
 mis-data-source: "coingecko"
 last_updated: "2025-06-28T06:23:53.739Z"

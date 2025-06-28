@@ -10,7 +10,7 @@ function: ["decentralized-identifier", "professional", "reputation"]
 status: ["alive"]
 pagetype: "project"
 website: "https://talentprotocol.com"
-ticker: "$TALENT"
+ticker: "TALENT"
 description: "A decentralized protocol designed to help crypto builders gain recognition and rewards based on verifiable reputation data."
 mis-data-source: "coingecko"
 last_updated: "2025-06-28T06:23:50.089Z"
