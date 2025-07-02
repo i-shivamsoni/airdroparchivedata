@@ -13,20 +13,21 @@ website: "https://definitive.fi"
 ticker: "EDGE"
 description: "A multichain trading platform providing advanced order types across major chains with a noncustodial, gasless, and MEV-resistant experience."
 mis-data-source: "coingecko"
-last_updated: "2025-07-01T18:26:48.750Z"
+last_updated: "2025-07-02T01:37:55.354Z"
+# miscellaneous data source section
 coingecko_id: "definitive"
-current_price: 0.071725
-market_cap: 14560781
-market_cap_rank: 1303
-fully_diluted_valuation: 71719264
+current_price: 0.072218
+market_cap: 14666906
+market_cap_rank: 1301
+fully_diluted_valuation: 72241985
 circulating_supply: 203024680.07272866
 total_supply: 1000000000.0
 max_supply: 1000000000.0
 ath: 0.141368
-ath_change_percentage: -49.2573
+ath_change_percentage: -48.91667
 ath_date: "2025-05-18T14:35:57.292Z"
 atl: 0.02743045
-atl_change_percentage: 161.51165
+atl_change_percentage: 163.26715
 atl_date: "2025-04-02T17:36:20.649Z"
 ---
 
