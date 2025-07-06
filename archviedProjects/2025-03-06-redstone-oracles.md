@@ -13,21 +13,20 @@ website: "https://redstone.finance"
 ticker: "RED"
 description: "A modular blockchain oracle providing secure and scalable data feeds"
 mis-data-source: "coingecko"
-last_updated: "2025-07-06T06:26:55.056Z"
-# miscellaneous data source section
+last_updated: "2025-07-06T12:35:45.300Z"
 coingecko_id: "redstone-oracles"
-current_price: 0.282614
-market_cap: 79116536
-market_cap_rank: 519
-fully_diluted_valuation: 282559058
+current_price: 0.283075
+market_cap: 79269669
+market_cap_rank: 518
+fully_diluted_valuation: 283105962
 circulating_supply: 280000000.0
 total_supply: 1000000000.0
 max_supply: 1000000000.0
 ath: 0.932461
-ath_change_percentage: -69.79758
+ath_change_percentage: -69.59329
 ath_date: "2025-03-06T12:36:56.662Z"
 atl: 0.232899
-atl_change_percentage: 20.92157
+atl_change_percentage: 21.73951
 atl_date: "2025-06-22T20:20:37.229Z"
 ---
 
