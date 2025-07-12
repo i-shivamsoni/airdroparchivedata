@@ -4,31 +4,7 @@
     "count": 2
   },
   {
-    "id": "jupiter",
-    "count": 2
-  },
-  {
-    "id": "sei-network",
-    "count": 2
-  },
-  {
-    "id": "story-2",
-    "count": 2
-  },
-  {
-    "id": "uniswap",
-    "count": 2
-  },
-  {
-    "id": "sail-2",
-    "count": 2
-  },
-  {
-    "id": "arkham",
-    "count": 2
-  },
-  {
-    "id": "ref-finance",
+    "id": "unlockprotocoltoken",
     "count": 2
   },
   {
@@ -36,7 +12,23 @@
     "count": 2
   },
   {
+    "id": "ref-finance",
+    "count": 2
+  },
+  {
+    "id": "uniswap",
+    "count": 2
+  },
+  {
+    "id": "arkham",
+    "count": 2
+  },
+  {
     "id": "yieldnest",
+    "count": 2
+  },
+  {
+    "id": "sail-2",
     "count": 2
   },
   {
@@ -44,7 +36,15 @@
     "count": 2
   },
   {
-    "id": "unlockprotocoltoken",
+    "id": "story-2",
+    "count": 2
+  },
+  {
+    "id": "jupiter",
+    "count": 2
+  },
+  {
+    "id": "sei-network",
     "count": 2
   }
 ]
