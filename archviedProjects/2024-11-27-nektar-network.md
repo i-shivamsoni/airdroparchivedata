@@ -14,11 +14,10 @@ ticker: "NET"
 description: "A decentralized protocol designed to connect Networks, Operators, and Delegators in a community-driven platform for decentralized infrastructure."
 mis-data-source: "coingecko"
 last_updated: "2025-06-18T12:37:47.814Z"
-# miscellaneous data source section
 coingecko_id: "nektar-network"
 current_price: 3.456e-05
 market_cap: 14448.41
-market_cap_rank: 9519
+market_cap_rank: 9524
 fully_diluted_valuation: 34559
 circulating_supply: 420581848.0797534
 total_supply: 1000000000.0
