@@ -15,14 +15,13 @@ ticker: "ART"
 description: "Artela Network is a fully on-chain AI platform that rewards community participation, testnet activities, and NFT holders with ART tokens for building the future of decentralized AI."
 mis-data-source: "coingecko"
 last_updated: "2025-07-08T16:01:31.714Z"
-# miscellaneous data source section
 coingecko_id: "artela-network"
 current_price: 0.00018479
 market_cap: 34758
-market_cap_rank: 8449
-fully_diluted_valuation: 137512
-circulating_supply: 189160594.398997
-total_supply: 744154536.430489
+market_cap_rank: 8459
+fully_diluted_valuation: 137521
+circulating_supply: 189211609.988757
+total_supply: 744205065.899065
 max_supply: 1000000000.0
 ath: 0.02976268
 ath_change_percentage: -99.37912
