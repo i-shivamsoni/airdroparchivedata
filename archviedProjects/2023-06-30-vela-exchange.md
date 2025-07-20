@@ -13,20 +13,21 @@ website: "https://vela.exchange"
 ticker: "VELA"
 description: "A decentralized perpetual trading platform offering advanced features for crypto traders."
 mis-data-source: "coingecko"
-last_updated: "2025-07-20T06:27:33.534Z"
+last_updated: "2025-07-20T12:33:17.636Z"
+# miscellaneous data source section
 coingecko_id: "vela-token"
-current_price: 0.00168522
-market_cap: 28297
-market_cap_rank: 8738
-fully_diluted_valuation: 58903
+current_price: 0.00176134
+market_cap: 29615
+market_cap_rank: 8679
+fully_diluted_valuation: 61647
 circulating_supply: 16813842.0
 total_supply: 35000000.0
 max_supply: 50000000.0
 ath: 7.67
-ath_change_percentage: -99.97806
+ath_change_percentage: -99.97698
 ath_date: "2023-02-20T11:40:30.166Z"
 atl: 0.00035976
-atl_change_percentage: 367.79137
+atl_change_percentage: 390.77834
 atl_date: "2025-06-25T16:05:13.655Z"
 ---
 
