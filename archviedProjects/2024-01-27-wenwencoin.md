@@ -13,20 +13,21 @@ website: "https://wenwencoin.com/"
 ticker: "WEN"
 description: "A community coin debuting on Solana alongside a new NFT standard, WNS 0.0."
 mis-data-source: "coingecko"
-last_updated: "2025-07-21T06:30:46.304Z"
+last_updated: "2025-07-21T12:42:18.674Z"
+# miscellaneous data source section
 coingecko_id: "wen-4"
-current_price: 4.893e-05
-market_cap: 35227218
-market_cap_rank: 965
-fully_diluted_valuation: 35227218
-circulating_supply: 727626478334.5359
-total_supply: 727626478334.5349
+current_price: 4.957e-05
+market_cap: 36068988
+market_cap_rank: 960
+fully_diluted_valuation: 36068988
+circulating_supply: 727626475526.2035
+total_supply: 727626475526.2035
 max_supply: 1000000000000.0
 ath: 0.00051049
-ath_change_percentage: -90.51615
+ath_change_percentage: -90.27526
 ath_date: "2024-03-27T11:00:20.014Z"
 atl: 1.56e-05
-atl_change_percentage: 210.31316
+atl_change_percentage: 218.19517
 atl_date: "2024-01-26T15:12:50.824Z"
 ---
 
