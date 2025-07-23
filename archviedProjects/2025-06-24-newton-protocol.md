@@ -14,21 +14,20 @@ website: "https://newt.foundation/"
 ticker: "NEWT"
 description: "The Newton Protocol is a decentralized infrastructure layer for verifiable onchain automation and secure agent authorization. It enables protocols, DAOs, and users to execute complex actions through verifiable agents, without relying on centralized bots or offchain coordination."
 mis-data-source: "coingecko"
-last_updated: "2025-07-23T12:41:53.266Z"
-# miscellaneous data source section
+last_updated: "2025-07-23T18:29:29.884Z"
 coingecko_id: "newton-protocol"
-current_price: 0.411452
-market_cap: 89242348
-market_cap_rank: 559
-fully_diluted_valuation: 415080687
+current_price: 0.432897
+market_cap: 93115820
+market_cap_rank: 539
+fully_diluted_valuation: 433096837
 circulating_supply: 215000000.0
 total_supply: 1000000000.0
 max_supply: 1000000000.0
 ath: 0.820552
-ath_change_percentage: -47.93025
+ath_change_percentage: -47.23689
 ath_date: "2025-06-24T14:56:51.004Z"
 atl: 0.30101
-atl_change_percentage: 41.94174
+atl_change_percentage: 43.83183
 atl_date: "2025-07-14T20:31:51.110Z"
 ---
 

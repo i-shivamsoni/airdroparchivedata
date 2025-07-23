@@ -13,21 +13,20 @@ website: "https://animeswap.org"
 ticker: "ANI"
 description: "A decentralized exchange on the Aptos blockchain that facilitates liquidity provision, staking, farming, and governance."
 mis-data-source: "coingecko"
-last_updated: "2025-07-23T12:35:28.851Z"
-# miscellaneous data source section
+last_updated: "2025-07-23T18:01:25.239Z"
 coingecko_id: "animeswap"
-current_price: 0.00029715
+current_price: 0.00028573
 market_cap: 0.0
 market_cap_rank: null
-fully_diluted_valuation: 2971.51
+fully_diluted_valuation: 2857.33
 circulating_supply: 0.0
 total_supply: 10000000.0
 max_supply: null
 ath: 0.02537295
-ath_change_percentage: -98.82886
+ath_change_percentage: -98.87387
 ath_date: "2023-04-26T13:33:35.090Z"
 atl: 0.00018234
-atl_change_percentage: 62.96256
+atl_change_percentage: 56.70015
 atl_date: "2025-06-23T17:11:50.287Z"
 ---
 
