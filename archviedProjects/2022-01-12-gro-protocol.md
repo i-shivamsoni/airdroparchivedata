@@ -13,21 +13,20 @@ website: "https://gro.xyz/"
 ticker: "GRO"
 description: "A decentralized protocol focused on liquidity provision and community-driven token distribution."
 mis-data-source: "coingecko"
-last_updated: "2025-07-27T12:35:57.039Z"
-# miscellaneous data source section
+last_updated: "2025-07-27T18:20:10.467Z"
 coingecko_id: "growth"
-current_price: 0.857552
+current_price: 0.888273
 market_cap: 0.0
 market_cap_rank: null
-fully_diluted_valuation: 2079084
+fully_diluted_valuation: 2157836
 circulating_supply: 0.0
 total_supply: 2429250.0
 max_supply: 2429250.0
 ath: 3.98
-ath_change_percentage: -78.44951
+ath_change_percentage: -77.65995
 ath_date: "2024-05-07T18:10:16.053Z"
 atl: 0.196867
-atl_change_percentage: 335.25791
+atl_change_percentage: 351.20475
 atl_date: "2025-04-03T00:01:17.703Z"
 ---
 
