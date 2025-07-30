@@ -14,20 +14,21 @@ website: "Not Known"
 ticker: "FLX"
 description: "A governance-minimized protocol designed to allow the market to govern itself with minimal intervention."
 mis-data-source: "coingecko"
-last_updated: "2025-07-29T18:30:39.234Z"
+last_updated: "2025-07-30T01:44:59.572Z"
+# miscellaneous data source section
 coingecko_id: "reflexer-ungovernance-token"
-current_price: 2.59
-market_cap: 2130110
-market_cap_rank: 3080
-fully_diluted_valuation: 2470865
+current_price: 2.62
+market_cap: 2159704
+market_cap_rank: 3066
+fully_diluted_valuation: 2505193
 circulating_supply: 825126.1286031244
 total_supply: 957122.2961293116
 max_supply: 957122.2961293116
 ath: 1839.79
-ath_change_percentage: -99.85933
+ath_change_percentage: -99.85789
 ath_date: "2021-04-15T20:14:47.371Z"
 atl: 1.15
-atl_change_percentage: 124.1445
+atl_change_percentage: 126.44166
 atl_date: "2025-04-09T04:25:15.903Z"
 ---
 
