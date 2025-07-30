@@ -13,21 +13,22 @@ website: "https://mystiko.network"
 ticker: "XYZ"
 description: "Mystiko is a privacy-focused blockchain infrastructure that enables private transactions and scalable decentralized applications."
 mis-data-source: "coingecko"
-last_updated: "2025-07-30T12:41:55.218Z"
+last_updated: "2025-07-30T18:28:47.086Z"
+# miscellaneous data source section
 coingecko_id: "xzk"
-current_price: 0.0056561
-market_cap: 2320239
-market_cap_rank: 2979
-fully_diluted_valuation: 5648639
+current_price: 0.00521155
+market_cap: 2142224
+market_cap_rank: 3076
+fully_diluted_valuation: 5215261
 circulating_supply: 410760735.85996383
 total_supply: 1000000000.0
 max_supply: 1000000000.0
 ath: 0.187647
-ath_change_percentage: -96.99131
+ath_change_percentage: -97.2164
 ath_date: "2024-06-18T10:31:06.362Z"
-atl: 0.00519707
-atl_change_percentage: 8.63291
-atl_date: "2025-06-08T22:27:09.208Z"
+atl: 0.00508074
+atl_change_percentage: 2.80687
+atl_date: "2025-07-30T16:28:46.153Z"
 ---
 
 ## Airdrop Details
