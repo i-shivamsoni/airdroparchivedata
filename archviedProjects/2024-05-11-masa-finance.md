@@ -13,21 +13,20 @@ website: "https://masa.finance"
 ticker: "MASA"
 description: "A decentralized identity and data platform focused on Web3 credit scoring and on-chain reputation."
 mis-data-source: "coingecko"
-last_updated: "2025-08-04T01:53:36.669Z"
-# miscellaneous data source section
+last_updated: "2025-08-04T06:37:30.545Z"
 coingecko_id: "masa-finance"
-current_price: 0.01493869
-market_cap: 8352015
-market_cap_rank: 1836
-fully_diluted_valuation: 23526909
+current_price: 0.01464399
+market_cap: 8190326
+market_cap_rank: 1850
+fully_diluted_valuation: 23071445
 circulating_supply: 558800582.0660924
 total_supply: 1574093298.768287
 max_supply: 1588866523.0
 ath: 0.803173
-ath_change_percentage: -98.13671
+ath_change_percentage: -98.17773
 ath_date: "2024-04-11T08:01:42.941Z"
 atl: 0.01188869
-atl_change_percentage: 25.88002
+atl_change_percentage: 23.10853
 atl_date: "2025-04-17T13:21:19.134Z"
 ---
 
