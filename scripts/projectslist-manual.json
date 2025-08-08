@@ -1,19 +1,24 @@
 {
   "projects": [
     {
+      "filename": "2021-03-13-forefront.md",
+      "title": "ForeFront",
+      "manual_id": "forefront"
+    },
+    {
+      "filename": "2024-01-22-shell-protocol.md",
+      "title": "Shell Protocol",
+      "manual_id": "shell-protocol"
+    },
+    {
       "filename": "2021-12-30-seed-club.md",
       "title": "Seed Club",
       "manual_id": "seed-club"
     },
     {
-      "filename": "2025-05-22-loopedhype.md",
-      "title": "LoopedHYPE",
-      "manual_id": "loopedhype"
-    },
-    {
-      "filename": "2025-06-22-mysofinance.md",
-      "title": "Myso Finance",
-      "manual_id": "myso-token"
+      "filename": "2021-01-28-lotto-finance.md",
+      "title": "Lotto Finance",
+      "manual_id": "lotto-finance"
     },
     {
       "filename": "2024-01-06-soarchain.md",
@@ -26,49 +31,9 @@
       "manual_id": "side-protocol"
     },
     {
-      "filename": "2025-03-09-sirath.md",
-      "title": "Sirath",
-      "manual_id": "sirath"
-    },
-    {
-      "filename": "2022-05-03-diffusion-finance.md",
-      "title": "Diffusion Finance",
-      "manual_id": "diffusion-finance"
-    },
-    {
-      "filename": "2025-02-19-superfluid.md",
-      "title": "Superfluid",
-      "manual_id": "superfluid"
-    },
-    {
-      "filename": "2025-06-25-ironclad.md",
-      "title": "Ironclad",
-      "manual_id": "ironclad"
-    },
-    {
-      "filename": "2022-08-22-developer-dao.md",
-      "title": "Developer DAO",
-      "manual_id": "developer-dao"
-    },
-    {
-      "filename": "2022-04-19-raw.md",
-      "title": "Raw",
-      "manual_id": "raw"
-    },
-    {
-      "filename": "2021-01-28-lotto-finance.md",
-      "title": "Lotto Finance",
-      "manual_id": "lotto-finance"
-    },
-    {
-      "filename": "2024-09-28-bitoro-network.md",
-      "title": "Bitoro Network",
-      "manual_id": "bitoro-network"
-    },
-    {
-      "filename": "2021-03-13-forefront.md",
-      "title": "ForeFront",
-      "manual_id": "forefront"
+      "filename": "2024-07-30-aigisos.md",
+      "title": "Aigisos",
+      "manual_id": "aigisos"
     },
     {
       "filename": "2023-01-17-zigzag-exchange.md",
@@ -76,9 +41,49 @@
       "manual_id": "zigzag-exchange"
     },
     {
+      "filename": "2022-04-19-raw.md",
+      "title": "Raw",
+      "manual_id": "raw"
+    },
+    {
+      "filename": "2024-09-28-bitoro-network.md",
+      "title": "Bitoro Network",
+      "manual_id": "bitoro-network"
+    },
+    {
+      "filename": "2022-05-03-diffusion-finance.md",
+      "title": "Diffusion Finance",
+      "manual_id": "diffusion-finance"
+    },
+    {
+      "filename": "2025-06-22-mysofinance.md",
+      "title": "Myso Finance",
+      "manual_id": "myso-token"
+    },
+    {
       "filename": "2023-10-02-zkx.md",
       "title": "ZKX",
       "manual_id": "zkx"
+    },
+    {
+      "filename": "2022-08-22-developer-dao.md",
+      "title": "Developer DAO",
+      "manual_id": "developer-dao"
+    },
+    {
+      "filename": "2025-05-22-loopedhype.md",
+      "title": "LoopedHYPE",
+      "manual_id": "loopedhype"
+    },
+    {
+      "filename": "2025-06-25-ironclad.md",
+      "title": "Ironclad",
+      "manual_id": "ironclad"
+    },
+    {
+      "filename": "2025-02-19-superfluid.md",
+      "title": "Superfluid",
+      "manual_id": "superfluid"
     },
     {
       "filename": "2025-03-26-goodog.md",
@@ -86,14 +91,9 @@
       "manual_id": "goodog"
     },
     {
-      "filename": "2024-07-30-aigisos.md",
-      "title": "Aigisos",
-      "manual_id": "aigisos"
-    },
-    {
-      "filename": "2024-01-22-shell-protocol.md",
-      "title": "Shell Protocol",
-      "manual_id": "shell-protocol"
+      "filename": "2025-03-09-sirath.md",
+      "title": "Sirath",
+      "manual_id": "sirath"
     }
   ],
   "total_count": 19,
