@@ -13,20 +13,21 @@ website: "https://streamflow.foundation"
 ticker: "STREAM"
 description: "A decentralized protocol focused on digital asset management, including token streaming, vesting, and incentive alignment."
 mis-data-source: "coingecko"
-last_updated: "2025-08-08T01:46:49.794Z"
+last_updated: "2025-08-08T06:32:20.627Z"
+# miscellaneous data source section
 coingecko_id: "streamflow"
-current_price: 0.04606381
-market_cap: 6235245
-market_cap_rank: 2097
-fully_diluted_valuation: 46069492
-circulating_supply: 135343988.410956
+current_price: 0.04675848
+market_cap: 6312584
+market_cap_rank: 2090
+fully_diluted_valuation: 46640782
+circulating_supply: 135344367.00126
 total_supply: 999997341.725717
 max_supply: 1000000000.0
 ath: 0.180045
-ath_change_percentage: -74.43584
+ath_change_percentage: -74.10091
 ath_date: "2024-12-18T04:15:20.417Z"
 atl: 0.01692082
-atl_change_percentage: 172.01377
+atl_change_percentage: 175.57757
 atl_date: "2025-04-25T14:18:57.642Z"
 ---
 
