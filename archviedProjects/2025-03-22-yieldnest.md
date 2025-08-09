@@ -13,21 +13,20 @@ website: "https://www.yieldnest.finance"
 ticker: "YND"
 description: "YieldNest is a decentralized platform focused on user empowerment, decentralization, accessibility, transparency, and community-led governance. It offers advanced yield strategies and cross-chain expansions to ensure active community participation."
 mis-data-source: "coingecko"
-last_updated: "2025-08-08T18:27:01.315Z"
-# miscellaneous data source section
+last_updated: "2025-08-09T01:36:39.033Z"
 coingecko_id: "yieldnest"
-current_price: 0.00259263
+current_price: 0.00250902
 market_cap: 0.0
 market_cap_rank: null
-fully_diluted_valuation: 2590485
+fully_diluted_valuation: 2508954
 circulating_supply: 0.0
 total_supply: 1000000000.0
 max_supply: 1000000000.0
 ath: 0.02093676
-ath_change_percentage: -87.62682
+ath_change_percentage: -88.01661
 ath_date: "2025-06-06T17:26:15.633Z"
 atl: 0.00247247
-atl_change_percentage: 4.77526
+atl_change_percentage: 1.47461
 atl_date: "2025-08-02T18:53:52.506Z"
 ---
 
