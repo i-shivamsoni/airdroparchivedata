@@ -14,20 +14,21 @@ website: "https://www.anime.xyz/"
 ticker: "ANIME"
 description: "ANIME coin is the gas token for Animechain, an L3 blockchain using Arbitrum Orbit to enable gasless transactions. Backed by Azuki"
 mis-data-source: "coingecko"
-last_updated: "2025-08-13T06:30:01.627Z"
+last_updated: "2025-08-13T12:40:33.820Z"
+# miscellaneous data source section
 coingecko_id: "anime"
-current_price: 0.01819786
-market_cap: 101083599
-market_cap_rank: 526
-fully_diluted_valuation: 182507338
+current_price: 0.02060745
+market_cap: 113546565
+market_cap_rank: 491
+fully_diluted_valuation: 205009334
 circulating_supply: 5538604656.0
 total_supply: 10000000000.0
 max_supply: 10000000000.0
 ath: 0.186122
-ath_change_percentage: -90.22261
+ath_change_percentage: -89.22658
 ath_date: "2025-01-23T13:35:23.566Z"
 atl: 0.01240107
-atl_change_percentage: 46.74431
+atl_change_percentage: 61.69318
 atl_date: "2025-04-07T06:55:45.218Z"
 ---
 
