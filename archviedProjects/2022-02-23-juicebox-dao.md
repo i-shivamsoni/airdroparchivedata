@@ -13,21 +13,20 @@ website: "https://juicebox.money/"
 ticker: "JBX"
 description: "Juicebox is a protocol for community funding and DAO management, enabling projects to raise funds in a transparent and decentralized manner."
 mis-data-source: "coingecko"
-last_updated: "2025-08-15T06:27:56.534Z"
-# miscellaneous data source section
+last_updated: "2025-08-15T12:37:49.822Z"
 coingecko_id: "juicebox"
-current_price: 0.00109381
-market_cap: 2020641
-market_cap_rank: 3317
-fully_diluted_valuation: 2205909
+current_price: 0.00109233
+market_cap: 2006735
+market_cap_rank: 3325
+fully_diluted_valuation: 2190727
 circulating_supply: 1845639567.8991888
 total_supply: 2014861552.081291
 max_supply: null
 ath: 0.02278469
-ath_change_percentage: -95.19813
+ath_change_percentage: -95.23182
 ath_date: "2021-12-11T23:18:41.562Z"
 atl: 0.0
-atl_change_percentage: 1.4504499056503554e+34
+atl_change_percentage: 1.4402739586072464e+34
 atl_date: "2022-03-11T06:16:57.258Z"
 ---
 
