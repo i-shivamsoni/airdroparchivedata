@@ -13,21 +13,20 @@ website: "https://app.term.finance/"
 ticker: "TERM"
 description: "Term Finance is a fixed-rate lending protocol on Ethereum, rewarding early adopters and active community members with $TERM tokens for protocol usage and engagement."
 mis-data-source: "coingecko"
-last_updated: "2025-08-25T06:27:20.725Z"
-# miscellaneous data source section
+last_updated: "2025-08-25T12:37:18.426Z"
 coingecko_id: "term-finance"
-current_price: 0.438182
+current_price: 0.44687
 market_cap: 0.0
 market_cap_rank: null
-fully_diluted_valuation: 43818175
+fully_diluted_valuation: 44686995
 circulating_supply: 0.0
 total_supply: 100000000.0
 max_supply: 100000000.0
 ath: 16.7
-ath_change_percentage: -97.37552
+ath_change_percentage: -97.32389
 ath_date: "2025-06-29T15:20:11.114Z"
 atl: 0.337416
-atl_change_percentage: 29.864
+atl_change_percentage: 32.4185
 atl_date: "2025-05-30T14:08:59.919Z"
 ---
 
