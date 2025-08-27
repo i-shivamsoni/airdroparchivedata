@@ -13,21 +13,20 @@ website: "https://bubblemaps.io"
 ticker: "BMT"
 description: "Bubblemaps is the first supply auditing tool for DeFi tokens and NFTs, utilizing unique and colorful bubbles to simplify on-chain data analysis."
 mis-data-source: "coingecko"
-last_updated: "2025-08-27T12:37:33.913Z"
-# miscellaneous data source section
+last_updated: "2025-08-27T18:25:46.623Z"
 coingecko_id: "bubblemaps"
-current_price: 0.069138
-market_cap: 17716658
-market_cap_rank: 1404
-fully_diluted_valuation: 69156826
+current_price: 0.069453
+market_cap: 17787048
+market_cap_rank: 1402
+fully_diluted_valuation: 69431592
 circulating_supply: 256180900.0
 total_supply: 1000000000.0
 max_supply: 1000000000.0
 ath: 0.317341
-ath_change_percentage: -78.21244
+ath_change_percentage: -78.16299
 ath_date: "2025-03-18T15:20:52.751Z"
 atl: 0.066834
-atl_change_percentage: 3.45144
+atl_change_percentage: 3.68624
 atl_date: "2025-08-25T21:21:56.611Z"
 ---
 
