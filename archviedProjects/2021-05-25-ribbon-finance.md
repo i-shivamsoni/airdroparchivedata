@@ -14,20 +14,21 @@ website: "https://ribbon.finance"
 ticker: "RBN"
 description: "A protocol that creates structured products for DeFi, combining options, futures, and fixed income to improve a portfolio's risk-return profile."
 mis-data-source: "coingecko"
-last_updated: "2025-08-29T01:22:18.753Z"
+last_updated: "2025-08-29T06:26:54.512Z"
+# miscellaneous data source section
 coingecko_id: "ribbon-finance"
-current_price: 0.09334
-market_cap: 8140616
-market_cap_rank: 1950
-fully_diluted_valuation: 93429337
-circulating_supply: 87131258.40035573
+current_price: 0.093064
+market_cap: 8109312
+market_cap_rank: 1953
+fully_diluted_valuation: 93070233
+circulating_supply: 87131099.11942384
 total_supply: 1000000000.0
 max_supply: 1000000000.0
 ath: 5.54
-ath_change_percentage: -98.30532
+ath_change_percentage: -98.31952
 ath_date: "2021-10-07T22:30:49.258Z"
 atl: 0.03402213
-atl_change_percentage: 176.04379
+atl_change_percentage: 173.73063
 atl_date: "2025-06-27T17:22:14.942Z"
 ---
 
