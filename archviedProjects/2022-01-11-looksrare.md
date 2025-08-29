@@ -13,20 +13,21 @@ website: "https://looksrare.org"
 ticker: "LOOKS"
 description: "A decentralized NFT marketplace that rewards users for trading and staking."
 mis-data-source: "coingecko"
-last_updated: "2025-08-29T12:36:51.553Z"
+last_updated: "2025-08-29T18:23:58.953Z"
+# miscellaneous data source section
 coingecko_id: "looksrare"
-current_price: 0.01519949
-market_cap: 15097215
-market_cap_rank: 1504
-fully_diluted_valuation: 15097215
+current_price: 0.01509069
+market_cap: 14949233
+market_cap_rank: 1501
+fully_diluted_valuation: 14949229
 circulating_supply: 993252000.6160043
-total_supply: 993252000.6160043
+total_supply: 993251787.7630402
 max_supply: 1000000000.0
 ath: 7.1
-ath_change_percentage: -99.78729
+ath_change_percentage: -99.78747
 ath_date: "2022-01-20T19:30:02.255Z"
 atl: 0.00821059
-atl_change_percentage: 83.99037
+atl_change_percentage: 83.83643
 atl_date: "2025-04-08T09:27:36.079Z"
 ---
 
