@@ -14,22 +14,21 @@ website: "https://equilibrefinance.com/"
 ticker: "VARA"
 description: "A decentralized finance (DeFi) platform built on the Kava network, leveraging ve(3,3) AMMs and concentrated liquidity models."
 mis-data-source: "coingecko"
-last_updated: "2025-09-02T12:38:12.261Z"
-# miscellaneous data source section
+last_updated: "2025-09-02T18:23:33.395Z"
 coingecko_id: "vara-network"
-current_price: 0.00380246
-market_cap: 15592062
-market_cap_rank: 1477
-fully_diluted_valuation: 38056767
-circulating_supply: 4100520613.333333
-total_supply: 10008461718.0
+current_price: 0.00364609
+market_cap: 14969052
+market_cap_rank: 1509
+fully_diluted_valuation: 36524306
+circulating_supply: 4101891052.333333
+total_supply: 10008564749.0
 max_supply: null
 ath: 0.27007
-ath_change_percentage: -98.58503
+ath_change_percentage: -98.64876
 ath_date: "2023-09-21T06:55:36.022Z"
-atl: 0.00380658
-atl_change_percentage: 0.38922
-atl_date: "2025-09-01T17:38:42.103Z"
+atl: 0.00357822
+atl_change_percentage: 1.98641
+atl_date: "2025-09-02T14:43:44.445Z"
 ---
 
 ## Airdrop Details
