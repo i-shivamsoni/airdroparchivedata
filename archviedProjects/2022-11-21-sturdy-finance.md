@@ -14,21 +14,20 @@ website: "https://sturdy.finance"
 ticker: "STRDY"
 description: "A lending protocol that enables borrowers to farm with up to 10x leverage on projects like Convex and Aura, while allowing lenders to earn yield without the associated risks and costs."
 mis-data-source: "coingecko"
-last_updated: "2025-09-03T06:23:57.580Z"
-# miscellaneous data source section
+last_updated: "2025-09-03T12:36:17.579Z"
 coingecko_id: "sturdy"
-current_price: 0.140403
-market_cap: 2862865
-market_cap_rank: 2880
-fully_diluted_valuation: 14030864
+current_price: 0.139194
+market_cap: 2840095
+market_cap_rank: 2893
+fully_diluted_valuation: 13919270
 circulating_supply: 20404052.85673868
 total_supply: 100000000.0
 max_supply: 100000000.0
 ath: 3.83
-ath_change_percentage: -96.33603
+ath_change_percentage: -96.36501
 ath_date: "2024-11-25T12:55:24.902Z"
 atl: 0.073202
-atl_change_percentage: 91.80189
+atl_change_percentage: 90.28519
 atl_date: "2025-07-24T00:47:37.987Z"
 ---
 
