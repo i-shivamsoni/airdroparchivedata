@@ -14,20 +14,21 @@ website: "https://www.eigenfoundation.org"
 ticker: "EIGEN"
 description: "The Eigen Foundation is dedicated to accelerating the growth of the EigenLayer ecosystem, which enables staked ETH to be used as cryptoeconomic security for protocols beyond Ethereum, fostering open innovation."
 mis-data-source: "coingecko"
-last_updated: "2025-09-11T12:35:48.430Z"
+last_updated: "2025-09-11T18:21:14.290Z"
+# miscellaneous data source section
 coingecko_id: "eigenlayer"
-current_price: 1.47
-market_cap: 492684107
-market_cap_rank: 185
-fully_diluted_valuation: 2606204600
+current_price: 1.45
+market_cap: 478062517
+market_cap_rank: 191
+fully_diluted_valuation: 2528859422
 circulating_supply: 330315911.041743
-total_supply: 1747307927.517411
+total_supply: 1747308089.957373
 max_supply: null
 ath: 5.65
-ath_change_percentage: -73.53983
+ath_change_percentage: -74.23421
 ath_date: "2024-12-17T03:45:30.422Z"
 atl: 0.668501
-atl_change_percentage: 123.46594
+atl_change_percentage: 117.60161
 atl_date: "2025-04-09T01:30:50.669Z"
 ---
 
