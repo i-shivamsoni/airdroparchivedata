@@ -13,21 +13,20 @@ website: "https://stakestone.io"
 ticker: "STO"
 description: "StakeStone is an omnichain liquidity infrastructure protocol, enabling efficient, active liquidity provision and distribution across multiple blockchains."
 mis-data-source: "coingecko"
-last_updated: "2025-09-13T12:32:18.314Z"
-# miscellaneous data source section
+last_updated: "2025-09-13T18:21:03.597Z"
 coingecko_id: "stakestone"
-current_price: 0.095366
-market_cap: 21484667
-market_cap_rank: 1342
-fully_diluted_valuation: 95346158
+current_price: 0.092295
+market_cap: 20816624
+market_cap_rank: 1346
+fully_diluted_valuation: 92381467
 circulating_supply: 225333333.0
 total_supply: 1000000000.0
 max_supply: 1000000000.0
 ath: 0.214457
-ath_change_percentage: -55.53937
+ath_change_percentage: -56.8313
 ath_date: "2025-05-03T10:30:34.749Z"
 atl: 0.05283
-atl_change_percentage: 80.48113
+atl_change_percentage: 75.23672
 atl_date: "2025-04-07T19:12:25.173Z"
 ---
 
