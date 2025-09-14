@@ -14,20 +14,21 @@ website: "https://balance.fun"
 ticker: "EPT"
 description: "Balance is a Web3 platform that combines social features with AI agents, offering a comprehensive ecosystem for community engagement and rewards."
 mis-data-source: "coingecko"
-last_updated: "2025-09-14T12:31:43.118Z"
+last_updated: "2025-09-14T18:21:47.895Z"
+# miscellaneous data source section
 coingecko_id: "balance"
-current_price: 0.00559283
-market_cap: 12942916
-market_cap_rank: 1645
-fully_diluted_valuation: 55870713
+current_price: 0.00554496
+market_cap: 12846024
+market_cap_rank: 1652
+fully_diluted_valuation: 55452459
 circulating_supply: 2316583333.0
 total_supply: 10000000000.0
 max_supply: 10000000002.0
 ath: 0.01708052
-ath_change_percentage: -67.30155
+ath_change_percentage: -67.53949
 ath_date: "2025-04-21T13:21:11.518Z"
 atl: 0.00380026
-atl_change_percentage: 46.96518
+atl_change_percentage: 45.89574
 atl_date: "2025-08-05T04:54:23.393Z"
 ---
 
