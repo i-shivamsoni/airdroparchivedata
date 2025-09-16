@@ -14,20 +14,21 @@ website: "https://rhea.finance"
 ticker: "RHEA"
 description: "A decentralized finance platform with a unique reputation-based reward system."
 mis-data-source: "coingecko"
-last_updated: "2025-09-15T18:25:55.436Z"
+last_updated: "2025-09-16T01:19:05.080Z"
+# miscellaneous data source section
 coingecko_id: "ref-finance"
-current_price: 0.156384
-market_cap: 6106337
-market_cap_rank: 2216
-fully_diluted_valuation: 15646450
+current_price: 0.157018
+market_cap: 6162909
+market_cap_rank: 2212
+fully_diluted_valuation: 15791408
 circulating_supply: 39026977.02508125
 total_supply: 100000000.0
 max_supply: null
 ath: 10.64
-ath_change_percentage: -98.52953
+ath_change_percentage: -98.52629
 ath_date: "2021-10-25T22:29:50.921Z"
 atl: 0.04128611
-atl_change_percentage: 278.97249
+atl_change_percentage: 279.80893
 atl_date: "2025-07-25T07:06:22.871Z"
 ---
 
