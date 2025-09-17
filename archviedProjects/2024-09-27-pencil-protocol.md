@@ -13,21 +13,20 @@ website: "https://pencilsprotocol.io"
 ticker: "DAPP"
 description: "A leading DeFi protocol in the Scroll ecosystem, offering farming, vaults, auctions, and yield opportunities powered by ZK technology."
 mis-data-source: "coingecko"
-last_updated: "2025-09-17T12:35:20.245Z"
-# miscellaneous data source section
+last_updated: "2025-09-17T18:24:47.873Z"
 coingecko_id: "penpad-token"
-current_price: 0.00326641
-market_cap: 186403
-market_cap_rank: 6682
-fully_diluted_valuation: 326641
+current_price: 0.00334897
+market_cap: 191115
+market_cap_rank: 6650
+fully_diluted_valuation: 334897
 circulating_supply: 57066666.666666664
 total_supply: 100000000.0
 max_supply: 100000000.0
 ath: 1.058
-ath_change_percentage: -99.69242
+ath_change_percentage: -99.68268
 ath_date: "2024-09-27T10:15:24.481Z"
 atl: 0.00262926
-atl_change_percentage: 23.75089
+atl_change_percentage: 27.66859
 atl_date: "2025-09-17T01:21:31.897Z"
 ---
 
