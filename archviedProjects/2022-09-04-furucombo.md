@@ -14,20 +14,21 @@ website: "https://furucombo.app"
 ticker: "COMBO"
 description: "A multi-chain DeFi aggregator designed to simplify, optimize, and automate DeFi trading. Furucombo allows users to craft multi-step DeFi strategies through a user-friendly platform."
 mis-data-source: "coingecko"
-last_updated: "2025-09-19T12:36:59.938Z"
+last_updated: "2025-09-19T17:47:21.771Z"
+# miscellaneous data source section
 coingecko_id: "furucombo"
-current_price: 0.00096834
-market_cap: 46705
-market_cap_rank: 8907
-fully_diluted_valuation: 96834
+current_price: 0.00096155
+market_cap: 46378
+market_cap_rank: 8888
+fully_diluted_valuation: 96155
 circulating_supply: 48232079.150352955
 total_supply: 100000000.0
 max_supply: 100000000.0
 ath: 6.97
-ath_change_percentage: -99.98611
+ath_change_percentage: -99.98621
 ath_date: "2021-02-25T15:39:22.030Z"
 atl: 0.00076714
-atl_change_percentage: 26.22627
+atl_change_percentage: 25.34214
 atl_date: "2025-05-29T09:30:50.417Z"
 ---
 
