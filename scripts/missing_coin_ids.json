@@ -1,21 +1,5 @@
 [
   {
-    "id": "raft",
-    "reason": "not_found_in_coingecko"
-  },
-  {
-    "id": "phavercoin",
-    "reason": "not_found_in_coingecko"
-  },
-  {
-    "id": "nektar-network",
-    "reason": "not_found_in_coingecko"
-  },
-  {
-    "id": "kingdom-of-ants-ant-coins",
-    "reason": "not_found_in_coingecko"
-  },
-  {
     "id": "artela-network",
     "reason": "not_found_in_coingecko"
   },
@@ -24,11 +8,27 @@
     "reason": "not_found_in_coingecko"
   },
   {
+    "id": "virtuswap",
+    "reason": "not_found_in_coingecko"
+  },
+  {
+    "id": "nektar-network",
+    "reason": "not_found_in_coingecko"
+  },
+  {
+    "id": "phavercoin",
+    "reason": "not_found_in_coingecko"
+  },
+  {
     "id": "zklend-2",
     "reason": "not_found_in_coingecko"
   },
   {
-    "id": "virtuswap",
+    "id": "raft",
+    "reason": "not_found_in_coingecko"
+  },
+  {
+    "id": "kingdom-of-ants-ant-coins",
     "reason": "not_found_in_coingecko"
   }
 ]
