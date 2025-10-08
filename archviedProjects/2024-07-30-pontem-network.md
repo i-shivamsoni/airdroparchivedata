@@ -13,22 +13,21 @@ website: "https://pontem.network"
 ticker: "LSD"
 description: "Pontem Network is an Aptos Blockchain Product Studio building Move-native financial infrastructure for billions of users."
 mis-data-source: "coingecko"
-last_updated: "2025-10-07T18:25:55.609Z"
-# miscellaneous data source section
+last_updated: "2025-10-08T01:17:51.406Z"
 coingecko_id: "pontem-liquidswap"
-current_price: 0.0206016
+current_price: 0.0204588
 market_cap: 0.0
 market_cap_rank: null
-fully_diluted_valuation: 865297
+fully_diluted_valuation: 860621
 circulating_supply: 0.0
 total_supply: 42000000.0
 max_supply: null
 ath: 1.38
-ath_change_percentage: -98.50893
+ath_change_percentage: -98.52275
 ath_date: "2024-10-16T14:35:11.577Z"
-atl: 0.02062386
-atl_change_percentage: 0.10158
-atl_date: "2025-10-07T17:52:52.429Z"
+atl: 0.02042066
+atl_change_percentage: 0.16058
+atl_date: "2025-10-08T00:21:23.767Z"
 ---
 
 ## Airdrop Details
