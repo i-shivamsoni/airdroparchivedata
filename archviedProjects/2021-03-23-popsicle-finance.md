@@ -13,20 +13,21 @@ website: "https://popsicle.finance"
 ticker: "ICE"
 description: "A decentralized finance (DeFi) platform focused on cross-chain yield optimization and liquidity management."
 mis-data-source: "coingecko"
-last_updated: "2025-10-09T01:19:52.538Z"
+last_updated: "2025-10-09T06:27:17.793Z"
+# miscellaneous data source section
 coingecko_id: "ice-token"
-current_price: 0.05134
-market_cap: 346236
-market_cap_rank: 5786
-fully_diluted_valuation: 1239365
+current_price: 0.02571724
+market_cap: 173562
+market_cap_rank: 6830
+fully_diluted_valuation: 621273
 circulating_supply: 6748870.027448356
 total_supply: 24157859.0
 max_supply: null
 ath: 66.04
-ath_change_percentage: -99.92213
+ath_change_percentage: -99.96106
 ath_date: "2021-11-06T18:39:46.590Z"
 atl: 0.00180241
-atl_change_percentage: 2753.35168
+atl_change_percentage: 1326.8265
 atl_date: "2025-03-26T14:20:48.039Z"
 ---
 
