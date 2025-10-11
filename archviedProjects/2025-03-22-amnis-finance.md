@@ -13,21 +13,20 @@ website: "https://amnis.finance/"
 ticker: "AMI"
 description: "The top liquid staking protocol on Aptos, empowering APT holders to maximize returns while maintaining liquidity."
 mis-data-source: "coingecko"
-last_updated: "2025-10-11T06:22:16.051Z"
-# miscellaneous data source section
+last_updated: "2025-10-11T12:31:33.117Z"
 coingecko_id: "ami"
-current_price: 0.03570075
-market_cap: 3379662
-market_cap_rank: 2616
-fully_diluted_valuation: 35699786
-circulating_supply: 94668983.1679816
+current_price: 0.03349666
+market_cap: 3188301
+market_cap_rank: 2709
+fully_diluted_valuation: 33677521
+circulating_supply: 94671501.1579816
 total_supply: 1000000000.0
 max_supply: 1000000000.0
 ath: 0.136987
-ath_change_percentage: -73.41926
+ath_change_percentage: -75.49152
 ath_date: "2025-06-25T23:35:31.698Z"
 atl: 0.02572289
-atl_change_percentage: 41.55529
+atl_change_percentage: 30.51948
 atl_date: "2025-10-10T21:25:43.864Z"
 ---
 
