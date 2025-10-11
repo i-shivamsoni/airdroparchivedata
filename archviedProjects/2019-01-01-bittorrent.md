@@ -14,20 +14,21 @@ website: "https://www.bittorrent.com"
 ticker: "BTT"
 description: "BitTorrent is a decentralized file-sharing protocol that enables efficient distribution of data using peer-to-peer technology. It leverages blockchain technology to incentivize users with BTT tokens for participating in the network."
 mis-data-source: "coingecko"
-last_updated: "2025-10-11T01:17:49.897Z"
+last_updated: "2025-10-11T06:24:20.968Z"
+# miscellaneous data source section
 coingecko_id: "bittorrent"
-current_price: 4.9583e-07
-market_cap: 488414308
-market_cap_rank: 171
-fully_diluted_valuation: 490365297
+current_price: 5.0368e-07
+market_cap: 496553214
+market_cap_rank: 172
+fully_diluted_valuation: 498536714
 circulating_supply: 986061142857000.0
 total_supply: 990000000000000.0
 max_supply: 990000000000000.0
 ath: 3.43e-06
-ath_change_percentage: -85.55048
+ath_change_percentage: -85.32306
 ath_date: "2022-01-21T04:00:31.909Z"
 atl: 3.65368e-07
-atl_change_percentage: 35.70215
+atl_change_percentage: 37.838
 atl_date: "2023-10-13T05:10:41.241Z"
 ---
 
