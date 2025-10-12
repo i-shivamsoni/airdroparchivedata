@@ -14,20 +14,21 @@ website: "https://www.mintchain.io"
 ticker: "MINT"
 description: "Not Known"
 mis-data-source: "coingecko"
-last_updated: "2025-10-12T12:33:20.784Z"
+last_updated: "2025-10-12T18:21:47.865Z"
+# miscellaneous data source section
 coingecko_id: "mint-blockchain"
-current_price: 0.00280618
-market_cap: 552405
-market_cap_rank: 4912
-fully_diluted_valuation: 2819109
+current_price: 0.00277698
+market_cap: 544150
+market_cap_rank: 5030
+fully_diluted_valuation: 2776978
 circulating_supply: 195950279.5153956
 total_supply: 999999999.5153956
 max_supply: 1000000000.0
 ath: 0.079854
-ath_change_percentage: -96.478
+ath_change_percentage: -96.50813
 ath_date: "2025-03-07T14:50:31.579Z"
 atl: 0.00144984
-atl_change_percentage: 93.98569
+atl_change_percentage: 92.32576
 atl_date: "2025-09-15T03:00:38.530Z"
 ---
 
