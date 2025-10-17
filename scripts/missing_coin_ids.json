@@ -1,5 +1,17 @@
 [
   {
+    "id": "kingdom-of-ants-ant-coins",
+    "reason": "not_found_in_coingecko"
+  },
+  {
+    "id": "phavercoin",
+    "reason": "not_found_in_coingecko"
+  },
+  {
+    "id": "beoble",
+    "reason": "not_found_in_coingecko"
+  },
+  {
     "id": "artela-network",
     "reason": "not_found_in_coingecko"
   },
@@ -8,23 +20,7 @@
     "reason": "not_found_in_coingecko"
   },
   {
-    "id": "beoble",
-    "reason": "not_found_in_coingecko"
-  },
-  {
-    "id": "animeswap",
-    "reason": "not_found_in_coingecko"
-  },
-  {
-    "id": "virtuswap",
-    "reason": "not_found_in_coingecko"
-  },
-  {
-    "id": "nektar-network",
-    "reason": "not_found_in_coingecko"
-  },
-  {
-    "id": "phavercoin",
+    "id": "the-ordzaar-runes",
     "reason": "not_found_in_coingecko"
   },
   {
@@ -32,7 +28,11 @@
     "reason": "not_found_in_coingecko"
   },
   {
-    "id": "elys-network",
+    "id": "virtuswap",
+    "reason": "not_found_in_coingecko"
+  },
+  {
+    "id": "animeswap",
     "reason": "not_found_in_coingecko"
   },
   {
@@ -40,11 +40,11 @@
     "reason": "not_found_in_coingecko"
   },
   {
-    "id": "the-ordzaar-runes",
+    "id": "nektar-network",
     "reason": "not_found_in_coingecko"
   },
   {
-    "id": "kingdom-of-ants-ant-coins",
+    "id": "elys-network",
     "reason": "not_found_in_coingecko"
   }
 ]
