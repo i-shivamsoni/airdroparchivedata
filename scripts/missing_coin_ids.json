@@ -1,17 +1,5 @@
 [
   {
-    "id": "kingdom-of-ants-ant-coins",
-    "reason": "not_found_in_coingecko"
-  },
-  {
-    "id": "phavercoin",
-    "reason": "not_found_in_coingecko"
-  },
-  {
-    "id": "beoble",
-    "reason": "not_found_in_coingecko"
-  },
-  {
     "id": "artela-network",
     "reason": "not_found_in_coingecko"
   },
@@ -20,15 +8,7 @@
     "reason": "not_found_in_coingecko"
   },
   {
-    "id": "the-ordzaar-runes",
-    "reason": "not_found_in_coingecko"
-  },
-  {
-    "id": "zklend-2",
-    "reason": "not_found_in_coingecko"
-  },
-  {
-    "id": "virtuswap",
+    "id": "beoble",
     "reason": "not_found_in_coingecko"
   },
   {
@@ -36,7 +16,7 @@
     "reason": "not_found_in_coingecko"
   },
   {
-    "id": "raft",
+    "id": "virtuswap",
     "reason": "not_found_in_coingecko"
   },
   {
@@ -44,7 +24,27 @@
     "reason": "not_found_in_coingecko"
   },
   {
+    "id": "phavercoin",
+    "reason": "not_found_in_coingecko"
+  },
+  {
+    "id": "zklend-2",
+    "reason": "not_found_in_coingecko"
+  },
+  {
     "id": "elys-network",
+    "reason": "not_found_in_coingecko"
+  },
+  {
+    "id": "raft",
+    "reason": "not_found_in_coingecko"
+  },
+  {
+    "id": "the-ordzaar-runes",
+    "reason": "not_found_in_coingecko"
+  },
+  {
+    "id": "kingdom-of-ants-ant-coins",
     "reason": "not_found_in_coingecko"
   }
 ]
