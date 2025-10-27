@@ -14,10 +14,11 @@ ticker: "ICE"
 description: "A decentralized finance (DeFi) platform focused on cross-chain yield optimization and liquidity management."
 mis-data-source: "coingecko"
 last_updated: "2025-10-26T22:42:32.341Z"
+# miscellaneous data source section
 coingecko_id: "ice-token"
 current_price: 0.02250444
 market_cap: 151882
-market_cap_rank: 6969
+market_cap_rank: 6982
 fully_diluted_valuation: 543659
 circulating_supply: 6748985.787813112
 total_supply: 24157859.0
