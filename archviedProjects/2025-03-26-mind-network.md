@@ -15,20 +15,21 @@ website: "https://mindnetwork.xyz"
 ticker: "FHE"
 description: "Mind Network is building a quantum-resistant, fully homomorphic encryption (FHE) infrastructure for secure, privacy-preserving data and AI computation in Web3."
 mis-data-source: "coingecko"
-last_updated: "2025-10-26T18:24:32.283Z"
+last_updated: "2025-10-27T01:39:22.787Z"
+# miscellaneous data source section
 coingecko_id: "mind-network"
-current_price: 0.0433844
-market_cap: 10789388
-market_cap_rank: 1737
-fully_diluted_valuation: 43330877
+current_price: 0.04305573
+market_cap: 10720131
+market_cap_rank: 1753
+fully_diluted_valuation: 43052736
 circulating_supply: 249000000.0
 total_supply: 1000000000.0
 max_supply: 1000000000.0
 ath: 0.150895
-ath_change_percentage: -71.14488
+ath_change_percentage: -71.44163
 ath_date: "2025-08-23T06:27:48.730Z"
 atl: 0.0234892
-atl_change_percentage: 85.36517
+atl_change_percentage: 83.45886
 atl_date: "2025-10-10T21:33:18.598Z"
 ---
 
