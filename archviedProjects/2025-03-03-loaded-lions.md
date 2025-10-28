@@ -13,21 +13,20 @@ website: "https://crypto.com/en/product-news/lion-everything-you-need-to-know"
 ticker: "LION"
 description: "$LION is the core utility token of the Loaded Lions ecosystem, unlocking new opportunities and engagement for holders. It will be used for ecosystem activities, rewards, and more."
 mis-data-source: "coingecko"
-last_updated: "2025-10-28T12:38:43.799Z"
-# miscellaneous data source section
+last_updated: "2025-10-28T18:28:54.720Z"
 coingecko_id: "loaded-lions"
-current_price: 0.01180557
-market_cap: 359057611
-market_cap_rank: 231
-fully_diluted_valuation: 1172486871
+current_price: 0.01157703
+market_cap: 354772418
+market_cap_rank: 232
+fully_diluted_valuation: 1158493763
 circulating_supply: 30623593274.0
 total_supply: 100000000000.0
 max_supply: 100000000000.0
 ath: 0.03159196
-ath_change_percentage: -64.50807
+ath_change_percentage: -63.35255
 ath_date: "2025-08-28T02:22:49.420Z"
 atl: 0.00221931
-atl_change_percentage: 405.22837
+atl_change_percentage: 421.6772
 atl_date: "2025-03-04T09:34:06.201Z"
 ---
 
