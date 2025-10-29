@@ -14,20 +14,21 @@ website: "https://minepi.com/"
 ticker: "PI"
 description: "A decentralized cryptocurrency network focused on mobile mining and peer-to-peer transactions."
 mis-data-source: "coingecko"
-last_updated: "2025-10-29T12:40:20.540Z"
+last_updated: "2025-10-29T18:28:15.464Z"
+# miscellaneous data source section
 coingecko_id: "pi-network"
-current_price: 0.270616
-market_cap: 2239375337
-market_cap_rank: 63
-fully_diluted_valuation: 3445192826
-circulating_supply: 8288740841.656877
-total_supply: 12751908987.16442
+current_price: 0.277531
+market_cap: 2291791719
+market_cap_rank: 62
+fully_diluted_valuation: 3525833414
+circulating_supply: 8292376088.202451
+total_supply: 12757501674.15761
 max_supply: 100000000000.0
 ath: 2.99
-ath_change_percentage: -90.96928
+ath_change_percentage: -90.7107
 ath_date: "2025-02-26T16:41:03.732Z"
 atl: 0.172081
-atl_change_percentage: 56.78825
+atl_change_percentage: 61.27754
 atl_date: "2025-10-10T21:25:41.582Z"
 ---
 
