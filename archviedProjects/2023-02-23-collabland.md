@@ -14,10 +14,11 @@ ticker: "COLLAB"
 description: "A community-driven platform that unites groups around common purposes, fostering collaboration through tokenized governance."
 mis-data-source: "coingecko"
 last_updated: "2025-11-01T04:31:53.274Z"
+# miscellaneous data source section
 coingecko_id: "collab-land"
 current_price: 0.00013206
 market_cap: 33016
-market_cap_rank: 9362
+market_cap_rank: 9356
 fully_diluted_valuation: 132063
 circulating_supply: 250000000.0
 total_supply: 1000000000.0
