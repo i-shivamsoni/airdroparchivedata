@@ -14,6 +14,7 @@ ticker: "GRO"
 description: "A decentralized protocol focused on liquidity provision and community-driven token distribution."
 mis-data-source: "coingecko"
 last_updated: "2025-11-01T04:35:18.908Z"
+# miscellaneous data source section
 coingecko_id: "growth"
 current_price: 0.23466
 market_cap: 0.0
