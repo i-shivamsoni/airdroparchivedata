@@ -13,20 +13,21 @@ website: "https://gyro.finance"
 ticker: "GYFI"
 description: "A decentralized protocol focused on providing a stable and resilient digital currency."
 mis-data-source: "coingecko"
-last_updated: "2025-10-31T18:26:52.759Z"
+last_updated: "2025-11-01T01:35:30.858Z"
+# miscellaneous data source section
 coingecko_id: "gyroscope"
-current_price: 0.526541
+current_price: 0.510433
 market_cap: 0.0
 market_cap_rank: null
-fully_diluted_valuation: 7224256
+fully_diluted_valuation: 6992928
 circulating_supply: 0.0
 total_supply: 13700000.0
 max_supply: null
 ath: 4.07
-ath_change_percentage: -87.07837
+ath_change_percentage: -87.42407
 ath_date: "2025-03-19T11:00:38.819Z"
 atl: 0.482425
-atl_change_percentage: 9.09465
+atl_change_percentage: 6.176
 atl_date: "2025-06-08T11:35:37.549Z"
 ---
 
