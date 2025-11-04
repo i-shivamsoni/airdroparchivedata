@@ -14,21 +14,22 @@ website: "https://magic.store"
 ticker: "SQR"
 description: "A Web3 app store that simplifies crypto adoption by providing a unified platform for decentralized applications."
 mis-data-source: "coingecko"
-last_updated: "2025-11-03T18:26:13.568Z"
+last_updated: "2025-11-04T01:24:31.146Z"
+# miscellaneous data source section
 coingecko_id: "magic-square"
-current_price: 0.00268779
-market_cap: 816251
-market_cap_rank: 4237
-fully_diluted_valuation: 2686052
+current_price: 0.00264865
+market_cap: 804624
+market_cap_rank: 4246
+fully_diluted_valuation: 2647792
 circulating_supply: 303786132.15907013
 total_supply: 999675236.9264408
 max_supply: 1000000000.0
 ath: 0.775708
-ath_change_percentage: -99.65374
+ath_change_percentage: -99.65855
 ath_date: "2024-01-18T04:01:02.519Z"
-atl: 0.0026849
-atl_change_percentage: 0.04104
-atl_date: "2025-11-03T18:14:28.212Z"
+atl: 0.00263874
+atl_change_percentage: 0.37557
+atl_date: "2025-11-04T00:08:36.909Z"
 ---
 
 ## Airdrop Details
