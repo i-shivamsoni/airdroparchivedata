@@ -15,21 +15,20 @@ website: "https://www.puffer.fi/"
 ticker: "PUFFER"
 description: "Puffer Finance is a decentralized Ethereum infrastructure protocol focused on liquid restaking (LRT) and preconfirmation services, including Puffer UniFi and UniFi AVS."
 mis-data-source: "coingecko"
-last_updated: "2025-11-05T06:28:55.265Z"
-# miscellaneous data source section
+last_updated: "2025-11-05T12:39:34.671Z"
 coingecko_id: "puffer-finance"
-current_price: 0.076629
-market_cap: 23114671
-market_cap_rank: 1114
-fully_diluted_valuation: 76628629
+current_price: 0.077298
+market_cap: 23308087
+market_cap_rank: 1106
+fully_diluted_valuation: 77269830
 circulating_supply: 301645373.0
 total_supply: 1000000000.0
 max_supply: 1000000000.0
 ath: 0.990824
-ath_change_percentage: -92.26619
+ath_change_percentage: -92.2
 ath_date: "2024-12-07T09:42:30.591Z"
 atl: 0.07181
-atl_change_percentage: 6.70977
+atl_change_percentage: 7.62308
 atl_date: "2025-11-04T20:27:43.854Z"
 ---
 
