@@ -14,20 +14,21 @@ website: "https://magiceden.io/"
 ticker: "ME"
 description: "Magic Eden is a leading cross-chain NFT marketplace, rewarding active users with $ME tokens for staking and quest participation."
 mis-data-source: "coingecko"
-last_updated: "2025-11-09T12:34:33.933Z"
+last_updated: "2025-11-09T18:23:37.839Z"
+# miscellaneous data source section
 coingecko_id: "magic-eden"
-current_price: 0.418027
-market_cap: 70008546
-market_cap_rank: 592
-fully_diluted_valuation: 417990331
+current_price: 0.421425
+market_cap: 70577709
+market_cap_rank: 591
+fully_diluted_valuation: 421388554
 circulating_supply: 167488435.049437
 total_supply: 1000000000.0
 max_supply: 1000000000.0
 ath: 17.0
-ath_change_percentage: -97.53107
+ath_change_percentage: -97.51144
 ath_date: "2024-12-10T14:00:45.686Z"
 atl: 0.274717
-atl_change_percentage: 52.79041
+atl_change_percentage: 54.00549
 atl_date: "2025-10-10T21:28:38.446Z"
 ---
 
