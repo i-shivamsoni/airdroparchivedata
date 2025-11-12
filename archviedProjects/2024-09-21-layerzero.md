@@ -15,20 +15,21 @@ website: "https://www.layerzero.foundation/"
 ticker: "ZRO"
 description: "LayerZero is an omnichain interoperability protocol that enables censorship-resistant messaging and permissionless development through immutable smart contracts."
 mis-data-source: "coingecko"
-last_updated: "2025-11-12T01:26:14.566Z"
+last_updated: "2025-11-12T06:29:46.000Z"
+# miscellaneous data source section
 coingecko_id: "layerzero"
-current_price: 1.51
-market_cap: 167042562
-market_cap_rank: 345
-fully_diluted_valuation: 1502818468
+current_price: 1.56
+market_cap: 173416391
+market_cap_rank: 338
+fully_diluted_valuation: 1560161387
 circulating_supply: 111152854.20763355
 total_supply: 1000000000.0
 max_supply: 1000000000.0
 ath: 7.47
-ath_change_percentage: -79.83941
+ath_change_percentage: -79.1385
 ath_date: "2024-12-06T14:15:52.674Z"
 atl: 1.12
-atl_change_percentage: 34.35456
+atl_change_percentage: 39.02557
 atl_date: "2025-10-10T21:27:10.208Z"
 ---
 
