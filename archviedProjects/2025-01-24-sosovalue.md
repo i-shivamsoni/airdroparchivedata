@@ -13,20 +13,21 @@ website: "https://sosovalue.com"
 ticker: "SOSO"
 description: "A cryptocurrency data aggregator providing real-time data, market trends, and investment research."
 mis-data-source: "coingecko"
-last_updated: "2025-11-11T18:27:22.209Z"
+last_updated: "2025-11-12T01:26:17.853Z"
+# miscellaneous data source section
 coingecko_id: "sosovalue"
-current_price: 0.681169
-market_cap: 187241637
+current_price: 0.671024
+market_cap: 184701418
 market_cap_rank: 322
-fully_diluted_valuation: 681457111
+fully_diluted_valuation: 672212103
 circulating_supply: 274766576.0
 total_supply: 1000000000.0
 max_supply: 1000000000.0
 ath: 1.42
-ath_change_percentage: -52.01066
+ath_change_percentage: -52.93555
 ath_date: "2025-01-25T12:11:14.152Z"
 atl: 0.359771
-atl_change_percentage: 89.48257
+atl_change_percentage: 85.83071
 atl_date: "2025-06-08T12:06:07.661Z"
 ---
 

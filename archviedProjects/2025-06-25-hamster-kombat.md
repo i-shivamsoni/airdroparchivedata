@@ -13,20 +13,21 @@ website: "https://hamsterkombat.io/"
 ticker: "HMSTR"
 description: "Hamster Kombat is a Telegram-based crypto exchange CEO simulator game with 300 million players, aiming to onboard 1 billion Web2 users into Web3 through gamified social and financial activities."
 mis-data-source: "coingecko"
-last_updated: "2025-11-11T18:27:17.569Z"
+last_updated: "2025-11-12T01:26:14.201Z"
+# miscellaneous data source section
 coingecko_id: "hamster-kombat"
-current_price: 0.00032233
-market_cap: 20836352
-market_cap_rank: 1205
-fully_diluted_valuation: 32367148
+current_price: 0.00030847
+market_cap: 19857808
+market_cap_rank: 1233
+fully_diluted_valuation: 30847081
 circulating_supply: 64375000000.0
 total_supply: 100000000000.0
 max_supply: 100000000000.0
 ath: 0.00722201
-ath_change_percentage: -95.52267
+ath_change_percentage: -95.79329
 ath_date: "2024-09-27T02:01:16.891Z"
 atl: 0.00027755
-atl_change_percentage: 16.50433
+atl_change_percentage: 9.46256
 atl_date: "2025-10-10T21:25:49.985Z"
 ---
 
