@@ -13,21 +13,22 @@ website: "https://spheron.network"
 ticker: "SPON"
 description: "A decentralized programmable compute network designed to power autonomous AI agents."
 mis-data-source: "coingecko"
-last_updated: "2025-11-14T01:25:24.593Z"
+last_updated: "2025-11-14T06:28:46.160Z"
+# miscellaneous data source section
 coingecko_id: "spheron-network"
-current_price: 0.01015678
-market_cap: 2235506
-market_cap_rank: 2946
-fully_diluted_valuation: 10156776
+current_price: 0.01015944
+market_cap: 2240942
+market_cap_rank: 2949
+fully_diluted_valuation: 10181473
 circulating_supply: 220100000.0
 total_supply: 1000000000.0
 max_supply: 1000000000.0
 ath: 0.088402
-ath_change_percentage: -88.51064
+ath_change_percentage: -88.50225
 ath_date: "2025-08-28T18:26:35.276Z"
-atl: 0.01007747
-atl_change_percentage: 0.78693
-atl_date: "2025-11-13T20:27:34.736Z"
+atl: 0.010044
+atl_change_percentage: 1.19664
+atl_date: "2025-11-14T04:55:46.490Z"
 ---
 
 ## Airdrop Details
