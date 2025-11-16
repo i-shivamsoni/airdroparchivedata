@@ -13,21 +13,20 @@ website: "https://www.odos.xyz/"
 ticker: "ODOS"
 description: "A DeFi protocol optimizing token swaps and trades with advanced routing and aggregation mechanisms."
 mis-data-source: "coingecko"
-last_updated: "2025-11-16T01:39:28.659Z"
-# miscellaneous data source section
+last_updated: "2025-11-16T06:27:21.194Z"
 coingecko_id: "odos"
-current_price: 0.00285824
-market_cap: 4565831
+current_price: 0.0028777
+market_cap: 4614541
 market_cap_rank: 2240
-fully_diluted_valuation: 28536445
+fully_diluted_valuation: 28840883
 circulating_supply: 1600000001.378885
 total_supply: 10000000000.0
 max_supply: 10000000000.0
 ath: 0.04904018
-ath_change_percentage: -94.15952
+ath_change_percentage: -94.12102
 ath_date: "2024-12-21T12:30:25.523Z"
 atl: 0.00278345
-atl_change_percentage: 2.90038
+atl_change_percentage: 3.57867
 atl_date: "2025-11-14T13:45:27.715Z"
 ---
 
