@@ -14,21 +14,20 @@ website: "https://msu.io"
 ticker: "NXPC"
 description: "NEXPACE is a Web3 IP-expansion initiative backed by Nexon, featuring the NXPC token as an integral part of the MapleStory Universe (MSU) ecosystem, bringing the iconic 23-year-old gaming IP to blockchain."
 mis-data-source: "coingecko"
-last_updated: "2025-11-16T18:25:14.736Z"
-# miscellaneous data source section
+last_updated: "2025-11-17T01:27:28.894Z"
 coingecko_id: "story-2"
-current_price: 2.96
-market_cap: 981375205
+current_price: 2.92
+market_cap: 966656142
 market_cap_rank: 111
-fully_diluted_valuation: 3022524442
-circulating_supply: 330513017.31
-total_supply: 1017942646.28
+fully_diluted_valuation: 2977071978
+circulating_supply: 330532641.04
+total_supply: 1017962252.59
 max_supply: null
 ath: 14.78
-ath_change_percentage: -80.1037
+ath_change_percentage: -80.14609
 ath_date: "2025-09-21T21:07:34.521Z"
 atl: 1.0
-atl_change_percentage: 194.12034
+atl_change_percentage: 193.49369
 atl_date: "2025-02-14T03:11:08.309Z"
 ---
 
