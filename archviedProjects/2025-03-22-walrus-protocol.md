@@ -14,7 +14,6 @@ ticker: "WAL"
 description: "A decentralized storage network built on the Sui blockchain, aiming to provide secure, efficient, and decentralized data storage solutions."
 mis-data-source: "coingecko"
 last_updated: "2025-11-18T06:28:29.620Z"
-# miscellaneous data source section
 coingecko_id: "walrus-2"
 current_price: 0.185936
 market_cap: 281471821

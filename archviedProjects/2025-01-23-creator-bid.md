@@ -14,7 +14,6 @@ ticker: "BID"
 description: "A decentralized platform that enables users to earn and engage with creators through CreatorPoints and token-based memberships."
 mis-data-source: "coingecko"
 last_updated: "2025-11-18T06:28:32.545Z"
-# miscellaneous data source section
 coingecko_id: "creatorbid"
 current_price: 0.03709428
 market_cap: 10060245

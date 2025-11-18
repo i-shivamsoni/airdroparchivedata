@@ -15,7 +15,6 @@ ticker: "PI"
 description: "A decentralized cryptocurrency network focused on mobile mining and peer-to-peer transactions."
 mis-data-source: "coingecko"
 last_updated: "2025-11-18T06:28:37.598Z"
-# miscellaneous data source section
 coingecko_id: "pi-network"
 current_price: 0.22472
 market_cap: 1870717813

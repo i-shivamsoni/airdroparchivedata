@@ -14,6 +14,7 @@ ticker: "LION"
 description: "$LION is the core utility token of the Loaded Lions ecosystem, unlocking new opportunities and engagement for holders. It will be used for ecosystem activities, rewards, and more."
 mis-data-source: "coingecko"
 last_updated: "2025-11-18T06:28:35.626Z"
+# miscellaneous data source section
 coingecko_id: "loaded-lions"
 current_price: 0.00739157
 market_cap: 226487852

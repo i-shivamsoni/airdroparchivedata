@@ -16,6 +16,7 @@ ticker: "ICP"
 description: "A decentralized cloud computing platform designed to run applications on a public blockchain with high scalability and security."
 mis-data-source: "coingecko"
 last_updated: "2025-11-18T06:28:35.039Z"
+# miscellaneous data source section
 coingecko_id: "internet-computer"
 current_price: 5.71
 market_cap: 3029657131

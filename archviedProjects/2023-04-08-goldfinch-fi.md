@@ -15,7 +15,6 @@ ticker: "GFI"
 description: "A decentralized credit protocol aiming to expand financial inclusion by enabling loans without collateral."
 mis-data-source: "coingecko"
 last_updated: "2025-11-18T06:28:34.102Z"
-# miscellaneous data source section
 coingecko_id: "goldfinch"
 current_price: 0.259397
 market_cap: 24205273

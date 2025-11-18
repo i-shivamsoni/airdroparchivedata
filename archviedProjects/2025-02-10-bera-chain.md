@@ -16,6 +16,7 @@ ticker: "BERA"
 description: ""
 mis-data-source: "coingecko"
 last_updated: "2025-11-18T06:28:31.284Z"
+# miscellaneous data source section
 coingecko_id: "berachain-bera"
 current_price: 1.29
 market_cap: 171280533

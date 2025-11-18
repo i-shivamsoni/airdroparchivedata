@@ -15,6 +15,7 @@ ticker: "VARA"
 description: "A decentralized finance (DeFi) platform built on the Kava network, leveraging ve(3,3) AMMs and concentrated liquidity models."
 mis-data-source: "coingecko"
 last_updated: "2025-11-18T06:28:29.016Z"
+# miscellaneous data source section
 coingecko_id: "vara-network"
 current_price: 0.0013841
 market_cap: 5724132

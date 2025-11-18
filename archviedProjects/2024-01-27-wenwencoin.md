@@ -14,7 +14,6 @@ ticker: "WEN"
 description: "A community coin debuting on Solana alongside a new NFT standard, WNS 0.0."
 mis-data-source: "coingecko"
 last_updated: "2025-11-18T06:28:29.802Z"
-# miscellaneous data source section
 coingecko_id: "wen-4"
 current_price: 1.654e-05
 market_cap: 12061912

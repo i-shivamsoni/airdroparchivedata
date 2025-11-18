@@ -15,6 +15,7 @@ ticker: "SQR"
 description: "A Web3 app store that simplifies crypto adoption by providing a unified platform for decentralized applications."
 mis-data-source: "coingecko"
 last_updated: "2025-11-18T06:27:34.950Z"
+# miscellaneous data source section
 coingecko_id: "magic-square"
 current_price: 0.00170978
 market_cap: 614956

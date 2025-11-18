@@ -14,7 +14,6 @@ ticker: "EMT"
 description: "A blockchain-based email platform designed to provide secure, anonymous, and user-controlled email communication. It bridges the gap between Web2 and Web3, rewarding users for engagement with consensual marketing."
 mis-data-source: "coingecko"
 last_updated: "2025-11-18T06:27:54.207Z"
-# miscellaneous data source section
 coingecko_id: "email-token"
 current_price: 0.00186593
 market_cap: 0.0

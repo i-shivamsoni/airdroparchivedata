@@ -14,7 +14,6 @@ ticker: "EDGE"
 description: "A multichain trading platform providing advanced order types across major chains with a noncustodial, gasless, and MEV-resistant experience."
 mis-data-source: "coingecko"
 last_updated: "2025-11-18T06:28:32.754Z"
-# miscellaneous data source section
 coingecko_id: "definitive"
 current_price: 0.177935
 market_cap: 36103105

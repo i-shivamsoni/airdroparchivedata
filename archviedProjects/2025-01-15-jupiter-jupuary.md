@@ -14,7 +14,6 @@ ticker: "JUP"
 description: "A decentralized autonomous organization focused on enhancing the Jupiter ecosystem through community engagement and innovative trading solutions."
 mis-data-source: "coingecko"
 last_updated: "2025-11-18T06:27:35.501Z"
-# miscellaneous data source section
 coingecko_id: "jupiter"
 current_price: 0.0005855
 market_cap: 583450

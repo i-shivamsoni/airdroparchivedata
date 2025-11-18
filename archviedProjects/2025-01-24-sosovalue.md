@@ -14,6 +14,7 @@ ticker: "SOSO"
 description: "A cryptocurrency data aggregator providing real-time data, market trends, and investment research."
 mis-data-source: "coingecko"
 last_updated: "2025-11-18T06:28:39.209Z"
+# miscellaneous data source section
 coingecko_id: "sosovalue"
 current_price: 0.604606
 market_cap: 166179486

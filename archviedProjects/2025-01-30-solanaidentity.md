@@ -14,6 +14,7 @@ ticker: "SOLID"
 description: "A decentralized identity system built on Solana that rewards users based on their on-chain activity."
 mis-data-source: "coingecko"
 last_updated: "2025-11-18T06:26:51.896Z"
+# miscellaneous data source section
 coingecko_id: "solid"
 current_price: 0.00230215
 market_cap: 958585

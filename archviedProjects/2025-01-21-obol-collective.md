@@ -14,7 +14,6 @@ ticker: "OBOL"
 description: "A community dedicated to scaling Ethereum by enhancing the security, resiliency, and decentralization of the consensus layer through the development and deployment of distributed validators."
 mis-data-source: "coingecko"
 last_updated: "2025-11-18T06:28:37.004Z"
-# miscellaneous data source section
 coingecko_id: "obol-2"
 current_price: 0.076242
 market_cap: 10082345

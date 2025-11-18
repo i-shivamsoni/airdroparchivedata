@@ -14,7 +14,6 @@ ticker: "LISTA"
 description: "Lista DAO is a decentralized autonomous organization focusing on creating a comprehensive DeFi ecosystem."
 mis-data-source: "coingecko"
 last_updated: "2025-11-18T06:28:35.648Z"
-# miscellaneous data source section
 coingecko_id: "lista"
 current_price: 0.201772
 market_cap: 51528897

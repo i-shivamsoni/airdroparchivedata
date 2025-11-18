@@ -14,7 +14,6 @@ ticker: "PENGU"
 description: "A popular NFT collection and ecosystem focused on Web3 and community-driven engagement, featuring digital collectibles, physical toys, and cross-chain initiatives."
 mis-data-source: "coingecko"
 last_updated: "2025-11-18T06:28:26.296Z"
-# miscellaneous data source section
 coingecko_id: "pudgy-penguins"
 current_price: 0.01211639
 market_cap: 763036412

@@ -14,6 +14,7 @@ ticker: "SOLV"
 description: "Leading Bitcoin staking platform facilitating on-chain BTC reserves and DeFi integration."
 mis-data-source: "coingecko"
 last_updated: "2025-11-18T06:28:27.309Z"
+# miscellaneous data source section
 coingecko_id: "solv-protocol"
 current_price: 0.01371713
 market_cap: 20382756

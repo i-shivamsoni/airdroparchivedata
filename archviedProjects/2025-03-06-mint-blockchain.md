@@ -15,7 +15,6 @@ ticker: "MINT"
 description: "Not Known"
 mis-data-source: "coingecko"
 last_updated: "2025-11-18T06:27:42.767Z"
-# miscellaneous data source section
 coingecko_id: "mint-blockchain"
 current_price: 0.00203134
 market_cap: 399176

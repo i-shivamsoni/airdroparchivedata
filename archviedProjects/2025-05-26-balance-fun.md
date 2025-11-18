@@ -15,7 +15,6 @@ ticker: "EPT"
 description: "Balance is a Web3 platform that combines social features with AI agents, offering a comprehensive ecosystem for community engagement and rewards."
 mis-data-source: "coingecko"
 last_updated: "2025-11-18T06:28:30.893Z"
-# miscellaneous data source section
 coingecko_id: "balance"
 current_price: 0.00294994
 market_cap: 6833574

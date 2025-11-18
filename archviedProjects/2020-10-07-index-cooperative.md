@@ -15,7 +15,6 @@ ticker: "INDEX"
 description: "A decentralized autonomous organization (DAO) focused on launching and maintaining crypto index products to facilitate access to crypto markets."
 mis-data-source: "coingecko"
 last_updated: "2025-11-18T06:28:34.799Z"
-# miscellaneous data source section
 coingecko_id: "index-cooperative"
 current_price: 0.763783
 market_cap: 5687706

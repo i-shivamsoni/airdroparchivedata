@@ -14,6 +14,7 @@ ticker: "STO"
 description: "StakeStone is an omnichain liquidity infrastructure protocol, enabling efficient, active liquidity provision and distribution across multiple blockchains."
 mis-data-source: "coingecko"
 last_updated: "2025-11-18T06:28:27.527Z"
+# miscellaneous data source section
 coingecko_id: "stakestone"
 current_price: 0.168207
 market_cap: 37895907

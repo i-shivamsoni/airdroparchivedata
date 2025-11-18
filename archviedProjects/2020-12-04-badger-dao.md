@@ -15,7 +15,6 @@ ticker: "BADGER"
 description: "A decentralized collective of builders supporting community-driven growth for Bitcoin across DeFi."
 mis-data-source: "coingecko"
 last_updated: "2025-11-18T06:28:42.708Z"
-# miscellaneous data source section
 coingecko_id: "badger-dao"
 current_price: 0.588575
 market_cap: 11727377

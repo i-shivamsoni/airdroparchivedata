@@ -14,7 +14,6 @@ ticker: "SXT"
 description: "A decentralized database network that enables fast queries and tamper-proof analytics for onchain apps, using a sub-second ZK Coprocessor optimized for SQL to let smart contracts process data at scale."
 mis-data-source: "coingecko"
 last_updated: "2025-11-18T06:28:09.804Z"
-# miscellaneous data source section
 coingecko_id: "space-and-time"
 current_price: 0.03871296
 market_cap: 0.0

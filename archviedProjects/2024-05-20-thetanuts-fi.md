@@ -14,7 +14,6 @@ ticker: "NUTS"
 description: "A decentralized on-chain options protocol offering structured yield vaults and innovative financial instruments for DeFi users."
 mis-data-source: "coingecko"
 last_updated: "2025-11-18T06:28:28.239Z"
-# miscellaneous data source section
 coingecko_id: "thetanuts-finance"
 current_price: 0.00149837
 market_cap: 3483357

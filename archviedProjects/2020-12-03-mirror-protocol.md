@@ -15,7 +15,6 @@ ticker: "MIR"
 description: "A decentralized synthetic assets protocol built on the Terra blockchain, allowing users to trade tokenized versions of real-world assets."
 mis-data-source: "coingecko"
 last_updated: "2025-11-18T06:28:03.030Z"
-# miscellaneous data source section
 coingecko_id: "mirror-protocol"
 current_price: 0.00819102
 market_cap: 1278540

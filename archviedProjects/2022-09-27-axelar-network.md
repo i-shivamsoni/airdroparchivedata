@@ -15,6 +15,7 @@ ticker: "AXL"
 description: "Axelar delivers secure interchain communication for Web3, allowing dApp users to interact with any asset or application on any chain with one click. It functions like Stripe for Web3."
 mis-data-source: "coingecko"
 last_updated: "2025-11-18T06:28:30.746Z"
+# miscellaneous data source section
 coingecko_id: "axelar"
 current_price: 0.135247
 market_cap: 145376256

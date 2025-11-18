@@ -14,7 +14,6 @@ ticker: "WCT"
 description: "A decentralized communication protocol that connects wallets and dApps across multiple blockchain networks."
 mis-data-source: "coingecko"
 last_updated: "2025-11-18T06:28:32.432Z"
-# miscellaneous data source section
 coingecko_id: "connect-token-wct"
 current_price: 0.147028
 market_cap: 27504694

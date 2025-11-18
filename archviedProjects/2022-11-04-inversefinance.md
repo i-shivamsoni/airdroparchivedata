@@ -14,6 +14,7 @@ ticker: "DBR"
 description: "A decentralized finance (DeFi) platform offering lending and borrowing solutions, including the DOLA stablecoin and DBR borrowing rights."
 mis-data-source: "coingecko"
 last_updated: "2025-11-18T06:28:34.920Z"
+# miscellaneous data source section
 coingecko_id: "inverse-finance"
 current_price: 33.9
 market_cap: 20244940

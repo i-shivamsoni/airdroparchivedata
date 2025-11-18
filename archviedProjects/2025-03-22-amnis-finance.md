@@ -14,7 +14,6 @@ ticker: "AMI"
 description: "The top liquid staking protocol on Aptos, empowering APT holders to maximize returns while maintaining liquidity."
 mis-data-source: "coingecko"
 last_updated: "2025-11-18T06:26:37.867Z"
-# miscellaneous data source section
 coingecko_id: "ami"
 current_price: 0.01832496
 market_cap: 1836583

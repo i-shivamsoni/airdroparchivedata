@@ -14,6 +14,7 @@ ticker: "AVL"
 description: "Avalon Labs is a blockchain-based platform focused on decentralized finance (DeFi) solutions."
 mis-data-source: "coingecko"
 last_updated: "2025-11-18T06:28:30.621Z"
+# miscellaneous data source section
 coingecko_id: "avalon-2"
 current_price: 0.192602
 market_cap: 48346597

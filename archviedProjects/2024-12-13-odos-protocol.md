@@ -14,6 +14,7 @@ ticker: "ODOS"
 description: "A DeFi protocol optimizing token swaps and trades with advanced routing and aggregation mechanisms."
 mis-data-source: "coingecko"
 last_updated: "2025-11-18T06:28:25.317Z"
+# miscellaneous data source section
 coingecko_id: "odos"
 current_price: 0.00263479
 market_cap: 4211096

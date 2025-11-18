@@ -15,7 +15,6 @@ ticker: "SPEC"
 description: "Spectral is a machine intelligence network enabling users to build on-chain AI agents and engage in an on-chain agent economy. It offers tools like Spectral Syntax and Nova, integrated via Inferchain, ensuring transparency and decentralization."
 mis-data-source: "coingecko"
 last_updated: "2025-11-18T06:28:39.206Z"
-# miscellaneous data source section
 coingecko_id: "spectral"
 current_price: 0.200788
 market_cap: 4144211

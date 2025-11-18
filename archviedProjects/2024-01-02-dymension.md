@@ -16,7 +16,6 @@ ticker: "DYM"
 description: "A modular blockchain protocol designed to enhance scalability and interoperability by enabling the deployment of RollApps—application-specific rollups—on its network."
 mis-data-source: "coingecko"
 last_updated: "2025-11-18T06:28:33.210Z"
-# miscellaneous data source section
 coingecko_id: "dymension"
 current_price: 0.078644
 market_cap: 32026683
