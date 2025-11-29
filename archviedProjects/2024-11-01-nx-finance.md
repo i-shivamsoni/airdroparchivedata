@@ -13,20 +13,21 @@ website: "Not Known"
 ticker: "NX"
 description: "A yield layer on Solana offering leveraged strategies for enhanced returns."
 mis-data-source: "coingecko"
-last_updated: "2025-11-28T18:05:03.326Z"
+last_updated: "2025-11-29T01:24:21.442Z"
+# miscellaneous data source section
 coingecko_id: "nx-token"
-current_price: 0.01023188
-market_cap: 392127
-market_cap_rank: 4983
-fully_diluted_valuation: 1023188
+current_price: 0.00993338
+market_cap: 380019
+market_cap_rank: 5026
+fully_diluted_valuation: 991594
 circulating_supply: 38324029.69104546
 total_supply: 100000000.0
 max_supply: 100000000.0
 ath: 0.100419
-ath_change_percentage: -89.81085
+ath_change_percentage: -90.11377
 ath_date: "2025-01-19T05:05:52.408Z"
 atl: 0.00904027
-atl_change_percentage: 13.18106
+atl_change_percentage: 9.81628
 atl_date: "2025-11-21T12:08:47.734Z"
 ---
 

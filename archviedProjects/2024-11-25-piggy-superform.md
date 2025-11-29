@@ -13,21 +13,20 @@ website: "https://www.superform.xyz/"
 ticker: "PIGGY"
 description: "A DeFi yield marketplace optimizing on-chain wealth by providing users access to diverse yield opportunities across multiple blockchains."
 mis-data-source: "coingecko"
-last_updated: "2025-11-28T18:25:08.005Z"
-# miscellaneous data source section
+last_updated: "2025-11-29T01:23:10.676Z"
 coingecko_id: "piggy-2"
-current_price: 7.66e-06
-market_cap: 483844
-market_cap_rank: 4701
-fully_diluted_valuation: 483844
+current_price: 7.75e-06
+market_cap: 487959
+market_cap_rank: 4685
+fully_diluted_valuation: 487959
 circulating_supply: 63123637092.72057
 total_supply: 63123637092.72057
 max_supply: 69000000000.0
 ath: 5.825e-05
-ath_change_percentage: -86.84311
+ath_change_percentage: -86.76707
 ath_date: "2024-12-24T01:36:44.439Z"
 atl: 6.25e-06
-atl_change_percentage: 22.69474
+atl_change_percentage: 23.40393
 atl_date: "2025-03-13T09:06:38.969Z"
 ---
 

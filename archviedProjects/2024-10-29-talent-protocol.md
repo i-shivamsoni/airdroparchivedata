@@ -13,21 +13,20 @@ website: "https://talentprotocol.com"
 ticker: "TALENT"
 description: "A decentralized protocol designed to help crypto builders gain recognition and rewards based on verifiable reputation data."
 mis-data-source: "coingecko"
-last_updated: "2025-11-28T18:27:09.772Z"
-# miscellaneous data source section
+last_updated: "2025-11-29T01:23:56.203Z"
 coingecko_id: "talent-protocol"
-current_price: 0.00242528
-market_cap: 455289
-market_cap_rank: 4772
-fully_diluted_valuation: 1409585
-circulating_supply: 189473215.1497747
+current_price: 0.0024007
+market_cap: 455083
+market_cap_rank: 4759
+fully_diluted_valuation: 1408471
+circulating_supply: 189536991.3551407
 total_supply: 586613084.7172114
 max_supply: 600000000.0
 ath: 0.151579
-ath_change_percentage: -98.4134
+ath_change_percentage: -98.41742
 ath_date: "2024-11-04T02:00:11.413Z"
 atl: 0.00215504
-atl_change_percentage: 11.59679
+atl_change_percentage: 11.31403
 atl_date: "2025-11-22T20:58:37.539Z"
 ---
 
