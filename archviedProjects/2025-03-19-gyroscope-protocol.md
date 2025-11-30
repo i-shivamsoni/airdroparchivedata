@@ -14,7 +14,6 @@ ticker: "GYFI"
 description: "A decentralized protocol focused on providing a stable and resilient digital currency."
 mis-data-source: "coingecko"
 last_updated: "2025-11-29T20:53:08.737Z"
-# miscellaneous data source section
 coingecko_id: "gyroscope"
 current_price: 0.408034
 market_cap: 0.0
