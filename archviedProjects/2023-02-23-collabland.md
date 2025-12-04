@@ -13,13 +13,12 @@ website: "https://wagmi.collab.land/"
 ticker: "COLLAB"
 description: "A community-driven platform that unites groups around common purposes, fostering collaboration through tokenized governance."
 mis-data-source: "coingecko"
-last_updated: "2025-12-03T18:02:23.802Z"
-# miscellaneous data source section
+last_updated: "2025-12-04T01:26:41.737Z"
 coingecko_id: "collab-land"
-current_price: 0.00010992
-market_cap: 27481
-market_cap_rank: 9158
-fully_diluted_valuation: 109922
+current_price: 0.00011242
+market_cap: 28106
+market_cap_rank: 9131
+fully_diluted_valuation: 112423
 circulating_supply: 250000000.0
 total_supply: 1000000000.0
 max_supply: 1000000000.0
