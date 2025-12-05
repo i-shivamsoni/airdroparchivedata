@@ -13,21 +13,20 @@ website: "https://dappradar.com/"
 ticker: "RADAR"
 description: "A leading dapp discovery platform that provides analytics and tracking for decentralized applications across multiple blockchains."
 mis-data-source: "coingecko"
-last_updated: "2025-12-04T18:31:06.082Z"
-# miscellaneous data source section
+last_updated: "2025-12-05T01:37:44.327Z"
 coingecko_id: "dappradar"
-current_price: 0.00055688
-market_cap: 849787
-market_cap_rank: 3951
-fully_diluted_valuation: 5569420
+current_price: 0.0005577
+market_cap: 850936
+market_cap_rank: 3936
+fully_diluted_valuation: 5576955
 circulating_supply: 1525808338.019161
 total_supply: 10000000000.0
 max_supply: 10000000000.0
 ath: 0.057067
-ath_change_percentage: -99.02078
+ath_change_percentage: -99.0236
 ath_date: "2021-12-23T02:19:01.272Z"
 atl: 0.00048155
-atl_change_percentage: 16.04554
+atl_change_percentage: 15.71067
 atl_date: "2025-12-01T12:52:33.809Z"
 ---
 
