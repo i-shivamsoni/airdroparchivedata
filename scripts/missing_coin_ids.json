@@ -64,6 +64,10 @@
     "reason": "not_found_in_coingecko"
   },
   {
+    "id": "vela-token",
+    "reason": "not_found_in_coingecko"
+  },
+  {
     "id": "arbswap",
     "reason": "not_found_in_coingecko"
   }
