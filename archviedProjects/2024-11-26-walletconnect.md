@@ -13,21 +13,20 @@ website: "https://walletconnect.com"
 ticker: "WCT"
 description: "A decentralized communication protocol that connects wallets and dApps across multiple blockchain networks."
 mis-data-source: "coingecko"
-last_updated: "2025-12-13T18:25:55.958Z"
-# miscellaneous data source section
+last_updated: "2025-12-14T01:45:59.378Z"
 coingecko_id: "connect-token-wct"
-current_price: 0.081468
-market_cap: 15157903
-market_cap_rank: 1305
-fully_diluted_valuation: 81406497
+current_price: 0.080602
+market_cap: 15020591
+market_cap_rank: 1320
+fully_diluted_valuation: 80669056
 circulating_supply: 186200000.0
 total_supply: 999999115.8199364
 max_supply: 1000000000.0
 ath: 1.34
-ath_change_percentage: -93.94405
+ath_change_percentage: -93.98854
 ath_date: "2025-05-31T07:55:32.948Z"
 atl: 0.075376
-atl_change_percentage: 7.92942
+atl_change_percentage: 7.13643
 atl_date: "2025-10-10T21:28:27.273Z"
 ---
 
