@@ -13,21 +13,20 @@ website: "https://www.avalonfinance.xyz/"
 ticker: "AVL"
 description: "Avalon Labs is a blockchain-based platform focused on decentralized finance (DeFi) solutions."
 mis-data-source: "coingecko"
-last_updated: "2025-12-18T01:27:52.433Z"
-# miscellaneous data source section
+last_updated: "2025-12-18T06:32:27.417Z"
 coingecko_id: "avalon-2"
-current_price: 0.078949
-market_cap: 20142977
-market_cap_rank: 1100
-fully_diluted_valuation: 79225083
+current_price: 0.079811
+market_cap: 20351266
+market_cap_rank: 1084
+fully_diluted_valuation: 80044312
 circulating_supply: 254250001.0
 total_supply: 1000000000.0
 max_supply: 1000000000.0
 ath: 0.787073
-ath_change_percentage: -89.96706
+ath_change_percentage: -89.84912
 ath_date: "2025-03-08T02:15:44.824Z"
 atl: 0.077408
-atl_change_percentage: 2.01293
+atl_change_percentage: 3.21217
 atl_date: "2025-12-16T04:27:19.694Z"
 ---
 
