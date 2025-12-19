@@ -14,20 +14,21 @@ website: "https://antimatter.finance"
 ticker: "MATTER"
 description: "A hub for decentralized on-chain financial products, including DeFi derivatives and financial NFTs. Antimatter B2 is a low-gas BNB sidechain that facilitates Antimatter DApps."
 mis-data-source: "coingecko"
-last_updated: "2025-12-18T18:29:31.850Z"
+last_updated: "2025-12-19T01:37:46.748Z"
+# miscellaneous data source section
 coingecko_id: "antimatter"
-current_price: 0.00202005
-market_cap: 67259
-market_cap_rank: 7656
-fully_diluted_valuation: 202619
+current_price: 0.00215647
+market_cap: 71583
+market_cap_rank: 7503
+fully_diluted_valuation: 215647
 circulating_supply: 33194608.20917096
 total_supply: 100000000.0
 max_supply: null
 ath: 6.05
-ath_change_percentage: -99.96655
+ath_change_percentage: -99.96426
 ath_date: "2021-04-08T22:44:36.228Z"
 atl: 1.55258e-13
-atl_change_percentage: 1302619161574.4543
+atl_change_percentage: 1391742903184.3154
 atl_date: "2021-07-23T17:36:57.982Z"
 ---
 
