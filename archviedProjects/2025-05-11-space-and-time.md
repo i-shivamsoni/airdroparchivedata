@@ -13,20 +13,21 @@ website: "https://www.spaceandtime.io/"
 ticker: "SXT"
 description: "A decentralized database network that enables fast queries and tamper-proof analytics for onchain apps, using a sub-second ZK Coprocessor optimized for SQL to let smart contracts process data at scale."
 mis-data-source: "coingecko"
-last_updated: "2025-12-19T01:40:03.275Z"
+last_updated: "2025-12-19T06:31:08.922Z"
+# miscellaneous data source section
 coingecko_id: "space-and-time"
-current_price: 0.02418777
-market_cap: 60946618
-market_cap_rank: 556
-fully_diluted_valuation: 121033288
+current_price: 0.02514052
+market_cap: 63273691
+market_cap_rank: 550
+fully_diluted_valuation: 125654599
 circulating_supply: 2517762635.2665
 total_supply: 5000000000.0
 max_supply: 5000000000.0
 ath: 0.162092
-ath_change_percentage: -85.10722
+ath_change_percentage: -84.48622
 ath_date: "2025-05-08T13:07:41.348Z"
 atl: 0.02400178
-atl_change_percentage: 0.57602
+atl_change_percentage: 4.76981
 atl_date: "2025-12-18T20:01:51.233Z"
 ---
 
