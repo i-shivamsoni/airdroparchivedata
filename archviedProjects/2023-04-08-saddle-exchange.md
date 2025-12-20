@@ -13,20 +13,21 @@ website: "https://saddle.finance"
 ticker: "SDL"
 description: "A decentralized automated market maker (AMM) on the Ethereum blockchain, optimized for trading pegged value crypto assets with minimal slippage. Saddle enables fast, low-cost, and low-slippage swaps for traders and high-yield pools for LPs."
 mis-data-source: "coingecko"
-last_updated: "2025-12-20T06:30:04.077Z"
+last_updated: "2025-12-20T12:37:08.730Z"
+# miscellaneous data source section
 coingecko_id: "stake-link"
-current_price: 0.375879
-market_cap: 20412211
-market_cap_rank: 1108
-fully_diluted_valuation: 37588214
-circulating_supply: 54304817.71
+current_price: 0.377251
+market_cap: 20477206
+market_cap_rank: 1106
+fully_diluted_valuation: 37710206
+circulating_supply: 54301496.35
 total_supply: 100000000.0
 max_supply: 100000000.0
 ath: 1.56
-ath_change_percentage: -75.95389
+ath_change_percentage: -76.48518
 ath_date: "2025-09-03T20:18:16.414Z"
 atl: 0.072039
-atl_change_percentage: 421.84024
+atl_change_percentage: 410.31052
 atl_date: "2023-05-21T09:53:23.810Z"
 ---
 
