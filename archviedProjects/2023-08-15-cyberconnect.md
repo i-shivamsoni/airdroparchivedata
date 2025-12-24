@@ -15,21 +15,20 @@ website: "https://cyber.co"
 ticker: "CYBER"
 description: "A decentralized web3 social network that enables users to own their digital identities, content, connections, and interactions."
 mis-data-source: "coingecko"
-last_updated: "2025-12-23T18:30:08.988Z"
-# miscellaneous data source section
+last_updated: "2025-12-24T01:39:23.724Z"
 coingecko_id: "cyberconnect"
-current_price: 0.691479
-market_cap: 37978409
-market_cap_rank: 754
-fully_diluted_valuation: 68750483
+current_price: 0.689808
+market_cap: 38161994
+market_cap_rank: 757
+fully_diluted_valuation: 69082819
 circulating_supply: 55240933.74666667
 total_supply: 100000000.0
 max_supply: 100000000.0
 ath: 15.79
-ath_change_percentage: -95.62683
+ath_change_percentage: -95.61281
 ath_date: "2023-09-01T22:25:07.435Z"
 atl: 0.618135
-atl_change_percentage: 11.69616
+atl_change_percentage: 12.05402
 atl_date: "2025-12-18T19:57:03.590Z"
 ---
 
