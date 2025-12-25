@@ -14,11 +14,10 @@ ticker: "LFT"
 description: "A decentralized lending platform aiming to improve capital efficiency by leveraging Curve LP tokens as collateral."
 mis-data-source: "coingecko"
 last_updated: "2025-12-24T17:31:31.671Z"
-# miscellaneous data source section
 coingecko_id: "lifeform"
 current_price: 0.00618509
 market_cap: 3808394
-market_cap_rank: 2297
+market_cap_rank: 2300
 fully_diluted_valuation: 6185094
 circulating_supply: 615737431.0
 total_supply: 1000000000.0
