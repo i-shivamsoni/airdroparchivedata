@@ -13,20 +13,21 @@ website: "https://pudgypenguins.com/"
 ticker: "PENGU"
 description: "A popular NFT collection and ecosystem focused on Web3 and community-driven engagement, featuring digital collectibles, physical toys, and cross-chain initiatives."
 mis-data-source: "coingecko"
-last_updated: "2026-01-02T12:40:19.379Z"
+last_updated: "2026-01-02T18:28:53.066Z"
+# miscellaneous data source section
 coingecko_id: "pudgy-penguins"
-current_price: 0.01014169
-market_cap: 636076480
-market_cap_rank: 129
-fully_diluted_valuation: 805908668
+current_price: 0.01074721
+market_cap: 675758902
+market_cap_rank: 127
+fully_diluted_valuation: 856167110
 circulating_supply: 62860396090.0
-total_supply: 79644660268.69115
+total_supply: 79642315456.5363
 max_supply: 88888888888.0
 ath: 0.068447
-ath_change_percentage: -85.38745
+ath_change_percentage: -84.26916
 ath_date: "2024-12-17T13:05:22.873Z"
 atl: 0.00371517
-atl_change_percentage: 169.21554
+atl_change_percentage: 189.81836
 atl_date: "2025-04-09T01:31:57.832Z"
 ---
 
