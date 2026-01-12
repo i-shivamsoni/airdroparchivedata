@@ -13,20 +13,21 @@ website: "https://mirror.xyz/holographxyz.eth"
 ticker: "HLG"
 description: "Holograph App provides interfaces to create, deploy, mint, and bridge omnichain NFTs, powered by Holograph Protocol."
 mis-data-source: "coingecko"
-last_updated: "2026-01-12T00:23:44.928Z"
+last_updated: "2026-01-12T06:07:07.212Z"
+# miscellaneous data source section
 coingecko_id: "holograph"
-current_price: 1.302e-05
-market_cap: 20020
-market_cap_rank: 9958
-fully_diluted_valuation: 131014
+current_price: 1.29e-05
+market_cap: 19677.26
+market_cap_rank: 10018
+fully_diluted_valuation: 128773
 circulating_supply: 1525000000.0
 total_supply: 9979982508.303848
 max_supply: null
 ath: 0.02789807
-ath_change_percentage: -99.95334
+ath_change_percentage: -99.95375
 ath_date: "2024-05-25T05:51:11.278Z"
 atl: 1.123e-05
-atl_change_percentage: 15.94364
+atl_change_percentage: 14.93118
 atl_date: "2026-01-08T11:26:11.758Z"
 ---
 
