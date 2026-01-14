@@ -13,21 +13,20 @@ website: "https://gammaswap.com/"
 ticker: "GS"
 description: "GammaSwap is a decentralized protocol that enables users to borrow liquidity from any Automated Market Maker (AMM) pool, allowing traders to speculate on volatility directionally or through straddles on any asset."
 mis-data-source: "coingecko"
-last_updated: "2026-01-13T18:08:40.676Z"
-# miscellaneous data source section
+last_updated: "2026-01-14T00:24:21.330Z"
 coingecko_id: "gammaswap"
-current_price: 0.01348422
-market_cap: 4030202
-market_cap_rank: 2346
-fully_diluted_valuation: 21526357
-circulating_supply: 299554744.7130455
+current_price: 0.01452244
+market_cap: 4347071
+market_cap_rank: 2290
+fully_diluted_valuation: 23218442
+circulating_supply: 299559849.3697521
 total_supply: 1600000000.0
 max_supply: 1600000000.0
 ath: 0.365599
-ath_change_percentage: -96.32002
+ath_change_percentage: -96.02889
 ath_date: "2024-12-05T05:05:23.913Z"
 atl: 0.00975745
-atl_change_percentage: 37.88409
+atl_change_percentage: 48.79258
 atl_date: "2024-10-08T06:19:11.392Z"
 ---
 

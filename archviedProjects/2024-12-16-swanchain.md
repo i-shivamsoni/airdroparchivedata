@@ -15,21 +15,20 @@ website: "https://www.swanchain.io"
 ticker: "SWAN"
 description: "A full toolset AI blockchain infrastructure accelerating AI adoption by merging Web3 with AI, providing comprehensive solutions across storage, computing, bandwidth, and payments."
 mis-data-source: "coingecko"
-last_updated: "2026-01-13T18:06:02.304Z"
-# miscellaneous data source section
+last_updated: "2026-01-14T00:22:39.612Z"
 coingecko_id: "swan-chain"
-current_price: 0.00062378
-market_cap: 220265
-market_cap_rank: 5885
-fully_diluted_valuation: 623796
+current_price: 0.00062074
+market_cap: 219187
+market_cap_rank: 5923
+fully_diluted_valuation: 620743
 circulating_supply: 353103761.1561214
 total_supply: 1000000000.0
 max_supply: 1000000000.0
 ath: 0.226052
-ath_change_percentage: -99.72405
+ath_change_percentage: -99.7254
 ath_date: "2024-12-16T23:50:31.514Z"
 atl: 0.0005882
-atl_change_percentage: 6.05246
+atl_change_percentage: 5.53333
 atl_date: "2026-01-10T01:36:10.569Z"
 ---
 
