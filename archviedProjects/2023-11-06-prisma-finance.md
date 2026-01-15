@@ -13,20 +13,21 @@ website: "https://prismafinance.com/"
 ticker: "PRISMA"
 description: "Prisma Finance is a decentralized borrowing protocol that allows users to mint a stablecoin, mkUSD, fully collateralized by liquid staking tokens. It aims to enhance the utility of Ethereum liquid staking tokens across DeFi platforms."
 mis-data-source: "coingecko"
-last_updated: "2026-01-15T12:09:41.507Z"
+last_updated: "2026-01-15T15:38:50.837Z"
+# miscellaneous data source section
 coingecko_id: "prisma-governance-token"
-current_price: 0.01309382
-market_cap: 1275395
-market_cap_rank: 3541
-fully_diluted_valuation: 3922421
+current_price: 0.01303823
+market_cap: 1271834
+market_cap_rank: 3545
+fully_diluted_valuation: 3911470
 circulating_supply: 97546506.91679926
 total_supply: 300000000.0
 max_supply: 300000000.0
 ath: 18.64
-ath_change_percentage: -99.92983
+ath_change_percentage: -99.93007
 ath_date: "2023-11-02T02:59:38.350Z"
 atl: 0.00771437
-atl_change_percentage: 69.58599
+atl_change_percentage: 69.01225
 atl_date: "2025-09-02T07:32:35.520Z"
 ---
 
