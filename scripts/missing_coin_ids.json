@@ -1,5 +1,9 @@
 [
   {
+    "id": "pryzm",
+    "reason": "not_found_in_coingecko"
+  },
+  {
     "id": "intexcoin",
     "reason": "not_found_in_coingecko"
   },
