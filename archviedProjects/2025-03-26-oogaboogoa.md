@@ -13,21 +13,20 @@ website: "https://app.oogabooga.io"
 ticker: "OOGA"
 description: "A decentralized exchange on Berachain that rewards active traders and community members through a fee-based airdrop system, with special recognition for early testnet participants."
 mis-data-source: "coingecko"
-last_updated: "2026-01-18T18:04:52.555Z"
-# miscellaneous data source section
+last_updated: "2026-01-19T00:24:35.710Z"
 coingecko_id: "ooga-booga"
-current_price: 0.00728485
-market_cap: 138293
-market_cap_rank: 6651
-fully_diluted_valuation: 703207
+current_price: 0.00692126
+market_cap: 133969
+market_cap_rank: 6661
+fully_diluted_valuation: 681214
 circulating_supply: 19224526.390559137
-total_supply: 97754894.55285771
+total_supply: 97754333.0217556
 max_supply: 100000000.0
 ath: 0.525065
-ath_change_percentage: -98.62997
+ath_change_percentage: -98.67281
 ath_date: "2025-09-14T14:09:47.740Z"
 atl: 0.00543164
-atl_change_percentage: 32.4384
+atl_change_percentage: 28.29706
 atl_date: "2025-12-16T01:50:15.390Z"
 ---
 
