@@ -14,21 +14,20 @@ website: "https://mocaverse.io"
 ticker: "MOCA"
 description: "Mocaverse is the upcoming membership NFT collection for the Animoca Brands ecosystem."
 mis-data-source: "coingecko"
-last_updated: "2026-01-27T00:25:39.906Z"
-# miscellaneous data source section
+last_updated: "2026-01-27T06:09:20.787Z"
 coingecko_id: "mocaverse"
-current_price: 0.02237605
-market_cap: 88070731
-market_cap_rank: 468
-fully_diluted_valuation: 198055114
+current_price: 0.02225601
+market_cap: 88119965
+market_cap_rank: 471
+fully_diluted_valuation: 198165832
 circulating_supply: 3952692403.1825
 total_supply: 8888888888.0
 max_supply: 8888888888.0
 ath: 0.477373
-ath_change_percentage: -95.33241
+ath_change_percentage: -95.33028
 ath_date: "2024-12-25T03:17:29.272Z"
 atl: 0.01849583
-atl_change_percentage: 20.46928
+atl_change_percentage: 20.52424
 atl_date: "2025-12-18T21:12:22.850Z"
 ---
 
