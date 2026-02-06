@@ -14,21 +14,20 @@ website: "https://app.badger.com/"
 ticker: "BADGER"
 description: "A decentralized collective of builders supporting community-driven growth for Bitcoin across DeFi."
 mis-data-source: "coingecko"
-last_updated: "2026-02-06T06:20:45.547Z"
-# miscellaneous data source section
+last_updated: "2026-02-06T12:14:12.071Z"
 coingecko_id: "badger-dao"
-current_price: 0.366593
-market_cap: 7304167
-market_cap_rank: 1410
-fully_diluted_valuation: 7696053
+current_price: 0.366242
+market_cap: 7308135
+market_cap_rank: 1356
+fully_diluted_valuation: 7700234
 circulating_supply: 19930669.912362073
 total_supply: 21000000.0
 max_supply: 21000000.0
 ath: 89.08
-ath_change_percentage: -99.58768
+ath_change_percentage: -99.58837
 ath_date: "2021-02-09T01:03:21.398Z"
 atl: 0.343284
-atl_change_percentage: 6.9932
+atl_change_percentage: 6.81465
 atl_date: "2026-02-06T00:45:50.336Z"
 ---
 
