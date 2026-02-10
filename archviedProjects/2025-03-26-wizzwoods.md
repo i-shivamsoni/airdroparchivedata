@@ -13,20 +13,21 @@ website: "https://hub.wizzwoods.com/"
 ticker: "WIZZ"
 description: "Wizzwoods is the largest and most active gaming ecosystem on Berachain, pioneering cross-chain GameFi with NFTs, sustainable tokenomics, and deep DeFi integration."
 mis-data-source: "coingecko"
-last_updated: "2026-02-10T00:33:04.907Z"
+last_updated: "2026-02-10T06:27:31.244Z"
+# miscellaneous data source section
 coingecko_id: "wizzwoods-token"
-current_price: 0.00051746
+current_price: 0.00050051
 market_cap: 0.0
 market_cap_rank: null
-fully_diluted_valuation: 931430
+fully_diluted_valuation: 891347
 circulating_supply: 0.0
 total_supply: 1800000000.0
 max_supply: 1800000000.0
 ath: 0.02913878
-ath_change_percentage: -98.25907
+ath_change_percentage: -98.29703
 ath_date: "2025-04-01T07:10:55.643Z"
 atl: 0.00044685
-atl_change_percentage: 13.52575
+atl_change_percentage: 11.0503
 atl_date: "2026-02-08T17:25:50.409Z"
 ---
 
