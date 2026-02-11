@@ -64,6 +64,10 @@
     "reason": "not_found_in_coingecko"
   },
   {
+    "id": "alienxchain",
+    "reason": "not_found_in_coingecko"
+  },
+  {
     "id": "elys-network",
     "reason": "not_found_in_coingecko"
   },
