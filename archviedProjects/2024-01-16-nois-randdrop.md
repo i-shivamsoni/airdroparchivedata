@@ -13,8 +13,7 @@ website: "https://nois.network"
 ticker: "NOIS"
 description: "A decentralized protocol providing reliable randomness for blockchain applications."
 mis-data-source: "coingecko"
-last_updated: "2026-02-10T18:25:12.962323Z"
-# miscellaneous data source section
+last_updated: "2026-02-11T00:34:24.083706Z"
 coingecko_id: "nois"
 current_price: null
 market_cap: null
