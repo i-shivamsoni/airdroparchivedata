@@ -14,20 +14,21 @@ website: "https://redbelly.network"
 ticker: "RBNT"
 description: "Redbelly Network is a blockchain platform designed for real-world asset (RWA) tokenization, offering security, scalability, and compliance for financial applications."
 mis-data-source: "coingecko"
-last_updated: "2026-02-12T12:16:58.761Z"
+last_updated: "2026-02-12T18:22:36.008Z"
+# miscellaneous data source section
 coingecko_id: "redbelly-network-token"
-current_price: 0.00685927
-market_cap: 16663433
+current_price: 0.00677668
+market_cap: 16445298
 market_cap_rank: 886
-fully_diluted_valuation: 68528817
-circulating_supply: 2431595018.5437
+fully_diluted_valuation: 67631673
+circulating_supply: 2431597181.2266
 total_supply: 10000000000.0
 max_supply: 10000000000.0
 ath: 0.483622
-ath_change_percentage: -98.58084
+ath_change_percentage: -98.59918
 ath_date: "2024-12-26T06:20:29.049Z"
 atl: 0.0049211
-atl_change_percentage: 39.4678
+atl_change_percentage: 37.66534
 atl_date: "2026-01-25T23:08:31.179Z"
 ---
 
