@@ -13,21 +13,20 @@ website: "https://starrynift.com"
 ticker: "SNIFT"
 description: "StarryNift is a platform that integrates NFTs, gaming, and the metaverse to provide immersive Web3 experiences."
 mis-data-source: "coingecko"
-last_updated: "2026-02-13T06:24:26.413Z"
-# miscellaneous data source section
+last_updated: "2026-02-13T12:13:23.806Z"
 coingecko_id: "starrynift"
-current_price: 0.00015404
-market_cap: 64525
-market_cap_rank: 6487
-fully_diluted_valuation: 138639
+current_price: 0.00015646
+market_cap: 65500
+market_cap_rank: 6483
+fully_diluted_valuation: 140733
 circulating_supply: 418877987.7785875
 total_supply: 899999987.7785875
 max_supply: 1000000000.0
 ath: 0.105687
-ath_change_percentage: -99.85425
+ath_change_percentage: -99.85205
 ath_date: "2024-09-26T09:50:48.322Z"
 atl: 0.00015284
-atl_change_percentage: 0.78622
+atl_change_percentage: 2.31166
 atl_date: "2026-02-12T19:18:47.148Z"
 ---
 
