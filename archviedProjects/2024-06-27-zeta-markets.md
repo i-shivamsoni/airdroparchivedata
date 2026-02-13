@@ -13,20 +13,21 @@ website: "https://dex.zeta.markets"
 ticker: "ZEX"
 description: "A decentralized options trading platform built on Solana, offering traders a high-performance DeFi derivatives experience."
 mis-data-source: "coingecko"
-last_updated: "2026-02-13T00:31:17.447Z"
+last_updated: "2026-02-13T06:24:21.755Z"
+# miscellaneous data source section
 coingecko_id: "zeta"
-current_price: 0.0475869
-market_cap: 8927523
-market_cap_rank: 1228
-fully_diluted_valuation: 47545061
+current_price: 0.056226
+market_cap: 10543635
+market_cap_rank: 1124
+fully_diluted_valuation: 56151944
 circulating_supply: 187769180.200302
 total_supply: 999997064.568418
 max_supply: 999999999.0
 ath: 0.307774
-ath_change_percentage: -84.5445
+ath_change_percentage: -81.74764
 ath_date: "2024-06-27T14:06:08.974Z"
 atl: 0.02271741
-atl_change_percentage: 109.38998
+atl_change_percentage: 147.2816
 atl_date: "2024-08-05T13:26:10.286Z"
 ---
 
