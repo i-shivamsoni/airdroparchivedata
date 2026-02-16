@@ -14,21 +14,20 @@ website: "https://www.zetachain.com"
 ticker: "ZETA"
 description: "ZetaChain is an omnichain blockchain that enables interoperability across multiple blockchains, allowing developers to build truly interoperable dApps."
 mis-data-source: "coingecko"
-last_updated: "2026-02-16T06:27:20.884Z"
-# miscellaneous data source section
+last_updated: "2026-02-16T12:15:50.541Z"
 coingecko_id: "zeta"
-current_price: 0.069459
-market_cap: 13129917
-market_cap_rank: 1018
-fully_diluted_valuation: 69925631
-circulating_supply: 187769180.178458
-total_supply: 999997064.546574
+current_price: 0.061162
+market_cap: 11469539
+market_cap_rank: 1090
+fully_diluted_valuation: 61083002
+circulating_supply: 187769180.138444
+total_supply: 999997064.50656
 max_supply: 999999999.0
 ath: 0.307774
-ath_change_percentage: -77.40963
+ath_change_percentage: -80.11368
 ath_date: "2024-06-27T14:06:08.974Z"
 atl: 0.02271741
-atl_change_percentage: 206.05266
+atl_change_percentage: 169.41844
 atl_date: "2024-08-05T13:26:10.286Z"
 ---
 
