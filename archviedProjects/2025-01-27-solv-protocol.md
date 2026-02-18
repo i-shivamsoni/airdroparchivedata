@@ -13,21 +13,20 @@ website: "https://solv.finance"
 ticker: "SOLV"
 description: "Leading Bitcoin staking platform facilitating on-chain BTC reserves and DeFi integration."
 mis-data-source: "coingecko"
-last_updated: "2026-02-18T00:29:51.984Z"
-# miscellaneous data source section
+last_updated: "2026-02-18T06:26:02.926Z"
 coingecko_id: "solv-protocol"
-current_price: 0.00464334
-market_cap: 6871164
-market_cap_rank: 1411
-fully_diluted_valuation: 38930109
+current_price: 0.00473736
+market_cap: 7028934
+market_cap_rank: 1401
+fully_diluted_valuation: 39823990
 circulating_supply: 1482600000.0
 total_supply: 8400000000.0
 max_supply: 9660000000.0
 ath: 0.200083
-ath_change_percentage: -97.68265
+ath_change_percentage: -97.6314
 ath_date: "2025-01-17T10:15:27.266Z"
 atl: 0.00445302
-atl_change_percentage: 4.12325
+atl_change_percentage: 6.42611
 atl_date: "2026-02-11T08:35:49.118Z"
 ---
 
