@@ -1,6 +1,34 @@
 [
   {
-    "id": "arbswap",
+    "id": "pryzm",
+    "reason": "not_found_in_coingecko"
+  },
+  {
+    "id": "intexcoin",
+    "reason": "not_found_in_coingecko"
+  },
+  {
+    "id": "penpad-token",
+    "reason": "not_found_in_coingecko"
+  },
+  {
+    "id": "artela-network",
+    "reason": "not_found_in_coingecko"
+  },
+  {
+    "id": "thruster",
+    "reason": "not_found_in_coingecko"
+  },
+  {
+    "id": "beoble",
+    "reason": "not_found_in_coingecko"
+  },
+  {
+    "id": "paint",
+    "reason": "not_found_in_coingecko"
+  },
+  {
+    "id": "animeswap",
     "reason": "not_found_in_coingecko"
   },
   {
@@ -12,23 +40,7 @@
     "reason": "not_found_in_coingecko"
   },
   {
-    "id": "paint",
-    "reason": "not_found_in_coingecko"
-  },
-  {
-    "id": "zklend-2",
-    "reason": "not_found_in_coingecko"
-  },
-  {
-    "id": "kingdom-of-ants-ant-coins",
-    "reason": "not_found_in_coingecko"
-  },
-  {
-    "id": "pryzm",
-    "reason": "not_found_in_coingecko"
-  },
-  {
-    "id": "alienxchain",
+    "id": "virtuswap",
     "reason": "not_found_in_coingecko"
   },
   {
@@ -36,31 +48,7 @@
     "reason": "not_found_in_coingecko"
   },
   {
-    "id": "growth",
-    "reason": "not_found_in_coingecko"
-  },
-  {
-    "id": "intexcoin",
-    "reason": "not_found_in_coingecko"
-  },
-  {
-    "id": "collab-land",
-    "reason": "not_found_in_coingecko"
-  },
-  {
-    "id": "the-ordzaar-runes",
-    "reason": "not_found_in_coingecko"
-  },
-  {
-    "id": "artela-network",
-    "reason": "not_found_in_coingecko"
-  },
-  {
-    "id": "beoble",
-    "reason": "not_found_in_coingecko"
-  },
-  {
-    "id": "elys-network",
+    "id": "kroma",
     "reason": "not_found_in_coingecko"
   },
   {
@@ -68,7 +56,23 @@
     "reason": "not_found_in_coingecko"
   },
   {
-    "id": "kroma",
+    "id": "kontos",
+    "reason": "not_found_in_coingecko"
+  },
+  {
+    "id": "zklend-2",
+    "reason": "not_found_in_coingecko"
+  },
+  {
+    "id": "growth",
+    "reason": "not_found_in_coingecko"
+  },
+  {
+    "id": "alienxchain",
+    "reason": "not_found_in_coingecko"
+  },
+  {
+    "id": "elys-network",
     "reason": "not_found_in_coingecko"
   },
   {
@@ -76,15 +80,11 @@
     "reason": "not_found_in_coingecko"
   },
   {
-    "id": "penpad-token",
+    "id": "the-ordzaar-runes",
     "reason": "not_found_in_coingecko"
   },
   {
-    "id": "kontos",
-    "reason": "not_found_in_coingecko"
-  },
-  {
-    "id": "thruster",
+    "id": "kingdom-of-ants-ant-coins",
     "reason": "not_found_in_coingecko"
   },
   {
@@ -92,11 +92,11 @@
     "reason": "not_found_in_coingecko"
   },
   {
-    "id": "animeswap",
+    "id": "collab-land",
     "reason": "not_found_in_coingecko"
   },
   {
-    "id": "virtuswap",
+    "id": "arbswap",
     "reason": "not_found_in_coingecko"
   }
 ]
