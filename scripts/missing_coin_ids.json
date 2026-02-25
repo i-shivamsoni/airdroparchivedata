@@ -1,34 +1,6 @@
 [
   {
-    "id": "pryzm",
-    "reason": "not_found_in_coingecko"
-  },
-  {
-    "id": "intexcoin",
-    "reason": "not_found_in_coingecko"
-  },
-  {
-    "id": "penpad-token",
-    "reason": "not_found_in_coingecko"
-  },
-  {
-    "id": "artela-network",
-    "reason": "not_found_in_coingecko"
-  },
-  {
-    "id": "thruster",
-    "reason": "not_found_in_coingecko"
-  },
-  {
-    "id": "beoble",
-    "reason": "not_found_in_coingecko"
-  },
-  {
-    "id": "paint",
-    "reason": "not_found_in_coingecko"
-  },
-  {
-    "id": "animeswap",
+    "id": "arbswap",
     "reason": "not_found_in_coingecko"
   },
   {
@@ -40,23 +12,7 @@
     "reason": "not_found_in_coingecko"
   },
   {
-    "id": "virtuswap",
-    "reason": "not_found_in_coingecko"
-  },
-  {
-    "id": "nektar-network",
-    "reason": "not_found_in_coingecko"
-  },
-  {
-    "id": "kroma",
-    "reason": "not_found_in_coingecko"
-  },
-  {
-    "id": "phavercoin",
-    "reason": "not_found_in_coingecko"
-  },
-  {
-    "id": "kontos",
+    "id": "paint",
     "reason": "not_found_in_coingecko"
   },
   {
@@ -64,7 +20,11 @@
     "reason": "not_found_in_coingecko"
   },
   {
-    "id": "growth",
+    "id": "kingdom-of-ants-ant-coins",
+    "reason": "not_found_in_coingecko"
+  },
+  {
+    "id": "pryzm",
     "reason": "not_found_in_coingecko"
   },
   {
@@ -72,23 +32,15 @@
     "reason": "not_found_in_coingecko"
   },
   {
-    "id": "elys-network",
+    "id": "nektar-network",
     "reason": "not_found_in_coingecko"
   },
   {
-    "id": "raft",
+    "id": "growth",
     "reason": "not_found_in_coingecko"
   },
   {
-    "id": "the-ordzaar-runes",
-    "reason": "not_found_in_coingecko"
-  },
-  {
-    "id": "kingdom-of-ants-ant-coins",
-    "reason": "not_found_in_coingecko"
-  },
-  {
-    "id": "vela-token",
+    "id": "intexcoin",
     "reason": "not_found_in_coingecko"
   },
   {
@@ -96,7 +48,55 @@
     "reason": "not_found_in_coingecko"
   },
   {
-    "id": "arbswap",
+    "id": "the-ordzaar-runes",
+    "reason": "not_found_in_coingecko"
+  },
+  {
+    "id": "artela-network",
+    "reason": "not_found_in_coingecko"
+  },
+  {
+    "id": "beoble",
+    "reason": "not_found_in_coingecko"
+  },
+  {
+    "id": "elys-network",
+    "reason": "not_found_in_coingecko"
+  },
+  {
+    "id": "phavercoin",
+    "reason": "not_found_in_coingecko"
+  },
+  {
+    "id": "kroma",
+    "reason": "not_found_in_coingecko"
+  },
+  {
+    "id": "raft",
+    "reason": "not_found_in_coingecko"
+  },
+  {
+    "id": "penpad-token",
+    "reason": "not_found_in_coingecko"
+  },
+  {
+    "id": "kontos",
+    "reason": "not_found_in_coingecko"
+  },
+  {
+    "id": "thruster",
+    "reason": "not_found_in_coingecko"
+  },
+  {
+    "id": "vela-token",
+    "reason": "not_found_in_coingecko"
+  },
+  {
+    "id": "animeswap",
+    "reason": "not_found_in_coingecko"
+  },
+  {
+    "id": "virtuswap",
     "reason": "not_found_in_coingecko"
   }
 ]
