@@ -13,20 +13,21 @@ website: "https://tokyogamestoken.io"
 ticker: "TGT"
 description: "Tokyo Games Token (TGT) is an ecosystem token issued under the philosophy of 'Shaping the Future of Web3 Gaming from Japan', backed by Japan's leading gaming companies including Cygames, SBI, and gumi."
 mis-data-source: "coingecko"
-last_updated: "2026-03-04T12:12:45.405Z"
+last_updated: "2026-03-04T18:14:29.940Z"
+# miscellaneous data source section
 coingecko_id: "tokyo-games-token"
-current_price: 0.00073063
-market_cap: 109095
-market_cap_rank: 5684
-fully_diluted_valuation: 739625
+current_price: 0.00075128
+market_cap: 110813
+market_cap_rank: 5674
+fully_diluted_valuation: 751277
 circulating_supply: 147500000.0
 total_supply: 1000000000.0
 max_supply: 1000000000.0
 ath: 0.15017
-ath_change_percentage: -99.50747
+ath_change_percentage: -99.49953
 ath_date: "2025-05-22T12:15:42.754Z"
 atl: 0.00064383
-atl_change_percentage: 14.87816
+atl_change_percentage: 16.73166
 atl_date: "2026-02-17T20:09:18.549Z"
 ---
 
