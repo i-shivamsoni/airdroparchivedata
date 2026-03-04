@@ -32,7 +32,15 @@
     "reason": "not_found_in_coingecko"
   },
   {
+    "id": "shardeum",
+    "reason": "not_found_in_coingecko"
+  },
+  {
     "id": "nektar-network",
+    "reason": "not_found_in_coingecko"
+  },
+  {
+    "id": "fyde",
     "reason": "not_found_in_coingecko"
   },
   {
