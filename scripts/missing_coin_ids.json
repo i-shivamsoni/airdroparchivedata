@@ -24,6 +24,10 @@
     "reason": "not_found_in_coingecko"
   },
   {
+    "id": "ice-token",
+    "reason": "not_found_in_coingecko"
+  },
+  {
     "id": "pryzm",
     "reason": "not_found_in_coingecko"
   },
