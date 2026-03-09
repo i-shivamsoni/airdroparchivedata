@@ -13,20 +13,21 @@ website: "https://jupuary.jup.ag"
 ticker: "JUP"
 description: "A decentralized autonomous organization focused on enhancing the Jupiter ecosystem through community engagement and innovative trading solutions."
 mis-data-source: "coingecko"
-last_updated: "2026-03-09T00:27:15.685Z"
+last_updated: "2026-03-09T06:25:17.001Z"
+# miscellaneous data source section
 coingecko_id: "jupiter"
-current_price: 0.00020029
-market_cap: 200285
-market_cap_rank: 4732
-fully_diluted_valuation: 200285
+current_price: 0.00020518
+market_cap: 205185
+market_cap_rank: 4722
+fully_diluted_valuation: 205185
 circulating_supply: 1000000000.0
 total_supply: 1000000000.0
 max_supply: null
 ath: 0.128999
-ath_change_percentage: -99.84474
+ath_change_percentage: -99.84094
 ath_date: "2021-03-22T08:37:18.982Z"
 atl: 4.35e-06
-atl_change_percentage: 4500.81212
+atl_change_percentage: 4613.36207
 atl_date: "2020-10-16T10:27:38.449Z"
 ---
 
