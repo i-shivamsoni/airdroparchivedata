@@ -14,7 +14,6 @@ ticker: "RAGE"
 description: "A decentralized perpetual and yield trading platform built on Ethereum and Layer 2 scaling solutions."
 mis-data-source: "coingecko"
 last_updated: "2026-02-12T20:18:48.959Z"
-# miscellaneous data source section
 coingecko_id: "rage"
 current_price: 0.00025196
 market_cap: 0.0
