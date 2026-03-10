@@ -14,20 +14,21 @@ website: "https://smoothy.finance"
 ticker: "SMTY"
 description: "A novel stablecoin swapping protocol supporting 20+ stablecoins in a single pool with low-cost, low-slippage swapping, and high liquidity provider (LP) rewards."
 mis-data-source: "coingecko"
-last_updated: "2026-03-10T00:25:01.087Z"
+last_updated: "2026-03-10T06:16:25.396Z"
+# miscellaneous data source section
 coingecko_id: "smoothy"
-current_price: 0.00113089
-market_cap: 102932
-market_cap_rank: 5689
-fully_diluted_valuation: 112545
+current_price: 0.00111933
+market_cap: 102514
+market_cap_rank: 5705
+fully_diluted_valuation: 112089
 circulating_supply: 91458333.0
 total_supply: 100000000.0
 max_supply: 100000000.0
 ath: 3.63
-ath_change_percentage: -99.969
+ath_change_percentage: -99.96919
 ath_date: "2021-04-27T13:43:11.600Z"
 atl: 0.00108524
-atl_change_percentage: 3.73514
+atl_change_percentage: 3.10058
 atl_date: "2026-02-24T08:44:56.827Z"
 ---
 

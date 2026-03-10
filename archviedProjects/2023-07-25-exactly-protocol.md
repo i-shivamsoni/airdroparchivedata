@@ -13,20 +13,21 @@ website: "https://exact.ly/"
 ticker: "EXA"
 description: "A decentralized credit market protocol built on Optimism (OP Mainnet) that allows users to lend and borrow assets efficiently."
 mis-data-source: "coingecko"
-last_updated: "2026-03-10T00:25:07.570Z"
+last_updated: "2026-03-10T06:17:17.484Z"
+# miscellaneous data source section
 coingecko_id: "exa"
-current_price: 0.181111
-market_cap: 826510
-market_cap_rank: 3095
-fully_diluted_valuation: 1801802
-circulating_supply: 4587127.713488965
+current_price: 0.186018
+market_cap: 853438
+market_cap_rank: 3078
+fully_diluted_valuation: 1860277
+circulating_supply: 4587691.674427514
 total_supply: 10000000.0
 max_supply: 10000000.0
 ath: 11.89
-ath_change_percentage: -98.48444
+ath_change_percentage: -98.43556
 ath_date: "2023-08-09T17:19:57.171Z"
 atl: 0.116162
-atl_change_percentage: 55.11052
+atl_change_percentage: 60.11246
 atl_date: "2026-02-06T00:26:38.681Z"
 ---
 
