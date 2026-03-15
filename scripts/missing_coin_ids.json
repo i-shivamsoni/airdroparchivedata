@@ -1,5 +1,9 @@
 [
   {
+    "id": "rage",
+    "reason": "not_found_in_coingecko"
+  },
+  {
     "id": "arbswap",
     "reason": "not_found_in_coingecko"
   },
@@ -41,6 +45,10 @@
   },
   {
     "id": "nektar-network",
+    "reason": "not_found_in_coingecko"
+  },
+  {
+    "id": "nois",
     "reason": "not_found_in_coingecko"
   },
   {
@@ -93,6 +101,10 @@
   },
   {
     "id": "penpad-token",
+    "reason": "not_found_in_coingecko"
+  },
+  {
+    "id": "lyra-finance",
     "reason": "not_found_in_coingecko"
   },
   {
