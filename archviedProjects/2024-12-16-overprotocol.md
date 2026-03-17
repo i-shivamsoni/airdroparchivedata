@@ -15,20 +15,21 @@ website: "https://overprotocol.io"
 ticker: "OVER"
 description: "OverProtocol is a Layer 1 blockchain with lightweight nodes, allowing individuals to run validators on personal computers. It aims to create a decentralized, community-driven network."
 mis-data-source: "coingecko"
-last_updated: "2026-03-17T12:17:30.945Z"
+last_updated: "2026-03-17T18:22:02.864Z"
+# miscellaneous data source section
 coingecko_id: "overprotocol"
-current_price: 0.00356712
+current_price: 0.00352747
 market_cap: 0.0
 market_cap_rank: null
-fully_diluted_valuation: 3560059
+fully_diluted_valuation: 3525462
 circulating_supply: 0.0
 total_supply: 1000000000.0
 max_supply: null
 ath: 0.203395
-ath_change_percentage: -98.24281
+ath_change_percentage: -98.26858
 ath_date: "2024-12-18T00:25:28.785Z"
 atl: 0.00319408
-atl_change_percentage: 11.89534
+atl_change_percentage: 10.25463
 atl_date: "2026-03-04T00:19:22.833Z"
 ---
 
