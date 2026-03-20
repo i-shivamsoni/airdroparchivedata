@@ -14,21 +14,20 @@ website: "https://gameswift.io"
 ticker: "GSWIFT"
 description: "GameSwift is a comprehensive ecosystem designed to facilitate and promote Web3 gaming, offering a modular blockchain optimized for gaming applications and a platform for game developers and players."
 mis-data-source: "coingecko"
-last_updated: "2026-03-20T06:20:18.454Z"
-# miscellaneous data source section
+last_updated: "2026-03-20T12:10:06.434Z"
 coingecko_id: "gameswift"
-current_price: 0.00090828
-market_cap: 418916
-market_cap_rank: 3872
-fully_diluted_valuation: 700745
-circulating_supply: 460922473.1569755
+current_price: 0.00088779
+market_cap: 408928
+market_cap_rank: 3899
+fully_diluted_valuation: 684005
+circulating_supply: 460944107.8195386
 total_supply: 771010928.8948191
 max_supply: 1396500000.0
 ath: 0.809962
-ath_change_percentage: -99.88764
+ath_change_percentage: -99.89047
 ath_date: "2024-03-04T10:01:32.006Z"
 atl: 0.00052583
-atl_change_percentage: 73.08041
+atl_change_percentage: 68.71521
 atl_date: "2026-02-09T15:18:03.268Z"
 ---
 
