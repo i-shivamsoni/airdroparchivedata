@@ -13,20 +13,21 @@ website: "https://creator.bid/"
 ticker: "BID"
 description: "A decentralized platform that enables users to earn and engage with creators through CreatorPoints and token-based memberships."
 mis-data-source: "coingecko"
-last_updated: "2026-03-21T00:27:44.576Z"
+last_updated: "2026-03-21T06:15:30.454Z"
+# miscellaneous data source section
 coingecko_id: "creatorbid"
-current_price: 0.00767189
-market_cap: 2940689
-market_cap_rank: 2007
-fully_diluted_valuation: 7671888
+current_price: 0.00766531
+market_cap: 2938771
+market_cap_rank: 2004
+fully_diluted_valuation: 7666884
 circulating_supply: 383307066.5637604
 total_supply: 1000000000.0
 max_supply: 1000000000.0
 ath: 0.265326
-ath_change_percentage: -97.10559
+ath_change_percentage: -97.10939
 ath_date: "2025-01-23T13:40:03.799Z"
 atl: 0.00754898
-atl_change_percentage: 1.73071
+atl_change_percentage: 1.59717
 atl_date: "2026-02-06T00:30:43.955Z"
 ---
 
