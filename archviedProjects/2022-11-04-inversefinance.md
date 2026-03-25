@@ -13,21 +13,20 @@ website: "https://www.inverse.finance"
 ticker: "DBR"
 description: "A decentralized finance (DeFi) platform offering lending and borrowing solutions, including the DOLA stablecoin and DBR borrowing rights."
 mis-data-source: "coingecko"
-last_updated: "2026-03-25T12:19:18.659Z"
-# miscellaneous data source section
+last_updated: "2026-03-25T18:22:12.441Z"
 coingecko_id: "inverse-finance"
-current_price: 15.32
-market_cap: 10832545
-market_cap_rank: 1133
-fully_diluted_valuation: 11147056
-circulating_supply: 706487.9043199721
+current_price: 15.16
+market_cap: 10717740
+market_cap_rank: 1137
+fully_diluted_valuation: 11022691
+circulating_supply: 706886.9637346063
 total_supply: 727000.0
 max_supply: null
 ath: 2075.09
-ath_change_percentage: -99.26206
+ath_change_percentage: -99.26955
 ath_date: "2021-03-07T00:55:13.050Z"
 atl: 15.12
-atl_change_percentage: 1.30635
+atl_change_percentage: 0.278
 atl_date: "2026-03-22T21:25:59.487Z"
 ---
 
