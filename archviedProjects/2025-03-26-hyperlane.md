@@ -14,21 +14,20 @@ website: "https://hyperlane.xyz"
 ticker: "HYPER"
 description: "Hyperlane is a permissionless interoperability protocol enabling open, secure, and customizable cross-chain messaging and bridging across 140+ blockchains."
 mis-data-source: "coingecko"
-last_updated: "2026-03-31T06:32:53.176Z"
-# miscellaneous data source section
+last_updated: "2026-03-31T12:23:01.483Z"
 coingecko_id: "hyperlane"
-current_price: 0.084195
-market_cap: 20311528
-market_cap_rank: 798
-fully_diluted_valuation: 67940782
+current_price: 0.084614
+market_cap: 20425848
+market_cap_rank: 791
+fully_diluted_valuation: 68323175
 circulating_supply: 241359799.0
 total_supply: 807333335.0000001
 max_supply: 1000000000.0
 ath: 0.664052
-ath_change_percentage: -87.38637
+ath_change_percentage: -87.24492
 ath_date: "2025-07-11T00:21:55.008Z"
 atl: 0.07819
-atl_change_percentage: 7.1246
+atl_change_percentage: 8.32587
 atl_date: "2026-03-29T10:45:07.371Z"
 ---
 
