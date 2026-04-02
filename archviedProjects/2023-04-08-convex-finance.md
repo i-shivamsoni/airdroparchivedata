@@ -13,20 +13,21 @@ website: "https://www.convexfinance.com"
 ticker: "CVX"
 description: "A DeFi platform that enhances staking rewards for Curve Finance users, allowing liquidity providers and CRV stakers to earn additional CVX tokens."
 mis-data-source: "coingecko"
-last_updated: "2026-04-02T00:31:06.869Z"
+last_updated: "2026-04-02T06:30:04.370Z"
+# miscellaneous data source section
 coingecko_id: "convex-finance"
-current_price: 1.76
-market_cap: 158383025
-market_cap_rank: 198
-fully_diluted_valuation: 176369777
-circulating_supply: 89766060.50083023
-total_supply: 99960337.00112368
+current_price: 1.71
+market_cap: 153577816
+market_cap_rank: 200
+fully_diluted_valuation: 171018856
+circulating_supply: 89766106.087766
+total_supply: 99960397.27818574
 max_supply: 100000000.0
 ath: 60.09
-ath_change_percentage: -97.06265
+ath_change_percentage: -97.16026
 ath_date: "2022-01-01T18:04:03.030Z"
 atl: 1.36
-atl_change_percentage: 29.51033
+atl_change_percentage: 25.20653
 atl_date: "2025-10-10T21:32:11.855Z"
 ---
 
