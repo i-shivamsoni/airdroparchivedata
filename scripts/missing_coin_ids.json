@@ -120,6 +120,10 @@
     "reason": "not_found_in_coingecko"
   },
   {
+    "id": "nftfi",
+    "reason": "not_found_in_coingecko"
+  },
+  {
     "id": "penpad-token",
     "reason": "not_found_in_coingecko"
   },
