@@ -14,21 +14,20 @@ website: "https://www.indexcoop.com"
 ticker: "INDEX"
 description: "A decentralized autonomous organization (DAO) focused on launching and maintaining crypto index products to facilitate access to crypto markets."
 mis-data-source: "coingecko"
-last_updated: "2026-04-03T18:14:28.636Z"
-# miscellaneous data source section
+last_updated: "2026-04-04T00:30:21.389Z"
 coingecko_id: "index-cooperative"
-current_price: 0.249978
-market_cap: 1731334
-market_cap_rank: 2400
-fully_diluted_valuation: 2274947
+current_price: 0.240983
+market_cap: 1666943
+market_cap_rank: 2427
+fully_diluted_valuation: 2190337
 circulating_supply: 6925500.199655381
 total_supply: 9099999.974034376
 max_supply: 10000000.0
 ath: 67.08
-ath_change_percentage: -99.62726
+ath_change_percentage: -99.64117
 ath_date: "2021-05-09T03:51:28.144Z"
 atl: 0.236955
-atl_change_percentage: 5.51514
+atl_change_percentage: 1.57807
 atl_date: "2026-04-02T07:19:52.369Z"
 ---
 
