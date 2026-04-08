@@ -13,22 +13,21 @@ website: "https://exchange.art"
 ticker: "ART"
 description: "Exchange Art is a decentralized platform for artists and collectors, enabling the buying, selling, and governance of digital art through $ART tokens."
 mis-data-source: "coingecko"
-last_updated: "2026-04-08T00:30:52.911Z"
-# miscellaneous data source section
+last_updated: "2026-04-08T06:35:02.158Z"
 coingecko_id: "exchangeart"
 current_price: 0.00032777
 market_cap: 0.0
 market_cap_rank: null
-fully_diluted_valuation: 327766
+fully_diluted_valuation: 327767
 circulating_supply: 0.0
 total_supply: 1000000000.0
 max_supply: 1000000000.0
 ath: 0.00706845
-ath_change_percentage: -95.36299
+ath_change_percentage: -95.3634
 ath_date: "2024-08-02T10:05:24.664Z"
-atl: 0.00032773
-atl_change_percentage: 0.00948
-atl_date: "2026-04-07T23:53:54.421Z"
+atl: 0.00032772
+atl_change_percentage: 0.00377
+atl_date: "2026-04-08T02:30:54.064Z"
 ---
 
 ## Airdrop Details

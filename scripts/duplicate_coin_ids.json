@@ -1,34 +1,6 @@
 [
   {
-    "id": "yieldnest",
-    "count": 2
-  },
-  {
-    "id": "ethena",
-    "count": 2
-  },
-  {
     "id": "unlockprotocoltoken",
-    "count": 2
-  },
-  {
-    "id": "sail-2",
-    "count": 2
-  },
-  {
-    "id": "eigenlayer",
-    "count": 2
-  },
-  {
-    "id": "story-2",
-    "count": 2
-  },
-  {
-    "id": "zeta",
-    "count": 2
-  },
-  {
-    "id": "ref-finance",
     "count": 2
   },
   {
@@ -40,11 +12,39 @@
     "count": 2
   },
   {
-    "id": "jupiter",
+    "id": "zeta",
+    "count": 2
+  },
+  {
+    "id": "story-2",
+    "count": 2
+  },
+  {
+    "id": "ref-finance",
+    "count": 2
+  },
+  {
+    "id": "yieldnest",
     "count": 2
   },
   {
     "id": "arkham",
+    "count": 2
+  },
+  {
+    "id": "jupiter",
+    "count": 2
+  },
+  {
+    "id": "eigenlayer",
+    "count": 2
+  },
+  {
+    "id": "sail-2",
+    "count": 2
+  },
+  {
+    "id": "ethena",
     "count": 2
   }
 ]
