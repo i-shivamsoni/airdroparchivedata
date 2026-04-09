@@ -13,20 +13,21 @@ website: "https://velodrome.finance"
 ticker: "VELO"
 description: "The liquidity base-layer of the Optimism ecosystem, designed to optimize liquidity incentives and governance through the ve(3,3) model."
 mis-data-source: "coingecko"
-last_updated: "2026-04-09T00:28:47.534Z"
+last_updated: "2026-04-09T06:36:04.121Z"
+# miscellaneous data source section
 coingecko_id: "velodrome-finance"
-current_price: 0.01405822
-market_cap: 16013610
-market_cap_rank: 926
-fully_diluted_valuation: 34087238
-circulating_supply: 1139337955.752548
-total_supply: 2425242316.58515
+current_price: 0.01442144
+market_cap: 16426591
+market_cap_rank: 910
+fully_diluted_valuation: 35082292
+circulating_supply: 1139202746.929811
+total_supply: 2432996805.557152
 max_supply: null
 ath: 0.407515
-ath_change_percentage: -96.55055
+ath_change_percentage: -96.47085
 ath_date: "2024-12-13T08:25:28.798Z"
 atl: 0.00557275
-atl_change_percentage: 152.24523
+atl_change_percentage: 158.07379
 atl_date: "2022-07-05T13:35:32.359Z"
 ---
 
