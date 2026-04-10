@@ -14,7 +14,6 @@ ticker: "TERM"
 description: "Term Finance is a fixed-rate lending protocol on Ethereum, rewarding early adopters and active community members with $TERM tokens for protocol usage and engagement."
 mis-data-source: "coingecko"
 last_updated: "2026-04-10T03:39:29.822Z"
-# miscellaneous data source section
 coingecko_id: "term-finance"
 current_price: 0.356696
 market_cap: 0.0
