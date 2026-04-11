@@ -13,20 +13,21 @@ website: "https://pell.network/"
 ticker: "PELL"
 description: "Pell Network is an Omnichain Decentralized Validated Service (DVS) Network driven by BTC restaking, aiming to extend BTCFi into the cryptoeconomic security domain and fully unlock Bitcoin’s security potential."
 mis-data-source: "coingecko"
-last_updated: "2026-04-11T00:30:29.522Z"
+last_updated: "2026-04-11T06:25:13.025Z"
+# miscellaneous data source section
 coingecko_id: "pell-network-token"
-current_price: 0.00043161
-market_cap: 145020
-market_cap_rank: 5233
-fully_diluted_valuation: 906376
+current_price: 0.00043273
+market_cap: 144974
+market_cap_rank: 5229
+fully_diluted_valuation: 906090
 circulating_supply: 336000000.0
 total_supply: 2100000000.0
 max_supply: 2100000000.0
 ath: 0.02488985
-ath_change_percentage: -98.26227
+ath_change_percentage: -98.26138
 ath_date: "2025-03-15T01:01:31.556Z"
 atl: 0.00038377
-atl_change_percentage: 12.70215
+atl_change_percentage: 12.76011
 atl_date: "2026-02-06T09:19:57.335Z"
 ---
 
