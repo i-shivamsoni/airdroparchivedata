@@ -13,20 +13,21 @@ website: "https://element.fi"
 ticker: "ELFI"
 description: "A decentralized protocol that enables users to split digital assets into principal and yield components, allowing for fixed and variable yield markets."
 mis-data-source: "coingecko"
-last_updated: "2026-04-12T09:57:24.948Z"
+last_updated: "2026-04-12T18:15:31.007Z"
+# miscellaneous data source section
 coingecko_id: "elyfi"
-current_price: 0.004338
-market_cap: 220845
-market_cap_rank: 4604
-fully_diluted_valuation: 433800
+current_price: 0.00436402
+market_cap: 222091
+market_cap_rank: 4585
+fully_diluted_valuation: 436247
 circulating_supply: 50909515.0
 total_supply: 100000000.0
 max_supply: 100000000.0
 ath: 0.089174
-ath_change_percentage: -95.13534
+ath_change_percentage: -95.11039
 ath_date: "2022-04-03T22:38:15.375Z"
 atl: 0.00399944
-atl_change_percentage: 8.46501
+atl_change_percentage: 9.02131
 atl_date: "2026-02-05T22:22:00.621Z"
 ---
 
