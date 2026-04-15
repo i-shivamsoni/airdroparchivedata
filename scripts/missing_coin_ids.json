@@ -76,6 +76,10 @@
     "reason": "not_found_in_coingecko"
   },
   {
+    "id": "mint-blockchain",
+    "reason": "not_found_in_coingecko"
+  },
+  {
     "id": "intexcoin",
     "reason": "not_found_in_coingecko"
   },
