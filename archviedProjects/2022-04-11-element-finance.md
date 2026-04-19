@@ -14,10 +14,11 @@ ticker: "ELFI"
 description: "A decentralized protocol that enables users to split digital assets into principal and yield components, allowing for fixed and variable yield markets."
 mis-data-source: "coingecko"
 last_updated: "2026-04-18T22:08:36.501Z"
+# miscellaneous data source section
 coingecko_id: "elyfi"
 current_price: 0.00441137
 market_cap: 224581
-market_cap_rank: 4644
+market_cap_rank: 4635
 fully_diluted_valuation: 441137
 circulating_supply: 50909515.0
 total_supply: 100000000.0
