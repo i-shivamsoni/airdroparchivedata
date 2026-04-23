@@ -13,20 +13,21 @@ website: "https://www.walrus.xyz/"
 ticker: "WAL"
 description: "A decentralized storage network built on the Sui blockchain, aiming to provide secure, efficient, and decentralized data storage solutions."
 mis-data-source: "coingecko"
-last_updated: "2026-04-23T00:40:25.126Z"
+last_updated: "2026-04-23T06:42:31.393Z"
+# miscellaneous data source section
 coingecko_id: "walrus-2"
-current_price: 0.072215
-market_cap: 166006294
+current_price: 0.071314
+market_cap: 163697219
 market_cap_rank: 201
-fully_diluted_valuation: 361505403
+fully_diluted_valuation: 356477021
 circulating_supply: 2296041667.0
 total_supply: 5000000000.0
 max_supply: 5000000000.0
 ath: 0.759179
-ath_change_percentage: -90.49095
+ath_change_percentage: -90.60601
 ath_date: "2025-05-14T08:10:39.605Z"
 atl: 0.065359
-atl_change_percentage: 10.4529
+atl_change_percentage: 9.1164
 atl_date: "2026-03-29T13:15:13.887Z"
 ---
 
