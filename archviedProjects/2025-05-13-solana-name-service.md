@@ -13,21 +13,20 @@ website: "https://www.sns.id/"
 ticker: "SNS"
 description: "Solana Name Service (SNS) is a decentralized naming system for Solana addresses, providing human-readable .sol domain names and identity management on the Solana blockchain."
 mis-data-source: "coingecko"
-last_updated: "2026-04-24T12:24:34.770Z"
-# miscellaneous data source section
+last_updated: "2026-04-24T18:15:44.751Z"
 coingecko_id: "solana-name-service"
-current_price: 0.00113292
-market_cap: 2832304
-market_cap_rank: 2047
-fully_diluted_valuation: 11329001
+current_price: 0.00115641
+market_cap: 2862739
+market_cap_rank: 2034
+fully_diluted_valuation: 11450740
 circulating_supply: 2500000000.0
-total_supply: 9999811534.74169
+total_supply: 9999811534.74168
 max_supply: 10000000000.0
 ath: 0.00347868
-ath_change_percentage: -67.31812
+ath_change_percentage: -67.15052
 ath_date: "2025-09-19T01:28:25.347Z"
 atl: 0.00074085
-atl_change_percentage: 53.45773
+atl_change_percentage: 54.24472
 atl_date: "2025-08-24T13:51:09.559Z"
 ---
 
