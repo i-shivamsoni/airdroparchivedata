@@ -15,20 +15,21 @@ website: "https://xion.burnt.com"
 ticker: "XION"
 description: "XION is the first walletless Layer 1 blockchain focused on making Web3 accessible to everyone. It facilitates network usage fees, governance, proof-of-stake security, liquidity, and serves as a medium of exchange."
 mis-data-source: "coingecko"
-last_updated: "2026-04-24T00:40:31.153Z"
+last_updated: "2026-04-24T06:43:25.771Z"
+# miscellaneous data source section
 coingecko_id: "xion-2"
-current_price: 0.152845
-market_cap: 11099733
-market_cap_rank: 1145
-fully_diluted_valuation: 30604164
+current_price: 0.156326
+market_cap: 11344640
+market_cap_rank: 1133
+fully_diluted_valuation: 31279421
 circulating_supply: 72537403.379998
 total_supply: 200000000.0
 max_supply: null
 ath: 6.83
-ath_change_percentage: -97.75104
+ath_change_percentage: -97.70836
 ath_date: "2024-12-08T00:00:00.000Z"
 atl: 0.091535
-atl_change_percentage: 67.82909
+atl_change_percentage: 71.01391
 atl_date: "2026-04-02T16:41:21.990Z"
 ---
 
