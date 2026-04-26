@@ -14,20 +14,21 @@ website: "https://singularityfinance.ai"
 ticker: "SFI"
 description: "Singularity Finance is a decentralized AI solutions platform that tokenizes AI compute power, bringing the Real World Asset (RWA) AI economy onchain while making AI solutions accessible to everyone."
 mis-data-source: "coingecko"
-last_updated: "2026-04-26T12:17:48.723Z"
+last_updated: "2026-04-26T18:16:53.196Z"
+# miscellaneous data source section
 coingecko_id: "singularity-finance"
-current_price: 0.00607833
-market_cap: 502674
-market_cap_rank: 3696
-fully_diluted_valuation: 2973281
+current_price: 0.00603941
+market_cap: 509355
+market_cap_rank: 3689
+fully_diluted_valuation: 3012800
 circulating_supply: 84531804.58088592
 total_supply: 500000000.0
 max_supply: 500000000.0
 ath: 0.204218
-ath_change_percentage: -97.03463
+ath_change_percentage: -97.03344
 ath_date: "2025-02-10T11:32:04.927Z"
 atl: 0.00490368
-atl_change_percentage: 23.49555
+atl_change_percentage: 23.54475
 atl_date: "2026-04-02T09:49:48.369Z"
 ---
 
