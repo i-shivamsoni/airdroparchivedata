@@ -13,21 +13,20 @@ website: "https://bucketprotocol.io/"
 ticker: "BUT"
 description: "A next-generation Liquidity Layer on the Sui Network, allowing users to mint $BUCK stablecoin by locking assets as collateral, while unlocking opportunities for yield generation and leveraged liquidity."
 mis-data-source: "coingecko"
-last_updated: "2026-04-27T00:40:17.279Z"
-# miscellaneous data source section
+last_updated: "2026-04-27T06:57:15.549Z"
 coingecko_id: "bucket-token"
-current_price: 0.00164139
-market_cap: 693274
-market_cap_rank: 3377
-fully_diluted_valuation: 1641227
+current_price: 0.00158509
+market_cap: 669560
+market_cap_rank: 3396
+fully_diluted_valuation: 1585087
 circulating_supply: 422412117.06
 total_supply: 1000000000.0
 max_supply: 1000000000.0
 ath: 0.05549
-ath_change_percentage: -97.03689
+ath_change_percentage: -97.14376
 ath_date: "2025-05-25T08:22:10.705Z"
 atl: 0.00129484
-atl_change_percentage: 26.98418
+atl_change_percentage: 22.40421
 atl_date: "2025-12-01T17:41:20.023Z"
 ---
 
