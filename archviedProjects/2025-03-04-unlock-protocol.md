@@ -14,21 +14,22 @@ website: "https://unlock-protocol.com"
 ticker: "UP"
 description: "A decentralized protocol for memberships, subscriptions, and ticketing onchain, enabling creators and developers to monetize access to their communities."
 mis-data-source: "coingecko"
-last_updated: "2026-04-30T00:43:15.113Z"
+last_updated: "2026-04-30T06:55:25.082Z"
+# miscellaneous data source section
 coingecko_id: "unlockprotocoltoken"
-current_price: 0.00096981
-market_cap: 270304
-market_cap_rank: 4401
-fully_diluted_valuation: 968803
+current_price: 0.00096145
+market_cap: 268252
+market_cap_rank: 4421
+fully_diluted_valuation: 961448
 circulating_supply: 279008436.6347107
 total_supply: 1000000000.0
 max_supply: 1000000000.0
 ath: 0.084551
-ath_change_percentage: -98.85429
+ath_change_percentage: -98.86175
 ath_date: "2024-11-24T06:48:47.939Z"
-atl: 0.00095869
-atl_change_percentage: 1.04469
-atl_date: "2026-04-29T18:45:12.118Z"
+atl: 0.00095666
+atl_change_percentage: 0.60103
+atl_date: "2026-04-30T05:30:33.637Z"
 ---
 
 ## Airdrop Details
