@@ -14,11 +14,10 @@ ticker: "HLG"
 description: "Holograph App provides interfaces to create, deploy, mint, and bridge omnichain NFTs, powered by Holograph Protocol."
 mis-data-source: "coingecko"
 last_updated: "2026-04-26T20:26:31.855Z"
-# miscellaneous data source section
 coingecko_id: "holograph"
 current_price: 2.32e-06
 market_cap: 3532.06
-market_cap_rank: 11650
+market_cap_rank: 11642
 fully_diluted_valuation: 23115
 circulating_supply: 1525000000.0
 total_supply: 9979982508.303848
