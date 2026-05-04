@@ -15,21 +15,20 @@ website: "https://dymension.xyz/"
 ticker: "DYM"
 description: "A modular blockchain protocol designed to enhance scalability and interoperability by enabling the deployment of RollApps—application-specific rollups—on its network."
 mis-data-source: "coingecko"
-last_updated: "2026-05-03T18:21:00.193Z"
-# miscellaneous data source section
+last_updated: "2026-05-04T00:43:53.201Z"
 coingecko_id: "dymension"
-current_price: 0.01874746
-market_cap: 9700275
-market_cap_rank: 1246
-fully_diluted_valuation: 19945514
-circulating_supply: 517418183.0
-total_supply: 1063905071.0
+current_price: 0.01844209
+market_cap: 9546409
+market_cap_rank: 1252
+fully_diluted_valuation: 19623472
+circulating_supply: 517578025.0
+total_supply: 1063926518.0
 max_supply: null
 ath: 8.5
-ath_change_percentage: -99.77926
+ath_change_percentage: -99.78307
 ath_date: "2024-02-14T14:29:43.198Z"
 atl: 0.0166359
-atl_change_percentage: 12.81627
+atl_change_percentage: 10.87313
 atl_date: "2026-04-14T14:20:03.261Z"
 ---
 
