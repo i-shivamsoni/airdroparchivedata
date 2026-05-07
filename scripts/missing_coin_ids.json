@@ -72,6 +72,10 @@
     "reason": "not_found_in_coingecko"
   },
   {
+    "id": "asmatch",
+    "reason": "not_found_in_coingecko"
+  },
+  {
     "id": "animeswap",
     "reason": "not_found_in_coingecko"
   },
