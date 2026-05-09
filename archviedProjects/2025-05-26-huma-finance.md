@@ -22,20 +22,21 @@ website: "https://huma.finance/"
 ticker: "HUMA"
 description: "Huma Finance is a decentralized payfi protocol that has facilitated over $4.4 billion in payfi transactions, focusing on bringing real yield on-chain through its ecosystem partners."
 mis-data-source: "coingecko"
-last_updated: "2026-05-09T00:44:22.530Z"
+last_updated: "2026-05-09T06:46:42.316Z"
+# miscellaneous data source section
 coingecko_id: "huma-finance"
-current_price: 0.02148317
-market_cap: 37168490
-market_cap_rank: 622
-fully_diluted_valuation: 214433595
+current_price: 0.02145125
+market_cap: 37262786
+market_cap_rank: 624
+fully_diluted_valuation: 214977613
 circulating_supply: 1733333333.0
 total_supply: 10000000000.0
 max_supply: 10000000000.0
 ath: 0.115647
-ath_change_percentage: -81.45161
+ath_change_percentage: -81.36415
 ath_date: "2025-05-26T12:20:35.710Z"
 atl: 0.01107715
-atl_change_percentage: 93.64727
+atl_change_percentage: 94.56035
 atl_date: "2026-02-26T17:55:58.293Z"
 ---
 
