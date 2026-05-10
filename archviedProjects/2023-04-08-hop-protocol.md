@@ -13,20 +13,21 @@ website: "https://app.hop.exchange/"
 ticker: "HOP"
 description: "A protocol for sending tokens across rollups and their shared layer-1 network in a quick and trustless manner."
 mis-data-source: "coingecko"
-last_updated: "2026-05-10T12:22:23.628Z"
+last_updated: "2026-05-10T18:22:23.151Z"
+# miscellaneous data source section
 coingecko_id: "hop-protocol"
-current_price: 0.00081224
-market_cap: 61101
-market_cap_rank: 6849
-fully_diluted_valuation: 812275
+current_price: 0.00082372
+market_cap: 61981
+market_cap_rank: 6868
+fully_diluted_valuation: 823966
 circulating_supply: 75222483.07101855
 total_supply: 1000000000.0
 max_supply: 1000000000.0
 ath: 0.297217
-ath_change_percentage: -99.72671
+ath_change_percentage: -99.72277
 ath_date: "2023-03-20T16:14:36.301Z"
 atl: 0.00055392
-atl_change_percentage: 46.64158
+atl_change_percentage: 48.75208
 atl_date: "2026-02-23T17:26:44.003Z"
 ---
 
