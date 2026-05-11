@@ -14,13 +14,14 @@ website: "https://worldcoin.org"
 ticker: "WLD"
 description: "A decentralized protocol aiming to provide a universal digital identity (World ID) and a global currency (WLD) to promote financial inclusion and verify human uniqueness."
 mis-data-source: "coingecko"
-last_updated: "2026-05-11T13:04:04.573Z"
+last_updated: "2026-05-11T18:41:06.053Z"
+# miscellaneous data source section
 coingecko_id: "worldcoin-wld"
-current_price: 0.278126
-market_cap: 928363988
+current_price: 0.282681
+market_cap: 955198343
 market_cap_rank: 76
-fully_diluted_valuation: 2779661416
-circulating_supply: 3339845573.793946
+fully_diluted_valuation: 2829083145
+circulating_supply: 3376353023.940032
 total_supply: 10000000000.0
 max_supply: 10000000000.0
 ath: 11.74
