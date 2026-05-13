@@ -14,20 +14,21 @@ website: "https://www.pyth.network"
 ticker: "PYTH"
 description: "A cross-chain oracle network providing real-time price feeds for DeFi and Web3 applications."
 mis-data-source: "coingecko"
-last_updated: "2026-05-13T00:47:03.557Z"
+last_updated: "2026-05-13T07:06:42.547Z"
+# miscellaneous data source section
 coingecko_id: "pyth-network"
-current_price: 0.054673
-market_cap: 314237755
-market_cap_rank: 156
-fully_diluted_valuation: 546502147
+current_price: 0.055502
+market_cap: 319159731
+market_cap_rank: 155
+fully_diluted_valuation: 555062132
 circulating_supply: 5749982069.902829
 total_supply: 10000000000.0
 max_supply: 10000000000.0
 ath: 1.2
-ath_change_percentage: -95.43666
+ath_change_percentage: -95.3594
 ath_date: "2024-03-16T07:01:15.357Z"
 atl: 0.03679605
-atl_change_percentage: 48.37001
+atl_change_percentage: 50.88201
 atl_date: "2026-03-28T01:50:47.249Z"
 ---
 
