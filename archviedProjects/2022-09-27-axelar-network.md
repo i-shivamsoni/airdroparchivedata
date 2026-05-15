@@ -14,20 +14,21 @@ website: "https://airdrop.axelar.network/"
 ticker: "AXL"
 description: "Axelar delivers secure interchain communication for Web3, allowing dApp users to interact with any asset or application on any chain with one click. It functions like Stripe for Web3."
 mis-data-source: "coingecko"
-last_updated: "2026-05-15T07:11:22.784Z"
+last_updated: "2026-05-15T12:41:05.832Z"
+# miscellaneous data source section
 coingecko_id: "axelar"
-current_price: 0.066048
-market_cap: 77145979
-market_cap_rank: 374
-fully_diluted_valuation: 81835005
-circulating_supply: 1169624274.726109
-total_supply: 1240715446.485496
+current_price: 0.065928
+market_cap: 77145331
+market_cap_rank: 373
+fully_diluted_valuation: 81834983
+circulating_supply: 1169650332.126138
+total_supply: 1240753176.412934
 max_supply: null
 ath: 2.64
-ath_change_percentage: -97.50695
+ath_change_percentage: -97.50643
 ath_date: "2024-03-01T09:20:05.541Z"
 atl: 0.04272336
-atl_change_percentage: 54.28085
+atl_change_percentage: 54.31343
 atl_date: "2026-04-05T13:35:45.910Z"
 ---
 
