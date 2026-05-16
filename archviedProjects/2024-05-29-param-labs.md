@@ -14,20 +14,21 @@ website: "https://paramgaming.com"
 ticker: "PARAM"
 description: "Param Labs is pioneering the next generation of gaming through united creativity and technological advancement."
 mis-data-source: "coingecko"
-last_updated: "2026-05-16T06:44:29.886Z"
+last_updated: "2026-05-16T12:24:27.443Z"
+# miscellaneous data source section
 coingecko_id: "param"
-current_price: 5.199e-05
-market_cap: 13466.52
-market_cap_rank: 9515
-fully_diluted_valuation: 103989
+current_price: 5.1e-05
+market_cap: 13217.57
+market_cap_rank: 9519
+fully_diluted_valuation: 102066
 circulating_supply: 259000000.0
 total_supply: 2000000000.0
 max_supply: 2000000000.0
 ath: 0.179478
-ath_change_percentage: -99.97098
+ath_change_percentage: -99.97157
 ath_date: "2024-05-29T08:19:33.207Z"
 atl: 4.669e-05
-atl_change_percentage: 11.53963
+atl_change_percentage: 9.29546
 atl_date: "2026-02-06T08:47:08.315Z"
 ---
 
