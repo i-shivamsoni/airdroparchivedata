@@ -14,20 +14,21 @@ website: "https://across.to/"
 ticker: "ACX"
 description: "Across is the fastest, cheapest, and most secure cross-chain bridge for Ethereum, Arbitrum, Optimism, Polygon, and other Layer 1 and Layer 2 networks."
 mis-data-source: "coingecko"
-last_updated: "2026-05-17T00:48:03.423Z"
+last_updated: "2026-05-17T07:01:09.463Z"
+# miscellaneous data source section
 coingecko_id: "across-protocol"
-current_price: 0.04219883
-market_cap: 29734828
-market_cap_rank: 714
-fully_diluted_valuation: 42197553
+current_price: 0.04249102
+market_cap: 29919548
+market_cap_rank: 713
+fully_diluted_valuation: 42459695
 circulating_supply: 704657633.0
 total_supply: 1000000000.0
 max_supply: 1000000000.0
 ath: 1.69
-ath_change_percentage: -97.49954
+ath_change_percentage: -97.48221
 ath_date: "2024-12-06T13:25:33.957Z"
 atl: 0.03124001
-atl_change_percentage: 35.17164
+atl_change_percentage: 36.10844
 atl_date: "2026-02-28T10:10:18.485Z"
 ---
 
