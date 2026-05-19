@@ -16,21 +16,20 @@ website: "https://merlinchain.io"
 ticker: "MERL"
 description: "Merlin Chain is a native Bitcoin Layer2 committed to empowering Bitcoin's native assets, protocols, and products on Layer1 through its Layer2 network, integrating ZK-Rollup network, decentralized oracle network, and on-chain BTC fraud proof modules."
 mis-data-source: "coingecko"
-last_updated: "2026-05-19T07:17:51.143Z"
-# miscellaneous data source section
+last_updated: "2026-05-19T13:10:27.665Z"
 coingecko_id: "merlin-chain"
-current_price: 0.02933695
-market_cap: 37333269
-market_cap_rank: 602
-fully_diluted_valuation: 61476569
+current_price: 0.02862624
+market_cap: 36505217
+market_cap_rank: 608
+fully_diluted_valuation: 60113019
 circulating_supply: 1275280424.0
 total_supply: 2100000000.0
 max_supply: 2100000000.0
 ath: 1.45
-ath_change_percentage: -97.97819
+ath_change_percentage: -98.02726
 ath_date: "2024-04-19T11:41:13.943Z"
 atl: 0.02130297
-atl_change_percentage: 37.61676
+atl_change_percentage: 34.27664
 atl_date: "2026-04-03T19:50:42.218Z"
 ---
 
