@@ -40,6 +40,10 @@
     "reason": "not_found_in_coingecko"
   },
   {
+    "id": "pontem-liquidswap",
+    "reason": "not_found_in_coingecko"
+  },
+  {
     "id": "penumbra",
     "reason": "not_found_in_coingecko"
   },
