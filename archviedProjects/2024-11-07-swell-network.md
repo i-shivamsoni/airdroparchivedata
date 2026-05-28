@@ -13,20 +13,21 @@ website: "https://www.swellnetwork.io"
 ticker: "SWELL"
 description: "Swell is a leading L2 restaking protocol offering native liquid staking and restaking for Ethereum and Bitcoin. It enables governance and infrastructure security via restaking protocols like EigenLayer and Symbiotic."
 mis-data-source: "coingecko"
-last_updated: "2026-05-28T00:46:23.873Z"
+last_updated: "2026-05-28T07:25:22.944Z"
+# miscellaneous data source section
 coingecko_id: "swell-network"
-current_price: 0.00115978
-market_cap: 5567502
-market_cap_rank: 1596
-fully_diluted_valuation: 10557920
+current_price: 0.00111379
+market_cap: 5362790
+market_cap_rank: 1602
+fully_diluted_valuation: 10169714
 circulating_supply: 4817436377.714152
 total_supply: 9135533828.712143
 max_supply: 10000000000.0
 ath: 0.069551
-ath_change_percentage: -98.33412
+ath_change_percentage: -98.40412
 ath_date: "2024-11-09T12:46:13.695Z"
 atl: 0.00106457
-atl_change_percentage: 8.83615
+atl_change_percentage: 4.26285
 atl_date: "2026-03-30T01:25:49.274Z"
 ---
 
