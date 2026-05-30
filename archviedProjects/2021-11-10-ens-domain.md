@@ -13,21 +13,20 @@ website: "https://ens.domains"
 ticker: "ENS"
 description: "ENS is a decentralized domain name system on Ethereum that maps human-readable names to Ethereum addresses and other resources."
 mis-data-source: "coingecko"
-last_updated: "2026-05-30T07:04:22.361Z"
-# miscellaneous data source section
+last_updated: "2026-05-30T12:29:22.141Z"
 coingecko_id: "ethereum-name-service"
-current_price: 6.02
-market_cap: 243404474
+current_price: 5.99
+market_cap: 241898339
 market_cap_rank: 168
-fully_diluted_valuation: 602357390
+fully_diluted_valuation: 598630130
 circulating_supply: 40408647.500078425
 total_supply: 100000000.0
 max_supply: 100000000.0
 ath: 83.4
-ath_change_percentage: -92.77956
+ath_change_percentage: -92.82253
 ath_date: "2021-11-11T02:20:01.099Z"
 atl: 5.01
-atl_change_percentage: 20.19274
+atl_change_percentage: 19.47736
 atl_date: "2026-02-06T00:25:50.342Z"
 ---
 
