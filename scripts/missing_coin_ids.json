@@ -24,6 +24,10 @@
     "reason": "not_found_in_coingecko"
   },
   {
+    "id": "overprotocol",
+    "reason": "not_found_in_coingecko"
+  },
+  {
     "id": "pontem-liquidswap",
     "reason": "not_found_in_coingecko"
   },
