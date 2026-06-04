@@ -13,20 +13,21 @@ website: "https://holdstation.com"
 ticker: "HOLD"
 description: "A Web3 smart contract wallet focused on future trading, self-custodianship, and user privacy."
 mis-data-source: "coingecko"
-last_updated: "2026-06-04T01:00:13.419Z"
+last_updated: "2026-06-04T07:41:19.086Z"
+# miscellaneous data source section
 coingecko_id: "holdstation"
-current_price: 0.207991
+current_price: 0.20418
 market_cap: 0.0
 market_cap_rank: null
-fully_diluted_valuation: 6241337
+fully_diluted_valuation: 6125396
 circulating_supply: 0.0
 total_supply: 30000000.0
 max_supply: 30000000.0
 ath: 7.49
-ath_change_percentage: -97.21581
+ath_change_percentage: -97.27218
 ath_date: "2024-03-26T04:35:08.885Z"
 atl: 0.18771
-atl_change_percentage: 11.02201
+atl_change_percentage: 8.77405
 atl_date: "2026-04-05T04:00:18.307Z"
 ---
 
