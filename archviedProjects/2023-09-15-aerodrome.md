@@ -13,21 +13,20 @@ website: "https://www.aerodrome.finance/ Known"
 ticker: "AERO"
 description: "Aerodrome Finance is set to launch on Base with approximately 20 partners, positioning itself as the ecosystem's premier liquidity engine and hub. Built on the advanced Velodrome v2 technology stack, Aerodrome aims to provide features such as concentrated liquidity, automated voting, and a built-in veNFT Marketplace."
 mis-data-source: "coingecko"
-last_updated: "2026-06-04T07:42:06.974Z"
-# miscellaneous data source section
+last_updated: "2026-06-04T13:09:12.760Z"
 coingecko_id: "aerodrome-finance"
-current_price: 0.358776
-market_cap: 340091483
-market_cap_rank: 129
-fully_diluted_valuation: 686115116
-circulating_supply: 947943496.9878976
+current_price: 0.365442
+market_cap: 346299760
+market_cap_rank: 127
+fully_diluted_valuation: 698639697
+circulating_supply: 947943854.8978822
 total_supply: 1912421790.197083
 max_supply: null
 ath: 2.32
-ath_change_percentage: -84.51794
+ath_change_percentage: -84.32216
 ath_date: "2024-12-07T14:00:38.622Z"
 atl: 1.861e-05
-atl_change_percentage: 1927413.13874
+atl_change_percentage: 1951787.14016
 atl_date: "2023-10-17T01:23:50.860Z"
 ---
 
