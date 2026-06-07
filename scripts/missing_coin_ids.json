@@ -160,6 +160,10 @@
     "reason": "not_found_in_coingecko"
   },
   {
+    "id": "namada",
+    "reason": "not_found_in_coingecko"
+  },
+  {
     "id": "pryzm",
     "reason": "not_found_in_coingecko"
   },
