@@ -14,21 +14,20 @@ website: "https://ref.finance"
 ticker: "REF"
 description: "A decentralized finance (DeFi) platform built on NEAR Protocol, offering liquidity provision, swaps, and yield farming."
 mis-data-source: "coingecko"
-last_updated: "2026-06-11T13:23:01.633Z"
-# miscellaneous data source section
+last_updated: "2026-06-11T19:02:42.559Z"
 coingecko_id: "ref-finance"
-current_price: 0.04810561
-market_cap: 4617921
-market_cap_rank: 1636
-fully_diluted_valuation: 4810576
+current_price: 0.04836228
+market_cap: 4642546
+market_cap_rank: 1637
+fully_diluted_valuation: 4836228
 circulating_supply: 95995182.0
 total_supply: 100000000.0
 max_supply: null
 ath: 10.64
-ath_change_percentage: -99.54789
+ath_change_percentage: -99.54476
 ath_date: "2021-10-25T22:29:50.921Z"
 atl: 0.02986899
-atl_change_percentage: 61.05727
+atl_change_percentage: 62.17114
 atl_date: "2026-02-06T00:31:03.352Z"
 ---
 
