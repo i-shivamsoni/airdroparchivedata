@@ -13,20 +13,21 @@ website: "https://www.ampleforth.org/"
 ticker: "AMPL (Ampleforth) / FORTH (Governance Token)"
 description: "Ampleforth is a rebasing cryptocurrency designed to be a financial building block for DeFi and traditional finance. It functions independently of traditional banks and lenders of last resort."
 mis-data-source: "coingecko"
-last_updated: "2026-06-12T00:58:22.808Z"
+last_updated: "2026-06-12T07:41:20.319Z"
+# miscellaneous data source section
 coingecko_id: "ampleforth-governance-token"
-current_price: 0.180549
-market_cap: 1933425
-market_cap_rank: 2266
-fully_diluted_valuation: 2763321
+current_price: 0.180761
+market_cap: 1932985
+market_cap_rank: 2256
+fully_diluted_valuation: 2762692
 circulating_supply: 10703546.447170038
 total_supply: 15297897.14455933
 max_supply: null
 ath: 180.47
-ath_change_percentage: -99.90005
+ath_change_percentage: -99.89993
 ath_date: "2021-04-21T16:13:43.320Z"
 atl: 0.155783
-atl_change_percentage: 15.79477
+atl_change_percentage: 15.926
 atl_date: "2026-06-06T00:19:58.773Z"
 ---
 
