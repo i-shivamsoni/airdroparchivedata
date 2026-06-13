@@ -13,11 +13,12 @@ website: "https://puffverse.io"
 ticker: "PFVS"
 description: "Puffverse is a 3D metaverse platform that connects Web3 virtuality with Web2 reality, featuring PuffGo multiplayer party games and NFT-based gaming experiences."
 mis-data-source: "coingecko"
-last_updated: "2026-06-13T12:35:51.956Z"
+last_updated: "2026-06-13T18:31:07.273Z"
+# miscellaneous data source section
 coingecko_id: "puffverse"
 current_price: 6.435e-05
 market_cap: 7505.15
-market_cap_rank: 10188
+market_cap_rank: 10184
 fully_diluted_valuation: 64354
 circulating_supply: 116622222.0
 total_supply: 1000000000.0
@@ -26,7 +27,7 @@ ath: 0.086767
 ath_change_percentage: -99.92583
 ath_date: "2025-05-27T14:05:23.191Z"
 atl: 5.984e-05
-atl_change_percentage: 7.54447
+atl_change_percentage: 7.54468
 atl_date: "2026-04-08T02:54:10.525Z"
 ---
 
