@@ -14,21 +14,20 @@ website: "https://piratenation.game"
 ticker: "PIRATE"
 description: "Pirate Nation is an on-chain strategy game where players can own and upgrade NFTs, participate in battles, and earn rewards."
 mis-data-source: "coingecko"
-last_updated: "2026-06-16T13:50:56.729Z"
-# miscellaneous data source section
+last_updated: "2026-06-16T19:15:06.781Z"
 coingecko_id: "pirate-token"
-current_price: 0.00271845
-market_cap: 1953177
-market_cap_rank: 2293
-fully_diluted_valuation: 2663558
+current_price: 0.00269557
+market_cap: 1938609
+market_cap_rank: 2296
+fully_diluted_valuation: 2643691
 circulating_supply: 718019546.0
 total_supply: 979167033.1391062
 max_supply: 1000000000.0
 ath: 0.475661
-ath_change_percentage: -99.42943
+ath_change_percentage: -99.43319
 ath_date: "2024-07-19T00:45:26.109Z"
 atl: 0.00267949
-atl_change_percentage: 1.28644
+atl_change_percentage: 0.62025
 atl_date: "2026-06-16T12:20:06.199Z"
 ---
 
