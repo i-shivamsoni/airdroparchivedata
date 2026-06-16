@@ -168,6 +168,10 @@
     "reason": "not_found_in_coingecko"
   },
   {
+    "id": "bonsai-token",
+    "reason": "not_found_in_coingecko"
+  },
+  {
     "id": "kontos",
     "reason": "not_found_in_coingecko"
   },
