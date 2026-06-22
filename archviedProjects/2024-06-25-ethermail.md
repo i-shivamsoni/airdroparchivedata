@@ -13,21 +13,20 @@ website: "https://ethermail.io"
 ticker: "EMT"
 description: "A blockchain-based email platform designed to provide secure, anonymous, and user-controlled email communication. It bridges the gap between Web2 and Web3, rewarding users for engagement with consensual marketing."
 mis-data-source: "coingecko"
-last_updated: "2026-06-22T08:07:24.222Z"
-# miscellaneous data source section
+last_updated: "2026-06-22T13:55:43.237Z"
 coingecko_id: "email-token"
-current_price: 0.00057155
+current_price: 0.00054264
 market_cap: 0.0
 market_cap_rank: null
-fully_diluted_valuation: 571544
+fully_diluted_valuation: 542651
 circulating_supply: 0.0
 total_supply: 1000000000.0
 max_supply: 1000000000.0
 ath: 0.435916
-ath_change_percentage: -99.86889
+ath_change_percentage: -99.87546
 ath_date: "2024-06-13T02:03:48.797Z"
 atl: 0.0003282
-atl_change_percentage: 74.1402
+atl_change_percentage: 65.41966
 atl_date: "2026-06-07T13:00:15.036Z"
 ---
 
