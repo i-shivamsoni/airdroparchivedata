@@ -15,10 +15,11 @@ ticker: "UDT"
 description: "A decentralized protocol for memberships and access control, enabling users to create and manage locks on Ethereum and other supported networks."
 mis-data-source: "coingecko"
 last_updated: "2026-06-23T11:05:14.262Z"
+# miscellaneous data source section
 coingecko_id: "unlockprotocoltoken"
 current_price: 0.00071171
 market_cap: 198573
-market_cap_rank: 4651
+market_cap_rank: 4647
 fully_diluted_valuation: 711711
 circulating_supply: 279008436.6347107
 total_supply: 1000000000.0
