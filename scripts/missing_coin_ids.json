@@ -56,6 +56,10 @@
     "reason": "not_found_in_coingecko"
   },
   {
+    "id": "lumoz",
+    "reason": "not_found_in_coingecko"
+  },
+  {
     "id": "raft",
     "reason": "not_found_in_coingecko"
   },

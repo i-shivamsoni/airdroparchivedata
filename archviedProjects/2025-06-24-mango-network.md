@@ -15,20 +15,21 @@ website: "https://mangonet.io/"
 ticker: "MGO"
 description: "Mango Network is a Layer 1 blockchain with Multi-VM Omnichain infrastructure, supporting MoveVM, EVM, and SVM, providing secure, modular, and high-performance Web3 infrastructure."
 mis-data-source: "coingecko" 
-last_updated: "2026-06-26T07:22:37.439Z"
+last_updated: "2026-06-26T12:48:10.443Z"
+# miscellaneous data source section
 coingecko_id: "mango-network"
-current_price: 0.00999977
-market_cap: 15899636
-market_cap_rank: 916
-fully_diluted_valuation: 99997711
+current_price: 0.00999687
+market_cap: 15893647
+market_cap_rank: 905
+fully_diluted_valuation: 99960042
 circulating_supply: 1590000000.0
 total_supply: 10000000000.0
 max_supply: 10000000000.0
 ath: 0.03417281
-ath_change_percentage: -70.74483
+ath_change_percentage: -70.77468
 ath_date: "2025-09-21T20:25:35.583Z"
 atl: 0.00934774
-atl_change_percentage: 6.94903
+atl_change_percentage: 6.8399
 atl_date: "2026-06-21T12:16:08.427Z"
 ---
 
