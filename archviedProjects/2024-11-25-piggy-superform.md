@@ -14,10 +14,11 @@ ticker: "PIGGY"
 description: "A DeFi yield marketplace optimizing on-chain wealth by providing users access to diverse yield opportunities across multiple blockchains."
 mis-data-source: "coingecko"
 last_updated: "2026-06-28T23:31:24.390Z"
+# miscellaneous data source section
 coingecko_id: "piggy-2"
 current_price: 3.13e-06
 market_cap: 197847
-market_cap_rank: 4618
+market_cap_rank: 4633
 fully_diluted_valuation: 197847
 circulating_supply: 63123637092.72057
 total_supply: 63123637092.72057
