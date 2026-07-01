@@ -16,7 +16,6 @@ ticker: "SWAN"
 description: "A full toolset AI blockchain infrastructure accelerating AI adoption by merging Web3 with AI, providing comprehensive solutions across storage, computing, bandwidth, and payments."
 mis-data-source: "coingecko"
 last_updated: "2026-06-29T23:18:00.142Z"
-# miscellaneous data source section
 coingecko_id: "swan-chain"
 current_price: 0.00042737
 market_cap: 168549
