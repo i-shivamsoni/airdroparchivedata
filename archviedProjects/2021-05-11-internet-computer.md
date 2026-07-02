@@ -15,20 +15,21 @@ website: "https://dfinity.org"
 ticker: "ICP"
 description: "A decentralized cloud computing platform designed to run applications on a public blockchain with high scalability and security."
 mis-data-source: "coingecko"
-last_updated: "2026-07-02T08:54:34.767Z"
+last_updated: "2026-07-02T13:58:05.668Z"
+# miscellaneous data source section
 coingecko_id: "internet-computer"
-current_price: 2.19
-market_cap: 1215434694
+current_price: 2.24
+market_cap: 1242958646
 market_cap_rank: 61
-fully_diluted_valuation: 1215434694
-circulating_supply: 554255602.5340176
-total_supply: 554255602.5340176
+fully_diluted_valuation: 1242958646
+circulating_supply: 554300577.5716616
+total_supply: 554300577.5716616
 max_supply: null
 ath: 700.65
-ath_change_percentage: -99.68724
+ath_change_percentage: -99.67975
 ath_date: "2021-05-10T16:05:53.653Z"
 atl: 2.02
-atl_change_percentage: 8.56066
+atl_change_percentage: 11.16153
 atl_date: "2026-02-24T05:35:51.591Z"
 ---
 
