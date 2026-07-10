@@ -1,14 +1,6 @@
 [
   {
-    "id": "juicebox",
-    "reason": "not_found_in_coingecko"
-  },
-  {
     "id": "kroma",
-    "reason": "not_found_in_coingecko"
-  },
-  {
-    "id": "xzk",
     "reason": "not_found_in_coingecko"
   },
   {
@@ -28,10 +20,6 @@
     "reason": "not_found_in_coingecko"
   },
   {
-    "id": "the-arena",
-    "reason": "not_found_in_coingecko"
-  },
-  {
     "id": "thruster",
     "reason": "not_found_in_coingecko"
   },
@@ -44,19 +32,7 @@
     "reason": "not_found_in_coingecko"
   },
   {
-    "id": "unlockprotocoltoken",
-    "reason": "not_found_in_coingecko"
-  },
-  {
     "id": "collab-land",
-    "reason": "not_found_in_coingecko"
-  },
-  {
-    "id": "piggy-2",
-    "reason": "not_found_in_coingecko"
-  },
-  {
-    "id": "yieldnest",
     "reason": "not_found_in_coingecko"
   },
   {
@@ -77,14 +53,6 @@
   },
   {
     "id": "ice-token",
-    "reason": "not_found_in_coingecko"
-  },
-  {
-    "id": "hat",
-    "reason": "not_found_in_coingecko"
-  },
-  {
-    "id": "puffverse",
     "reason": "not_found_in_coingecko"
   },
   {
@@ -132,19 +100,7 @@
     "reason": "not_found_in_coingecko"
   },
   {
-    "id": "thetanuts-finance",
-    "reason": "not_found_in_coingecko"
-  },
-  {
     "id": "term-finance",
-    "reason": "not_found_in_coingecko"
-  },
-  {
-    "id": "elyfi",
-    "reason": "not_found_in_coingecko"
-  },
-  {
-    "id": "timeless",
     "reason": "not_found_in_coingecko"
   },
   {
@@ -176,10 +132,6 @@
     "reason": "not_found_in_coingecko"
   },
   {
-    "id": "smoothy",
-    "reason": "not_found_in_coingecko"
-  },
-  {
     "id": "kingdom-of-ants-ant-coins",
     "reason": "not_found_in_coingecko"
   },
@@ -197,10 +149,6 @@
   },
   {
     "id": "growth",
-    "reason": "not_found_in_coingecko"
-  },
-  {
-    "id": "shopnext-loyalty-token",
     "reason": "not_found_in_coingecko"
   },
   {
