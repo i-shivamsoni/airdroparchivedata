@@ -13,20 +13,21 @@ website: "https://listadao.org"
 ticker: "LISTA"
 description: "Lista DAO is a decentralized autonomous organization focusing on creating a comprehensive DeFi ecosystem."
 mis-data-source: "coingecko"
-last_updated: "2026-07-11T02:33:29.771Z"
+last_updated: "2026-07-11T07:53:38.693Z"
+# miscellaneous data source section
 coingecko_id: "lista"
-current_price: 0.04854383
-market_cap: 20153862
-market_cap_rank: 818
-fully_diluted_valuation: 38620914
+current_price: 0.04880582
+market_cap: 20262631
+market_cap_rank: 815
+fully_diluted_valuation: 38829349
 circulating_supply: 415168379.95020205
 total_supply: 795588564.255041
 max_supply: 1000000000.0
 ath: 0.842842
-ath_change_percentage: -94.24071
+ath_change_percentage: -94.20613
 ath_date: "2024-06-21T06:42:43.606Z"
 atl: 0.04475942
-atl_change_percentage: 8.45028
+atl_change_percentage: 9.10149
 atl_date: "2026-06-30T13:05:35.371Z"
 ---
 
