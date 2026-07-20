@@ -15,7 +15,8 @@ website: "https://alignedfoundation.org"
 ticker: "ALIGN"
 description: "A foundation dedicated to supporting and advancing projects within the Ethereum and Zero Knowledge (ZK) ecosystems."
 mis-data-source: "coingecko"
-last_updated: "2026-07-19T19:03:54.872720Z"
+last_updated: "2026-07-20T03:31:31.326608Z"
+# miscellaneous data source section
 coingecko_id: "aligned"
 current_price: null
 market_cap: null
