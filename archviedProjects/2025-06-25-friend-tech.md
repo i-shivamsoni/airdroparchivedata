@@ -13,20 +13,21 @@ website: "https://www.friend.tech/"
 ticker: "FRIEND"
 description: "Friend.tech is a decentralized social platform on Base, where users buy and sell 'keys' to access private chatrooms and exclusive content, with governance and ownership by the community."
 mis-data-source: "coingecko"
-last_updated: "2026-07-21T08:26:05.603Z"
+last_updated: "2026-07-21T13:46:50.613Z"
+# miscellaneous data source section
 coingecko_id: "friend-tech"
-current_price: 0.00129325
-market_cap: 122573
-market_cap_rank: 5447
-fully_diluted_valuation: 122573
+current_price: 0.00128067
+market_cap: 121516
+market_cap_rank: 5452
+fully_diluted_valuation: 121516
 circulating_supply: 94885121.30000001
 total_supply: 94885121.30000001
 max_supply: null
 ath: 3.26
-ath_change_percentage: -99.96041
+ath_change_percentage: -99.9607
 ath_date: "2024-05-03T08:33:16.777Z"
 atl: 2.226e-05
-atl_change_percentage: 5704.01035
+atl_change_percentage: 5661.11488
 atl_date: "2026-07-17T09:54:53.222Z"
 ---
 
