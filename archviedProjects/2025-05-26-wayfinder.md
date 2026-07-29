@@ -13,22 +13,21 @@ website: "https://www.wayfinder.ai"
 ticker: "PROMPT"
 description: "Wayfinder is an AI-powered platform that combines social missions and wallet missions with a unique caching program, offering a comprehensive ecosystem for community engagement and rewards."
 mis-data-source: "coingecko"
-last_updated: "2026-07-29T02:30:20.000Z"
-# miscellaneous data source section
+last_updated: "2026-07-29T08:38:24.094Z"
 coingecko_id: "wayfinder"
-current_price: 0.02008439
-market_cap: 4496670
-market_cap_rank: 1638
-fully_diluted_valuation: 20083357
+current_price: 0.01967916
+market_cap: 4405385
+market_cap_rank: 1649
+fully_diluted_valuation: 19675655
 circulating_supply: 223900304.0
 total_supply: 1000000000.0
 max_supply: 1000000000.0
 ath: 0.607139
-ath_change_percentage: -96.69196
-ath_date: "2025-04-12T08:05:52.000Z"
-atl: 0.01880818
-atl_change_percentage: 6.78541
-atl_date: "2026-07-20T06:39:10.000Z"
+ath_change_percentage: -96.76303
+ath_date: "2025-04-12T16:05:52.227Z"
+atl: 0.01883512
+atl_change_percentage: 4.34191
+atl_date: "2026-07-20T06:01:31.113Z"
 ---
 
 ## Airdrop Details

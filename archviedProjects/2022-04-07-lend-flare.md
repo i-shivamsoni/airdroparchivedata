@@ -13,21 +13,22 @@ website: "https://lendflare.finance/"
 ticker: "LFT"
 description: "A decentralized lending platform aiming to improve capital efficiency by leveraging Curve LP tokens as collateral."
 mis-data-source: "coingecko"
-last_updated: "2026-06-24T17:23:00.000Z"
+last_updated: "2026-06-24T17:01:34.730Z"
+# miscellaneous data source section
 coingecko_id: "lifeform"
-current_price: 0.00399521
-market_cap: 2460000
-market_cap_rank: 2050
-fully_diluted_valuation: 3995209
+current_price: 0.00399431
+market_cap: 2459447
+market_cap_rank: 2054
+fully_diluted_valuation: 3994312
 circulating_supply: 615737431.0
 total_supply: 1000000000.0
 max_supply: 1000000000.0
 ath: 0.582687
-ath_change_percentage: -99.31435
-ath_date: "2024-05-30T01:09:47.000Z"
+ath_change_percentage: -99.3145
+ath_date: "2024-05-30T09:09:47.603Z"
 atl: 0.00329098
-atl_change_percentage: 21.39888
-atl_date: "2026-02-28T08:11:17.000Z"
+atl_change_percentage: 21.37162
+atl_date: "2026-02-28T16:11:17.874Z"
 ---
 
 ## Airdrop Details
