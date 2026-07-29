@@ -16,21 +16,20 @@ website: "https://bouncebit.io"
 ticker: "BB"
 description: "BounceBit is building a BTC restaking infrastructure that provides a foundational layer for various restaking products, secured by regulated custody. The BounceBit chain operates as a standalone Layer 1 network with a dual-token PoS mechanism, leveraging native Bitcoin's security with full EVM compatibility."
 mis-data-source: "coingecko"
-last_updated: "2026-07-28T19:19:20.000Z"
-# miscellaneous data source section
+last_updated: "2026-07-29T02:30:20.000Z"
 coingecko_id: "bouncebit"
-current_price: 0.01613509
-market_cap: 6603354
-market_cap_rank: 1396
-fully_diluted_valuation: 33863354
+current_price: 0.01590688
+market_cap: 6515255
+market_cap_rank: 1406
+fully_diluted_valuation: 33411563
 circulating_supply: 409500000.0
 total_supply: 2100000000.0
 max_supply: 2100000000.0
 ath: 0.865772
-ath_change_percentage: -98.13633
+ath_change_percentage: -98.16269
 ath_date: "2024-06-05T16:10:33.000Z"
 atl: 0.01574966
-atl_change_percentage: 2.44722
+atl_change_percentage: 0.99822
 atl_date: "2026-07-28T13:40:30.000Z"
 ---
 
