@@ -15,21 +15,20 @@ website: "https://berachain.com/"
 ticker: "BERA"
 description: ""
 mis-data-source: "coingecko"
-last_updated: "2026-08-02T02:39:20.000Z"
-# miscellaneous data source section
+last_updated: "2026-08-02T08:20:30.000Z"
 coingecko_id: "berachain-bera"
-current_price: 0.154534
-market_cap: 46613937
-market_cap_rank: 436
-fully_diluted_valuation: 85607679
-circulating_supply: 301672779.6774002
-total_supply: 554031210.8818446
+current_price: 0.153962
+market_cap: 46460774
+market_cap_rank: 437
+fully_diluted_valuation: 85323427
+circulating_supply: 301692095.0171254
+total_supply: 554046714.0186151
 max_supply: null
 ath: 14.83
-ath_change_percentage: -98.95777
+ath_change_percentage: -98.96163
 ath_date: "2025-02-06T06:16:01.000Z"
 atl: 0.146968
-atl_change_percentage: 5.14787
+atl_change_percentage: 4.75883
 atl_date: "2026-07-29T21:05:20.000Z"
 ---
 
