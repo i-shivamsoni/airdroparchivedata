@@ -13,21 +13,20 @@ website: "https://obol.org"
 ticker: "OBOL"
 description: "A community dedicated to scaling Ethereum by enhancing the security, resiliency, and decentralization of the consensus layer through the development and deployment of distributed validators."
 mis-data-source: "coingecko"
-last_updated: "2026-08-04T08:32:20.000Z"
-# miscellaneous data source section
+last_updated: "2026-08-04T14:05:20.000Z"
 coingecko_id: "obol-2"
-current_price: 0.00307958
-market_cap: 938002
-market_cap_rank: 2911
-fully_diluted_valuation: 1539760
+current_price: 0.00308309
+market_cap: 928624
+market_cap_rank: 2918
+fully_diluted_valuation: 1524365
 circulating_supply: 304593669.0
 total_supply: 500000000.0
 max_supply: 500000000.0
 ath: 0.380077
-ath_change_percentage: -99.18975
+ath_change_percentage: -99.18883
 ath_date: "2025-05-07T03:26:04.000Z"
 atl: 0.00279298
-atl_change_percentage: 10.26153
+atl_change_percentage: 10.387
 atl_date: "2026-07-28T04:47:10.000Z"
 ---
 
