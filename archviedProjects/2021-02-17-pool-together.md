@@ -14,21 +14,20 @@ website: "https://pooltogether.com"
 ticker: "POOL"
 description: "A decentralized and permissionless no-loss prize savings protocol where users can deposit funds and have a chance to win prizes."
 mis-data-source: "coingecko"
-last_updated: "2026-08-07T02:47:20.000Z"
-# miscellaneous data source section
+last_updated: "2026-08-07T07:10:20.000Z"
 coingecko_id: "pooltogether"
-current_price: 0.03303639
-market_cap: 330371
-market_cap_rank: 4493
-fully_diluted_valuation: 330371
+current_price: 0.03311389
+market_cap: 331132
+market_cap_rank: 4503
+fully_diluted_valuation: 331132
 circulating_supply: 10000000.0
 total_supply: 10000000.0
 max_supply: 10000000.0
 ath: 53.98
-ath_change_percentage: -99.9388
+ath_change_percentage: -99.93866
 ath_date: "2021-02-19T20:38:40.000Z"
 atl: 0.02343164
-atl_change_percentage: 40.99053
+atl_change_percentage: 41.32128
 atl_date: "2026-05-23T00:46:00.000Z"
 ---
 
