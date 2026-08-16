@@ -14,11 +14,10 @@ ticker: "EXA"
 description: "A decentralized credit market protocol built on Optimism (OP Mainnet) that allows users to lend and borrow assets efficiently."
 mis-data-source: "coingecko"
 last_updated: "2026-08-16T03:17:00.000Z"
-# miscellaneous data source section
 coingecko_id: "exa"
 current_price: 0.112598
 market_cap: 586143
-market_cap_rank: 3411
+market_cap_rank: 3409
 fully_diluted_valuation: 1125979
 circulating_supply: 5205630.357826202
 total_supply: 10000000.0
