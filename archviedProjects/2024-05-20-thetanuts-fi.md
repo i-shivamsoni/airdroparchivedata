@@ -13,20 +13,21 @@ website: "https://thetanuts.finance"
 ticker: "NUTS"
 description: "A decentralized on-chain options protocol offering structured yield vaults and innovative financial instruments for DeFi users."
 mis-data-source: "coingecko"
-last_updated: "2026-08-20T06:39:20.000Z"
+last_updated: "2026-08-20T12:43:20.000Z"
+# miscellaneous data source section
 coingecko_id: "thetanuts-finance"
-current_price: 0.00105734
-market_cap: 3338313
-market_cap_rank: 1828
-fully_diluted_valuation: 10573113
+current_price: 0.0010659
+market_cap: 3365658
+market_cap_rank: 1824
+fully_diluted_valuation: 10659719
 circulating_supply: 3157360852.0190196
 total_supply: 10000000000.0
 max_supply: 10000000000.0
 ath: 0.0407299
-ath_change_percentage: -97.40402
+ath_change_percentage: -97.38301
 ath_date: "2024-05-20T02:02:20.000Z"
 atl: 0.00102377
-atl_change_percentage: 3.27852
+atl_change_percentage: 4.11457
 atl_date: "2026-08-17T14:50:40.000Z"
 ---
 
