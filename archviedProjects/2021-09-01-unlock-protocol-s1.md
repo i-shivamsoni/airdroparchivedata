@@ -14,20 +14,21 @@ website: "https://unlock-protocol.com"
 ticker: "UDT"
 description: "A decentralized protocol for memberships and access control, enabling users to create and manage locks on Ethereum and other supported networks."
 mis-data-source: "coingecko"
-last_updated: "2026-08-24T18:35:20.000Z"
+last_updated: "2026-08-25T01:08:20.000Z"
+# miscellaneous data source section
 coingecko_id: "unlockprotocoltoken"
-current_price: 0.00191262
-market_cap: 1066233
-market_cap_rank: 2826
-fully_diluted_valuation: 1927042
+current_price: 0.00175491
+market_cap: 970994
+market_cap_rank: 2893
+fully_diluted_valuation: 1754914
 circulating_supply: 553300297.7238615
 total_supply: 1000000000.0
 max_supply: 1000000000.0
 ath: 0.084551
-ath_change_percentage: -97.73792
+ath_change_percentage: -97.92444
 ath_date: "2024-11-23T22:48:47.000Z"
 atl: 0.00065412
-atl_change_percentage: 192.39585
+atl_change_percentage: 168.28679
 atl_date: "2026-06-26T03:04:00.000Z"
 ---
 
