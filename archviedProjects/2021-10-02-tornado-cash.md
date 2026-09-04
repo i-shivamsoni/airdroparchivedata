@@ -13,20 +13,21 @@ website: "https://tornadocash.eth.link/"
 ticker: "TORN"
 description: "Tornado Cash is an open-source, non-custodial, decentralized cryptocurrency tumbler that enhances transaction privacy by mixing cryptocurrency funds."
 mis-data-source: "coingecko"
-last_updated: "2026-09-04T15:46:20.000Z"
+last_updated: "2026-09-04T20:16:20.000Z"
+# miscellaneous data source section
 coingecko_id: "tornado-cash"
 current_price: 6.62
-market_cap: 31775564
-market_cap_rank: 637
-fully_diluted_valuation: 66295749
-circulating_supply: 4793000.476647923
+market_cap: 31740932
+market_cap_rank: 635
+fully_diluted_valuation: 66225537
+circulating_supply: 4792852.464405283
 total_supply: 9999997.246815
 max_supply: 10000000.0
 ath: 436.16
-ath_change_percentage: -98.48156
+ath_change_percentage: -98.48274
 ath_date: "2021-02-13T05:43:13.000Z"
 atl: 1.29
-atl_change_percentage: 412.53212
+atl_change_percentage: 412.13403
 atl_date: "2023-12-08T18:50:48.000Z"
 ---
 
