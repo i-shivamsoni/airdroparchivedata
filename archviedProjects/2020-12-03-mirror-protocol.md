@@ -14,22 +14,21 @@ website: "https://mirror.finance/"
 ticker: "MIR"
 description: "A decentralized synthetic assets protocol built on the Terra blockchain, allowing users to trade tokenized versions of real-world assets."
 mis-data-source: "coingecko"
-last_updated: "2026-09-05T09:57:20.000Z"
-# miscellaneous data source section
+last_updated: "2026-09-05T14:36:20.000Z"
 coingecko_id: "mirror-protocol"
-current_price: 0.00090657
-market_cap: 70479
-market_cap_rank: 5757
-fully_diluted_valuation: 335953
+current_price: 0.00089124
+market_cap: 69287
+market_cap_rank: 5877
+fully_diluted_valuation: 330271
 circulating_supply: 77742679.93
 total_supply: 370575000.0
 max_supply: 370575000.0
 ath: 12.9
-ath_change_percentage: -99.99297
+ath_change_percentage: -99.99309
 ath_date: "2021-04-09T20:24:49.000Z"
-atl: 0.00084449
-atl_change_percentage: 7.35075
-atl_date: "2026-09-05T03:45:40.000Z"
+atl: 0.00082056
+atl_change_percentage: 8.6135
+atl_date: "2026-09-05T11:58:00.000Z"
 ---
 
 ## Airdrop Details
