@@ -14,20 +14,21 @@ website: "https://nyanheroes.com"
 ticker: "NYAN"
 description: "A team-based hero shooter featuring cats piloting giant mechs, utilizing unique abilities and strategic combat."
 mis-data-source: "coingecko"
-last_updated: "2026-09-08T20:43:20.000Z"
+last_updated: "2026-09-09T03:13:30.000Z"
+# miscellaneous data source section
 coingecko_id: "nyan"
-current_price: 0.00048995
-market_cap: 198755
-market_cap_rank: 4592
-fully_diluted_valuation: 489966
+current_price: 0.00048985
+market_cap: 198706
+market_cap_rank: 4526
+fully_diluted_valuation: 489847
 circulating_supply: 405650108.91679585
 total_supply: 1000000000.0
 max_supply: 1000000000.0
 ath: 0.457078
-ath_change_percentage: -99.89281
+ath_change_percentage: -99.89283
 ath_date: "2024-05-21T03:00:58.000Z"
 atl: 0.00034979
-atl_change_percentage: 40.0688
+atl_change_percentage: 40.0393
 atl_date: "2026-07-28T11:38:40.000Z"
 ---
 
