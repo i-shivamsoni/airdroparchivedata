@@ -14,20 +14,21 @@ website: "https://www.story.foundation"
 ticker: "IP"
 description: "Story Protocol is a decentralized intellectual property network that transforms IP into a programmable asset class for AI and Web3 applications."
 mis-data-source: "coingecko"
-last_updated: "2026-09-15T03:31:10.000Z"
+last_updated: "2026-09-15T11:07:20.000Z"
+# miscellaneous data source section
 coingecko_id: "story-2"
-current_price: 0.190241
-market_cap: 68245492
-market_cap_rank: 362
-fully_diluted_valuation: 196378032
-circulating_supply: 358731514.0
-total_supply: 1032258879.0
+current_price: 0.187606
+market_cap: 67302209
+market_cap_rank: 371
+fully_diluted_valuation: 193660377
+circulating_supply: 358741092.0
+total_supply: 1032267815.0
 max_supply: null
 ath: 14.78
-ath_change_percentage: -98.71308
+ath_change_percentage: -98.7309
 ath_date: "2025-09-21T13:07:34.000Z"
 atl: 0.170065
-atl_change_percentage: 11.86404
+atl_change_percentage: 10.31463
 atl_date: "2026-08-18T14:08:00.000Z"
 ---
 
