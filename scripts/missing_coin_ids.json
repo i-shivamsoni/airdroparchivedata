@@ -168,90 +168,6 @@
     "reason": "not_found_in_coingecko"
   },
   {
-    "id": "across-protocol",
-    "reason": "not_found_in_coingecko"
-  },
-  {
-    "id": "lava-network",
-    "reason": "not_found_in_coingecko"
-  },
-  {
-    "id": "arcadia",
-    "reason": "not_found_in_coingecko"
-  },
-  {
-    "id": "milkyway-2",
-    "reason": "not_found_in_coingecko"
-  },
-  {
-    "id": "archway",
-    "reason": "not_found_in_coingecko"
-  },
-  {
-    "id": "bouncebit",
-    "reason": "not_found_in_coingecko"
-  },
-  {
-    "id": "lisk",
-    "reason": "not_found_in_coingecko"
-  },
-  {
-    "id": "arbitrum",
-    "reason": "not_found_in_coingecko"
-  },
-  {
-    "id": "1inch",
-    "reason": "not_found_in_coingecko"
-  },
-  {
-    "id": "uniswap",
-    "reason": "not_found_in_coingecko"
-  },
-  {
-    "id": "soon-2",
-    "reason": "not_found_in_coingecko"
-  },
-  {
-    "id": "blast",
-    "reason": "not_found_in_coingecko"
-  },
-  {
-    "id": "pyth-network",
-    "reason": "not_found_in_coingecko"
-  },
-  {
-    "id": "altlayer",
-    "reason": "not_found_in_coingecko"
-  },
-  {
-    "id": "nx-token",
-    "reason": "not_found_in_coingecko"
-  },
-  {
-    "id": "boop-4",
-    "reason": "not_found_in_coingecko"
-  },
-  {
-    "id": "solid",
-    "reason": "not_found_in_coingecko"
-  },
-  {
-    "id": "redacted-2",
-    "reason": "not_found_in_coingecko"
-  },
-  {
-    "id": "sign-global",
-    "reason": "not_found_in_coingecko"
-  },
-  {
-    "id": "the-arena",
-    "reason": "not_found_in_coingecko"
-  },
-  {
-    "id": "lifeform",
-    "reason": "not_found_in_coingecko"
-  },
-  {
     "id": "zklend-2",
     "reason": "not_found_in_coingecko"
   },
@@ -260,35 +176,7 @@
     "reason": "not_found_in_coingecko"
   },
   {
-    "id": "particle-network",
-    "reason": "not_found_in_coingecko"
-  },
-  {
-    "id": "parcl",
-    "reason": "not_found_in_coingecko"
-  },
-  {
-    "id": "sahara-ai",
-    "reason": "not_found_in_coingecko"
-  },
-  {
-    "id": "wormhole",
-    "reason": "not_found_in_coingecko"
-  },
-  {
-    "id": "portal-2",
-    "reason": "not_found_in_coingecko"
-  },
-  {
     "id": "penpad-token",
-    "reason": "not_found_in_coingecko"
-  },
-  {
-    "id": "redstone-oracles",
-    "reason": "not_found_in_coingecko"
-  },
-  {
-    "id": "hat",
     "reason": "not_found_in_coingecko"
   },
   {
@@ -296,47 +184,7 @@
     "reason": "not_found_in_coingecko"
   },
   {
-    "id": "bonk",
-    "reason": "not_found_in_coingecko"
-  },
-  {
-    "id": "starknet",
-    "reason": "not_found_in_coingecko"
-  },
-  {
-    "id": "elyfi",
-    "reason": "not_found_in_coingecko"
-  },
-  {
-    "id": "suilend",
-    "reason": "not_found_in_coingecko"
-  },
-  {
-    "id": "saga-2",
-    "reason": "not_found_in_coingecko"
-  },
-  {
-    "id": "xterio",
-    "reason": "not_found_in_coingecko"
-  },
-  {
-    "id": "magic-square",
-    "reason": "not_found_in_coingecko"
-  },
-  {
-    "id": "spartadex",
-    "reason": "not_found_in_coingecko"
-  },
-  {
-    "id": "newton-protocol",
-    "reason": "not_found_in_coingecko"
-  },
-  {
     "id": "quasar-3",
-    "reason": "not_found_in_coingecko"
-  },
-  {
-    "id": "x2y2",
     "reason": "not_found_in_coingecko"
   },
   {
@@ -344,63 +192,11 @@
     "reason": "not_found_in_coingecko"
   },
   {
-    "id": "sosovalue",
-    "reason": "not_found_in_coingecko"
-  },
-  {
-    "id": "bittorrent",
-    "reason": "not_found_in_coingecko"
-  },
-  {
-    "id": "ellipsis",
-    "reason": "not_found_in_coingecko"
-  },
-  {
-    "id": "haedal",
-    "reason": "not_found_in_coingecko"
-  },
-  {
-    "id": "ztx",
-    "reason": "not_found_in_coingecko"
-  },
-  {
-    "id": "xai-blockchain",
-    "reason": "not_found_in_coingecko"
-  },
-  {
-    "id": "looksrare",
-    "reason": "not_found_in_coingecko"
-  },
-  {
-    "id": "stakestone",
-    "reason": "not_found_in_coingecko"
-  },
-  {
-    "id": "dymension",
-    "reason": "not_found_in_coingecko"
-  },
-  {
-    "id": "spark-2",
-    "reason": "not_found_in_coingecko"
-  },
-  {
     "id": "mint-blockchain",
     "reason": "not_found_in_coingecko"
   },
   {
-    "id": "grass",
-    "reason": "not_found_in_coingecko"
-  },
-  {
-    "id": "revox",
-    "reason": "not_found_in_coingecko"
-  },
-  {
     "id": "rage",
-    "reason": "not_found_in_coingecko"
-  },
-  {
-    "id": "resolv",
     "reason": "not_found_in_coingecko"
   }
 ]
