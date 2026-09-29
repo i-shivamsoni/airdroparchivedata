@@ -14,21 +14,22 @@ website: "https://www.privasea.ai/"
 ticker: "PRAI"
 description: "Privasea AI is a privacy-focused AI platform that rewards long-term community engagement through a unique token distribution mechanism that incentivizes patient participation."
 mis-data-source: "coingecko"
-last_updated: "2026-09-29T04:23:30.000Z"
+last_updated: "2026-09-29T12:09:20.000Z"
+# miscellaneous data source section
 coingecko_id: "privasea-ai"
-current_price: 0.00039813
-market_cap: 82028
-market_cap_rank: 6343
-fully_diluted_valuation: 398127
+current_price: 0.00036786
+market_cap: 75794
+market_cap_rank: 6482
+fully_diluted_valuation: 367870
 circulating_supply: 206035500.0
 total_supply: 1000000000.0
 max_supply: 1000000000.0
 ath: 0.096207
-ath_change_percentage: -99.58618
+ath_change_percentage: -99.61764
 ath_date: "2025-05-14T07:26:47.000Z"
-atl: 0.0003967
-atl_change_percentage: 0.35967
-atl_date: "2026-09-28T17:33:00.000Z"
+atl: 0.0003425
+atl_change_percentage: 7.40469
+atl_date: "2026-09-29T12:05:30.000Z"
 ---
 
 ## Airdrop Details
