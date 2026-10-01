@@ -16,20 +16,21 @@ website: "https://avax.network"
 ticker: "AVAX"
 description: "The Avalanche Foundation is a non-profit entity that fosters the advancement and growth of the Avalanche platform for the world."
 mis-data-source: "coingecko"
-last_updated: "2026-09-30T21:52:10.000Z"
+last_updated: "2026-10-01T04:18:30.000Z"
+# miscellaneous data source section
 coingecko_id: "avalanche-2"
-current_price: 10.9
-market_cap: 4832104842
-market_cap_rank: 27
-fully_diluted_valuation: 5122920518
-circulating_supply: 443109766.4945453
-total_supply: 469780106.2683082
+current_price: 11.07
+market_cap: 4904794731
+market_cap_rank: 26
+fully_diluted_valuation: 5199989370
+circulating_supply: 443114699.2314158
+total_supply: 469783499.2314158
 max_supply: 720000000.0
 ath: 144.96
-ath_change_percentage: -92.47943
+ath_change_percentage: -92.36434
 ath_date: "2021-11-21T06:18:56.000Z"
 atl: 2.8
-atl_change_percentage: 289.20606
+atl_change_percentage: 295.16198
 atl_date: "2020-12-31T05:15:21.000Z"
 ---
 
