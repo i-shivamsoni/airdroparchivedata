@@ -14,11 +14,10 @@ ticker: "OOGA"
 description: "A decentralized exchange on Berachain that rewards active traders and community members through a fee-based airdrop system, with special recognition for early testnet participants."
 mis-data-source: "coingecko"
 last_updated: "2026-10-07T11:55:40.000Z"
-# miscellaneous data source section
 coingecko_id: "ooga-booga"
 current_price: 0.00078945
 market_cap: 23420
-market_cap_rank: 8236
+market_cap_rank: 8253
 fully_diluted_valuation: 74839
 circulating_supply: 29666793.16078429
 total_supply: 94798999.16135892
