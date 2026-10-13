@@ -13,21 +13,20 @@ website: "http://airdrop.solana.id"
 ticker: "SOLID"
 description: "A decentralized identity system built on Solana that rewards users based on their on-chain activity."
 mis-data-source: "coingecko"
-last_updated: "2026-10-13T13:36:47.000Z"
-# miscellaneous data source section
+last_updated: "2026-10-13T22:17:57.000Z"
 coingecko_id: "solid"
-current_price: 0.00010295
-market_cap: 75581
-market_cap_rank: 6287
-fully_diluted_valuation: 26997
+current_price: 0.00010293
+market_cap: 75565
+market_cap_rank: 6304
+fully_diluted_valuation: 26991
 circulating_supply: 734142676.6937846
-total_supply: 262225900.9817964
+total_supply: 262225834.30179375
 max_supply: 1000000000.0
 ath: 0.01632385
-ath_change_percentage: -99.36932
+ath_change_percentage: -99.36945
 ath_date: "2025-02-14T10:14:14.000Z"
 atl: 0.00010019
-atl_change_percentage: 2.75909
+atl_change_percentage: 2.7375
 atl_date: "2026-10-13T00:54:30.000Z"
 ---
 
