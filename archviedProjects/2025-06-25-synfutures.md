@@ -14,20 +14,21 @@ website: "https://www.synfutures.com/"
 ticker: "F"
 description: "SynFutures is a decentralized protocol for perpetual futures, enabling users to trade any asset and create arbitrary futures contracts, with a unified AMM and on-chain order book model."
 mis-data-source: "coingecko"
-last_updated: "2026-10-13T22:17:57.000Z"
+last_updated: "2026-10-14T03:39:57.000Z"
+# miscellaneous data source section
 coingecko_id: "synfutures"
-current_price: 0.0031317
-market_cap: 15890172
-market_cap_rank: 972
-fully_diluted_valuation: 31308495
+current_price: 0.00314394
+market_cap: 15956588
+market_cap_rank: 974
+fully_diluted_valuation: 31439356
 circulating_supply: 5075354617.0
 total_supply: 10000000000.0
 max_supply: 10000000000.0
 ath: 0.192309
-ath_change_percentage: -98.37152
+ath_change_percentage: -98.36516
 ath_date: "2024-12-06T02:07:33.000Z"
 atl: 0.00260086
-atl_change_percentage: 20.41024
+atl_change_percentage: 20.88069
 atl_date: "2026-08-19T06:47:50.000Z"
 ---
 
