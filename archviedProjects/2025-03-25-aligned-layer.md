@@ -15,21 +15,22 @@ website: "https://alignedfoundation.org"
 ticker: "ALIGN"
 description: "A foundation dedicated to supporting and advancing projects within the Ethereum and Zero Knowledge (ZK) ecosystems."
 mis-data-source: "coingecko"
-last_updated: "2026-10-14T11:14:58.000Z"
+last_updated: "2026-10-14T16:35:54.000Z"
+# miscellaneous data source section
 coingecko_id: "aligned"
-current_price: 0.00473095
-market_cap: 7720904
-market_cap_rank: 1409
-fully_diluted_valuation: 47309460
+current_price: 0.00454419
+market_cap: 7420040
+market_cap_rank: 1411
+fully_diluted_valuation: 45465932
 circulating_supply: 1632000000.0
 total_supply: 10000000000.0
 max_supply: 10000000000.0
 ath: 0.03380897
-ath_change_percentage: -86.00683
+ath_change_percentage: -86.55923
 ath_date: "2026-08-20T15:07:00.000Z"
-atl: 0.00454588
-atl_change_percentage: 4.07103
-atl_date: "2026-10-13T10:32:30.000Z"
+atl: 0.00448945
+atl_change_percentage: 1.21914
+atl_date: "2026-10-14T15:13:30.000Z"
 ---
 
 ## Airdrop Details
