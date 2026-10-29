@@ -13,21 +13,20 @@ website: "https://hats.finance"
 ticker: "HATS"
 description: "A decentralized protocol focused on security and bug bounty vaults to incentivize ethical hacking and secure Web3 infrastructure."
 mis-data-source: "coingecko"
-last_updated: "2026-10-29T11:25:52.000Z"
-# miscellaneous data source section
+last_updated: "2026-10-29T22:26:57.000Z"
 coingecko_id: "hat"
-current_price: 0.00095487
-market_cap: 13770.95
-market_cap_rank: 10811
-fully_diluted_valuation: 59160
+current_price: 0.00092972
+market_cap: 13398.07
+market_cap_rank: 10850
+fully_diluted_valuation: 57558
 circulating_supply: 14421814.19403378
 total_supply: 61955726.73853378
 max_supply: 100000000.0
 ath: 0.0469251
-ath_change_percentage: -97.96512
+ath_change_percentage: -98.01871
 ath_date: "2024-07-26T07:54:13.000Z"
 atl: 0.00073013
-atl_change_percentage: 30.78083
+atl_change_percentage: 27.33654
 atl_date: "2026-06-26T03:04:20.000Z"
 ---
 
