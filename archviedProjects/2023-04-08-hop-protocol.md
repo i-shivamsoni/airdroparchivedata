@@ -14,11 +14,10 @@ ticker: "HOP"
 description: "A protocol for sending tokens across rollups and their shared layer-1 network in a quick and trustless manner."
 mis-data-source: "coingecko"
 last_updated: "2026-11-01T09:03:47.000Z"
-# miscellaneous data source section
 coingecko_id: "hop-protocol"
 current_price: 0.00041252
 market_cap: 79642
-market_cap_rank: 6701
+market_cap_rank: 6695
 fully_diluted_valuation: 412525
 circulating_supply: 193059097.78555167
 total_supply: 1000000000.0
