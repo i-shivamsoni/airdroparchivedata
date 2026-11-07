@@ -14,11 +14,10 @@ ticker: "BUT"
 description: "A next-generation Liquidity Layer on the Sui Network, allowing users to mint $BUCK stablecoin by locking assets as collateral, while unlocking opportunities for yield generation and leveraged liquidity."
 mis-data-source: "coingecko"
 last_updated: "2026-11-06T19:52:15.000Z"
-# miscellaneous data source section
 coingecko_id: "bucket-token"
 current_price: 0.00049634
 market_cap: 209660
-market_cap_rank: 4956
+market_cap_rank: 4954
 fully_diluted_valuation: 496339
 circulating_supply: 422412117.06
 total_supply: 1000000000.0
