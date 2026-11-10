@@ -15,11 +15,10 @@ ticker: "SMTY"
 description: "A novel stablecoin swapping protocol supporting 20+ stablecoins in a single pool with low-cost, low-slippage swapping, and high liquidity provider (LP) rewards."
 mis-data-source: "coingecko"
 last_updated: "2026-11-08T13:52:31.000Z"
-# miscellaneous data source section
 coingecko_id: "smoothy"
 current_price: 0.00032531
 market_cap: 29752
-market_cap_rank: 8688
+market_cap_rank: 8674
 fully_diluted_valuation: 32531
 circulating_supply: 91458333.0
 total_supply: 100000000.0
