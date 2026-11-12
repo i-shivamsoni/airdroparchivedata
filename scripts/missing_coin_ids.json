@@ -8,11 +8,19 @@
     "reason": "not_found_in_coingecko"
   },
   {
+    "id": "zkfair",
+    "reason": "not_found_in_coingecko"
+  },
+  {
     "id": "penpad-token",
     "reason": "not_found_in_coingecko"
   },
   {
     "id": "beoble",
+    "reason": "not_found_in_coingecko"
+  },
+  {
+    "id": "dmail-network",
     "reason": "not_found_in_coingecko"
   },
   {
@@ -108,6 +116,10 @@
     "reason": "not_found_in_coingecko"
   },
   {
+    "id": "omni-network",
+    "reason": "not_found_in_coingecko"
+  },
+  {
     "id": "phavercoin",
     "reason": "not_found_in_coingecko"
   },
@@ -124,11 +136,19 @@
     "reason": "not_found_in_coingecko"
   },
   {
+    "id": "och",
+    "reason": "not_found_in_coingecko"
+  },
+  {
     "id": "qna3-ai",
     "reason": "not_found_in_coingecko"
   },
   {
     "id": "fyde",
+    "reason": "not_found_in_coingecko"
+  },
+  {
+    "id": "ztx",
     "reason": "not_found_in_coingecko"
   },
   {
