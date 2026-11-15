@@ -1,22 +1,10 @@
 [
   {
-    "id": "sei-network",
+    "id": "yieldnest",
     "count": 2
   },
   {
-    "id": "ref-finance",
-    "count": 2
-  },
-  {
-    "id": "jupiter",
-    "count": 2
-  },
-  {
-    "id": "eigenlayer",
-    "count": 2
-  },
-  {
-    "id": "arkham",
+    "id": "uniswap",
     "count": 2
   },
   {
@@ -24,7 +12,11 @@
     "count": 2
   },
   {
-    "id": "uniswap",
+    "id": "zeta",
+    "count": 2
+  },
+  {
+    "id": "arkham",
     "count": 2
   },
   {
@@ -36,7 +28,7 @@
     "count": 2
   },
   {
-    "id": "yieldnest",
+    "id": "sei-network",
     "count": 2
   },
   {
@@ -44,7 +36,15 @@
     "count": 2
   },
   {
-    "id": "zeta",
+    "id": "ref-finance",
+    "count": 2
+  },
+  {
+    "id": "eigenlayer",
+    "count": 2
+  },
+  {
+    "id": "jupiter",
     "count": 2
   }
 ]

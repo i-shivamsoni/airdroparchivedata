@@ -15,21 +15,20 @@ website: "https://polyhedra.network"
 ticker: "ZKJ"
 description: "Polyhedra Network is building a Web3 infrastructure focusing on interoperability, scalability, and privacy using advanced zero-knowledge proof (ZKP) technology. Their flagship invention, zkBridge, transforms blockchain interoperability by enabling secure, fast, and trustless cross-chain transactions."
 mis-data-source: "coingecko"
-last_updated: "2026-11-15T04:56:48.000Z"
-# miscellaneous data source section
+last_updated: "2026-11-15T13:27:58.000Z"
 coingecko_id: "polyhedra-network"
-current_price: 0.00406245
-market_cap: 2721280
-market_cap_rank: 2015
-fully_diluted_valuation: 4062454
+current_price: 0.00403755
+market_cap: 2703175
+market_cap_rank: 2016
+fully_diluted_valuation: 4035426
 circulating_supply: 669861111.0
 total_supply: 1000000000.0
 max_supply: 1000000000.0
 ath: 4.01
-ath_change_percentage: -99.89869
+ath_change_percentage: -99.89931
 ath_date: "2024-03-19T02:00:53.000Z"
 atl: 0.00362388
-atl_change_percentage: 12.10236
+atl_change_percentage: 11.41526
 atl_date: "2026-11-14T21:43:10.000Z"
 ---
 
