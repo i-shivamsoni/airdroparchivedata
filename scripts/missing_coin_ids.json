@@ -8,6 +8,10 @@
     "reason": "not_found_in_coingecko"
   },
   {
+    "id": "timeswap",
+    "reason": "not_found_in_coingecko"
+  },
+  {
     "id": "zkfair",
     "reason": "not_found_in_coingecko"
   },
@@ -193,6 +197,10 @@
   },
   {
     "id": "kinto",
+    "reason": "not_found_in_coingecko"
+  },
+  {
+    "id": "exchangeart",
     "reason": "not_found_in_coingecko"
   },
   {
