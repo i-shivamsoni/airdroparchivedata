@@ -15,20 +15,21 @@ website: "https://bitcoincash.org"
 ticker: "BCH"
 description: "Bitcoin Cash (BCH) is a decentralized cryptocurrency that originated from a hard fork of Bitcoin (BTC) on August 1, 2017, with the goal of enabling faster and cheaper transactions."
 mis-data-source: "coingecko"
-last_updated: "2026-11-18T23:53:57.000Z"
+last_updated: "2026-11-19T06:00:51.000Z"
+# miscellaneous data source section
 coingecko_id: "bitcoin-cash"
-current_price: 209.06
-market_cap: 4206007283
+current_price: 206.86
+market_cap: 4161660575
 market_cap_rank: 23
-fully_diluted_valuation: 4206009897
-circulating_supply: 20118546.77165076
-total_supply: 20118559.27165076
+fully_diluted_valuation: 4161667040
+circulating_supply: 20118649.89665076
+total_supply: 20118681.14665076
 max_supply: 21000000.0
 ath: 3785.82
-ath_change_percentage: -94.47778
+ath_change_percentage: -94.53604
 ath_date: "2017-12-19T16:00:00.000Z"
 atl: 76.93
-atl_change_percentage: 171.73815
+atl_change_percentage: 168.87166
 atl_date: "2018-12-15T16:00:00.000Z"
 ---
 
