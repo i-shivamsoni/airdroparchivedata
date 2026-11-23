@@ -15,11 +15,10 @@ ticker: "MON"
 description: "A social and gaming questing platform rewarding participants based on engagement, referrals, and gaming/social impact."
 mis-data-source: "coingecko"
 last_updated: "2026-11-22T20:15:12.000Z"
-# miscellaneous data source section
 coingecko_id: "mon-protocol"
 current_price: 0.00014341
 market_cap: 92786
-market_cap_rank: 5744
+market_cap_rank: 5759
 fully_diluted_valuation: 92786
 circulating_supply: 646985591.5548567
 total_supply: 646985591.62819
