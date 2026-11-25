@@ -1,30 +1,14 @@
 [
   {
-    "id": "bonsai-token",
+    "id": "sail-2",
     "reason": "not_found_in_coingecko"
   },
   {
-    "id": "tokyo-games-token",
+    "id": "nftfi",
     "reason": "not_found_in_coingecko"
   },
   {
-    "id": "vela-token",
-    "reason": "not_found_in_coingecko"
-  },
-  {
-    "id": "bsx",
-    "reason": "not_found_in_coingecko"
-  },
-  {
-    "id": "rage",
-    "reason": "not_found_in_coingecko"
-  },
-  {
-    "id": "beoble",
-    "reason": "not_found_in_coingecko"
-  },
-  {
-    "id": "growth",
+    "id": "penpad-token",
     "reason": "not_found_in_coingecko"
   },
   {
@@ -32,27 +16,11 @@
     "reason": "not_found_in_coingecko"
   },
   {
-    "id": "furucombo",
+    "id": "quasar-3",
     "reason": "not_found_in_coingecko"
   },
   {
-    "id": "asmatch",
-    "reason": "not_found_in_coingecko"
-  },
-  {
-    "id": "mantis",
-    "reason": "not_found_in_coingecko"
-  },
-  {
-    "id": "mantra-dao",
-    "reason": "not_found_in_coingecko"
-  },
-  {
-    "id": "the-ordzaar-runes",
-    "reason": "not_found_in_coingecko"
-  },
-  {
-    "id": "elys-network",
+    "id": "shardeum",
     "reason": "not_found_in_coingecko"
   },
   {
@@ -60,27 +28,7 @@
     "reason": "not_found_in_coingecko"
   },
   {
-    "id": "sail-2",
-    "reason": "not_found_in_coingecko"
-  },
-  {
-    "id": "arbswap",
-    "reason": "not_found_in_coingecko"
-  },
-  {
-    "id": "fluidity",
-    "reason": "not_found_in_coingecko"
-  },
-  {
-    "id": "kinto",
-    "reason": "not_found_in_coingecko"
-  },
-  {
-    "id": "pontem-liquidswap",
-    "reason": "not_found_in_coingecko"
-  },
-  {
-    "id": "och",
+    "id": "nektar-network",
     "reason": "not_found_in_coingecko"
   },
   {
@@ -92,75 +40,23 @@
     "reason": "not_found_in_coingecko"
   },
   {
-    "id": "raft",
-    "reason": "not_found_in_coingecko"
-  },
-  {
-    "id": "fyde",
-    "reason": "not_found_in_coingecko"
-  },
-  {
-    "id": "penumbra",
-    "reason": "not_found_in_coingecko"
-  },
-  {
-    "id": "lifeform",
-    "reason": "not_found_in_coingecko"
-  },
-  {
-    "id": "animeswap",
-    "reason": "not_found_in_coingecko"
-  },
-  {
-    "id": "quasar-3",
-    "reason": "not_found_in_coingecko"
-  },
-  {
-    "id": "alienxchain",
-    "reason": "not_found_in_coingecko"
-  },
-  {
-    "id": "neuron",
-    "reason": "not_found_in_coingecko"
-  },
-  {
-    "id": "namada",
-    "reason": "not_found_in_coingecko"
-  },
-  {
-    "id": "omni-network",
-    "reason": "not_found_in_coingecko"
-  },
-  {
-    "id": "starrynift",
-    "reason": "not_found_in_coingecko"
-  },
-  {
-    "id": "nektar-network",
-    "reason": "not_found_in_coingecko"
-  },
-  {
-    "id": "redacted-2",
-    "reason": "not_found_in_coingecko"
-  },
-  {
-    "id": "penpad-token",
-    "reason": "not_found_in_coingecko"
-  },
-  {
     "id": "kontos",
     "reason": "not_found_in_coingecko"
   },
   {
-    "id": "apwine",
-    "reason": "not_found_in_coingecko"
-  },
-  {
-    "id": "idriss",
+    "id": "exchangeart",
     "reason": "not_found_in_coingecko"
   },
   {
     "id": "thruster",
+    "reason": "not_found_in_coingecko"
+  },
+  {
+    "id": "mint-blockchain",
+    "reason": "not_found_in_coingecko"
+  },
+  {
+    "id": "och",
     "reason": "not_found_in_coingecko"
   },
   {
@@ -172,47 +68,7 @@
     "reason": "not_found_in_coingecko"
   },
   {
-    "id": "lumoz",
-    "reason": "not_found_in_coingecko"
-  },
-  {
-    "id": "zkfair",
-    "reason": "not_found_in_coingecko"
-  },
-  {
-    "id": "milkyway-2",
-    "reason": "not_found_in_coingecko"
-  },
-  {
-    "id": "mint-blockchain",
-    "reason": "not_found_in_coingecko"
-  },
-  {
-    "id": "kroma",
-    "reason": "not_found_in_coingecko"
-  },
-  {
-    "id": "term-finance",
-    "reason": "not_found_in_coingecko"
-  },
-  {
-    "id": "lyra-finance",
-    "reason": "not_found_in_coingecko"
-  },
-  {
     "id": "zklend-2",
-    "reason": "not_found_in_coingecko"
-  },
-  {
-    "id": "ztx",
-    "reason": "not_found_in_coingecko"
-  },
-  {
-    "id": "ice-token",
-    "reason": "not_found_in_coingecko"
-  },
-  {
-    "id": "timeswap",
     "reason": "not_found_in_coingecko"
   },
   {
@@ -220,7 +76,39 @@
     "reason": "not_found_in_coingecko"
   },
   {
-    "id": "shardeum",
+    "id": "idriss",
+    "reason": "not_found_in_coingecko"
+  },
+  {
+    "id": "mantis",
+    "reason": "not_found_in_coingecko"
+  },
+  {
+    "id": "alienxchain",
+    "reason": "not_found_in_coingecko"
+  },
+  {
+    "id": "timeswap",
+    "reason": "not_found_in_coingecko"
+  },
+  {
+    "id": "tokyo-games-token",
+    "reason": "not_found_in_coingecko"
+  },
+  {
+    "id": "fluidity",
+    "reason": "not_found_in_coingecko"
+  },
+  {
+    "id": "growth",
+    "reason": "not_found_in_coingecko"
+  },
+  {
+    "id": "starrynift",
+    "reason": "not_found_in_coingecko"
+  },
+  {
+    "id": "kroma",
     "reason": "not_found_in_coingecko"
   },
   {
@@ -228,11 +116,23 @@
     "reason": "not_found_in_coingecko"
   },
   {
-    "id": "phavercoin",
+    "id": "rage",
     "reason": "not_found_in_coingecko"
   },
   {
-    "id": "virtuswap",
+    "id": "term-finance",
+    "reason": "not_found_in_coingecko"
+  },
+  {
+    "id": "ztx",
+    "reason": "not_found_in_coingecko"
+  },
+  {
+    "id": "bonsai-token",
+    "reason": "not_found_in_coingecko"
+  },
+  {
+    "id": "neuron",
     "reason": "not_found_in_coingecko"
   },
   {
@@ -240,7 +140,31 @@
     "reason": "not_found_in_coingecko"
   },
   {
-    "id": "nftfi",
+    "id": "pontem-liquidswap",
+    "reason": "not_found_in_coingecko"
+  },
+  {
+    "id": "milkyway-2",
+    "reason": "not_found_in_coingecko"
+  },
+  {
+    "id": "vela-token",
+    "reason": "not_found_in_coingecko"
+  },
+  {
+    "id": "zkfair",
+    "reason": "not_found_in_coingecko"
+  },
+  {
+    "id": "omni-network",
+    "reason": "not_found_in_coingecko"
+  },
+  {
+    "id": "penumbra",
+    "reason": "not_found_in_coingecko"
+  },
+  {
+    "id": "fyde",
     "reason": "not_found_in_coingecko"
   },
   {
@@ -248,7 +172,11 @@
     "reason": "not_found_in_coingecko"
   },
   {
-    "id": "nois",
+    "id": "raft",
+    "reason": "not_found_in_coingecko"
+  },
+  {
+    "id": "animeswap",
     "reason": "not_found_in_coingecko"
   },
   {
@@ -256,7 +184,63 @@
     "reason": "not_found_in_coingecko"
   },
   {
+    "id": "redacted-2",
+    "reason": "not_found_in_coingecko"
+  },
+  {
+    "id": "virtuswap",
+    "reason": "not_found_in_coingecko"
+  },
+  {
+    "id": "arbswap",
+    "reason": "not_found_in_coingecko"
+  },
+  {
     "id": "gyroscope",
+    "reason": "not_found_in_coingecko"
+  },
+  {
+    "id": "mantra-dao",
+    "reason": "not_found_in_coingecko"
+  },
+  {
+    "id": "nois",
+    "reason": "not_found_in_coingecko"
+  },
+  {
+    "id": "furucombo",
+    "reason": "not_found_in_coingecko"
+  },
+  {
+    "id": "ice-token",
+    "reason": "not_found_in_coingecko"
+  },
+  {
+    "id": "beoble",
+    "reason": "not_found_in_coingecko"
+  },
+  {
+    "id": "kinto",
+    "reason": "not_found_in_coingecko"
+  },
+  {
+    "id": "the-ordzaar-runes",
+    "reason": "not_found_in_coingecko"
+  },
+  {
+    "id": "phavercoin",
+    "reason": "not_found_in_coingecko"
+  },
+  {
+    "id": "apwine",
+    "reason": "not_found_in_coingecko"
+  },
+  {
+    "id": "lumoz",
+    "reason": "not_found_in_coingecko"
+  },
+  {
+    "id": "lyra-finance",
     "reason": "not_found_in_coingecko"
   },
   {
@@ -264,7 +248,23 @@
     "reason": "not_found_in_coingecko"
   },
   {
-    "id": "exchangeart",
+    "id": "lifeform",
+    "reason": "not_found_in_coingecko"
+  },
+  {
+    "id": "namada",
+    "reason": "not_found_in_coingecko"
+  },
+  {
+    "id": "elys-network",
+    "reason": "not_found_in_coingecko"
+  },
+  {
+    "id": "bsx",
+    "reason": "not_found_in_coingecko"
+  },
+  {
+    "id": "asmatch",
     "reason": "not_found_in_coingecko"
   }
 ]
