@@ -168,6 +168,10 @@
     "reason": "not_found_in_coingecko"
   },
   {
+    "id": "elyfi",
+    "reason": "not_found_in_coingecko"
+  },
+  {
     "id": "phavercoin",
     "reason": "not_found_in_coingecko"
   },
@@ -213,6 +217,10 @@
   },
   {
     "id": "lifeform",
+    "reason": "not_found_in_coingecko"
+  },
+  {
+    "id": "param",
     "reason": "not_found_in_coingecko"
   },
   {
