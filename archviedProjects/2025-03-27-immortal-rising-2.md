@@ -13,21 +13,20 @@ website: "https://immortalrising2.com"
 ticker: "IMT"
 description: "A blockchain-based idle RPG where players earn and trade assets through play-to-earn (P2E) mechanics, built on the Immutable zkEVM blockchain."
 mis-data-source: "coingecko"
-last_updated: "2026-11-27T16:11:53.000Z"
-# miscellaneous data source section
+last_updated: "2026-11-28T01:06:58.000Z"
 coingecko_id: "immortal-token"
-current_price: 0.00036963
-market_cap: 116120
-market_cap_rank: 5396
-fully_diluted_valuation: 369629
+current_price: 0.00027879
+market_cap: 87584
+market_cap_rank: 5824
+fully_diluted_valuation: 278794
 circulating_supply: 314153688.7456962
 total_supply: 1000000000.0
 max_supply: 1000000000.0
 ath: 0.670043
-ath_change_percentage: -99.94483
+ath_change_percentage: -99.95839
 ath_date: "2026-03-07T01:29:59.000Z"
 atl: 0.00025284
-atl_change_percentage: 46.19397
+atl_change_percentage: 10.2658
 atl_date: "2026-11-27T08:14:00.000Z"
 ---
 
